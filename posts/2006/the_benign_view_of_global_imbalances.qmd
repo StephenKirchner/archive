@@ -1,0 +1,13 @@
+---
+title: "The Benign View of Global Imbalances"
+date: "2006-02-22"
+categories: ["Economics"]
+---
+
+RBA Governor Macfarlane has long taken a benign view of global ‘imbalances.’  Fortunately, it would seem that this perspective is shared by his Deputy, [Glenn Stevens](http://www.rba.gov.au/Speeches/2006/sp_dg_220206.html "Glenn Stevens"), widely tipped to take over from Macfarlane when his current term expires in September:
+
+it is common for observers to warn against the risk that the ‘imbalances’ may unwind in a disruptive fashion. Often this is not spelled out. What is sometimes meant, I think, is that those currently accumulating dollar-denominated claims suddenly change their minds, precipitating abrupt movements in exchange rates and interest rates. Such developments might, in this view, lead to a pronounced weakening of domestic demand in countries like the US if long-term interest rates rose abruptly, while a big decline in the dollar might affect the ability of areas like Europe to export.
+
+One can never rule out the possibility that financial markets will suffer a sudden and dramatic loss of confidence. But it is not as though markets are unaware of the various ‘imbalances’ or the associated risks – they read about them on a daily basis. Yet the actual pricing for risk in markets apparently suggests an assessment that risks in general are of relatively little concern at present.
+
+In the event that there is some market discontinuity, I suspect that it is more likely to be sparked by some sort of credit event that prompts a change in appetite for risk in general, than by reactions to current account positions per se. **It is not obvious that US interest rates would rise, or the dollar fall, in the face of such an event**.

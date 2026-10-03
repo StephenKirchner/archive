@@ -1,0 +1,9 @@
+---
+title: "The Quant Easing Counter-Factual"
+date: "2011-01-12"
+categories: ["Economics", "Financial Markets", "Monetary Policy"]
+---
+
+[Not pretty](http://www.frbsf.org/publications/economics/papers/2011/wp11-01bk.pdf "Not pretty"):
+
+> *model simulations indicate that the past and projected expansion of the Federal Reserve’s securities holdings since late 2008 will lower the unemployment rate, relative to what it would have been absent the purchases, by 1½ percentage points by 2012.  In addition, we find that the asset purchases have probably prevented the U.S. economy from falling into deflation.*

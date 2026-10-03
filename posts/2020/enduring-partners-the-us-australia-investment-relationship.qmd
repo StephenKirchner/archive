@@ -1,0 +1,9 @@
+---
+title: "Enduring partners: The US-Australia investment relationship"
+date: "2020-07-16"
+categories: ["Foreign Investment"]
+---
+
+The United States Studies Centre has released a new report, [Enduring partners: The US-Australia investment relationship](https://www.ussc.edu.au/analysis/enduring-partners-the-us-australia-investment-relationship), by David Uren. The report is a follow-up and update to our landmark 2017 report, [Indispensable Economic Partners](https://www.ussc.edu.au/analysis/indispensable-economic-partners-the-us-australia-investment-relationship) on the bilateral investment relationship.
+
+In the latest report, I take the opportunity to update my model of the determinants of inward FDI published in the [Australian Economic Review](../../files/aerdec12.pdf) in 2012. The model still holds up quite well adding data up to Q1 2020 and can be used to benchmark Australia’s inward FDI performance relative to economic fundamentals since the Australia-US FTA came into force in 2005.

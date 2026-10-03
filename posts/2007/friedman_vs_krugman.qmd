@@ -1,0 +1,17 @@
+---
+title: "Friedman vs Krugman"
+date: "2007-03-13"
+categories: ["Economics"]
+---
+
+Last night, [CIS](http://www.cis.org.au/ "CIS") hosted a tribute to Milton Friedman, which will eventually be forthcoming as a monograph.  The task of doing justice to Friedman is a daunting one, but the guest speakers did an excellent job covering the breadth of his contribution.  The depth is much harder to elucidate.  A common misconception is that monetarism was discredited by the monetary targeting experiments of the 1970s and 80s.  Monetary targeting as practiced by central banks was quite removed from Friedman’s proposal for a constant money growth rule.  Friedman’s advocacy of a constant money growth rule was itself grounded less in the quantity theory of money, than in Friedman’s view that central banks had neither the technology nor the incentives to conduct monetary policy in a stabilising fashion.  The aim of the rule was to remove discretion from the conduct of monetary policy.
+
+Friedman’s view proved too pessimistic, but only because Friedman was ultimately more persuasive in promoting the cause of monetary stability than even he could imagine.  As Fed Chair [Ben Bernanke](../2006/milton_friedman_1912_2006.qmd "Ben Bernanke") recently noted:
+
+> *Friedman’s monetary framework has been so influential that, in its broad outlines at least, it has nearly become identical with modern monetary theory and practice.*
+
+Contemporary monetary policy theory and practice can be given quantity theory foundations, even though it is no longer discussed explicitly in quantity theory terms.  Indeed, Leland Yeager argued years ago that most New Keynesian macroeconomics was just a re-labelling of old school monetarism. 
+
+Friedman’s monetary economics is unfortunately still the subject of much misunderstanding, exemplified by [Krugman’s](http://www.nybooks.com/articles/19857 "Krugman’s") recent ill-informed attack on Friedman’s intellectual integrity.  [Ed Nelson and Anna Schwartz’s](http://www.nybooks.com/articles/20015 "Ed Nelson and Anna Schwartz’s") response can be found here.  See also [Larry White](http://divisionoflabour.com/archives/003603.php "Larry White"). 
+
+Krugman tries to argue, contrary to Schwartz and Nelson, that Japan’s open market operations under ‘quantitative easing’ demonstrate the possibility of a liquidity trap.  As I show in this [paper](http://www.institutional-economics.com/index.php/section/working_papers/ "paper"), Japan’s quantitative easing regime was conditioned on a neo-Wicksellian rather than monetarist view of the monetary policy transmission process, and was carefully calibrated to the demand for reserves on the part of the Japanese banking system.

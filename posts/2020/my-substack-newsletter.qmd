@@ -1,0 +1,7 @@
+---
+title: "My Substack newsletter"
+date: "2020-04-30"
+categories: ["Economics"]
+---
+
+This blog is a legacy medium, but still has a few hundred subscribers via RSS. If you would prefer to get content alerts via email rather than RSS, you can do so via my [Substack newsletter](https://stephenkirchner.substack.com/).

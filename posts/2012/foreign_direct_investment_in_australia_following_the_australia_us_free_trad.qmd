@@ -1,0 +1,11 @@
+---
+title: "Foreign Direct Investment in Australia Following the Australia-US Free Trade Agreement"
+date: "2012-11-24"
+categories: ["Economics", "Foreign Investment"]
+---
+
+I have an article in the latest *Australian Economic Review*, [Foreign Direct Investment in Australia Following the Australia-US Free Trade Agreement](http://onlinelibrary.wiley.com/doi/10.1111/j.1467-8462.2012.00686.x/abstract;jsessionid=A0E1DB6D06FED3896D84349A1E33E650.d01t01). Here is the abstract:
+
+> A model of inward foreign direct investment for Australia is estimated. Foreign direct investment is found to be positively related to economic and productivity growth and negatively related to foreign portfolio investment, trade openness, the exchange rate and the foreign real interest rate. Foreign direct investment is found to be a substitute for both portfolio investment and trade in goods and services. The exchange rate and the US bond rate affect foreign direct investment through the relative attractiveness of domestic assets. Actual foreign direct investment outperforms a model-derived forecast in recent years, consistent with the liberalisation of foreign investment screening rules following the Australia–US Free Trade Agreement.
+
+An ungated version can be found [here](../../files/aerdec12.pdf).

@@ -1,0 +1,13 @@
+---
+title: "Index of Economic Freedom Portfolio"
+date: "2007-02-10"
+categories: ["Economics", "Financial Markets"]
+---
+
+[First Trust Portfolios LP](http://www.ftportfolios.com/retail/dp/dpoverview.aspx?Trust=econ7&fundid=4754 "First Trust Portfolios LP") (who employ Brian Wesbury as their chief economist), has launched a fund that tracks the [Heritage Foundation/WSJ Index of Economic Freedom](../2007/does_australia_have_more_economic_freedom_than_the_us.qmd "Heritage Foundation/WSJ Index of Economic Freedom"):
+
+> *This unit investment trust seeks to provide the potential for above-average capital appreciation by investing in exchange-traded funds, closed-end funds and stocks that we believe are representative of the countries that are identified in the 2007 Index of Economic Freedom.*
+
+According to the [Liberty Investment Group](http://www.investmentu.com/IUEL/2007/20070131.html "Liberty Investment Group"), who have back-tested the portfolio:
+
+> *Over the past 11 years, the Economic Freedom Portfolio has far outperformed world stocks in general. While the MSCI World Stock Index rose 140% during this time, and the Emerging Markets Index climbed 85%, the Index of Economic Freedom Portfolio rose an astonishing 254%.*

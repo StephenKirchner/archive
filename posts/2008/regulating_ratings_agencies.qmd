@@ -1,0 +1,13 @@
+---
+title: "Regulating Ratings Agencies"
+date: "2008-11-14"
+categories: ["Economics", "Financial Markets"]
+---
+
+The federal government is proposing to [further regulate](http://www.theaustralian.news.com.au/business/story/0,28124,24647988-20142,00.html "further regulate") credit ratings agencies:
+
+> The Government also unveiled changes to the regulation of credit ratings agencies that will require them to hold an Australian Financial Services Licence and to report annually on the quality and integrity of their ratings processes.
+>
+> The changes reflect a growing demand in the global investment community for greater oversight of ratings agencies, which have become the target of criticism, particularly for their role in rating structured finance.
+
+This ignores the somewhat inconvenient truth that the role of ratings agencies in credit markets was itself mandated by regulation.  As [Charles Calomiris](http://www.aei.org/publications/pubID.28720/pub_detail.asp "Charles Calomiris") has argued, the regulatory power given to the ratings agencies encouraged them to compete on relaxing the cost of regulation to investors, generating huge fees for the ratings agencies in the process.  Calomiris summed it up this way: ‘the regulatory use of ratings changed the constituency demanding a rating from free-market investors interested in a conservative opinion to regulated investors looking for an inflated one.’  Calomiris notes that both Congress and the SEC actually encouraged ratings inflation in relation to sub-prime CDOs, an unintended consequence of their promotion of rules designed to prevent ‘anti-competitive’ behaviour on the part of the dominant ratings agencies.

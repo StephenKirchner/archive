@@ -1,0 +1,13 @@
+---
+title: "‘Part and Parcel of Being a Central Bank’"
+date: "2007-09-12"
+categories: ["Economics", "Financial Markets"]
+---
+
+The [RBA](http://www.rba.gov.au/PublicationsAndResearch/RBAAnnualReports/2007/Pdf/governor_foreword.pdf "RBA") records a large unrealised valuation loss on its long foreign exchange position:
+
+> The Bank’s financial results for 2006/07 were affected by the rise in the exchange rate of the Australian dollar. As previous annual reports of the Bank have explained in some detail, and as this report again outlines, central banks which hold their nations’ foreign currency reserves on their balance sheet are exposed to considerable currency risk. When the Australian dollar exchange rate appreciates, the accounts record a fall in the value of foreign assets. In 2006/07, the rising Australian dollar meant that the Bank experienced a substantial unrealised valuation loss on its financial assets, which exceeded the flow of income from its assets during the year.  Therefore, the Bank recorded a loss in 2006/07, as measured by Australian equivalents to International Financial Reporting Standards.
+>
+> This is not the first such loss – the Reserve Bank last experienced one on an AIFRS basis in 1993/94 – and it is unlikely to be the last. The reason is that there is very little scope for a central bank to manage foreign currency risk without compromising its policy obligations. Foreign assets cannot be hedged back to Australian dollars because that would defeat the purpose of holding them. This risk has to be accepted as part and parcel of being a central bank. In some years very large valuation gains will be observed. But on some other occasions, the Bank can expect to record a valuation loss.
+
+Something for the RBNZ to look forward to.

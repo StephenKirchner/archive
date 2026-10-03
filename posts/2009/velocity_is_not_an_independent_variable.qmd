@@ -1,0 +1,11 @@
+---
+title: "Velocity is Not an Independent Variable"
+date: "2009-06-09"
+categories: ["Economics", "Financial Markets", "Monetary Policy"]
+---
+
+Among certain economic commentators, it has been suggested that we should watch for a recovery in velocity (nominal GDP divided by some monetary aggregate) as an indication that economic conditions are improving.  [Brian Wesbury](http://www.ftportfolios.com/Commentary/EconomicResearch/2009/6/9/v-shaped_recovery_underway "Brian Wesbury") goes so far as to argue that the US recesssion was ‘*caused* by a dramatic slowdown in monetary velocity’.  While an increase in velocity might be symptomatic of economic recovery, it would be wrong to think of velocity as an independent variable.  Milton Friedman is often caricatured as claiming that velocity is constant.  Rather, he claimed velocity is a stable function of other variables.
+
+A better way to think about velocity is in terms of its inverse, or money demand.  Money demand is typically viewed as some function of nominal GDP, an interest rate (the opportunity cost of holding money balances) and financial technology.  The latter usually goes unmodelled, but conceptually at least, we can distinguish between permanent and temporary changes in financial technology.  Permanent changes in financial technology are probably the main driver of long-run trends in velocity.  Velocity trends lower in the early stages of economic development, as money facilitates a growing division of labour, before declining again as new forms of financial instrument take over some of the functions previously performed by money, giving rise to a classic U-shape. 
+
+Short-run changes in money demand are likely to reflect temporary changes in financial technology or financial shocks, as well as cyclical variations in nominal GDP and interest rates.  From the foregoing, it should be apparent that short-term movements in velocity are unlikely to tell us anything we don’t already know about current and prospective business cycle conditions.  Against the backdrop of a shock to financial technology of unknown duration, interpretation becomes even more difficult.

@@ -1,0 +1,9 @@
+---
+title: "Budget Deficit Myths & Realities"
+date: "2005-05-21"
+categories: ["Economics"]
+---
+
+Alan Reynold’s Cato [Policy Analysis](http://www.cato.org/pub_display.php?pub_id=1375 "Policy Analysis") on the subject of budget deficits, interest rates and taxes is a useful antidote to the small cottage industry of blogs trafficking in all sorts of nonsense on these subjects in the US context.  Just some of the myths neatly dispatched by Reynolds:
+
+*In reality, neither actual nor projected budget deficits raise real or nominal interest rates, steepen the yield curve, reduce national savings, cause trade deficits, or make the dollar go down or up.*

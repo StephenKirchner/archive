@@ -1,0 +1,7 @@
+---
+title: "A Supply-Side View of Global Housing Markets"
+date: "2009-08-28"
+categories: ["Economics", "Financial Markets", "House Prices"]
+---
+
+[Matthew Hassan](http://www.westpac.com.au/manage/wrap.nsf/vPdfUrls/DD34FAF769AF45E4CA25761E0020E332/$File/er20090826BullGlobalHousingMarkets.pdf?OpenElement "Matthew Hassan") looks at the supply-side of global housing markets, finding that Australia has one of the world’s most under-supplied markets, which in turn explains the resilience of Australian house prices.  Hassan’s simple indicator does a good job explaining cross-national variation in house price growth.

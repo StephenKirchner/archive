@@ -1,0 +1,17 @@
+---
+title: "Greenspan, Monetary Policy and Asset Prices"
+date: "2005-06-20"
+categories: ["Economics"]
+---
+
+The *SMH* has been running extracts from [Peter Hartcher’s](http://www.smh.com.au/news/Business/Banker-in-a-bubble-how-Greenspan-escaped-blame/2005/06/19/1119119725525.html "Peter Hartcher’s") forthcoming book *Bubble Man: Alan Greenspan & the Missing 7 Trillion Dollars*.  I will post a full review in due course, but the extracts highlight numerous problems with Hartcher’s argument.  Hartcher notes:
+
+*And the research by the Fed’s own economists is also at odds with the chairman’s contention. By demonstrating that surprise changes in official interest rates have a “multiplier” effect on stock prices of between three and six times, their work simply affirms what market strategists already knew - the Fed can make a powerful difference. And a tightening would certainly introduce an element of risk for speculators and interrupt the one-way bet that generates speculative momentum.*
+
+This is very selective, ignoring an extensive body of Federal Reserve Board and other research which suggests that targeting asset prices with monetary policy would be a disaster.
+
+Hartcher’s conclusion is almost pure hyperbole:
+
+*We are left with the conclusion that, because of acts of omission as well as acts of commission, Alan Greenspan was not prepared to contain or manage in any way one of the most deluded and dangerous market manias in four centuries of financial capitalism until it had assumed such vast proportions that recession was inevitable.*
+
+This is a good illustration of how careless talk about ‘bubbles’ promotes the belief that asset prices can be centrally planned by monetary policy.  It is the asset market equivalent of the socialist calculation debate of the 1930s.  If you think the tech stock boom and bust was manic, wait and see what markets look like when central banks start second-guessing the market on asset prices.  If monetary policy is as powerful as Hartcher would have us believe, and the Fed Chairman as prone to error as Hartcher suggests, then surely this is a strong argument against activist monetary policy, particularly where asset prices are concerned.

@@ -1,0 +1,21 @@
+---
+title: "More on TEN’s US 2007 Recession Contract"
+date: "2007-01-09"
+categories: ["Economics", "Financial Markets"]
+---
+
+At the instigation of [James Hamilton](http://www.econbrowser.com/archives/2007/01/recession_proba.html "James Hamilton"), [TEN](http://www.tradesports.com/aav2/TEN/TENhome.html "TEN") has tightened up the specification of its US 2007 recession contract:
+
+> Expiry will be based on the data reported by the U.S. Department of Commerce (Bureau of Economic Analysis, Table 1.1.1, “Percent Change From Preceding Period in Real Gross Domestic Product”) as reported by the BEA as of February 15, 2008.
+>
+> If the table as reported at that time indicates that any two consecutive quarters between (and including) 2006:Q4 and 2007:Q4 are negative, then the contract will expire at 100. Otherwise, the contract will expire at 0.
+
+This is a considerable improvement on the former contract specification (although the press release with the previous contract specification is still showing at Tradesports’ sister site [Intrade](http://www.intrade.com/apply.jsp?heardFromPromotionDetail=s0545138709r "Intrade")).  TEN could benefit from closer collaboration with the economics community in the design of their contracts, preferably *before* the contracts are actually listed for trading!
+
+**UPDATE:** [Felix Salmon](http://www.rgemonitor.com/blog/economonitor/171795 "Felix Salmon") shorts Nouriel:
+
+> *Economonitor is going to make a bold prediction, though: that the contract won’t trade higher than 25 any time soon. I’m a seller at these levels.*
+
+**UPDATE II:** [Felix](http://www.rgemonitor.com/blog/economonitor/171867 "Felix") once again proves the value of RGE Monitor as a contrarian indicator:
+
+> *OK, so I was completely wrong yesterday afternoon when I said that the Intrade recession contract wouldn’t rise above 25: the first thing I see when I walk into the office this morning is that it managed to trade at an eye-popping 35 overnight.*

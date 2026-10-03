@@ -1,0 +1,11 @@
+---
+title: "De-Monetisation of Copper"
+date: "2006-02-10"
+categories: ["Economics"]
+---
+
+Never mind the supposed ‘re-monetisation’ of gold, what about the de-monetisation of copper.  The price of copper is now so high that the copper content of small denomination coins may now exceed their face value.  [Larry White](http://divisionoflabour.com/mt/mt-tb.cgi?__mode=view&entry_id=2261 "Larry White") points to the case of Korea, which is suffering from reverse seignorage:
+
+*The production cost of a W10 coin is about W40, W14 of that for copper and zinc alone.*
+
+Australian coins are 75-92% copper, although we wisely took smaller denomination coins out of circulation years ago.

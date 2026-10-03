@@ -1,0 +1,11 @@
+---
+title: "The US Current Account and Globalisation"
+date: "2005-03-25"
+categories: ["Economics"]
+---
+
+Diana Farrell at the McKinsey Global Institute has been doing some [excellent work](http://www.mckinseyquarterly.com/article_page.aspx?ar=1591&L2=7&L3=10&srid=17&gp=0 "excellent work") highlighting the growing irrelevance of a residency-based view of trade, which ignores the increased importance of cross-border ownership of equity capital in driving current account balances.  Farrell estimates that one-third of the US current account deficit is attributable to trade with US-owned foreign subsidiaries.  Moreover, 
+
+*For at least the next decade, we would expect foreign investment by US multinationals to go on adding to the current-account deficit as it is currently measured. After all, globalization is in its infancy.*
+
+Record current account deficits should not be a surprise in this context, since globalisation should bring about a structural deterioration in the measured current account balance.  Insofar as this deterioration is symptomatic of globalisation, it should be welcomed rather than feared.  Farrell suggests moving to an ownership-based measure of trade balances, which might help defuse current account deficit angst.

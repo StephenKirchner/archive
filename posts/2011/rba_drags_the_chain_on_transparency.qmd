@@ -1,0 +1,15 @@
+---
+title: "RBA Drags the Chain on Transparency"
+date: "2011-03-25"
+categories: ["Economics", "Financial Markets", "Monetary Policy"]
+---
+
+Fed Chair Bernanke joins overseas counterparts in holding post-FOMC meeting [press conferences](http://www.federalreserve.gov/newsevents/press/monetary/20110324a.htm):
+
+> Chairman Ben S. Bernanke will hold press briefings four times per year to present the Federal Open Market Committee’s current economic projections and to provide additional context for the FOMC’s policy decisions.
+>
+> In 2011, the Chairman’s press briefings will be held at 2:15 p.m. following FOMC decisions scheduled on April 27, June 22 and November 2. The briefings will be broadcast live on the Federal Reserve’s website. For these meetings, the FOMC statement is expected to be released at around 12:30 p.m., one hour and forty-five minutes earlier than for other FOMC meetings.
+>
+> The introduction of regular press briefings is intended to further enhance the clarity and timeliness of the Federal Reserve’s monetary policy communication. The Federal Reserve will continue to review its communications practices in the interest of ensuring accountability and increasing public understanding.
+
+In [this op-ed](../2009/no_time_for_a_media-shy_central_banker.qmd), I made the case for the RBA Governor to hold a press conference following each Board meeting and CPI release. Apart from the gains to monetary policy transparency, this would serve to reduce politicians’ media space in public debates over interest rates and inflation.

@@ -1,0 +1,13 @@
+---
+title: "More on Australia’s Terms of Trade"
+date: "2005-04-06"
+categories: ["Economics"]
+---
+
+We have often highlighted the impressive growth in Australia’s terms of trade and the fact that volume-based measures of GDP do not adequately capture its contribution to national welfare.
+
+The RBA’s [Christian Gillitzer and Jonathan Kearns](http://www.rba.gov.au/PublicationsAndResearch/RDP/RDP2005-01.html "Christian Gillitzer and Jonathan Kearns") have examined Australia’s terms of trade over the last 135 years and reach some interesting conclusions:
+
+*Since Australia predominantly exports commodities and imports manufactures, the Prebisch-Singer hypothesis suggests that there should be a negative trend in the terms of trade. But the trend is no more than -0.1 per cent per annum, less than the trend decline in world commodity prices relative to manufactured goods prices. The weaker trend appears to be the result of Australia exporting, and importantly diversifying toward, commodities with faster price growth. Extending the sample using projections for the terms of trade for the two years to 2005/06 based on commodity price movements to date, the apparent downward trend disappears. Indeed, based on these projections, the terms of trade will have increased by around 50 per cent over the period 1987–2006, unwinding the decline over the preceding 30 years.*
+
+The RBA has previously pointed to the long-run relationship between the terms of trade and the Australian dollar.  Together, these results suggest that the secular decline in the AUD is over.  Recent developments in the terms of trade also serve to discredit the many advocates of ‘strategic’ industry and trade policy, especially in relation to the ICT sector.

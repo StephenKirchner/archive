@@ -1,0 +1,11 @@
+---
+title: "EMU and International Conflict"
+date: "2011-12-14"
+categories: ["Economics", "Financial Markets", "Monetary Policy"]
+---
+
+Martin Feldstein writing in [Foreign Affairs](http://www.foreignaffairs.com/articles/53576/martin-feldstein/emu-and-international-conflict) in 1997, demonstrating that the euro crisis was entirely foreseeable:
+
+> If EMU does come into existence, as now seems increasingly likely, it will change the political character of Europe in ways that could lead to conflicts in Europe and confrontations with the United States.
+>
+> The immediate effects of EMU would be to replace the individual national currencies of the participating countries in 2002 with a single currency, the euro, and to shift responsibility for monetary policy from the national central banks to a new European Central Bank (ECB). But the more fundamental long-term effect of adopting a single currency would be the creation of a political union, a European federal state with responsibility for a Europe-wide foreign and security policy as well as for what are now domestic economic and social policies. While the individual governments and key political figures differ in their reasons for wanting a political union, there is no doubt that the real rationale for EMU is political and not economic. Indeed, the adverse economic effects of a single currency on unemployment and inflation would outweigh any gains from facilitating trade and capital flows among the EMU members.

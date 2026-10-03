@@ -1,0 +1,15 @@
+---
+title: "Schadenfreude, Sex and House Prices"
+date: "2005-11-07"
+categories: ["Economics"]
+---
+
+[David Smith](http://www.economicsuk.com/blog/000255.html "David Smith") has been doing for the UK what this blog has been doing in the Australian context, drawing attention to the perverse demand for predictions of housing-related economic ruin.  Predictions of this kind have been about as successful in the UK context as they have been in Australia.  As Smith notes, they have also become something of an industry in themselves:
+
+Many parts of the media have been itching for the crash to happen. From a crowded field, my nomination for most ridiculous housing headline this year goes to the Daily Express. “House prices slump”, its banner front-page headline screamed on September 30. The story was that the Nationwide building society had reported a 0.2% drop in house prices for the month. Some slump.
+
+A whole industry has built up around the crash story, with websites, weblogs (blogs) and newsletters. I can only think this is driven by schadenfreude - pleasure in the (potential) misfortune of others.
+
+Rather than simple schadenfreude, there is probably a more complex story of cognitive bias at work here.  The main problem is the willingness of people to adhere to an asymmetric view of the future distribution of economic shocks, a bias which is then exploited by publicity-seeking forecasting firms and the media.  As Smith notes, predictions of stagnation are not nearly as sexy as forecasts of a crash. 
+
+The perverse element in all this is when forecasters go looking for possible adverse shocks to rationalise their house price forecast.  Nouriel Roubini did the same thing at the Cato monetary policy conference in relation to the USD (see previous post), rattling off every conceivable thing that could go wrong for the USD to justify his essentially pre-determined view that it must fall.

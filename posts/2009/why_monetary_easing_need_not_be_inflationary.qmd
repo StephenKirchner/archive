@@ -1,0 +1,13 @@
+---
+title: "Why Monetary Easing Need Not be Inflationary"
+date: "2009-05-28"
+categories: ["Economics", "Financial Markets", "Monetary Policy"]
+---
+
+[RBA Deputy Governor Ric Battellino](http://www.rba.gov.au/Speeches/2009/sp_dg_280509.html "RBA Deputy Governor Ric Battellino"), on why monetary easing need not be inflationary:
+
+> The other side of the debate – that the measures will result in higher inflation – implicitly assumes that the measures will be effective in stimulating the economy, since money does not miraculously transform into inflation without affecting economic and financial activity. Rather, their argument is that central banks will be too slow to reverse the various measures.
+>
+> As there are no technical factors that would prevent or slow the reversal of recent measures – they can be reversed simultaneously or in any sequence – the argument must rest on central banks making incorrect policy judgments. This is always a possibility. But, the high state of awareness that currently exists about the risk of being too slow to reverse recent exceptional measures should limit the probability of such a mistake being made.
+
+Unfortunately, a high state of awareness does not in itself guarantee timely policy action, as the RBA’s [own track record would suggest](http://business.theage.com.au/business/dont-count-ratecut-chickens-before-they-hatch--inflation-is-still-simmering-20080811-3to5.html?page=1# "own track record would suggest").

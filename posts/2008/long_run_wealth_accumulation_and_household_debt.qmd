@@ -1,0 +1,11 @@
+---
+title: "Long-Run Wealth Accumulation and Household Debt"
+date: "2008-10-30"
+categories: ["Economics", "Financial Markets"]
+---
+
+[RBA Deputy Governor Ric Battellino](http://www.rba.gov.au/Speeches/2008/sp_dg_301008.pdf "RBA Deputy Governor Ric Battellino") tells the public what Steve Keen won’t:
+
+> Australian households have much bigger holdings of financial assets than financial liabilities. Financial assets at 30 June averaged around \$275 000 per household while liabilities averaged \$150 000 per household. Since then, we estimate that average assets have fallen to around \$245 000 per household, though this is still quite a strong position.
+>
+> This balance sheet structure is very favourable in terms of maximising long-run accumulation of wealth, because the return on these assets over long terms exceeds the cost of debt by a substantial margin. The returns do not, however, accumulate evenly from year to year. Some years produce very strong returns while others produce negative returns.

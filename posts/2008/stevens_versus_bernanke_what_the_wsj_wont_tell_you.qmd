@@ -1,0 +1,15 @@
+---
+title: "Stevens versus Bernanke: What the WSJ Won’t Tell You"
+date: "2008-06-16"
+categories: ["Economics", "Financial Markets"]
+---
+
+Another one of those laughable [WSJ](http://online.wsj.com/article/SB121356402055375685.html?mod=opinion_main_commentaries "WSJ") editorial comments:
+
+> The biggest problem in emerging economies isn’t “the credit crunch about which we hear so much . . . but inflation.” So said Glenn Stevens, Australia’s central bank governor, to a business crowd in Melbourne Friday. It’s too bad U.S. Federal Reserve Chairman Ben Bernanke wasn’t in the audience.
+>
+> Unlike his Fed peer, Mr. Stevens has ruthlessly resisted inflationary pressures.
+
+Never mind that Australia has a much more serious inflation problem than the US on most measures, none of which the WSJ sees fit to mention.  The US core CPI was running at 2.4% y/y in March compared 3.5% y/y for the comparable Australian measure.  If Stevens has taken a tougher rhetorical stance on inflation than Bernanke (which is by no means obvious), it is because Australia has a much more serious inflation problem.  The WSJ cites Australia’s nominal cash rate as a measure of the tightness of monetary policy, but this only highlights the inflation premium built into Australian interest rates.  The real cash rate, which is the more appropriate measure of the stance of monetary policy, is only around 3%.
+
+The more significant difference between the Fed and the RBA, however, is that the Fed considers inflation too high at 2.4%.  In Australia, 2.5% is the mid-point of the target range.  The RBA doesn’t even aspire to beat the Fed on inflation and has the inflation outcomes to show for it.

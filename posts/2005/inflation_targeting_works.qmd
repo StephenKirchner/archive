@@ -1,0 +1,16 @@
+---
+title: "Inflation Targeting Works"
+date: "2005-11-01"
+categories: ["Economics"]
+---
+
+[Kevin Hassett](http://www.aei.org/publications/filter.all,pubID.23398/pub_detail.asp "Kevin Hassett") makes part of the case for the Fed to adopt inflation targeting:
+
+Would a target matter? One recent study found some significant differences between countries that practice inflation targeting, and those that don’t.
+
+For example, private-sector inflation forecasts tend to show more agreement with one another in inflation-targeting countries than in the U.S. Such disagreement about future inflation is a good measure of the extra risk added to the economy because the Fed isn’t transparent\
+enough.
+
+For three years now, I have been conducting an experiment in which I ask my students what they think Australia’s inflation rate will be in five years time.  I have yet to have a class in which students did not volunteer something like “2-3%” or “2.5%,” the RBA’s inflation target range.  Students quickly get the point that to forecast a number outside the target range is to implicitly forecast either a future monetary policy mistake or an inflation shock.  Had I asked students this question 10 years ago, I would have got either blank stares or random numbers.
+
+Of course, economics students are more likely to get this right than others, but these students are also likely to be the ones who will be making future decisions where inflation expectations will be particularly important.  I would suggest any US readers who are doubtful about the merits of inflation targeting try this exercise with others and see what results they get.

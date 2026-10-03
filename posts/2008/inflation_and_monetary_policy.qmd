@@ -1,0 +1,13 @@
+---
+title: "Inflation and Monetary Policy"
+date: "2008-05-05"
+categories: ["Economics", "Financial Markets"]
+---
+
+Regular readers will not be surprised to learn I’m in furious agreement with [Don Harding](http://www.theaustralian.news.com.au/story/0,25197,23644269-7583,00.html "Don Harding"):
+
+> The most egregious error occurs when people argue that the Reserve Bank has aggressively tightened monetary policy. It has done nothing of the sort. The relevant measure for assessing whether the RBA has tightened monetary policy is the real (inflation-adjusted) cash rate, which stood at 3.1 per cent in March 2005 and now stands at 3.0 per cent. The seven increases in the nominal cash rate over this period have just kept pace with inflation and do not represent a tightening of policy…
+>
+> The danger is that if I am right and inflation accelerates because the RBA’s approach is too soft, then the RBA will need to move aggressively and hike rates several times.
+
+We got the first bottom-up look at June quarter inflation today, with the release of Don Harding’s inflation gauge for April.  It was a shocker at 0.5% m/m and 4.3% y/y, the strongest annual growth rate on record for this series.  Core inflation (ex-volatile items) rose 0.5% m/m and 3.9% y/y compared to 3.3% y/y in March.  The trimmed mean, which proxies for the RBA’s preferred measures of underlying inflation, rose 0.6% m/m and 4.3% y/y compared to 3.8% y/y in March.

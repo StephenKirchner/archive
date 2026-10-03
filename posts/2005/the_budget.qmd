@@ -1,0 +1,24 @@
+---
+title: "The Budget"
+date: "2005-05-11"
+categories: ["Economics"]
+---
+
+As usual, the most insightful analysis of the Budget comes from [Alan Kohler](http://www.smh.com.au/news/Budget-2005/A-beautiful-set-of-numbers--for-the-Libs/2005/05/10/1115584966193.html "Alan Kohler"):
+
+A large part of the source of all this Howard happiness is the tax reform of 1999-2000 - not the GST but the pay-as-you-go system for businesses, and the way it links to the GST to make avoidance very difficult. No matter what you might hear about tax avoidance being rampant among rich people, the new tax system is actually hoovering money out of business tills more efficiently than anywhere in the world.
+
+Total government receipts were \$156.6 billion in 2000-01, and they are budgeted to be \$214.2 million in 2005-06 - a 36 per cent increase in five years. Over the same period the increase in the consumer price index has been less than 15 per cent.
+
+That \$57.8 billion per annum increase in revenue, net of tax cuts along the way, has been nearly all spent by John Howard.\
+Since 2001-02, which was the first year government cash flows were set out in detail, government spending on goods and services has risen \$14 billion a year, or 37.4 per cent, grants and subsidies \$8 billion a year, or 13 per cent; personal benefits \$13.5 billion a year, or 21 per cent, and government salaries by \$2.5 billion, or a comparatively modest 16 per cent - in line with general wage inflation.
+
+The balance has been salted away and will now be given to some fund managers to see if they can do better than bank interest.
+
+The proposed Future Fund raises some serious issues.  With assets potentially rising to \$100 billion, the government has effectively setup a massive proprietary trading operation at the expense of taxpayers.  If the fund is not going to be a passive index fund, then its asset allocation decisions could have a significant impact on markets.  The Fund will quite likely invest in Commonwealth Government Securities, so the government will be purchasing its own liabilities.  The bond market will increasingly be divorced from any underlying government financing requirement.  The government is setting itself up as an intergenerational financial intermediary at the expense of private saving, moving us in the direction of de facto nationalisation of financial markets.  As we have argued previously, the government’s focus should instead be on economically empowering individuals to reduce their current and future dependence on the state. 
+
+[Greenspan](http://www.federalreserve.gov/boarddocs/speeches/2001/20010427/default.htm "Greenspan") spoke eloquently on these issues in the US context back in 2001:
+
+*These efforts would likely result in distortions in the allocation of capital that must be balanced against the benefit to the nation of the increase in saving. In fact, it is the market-driven allocation of capital and labor to their most productive uses that has fostered our recent impressive gains in productivity and encouraged inflows of capital that have enabled us to build an extraordinarily efficient capital stock despite quite modest levels of domestic savings. The effectiveness of our markets in allocating capital is one of our nation’s most valuable assets. We need to be careful not to impair their functioning.*
+
+Those economists who are arguing that the budget tax cuts will put upward pressure on interest rates should probably lose their job.  The fiscal impulse, the change in the budget balance as a share of GDP, is simply too small to be a major consideration for monetary policy.

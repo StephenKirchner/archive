@@ -1,0 +1,11 @@
+---
+title: "Market, Regulatory or Business Model Failure?"
+date: "2009-07-08"
+categories: ["Economics", "Financial Markets"]
+---
+
+Yet another open letter from the [usual suspects](http://www.theage.com.au/opinion/rules-underpin-prosperity-20090707-dbsl.html?page=-1 "usual suspects"), this time calling for a new financial system inquiry.  However, their call proceeds from a mistaken premise:
+
+> *SINCE the severe market failures in Australia’s securitisation industry were identified in 2008, we have been concerned that these problems were partly attributable to more fundamental flaws in Australia’s ageing regulatory architecture and the inadequately defined role of government in dealing with such crises.*
+
+The authors cannot seem to make up their mind about the relative importance of market failure and regulatory failure, but a more basic issue is business model failure.  The mortgage securitisation industry was overly dependent on a particular financial technology.  When that technology was new and working well, the industry was able to capture market share from the banks.  The industry was not complaining about either market or regulatory failure then.  From a consumer standpoint, the success or failure of particular business models is irrelevant, not least because the RBA’s setting of the official cash rate explicitly discounts the impact of shocks to financial technology on overall credit conditions.  I discuss these issues in more detail in this [paper](http://www.cis.org.au/issue_analysis/IA99/ia99.pdf "paper").

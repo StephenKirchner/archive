@@ -1,0 +1,13 @@
+---
+title: "Political Insiders and Anti-Gaming Wowsers"
+date: "2010-08-26"
+categories: ["Economics", "Financial Markets", "Politics"]
+---
+
+There are calls to [ban political insiders from election betting markets](http://www.theaustralian.com.au/national-affairs/call-for-ban-on-election-bets/story-fn59niix-1225909604173 "ban political insiders from election betting markets"). Apart from the usual anti-gaming wowsers like Nick Xenophon, I suspect this is motivated by the same mistaken notion of fairness that supports anti-insider trading laws in relation to equity securities. As Henry Manne’s work has shown, anti-insider trading laws are based on a fundamental misunderstanding of the role of markets. [Simon Jackman](http://jackman.stanford.edu/blog/?p=1747 "Simon Jackman") notes that a ban on political insiders would be impractical, but this is no less true of anti-insider trading laws in general.
+
+It is interesting to note that for all the reports of trading by political insiders, prediction markets got the election outcome ‘wrong’ in an ex post sense. While the betting market odds bounced around with the polls, they consistently gave a strong probability to a Labor win, while the polls suggested a tighter contest.
+
+This is not necessarily anomalous, because they measure different things. Polls measure vote shares, but these translate only very loosely into seats won and the ability to form government, so betting markets can quite reasonably imply results that are not obviously supported by the polls. Still, the polls were a better guide to the overall result than the prediction markets on this occasion (have not looked at individual seat markets).
+
+My guess is that political insiders are little better than noise traders. We should be happy to let the market professionals milk them for all their worth.

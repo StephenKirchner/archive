@@ -1,0 +1,13 @@
+---
+title: "US Dollar Down, or Euro Up?"
+date: "2007-11-15"
+categories: ["Economics", "Financial Markets"]
+---
+
+[Alan Reynolds](http://online.wsj.com/article/SB119509244447393701.html?mod=opinion_main_commentaries "Alan Reynolds") notes that there are two sides to any exchange rate:
+
+> Is the dollar down or is the euro up? It is the same thing viewed from different sides, of course. Yet the topic is too often viewed from just one side. Looking at the dollar alone, many economists blame the Fed for lowering interest rates. Viewed from the other side, however, one might wonder why other central banks have not lowered their interest rates.
+>
+> Rising currencies are not necessarily a sign of strength. The U.S. dollar rose sharply before and during the recession of 2001. The trade-weighted index of the dollar’s value against 26 currencies rose 10.5% from March 2000 to January 2002, as the stock market and economy tumbled…
+>
+> The euro’s recent rise involved betting on the expectation that the Fed will soon cut interest rates again, but also that the ECB will not follow suit. Yet the ECB has always followed the Fed’s interest-rate moves, albeit quite slowly. The ECB did not begin reducing rates until May 2001—five months later than the Fed. And the ECB did not put rates above 2% until December 2005—a year later than the Fed.

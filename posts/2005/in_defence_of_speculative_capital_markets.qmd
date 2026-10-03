@@ -1,0 +1,13 @@
+---
+title: "In Defence of Speculative Capital Markets"
+date: "2005-04-22"
+categories: ["Economics"]
+---
+
+[Vernon Smith’s Inaugural Pope Lecture](http://www.mgt.ncsu.edu/newsinfo/images/pope-smithSomeEconomics.pdf "Vernon Smith’s Inaugural Pope Lecture") on globalisation contains a great defence of the role of speculative bubbles in capital markets:
+
+Market efficiency does not require large numbers, complete information, economic understanding or sophistication…
+
+stock markets…are inherently far more uncertain than markets for commodities and services because stock markets must anticipate innovations—the new commodities and services of the future. At the time of new innovations the extent of their subsequent economic success is inherently unpredictable.
+
+If you limit people’s decisions to make risky investments in an attempt to keep them from harming themselves, how much will that reduce our capacity to achieve major technological advancements? The hope of great gain by individuals fuels thousands of experiments in an environment of great uncertainty as to which experiment, which combinations of management and technology will be successful. The failure of the many may be a crucial part of the cost of sorting out the few that will succeed. After a wave of innovation, and a bubble bursts managers know a lot about what did not work, and even a little about what did work.

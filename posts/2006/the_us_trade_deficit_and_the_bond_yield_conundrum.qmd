@@ -1,0 +1,11 @@
+---
+title: "The US Trade Deficit and the Bond Yield ‘Conundrum’"
+date: "2006-12-21"
+categories: ["Economics", "Financial Markets"]
+---
+
+[David Malpass](http://online.wsj.com/article/SB116667027467856406.html?mod=opinion_main_commentaries "David Malpass"), on the US trade deficit and the so-called bond yield ‘conundrum’:
+
+> For decades, the trade deficit has been a political and journalistic lightning rod, inspiring countless predictions of America’s imminent economic collapse. The reality is different. Our imports grow with our economy and population while our exports grow with foreign economies, especially those of industrialized countries. Though widely criticized as an imbalance, the trade deficit and related capital inflow reflect U.S. growth, not weakness—they link the younger, faster-growing U.S. with aging, slower-growing economies abroad…
+>
+> The trade deficit and a low “personal savings rate” are key parts of the bond market’s multi-year pessimism about the U.S. growth outlook. But just as the high level of U.S. savings is likely to add to future growth—the savings rate is only low if you arbitrarily exclude gains—the trade deficit and heavy capital inflows are also positive parts of the growth outlook. Rather than signaling a slowdown, the inversion of the yield curve—“Greenspan’s conundrum,” in which bond yields are low despite solid growth and rising inflation—is probably the result of this deep underestimate of the U.S. growth outlook, plentiful liquidity, and a backward-looking deflation premium for bonds, the reverse of the backward-looking inflation premium that kept bond yields unusually high in the 1980s.

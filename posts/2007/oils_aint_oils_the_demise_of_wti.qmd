@@ -1,0 +1,17 @@
+---
+title: "Oils Ain’t Oils: The Demise of WTI?"
+date: "2007-04-23"
+categories: ["Economics", "Financial Markets"]
+---
+
+Those who use West Texas Intermediate crude oil for economic forecasting will have probably noticed [this](http://online.wsj.com/article/SB117729159564878560.html?mod=hps_us_pageone "this"):
+
+> The mighty Texas crude-oil benchmark—the per-barrel price watched obsessively by the markets and quoted by the media—has diverged so drastically from prices of other grades of crude in recent weeks that some market participants are calling it a “broken benchmark.”
+>
+> Several factors have combined to push the price of West Texas Intermediate crude oil—used as the basis for the world’s most widely traded energy contract—dollars below other desirable, so-called light sweet crudes.
+>
+> On Friday, for example, the bellwether oil contract on the New York Mercantile Exchange closed at \$63.38 a barrel, nearly 5% less than the \$66.49-a-barrel close of North Sea Brent crude, the London benchmark quoted on the ICE Futures exchange.
+>
+> The disparity, which is partly rooted in structural changes in the energy markets—including how and where oil is produced and shipped—means the standard barrel of oil no longer has a straightforward price…
+>
+> “Spot WTI crude-oil prices no longer reflect international market dynamics,” Edward Morse, chief energy economist at Lehman Brothers Holdings Inc., said in an April 13 report. “Rather, they represent local fundamentals for crude oil in the U.S. mid-continent, putting a question mark over the value of this inland U.S. crude as a world marker for hedging or speculation.”

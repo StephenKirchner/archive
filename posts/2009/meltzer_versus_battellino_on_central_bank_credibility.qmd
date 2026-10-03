@@ -1,0 +1,9 @@
+---
+title: "Meltzer versus Battellino on Central Bank Credibility"
+date: "2009-06-02"
+categories: ["Economics", "Financial Markets", "Monetary Policy"]
+---
+
+[Allan Meltzer](http://blog.american.com/?p=1337 "Allan Meltzer") doesn’t share [Ric Battellino’s](../2009/why_monetary_easing_need_not_be_inflationary.qmd "Ric Battellino’s") optimism that central banks will re-tighten monetary policy in a timely fashion:
+
+> *Does the Federal Reserve have the technical ability to prevent inflation? Certainly! Will the Federal Reserve show the political stomach in the face of a sluggish recovery and almost certain cries of alarm from Chairman Barney Frank, the administration, the business community, the labor unions, and Krugman? Certainly not!*

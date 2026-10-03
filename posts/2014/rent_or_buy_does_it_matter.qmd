@@ -1,0 +1,13 @@
+---
+title: "Rent or Buy: Does it Matter?"
+date: "2014-07-17"
+categories: ["Economics", "House Prices"]
+---
+
+A RBA [Research Discussion Paper](http://www.rba.gov.au/publications/rdp/2014/2014-06.html) on whether Australian housing is over-valued attracted considerable media attention. The (unsurprising) bottom-line was that Australian housing is currently fairly valued based on the user-cost approach, but that the average household might be better off renting now if, ‘as many observers have suggested,’ future real house price growth is less than the historical annual average rate of around 2.5% since 1955.
+
+As it turns out, the ‘many observers’ actually referenced in the paper are the RBA itself, which makes one wonder whether the RDP’s conclusion is part of the RBA’s broader jaw-boning effort directed at expectations for future house price appreciation.
+
+In fact, the RBA’s RDP makes an excellent case for the view that we should be indifferent between renting or buying ex ante. The user costs of owner-occupation and renting are subject to a long-run equilibrium relationship. The RBA’s RDP shows how close this relationship has been historically using matched data on house prices and rents, despite some short-run volatility. In principle, one could use deviations from this equilibrium relationship to profitably arbitrage the user cost of owner-occupation and renting, but it is likely that these deviations reflect the transaction costs associated with buying/selling and moving. The deviations arise precisely because this arbitrage is difficult in practice.
+
+So don’t sweat on the rent-buy decision.

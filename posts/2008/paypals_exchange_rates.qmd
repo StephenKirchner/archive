@@ -1,0 +1,21 @@
+---
+title: "Paypal’s Exchange Rates"
+date: "2008-01-19"
+categories: ["Economics", "Financial Markets"]
+---
+
+I regularly transfer US dollar Paypal balances to Australian dollars, which are normally converted at a 2.5% spread to wholesale spot rates.  Paypal update their exchange rates twice daily.  Since I have real-time access to wholesale spot rates, I can check the spread to spot and it is usually pretty close to 2.5%. 
+
+Recently, however, I have had a problem with Paypal failing to quote me updated exchange rates.  I asked other Paypal account holders to get quotes on the USD-AUD exchange rate and they were being quoted different conversion rates that better reflected the 2.5% spread over spot rates.
+
+I then checked to see what would happen if I logged into my account from a different computer, thinking it might be a caching issue.  This finally resulted in an updated quote, but when I transferred a USD balance, the transfer was made at the former stale exchange rate I was being quoted previously.
+
+Apart from being weird and different from my previous experience with Paypal, this is also inconsistent with Paypal’s Product Disclosure Statement required of financial service providers under Australian law.  The exchange rate was not being updated regularly, the quoted spread was not the 2.5% mentioned in the PDS (at least not for me) and Paypal processed the conversions at a different rate to the one they quoted me immediately before I made the transaction.
+
+My enquiries with Paypal have only elicited irrelevant boilerplate responses, so I’m thinking of referring the matter to the banking industry ombudsman.  But before I do, I thought I would see if anyone else has had similar problems or had an explanation for what might be going on.  I would actually be even more impressed to hear from someone with Paypal Australia.  Any tech or financial journalists who would like to follow-up the story are also welcome to get in touch.\
+**\
+UPDATE (February 1):** Paypal have finally acknowledged the error in an email to me:
+
+> *We are actually aware of the issue and are working towards a resolution. We have added your account as another example of the error to expedite the urgency of the issue.*
+
+My suggestion would be that anyone with recent Paypal exchange rate conversions should check the rate they were given against wholesale spot rates.  If the spread is not around 2.5%, you may want to get on to Paypal to seek a correction.

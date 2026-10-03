@@ -1,0 +1,13 @@
+---
+title: "Public versus Private Saving and the Investment Boom"
+date: "2006-05-19"
+categories: ["Economics"]
+---
+
+The federal government is running a negative net debt position and budget surpluses of 1% of GDP over the forward estimates.  Yet the consensus view among the commentariat seems to be that the Commonwealth should be hoarding even more revenue it doesn’t need.  [Peter Hartcher](http://www.smh.com.au/news/opinion/its-been-too-good-for-too-long/2006/05/18/1147545453443.html?page=fullpage#contentSwap2 "Peter Hartcher") argues that given Australia’s current account deficit:
+
+*If Peter Costello has the option to allow any unexpected revenues in the coming year to be saved as surplus rather than spent, he should take it.*
+
+This argument assumes that there would be no offsetting private sector response to increased public saving, leaving national saving unchanged.  The surplus is just a substitution of public for private saving.  The domestic saving-investment imbalance that drives the current account is not a function of inadequate private sector saving, but the record investment share of GDP. 
+
+To argue for a contractionary fiscal policy to lower the current account deficit is equivalent to arguing that the private sector investment boom in Australia is mistaken and should be curbed.  In fact, the investment boom is essential if Australia is to fully capitalise on the opportunities presented by the terms of trade boom.

@@ -1,0 +1,9 @@
+---
+title: "Blame Oil, Not Housing"
+date: "2009-01-04"
+categories: ["Economics", "Oil"]
+---
+
+Amid the GFC of 2008, it was easy to forget that 2008 also saw a major oil price shock.  In a series of posts, [James Hamilton](http://www.econbrowser.com/archives/2009/01/the_oil_shock_a_1.html "James Hamilton") argues that the oil price shock largely accounts for the downturn in the auto sector.  He also presents evidence to suggest that the oil price shock was critical in exacerbating the downturn in the housing sector.
+
+Hamilton concludes that ‘if gasoline prices had stayed at \$2.50 a gallon through 2008, the NBER Business Cycle Dating Committee would not have declared that the current recession began in December 2007.’

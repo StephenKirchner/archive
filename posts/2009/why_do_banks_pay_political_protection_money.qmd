@@ -1,0 +1,15 @@
+---
+title: "Why Do Banks Pay Political Protection Money?"
+date: "2009-12-10"
+categories: ["Economics", "Financial Markets", "Politics"]
+---
+
+With the [government](http://www.theaustralian.com.au/rudd-gives-westpac-a-caning-over-mortgage-rate-rise/story-e6frg8zx-1225808811137 "government"), the opposition and the media all heavily engaged in gratuitous bank-bashing, few people have given much attention to the implications of tighter capital adequacy regulation for the cost of borrowing to consumers.  [RBA Governor Glenn Stevens](http://rba.gov.au/Speeches/2009/sp-gov-081209.pdf "RBA Governor Glenn Stevens") was remarkably frank about the implications of increased regulation in a speech this week:
+
+> *on the assumption that most of these regulatory changes go ahead, one effect will presumably be to make the process of financial intermediation more costly. The intention, after all, is that lenders will operate with more capital against the risks they are taking. But capital is not free; shareholders have to be induced to supply it, and it will have to be paid for. High-quality liquid assets typically carry lower yields too, so mandating higher liquidity will have some (modest) cost as well.  Admittedly it can be argued that shareholders of financial institutions will have a less risky investment and so should be prepared to accept lower returns. But customers of financial institutions – depositors and borrowers – will also pay via higher spreads between what lenders pay for funds and what they charge for loans. That is, they will pay more ex ante to use a safer financial system, as opposed to taxpayers having to pay large costs ex post to re-capitalise a riskier system that runs into trouble.*
+
+Stevens’ posited trade-off between a safer financial system that is more expensive and one that is cheaper and riskier may only hold up to a point.  His assumption that a more tightly regulated financial system is less likely to be bailed-out by taxpayers may not hold at all.  As Stevens notes, careful attention needs to be given to whether the additional costs imposed by increased regulation will yield the desired benefits.
+
+The increase in funding costs being passed on by the banks to their borrowers as a result of the financial crisis is not something we can do much about ex post, especially given that Australia is a price-taker in global capital markets.  But we can do something about the future of bank capital regulation.  Bashing the banks, while giving the government a free pass to tighten the regulation of capital without due attention to costs and benefits is perverse. 
+
+Perhaps even more perverse is the way the banks continue to fund the politicians who are actively seeking to damage their franchise.  The AEC’s web site shows that the big four banks are all major donors to political parties (see, eg, [Westpac’s return](http://periodicdisclosures.aec.gov.au/Donor.aspx?SubmissionID=10&ClientID=34096 "Westpac’s return")).  No doubt the banks fear things would be even worse if they didn’t pay their political protection money, but it’s hard to see how.

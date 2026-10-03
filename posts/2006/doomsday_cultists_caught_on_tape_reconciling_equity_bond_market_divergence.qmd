@@ -1,0 +1,20 @@
+---
+title: "Doomsday Cultists Caught on Tape: Reconciling Equity & Bond Market Divergence"
+date: "2006-10-05"
+categories: ["Economics", "Financial Markets"]
+---
+
+‘Chairman’ Roubini, [interviewed on CBS](http://www.cbsnews.com/sections/i_video/main500251.shtml?id=2059122n "interviewed on CBS").  As [Brad Setser](http://www.rgemonitor.com/blog/setser/150245 "Brad Setser") suggests, Nouriel is not quite as outrageous on television as he is on his [blog](http://www.rgemonitor.com/blog/roubini "blog"), where he is describing the current rally in US equities to new all time highs on the Dow as a ‘delusional sucker’s rally.’  When analysts start describing markets as irrational, it’s usually a good indication that the market is in the process of invalidating their macro view.
+
+Rather than assuming that millions of equity investors are delusional, [James Hamilton](http://www.econbrowser.com/archives/2006/10/and_they_all_li.html "James Hamilton") attempts to reconcile the apparent divergence in equity and bond markets:
+
+> stock prices reflect both expectations of future profits as well as current interest rates. A lower real interest rate means that the present value of future earnings has increased even if the earnings themselves are no higher, because future flows are discounted less. Furthermore, the stock market has always exhibited an aversion to inflation as well. Hence, even if investors’ forecasts of future profits had not improved, one might still expect to see stocks appreciate as a direct result of a lower real interest rate and lower expected inflation. In other words, part of the stock market rally could be viewed as the logical companion of that for bonds. But the magnitude of the stock market surge seems too large to attribute to this alone, and certainly is grossly inconsistent with the assertion that investors believe the U.S. is about to enter a recession…
+>
+> Current fed funds futures and option markets are betting that the fed funds rate will be down to 5% by next spring. And yet, in public statements the Fed seems to be communicating that, if it makes any changes, it is more likely to be toward higher rather than lower rates.
+>
+> Well, here’s a story that I believe could reconcile everything. The housing slowdown is significant, real, and upon us now, but this is as bad as it’s going to get. Inflation numbers will begin to look better, allowing the Fed some breathing room to bring rates down slightly, averting a complete meltdown in housing. We get slower real economic growth, the biggest burden of which is borne by homebuilders. But the benefits of taming inflation bring some cheer to the rest of Wall Street and perhaps Main Street.
+>
+> In other words, markets seem to believe that Bernanke is going to pull off the soft landing after all—slower real growth for sure, lower inflation, but no recession.
+
+\
+Fed Vice Chair Kohn envisages a [similar scenario](http://www.federalreserve.gov/boarddocs/speeches/2006/200610042/default.htm "similiar scenario").

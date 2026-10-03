@@ -1,0 +1,15 @@
+---
+title: "Federal Election Betting Market Probabilities"
+date: "2010-08-01"
+categories: ["Financial Markets", "Politics"]
+---
+
+[Simon Jackman](http://jackman.stanford.edu/oz/Aggregate2010/bettingMarkets/centrebet/alpWinProb.pdf "Simon Jackman") provides a handy update on federal election outcome probabilities derived from Centrebet and updated daily at 9am AEST. Along with [iPredict](https://www.ipredict.co.nz/app.php?do=contract_detail&contract=AUS.NEXTPM.LABOR "iPredict"), Centrebet is showing a sharp decline in the probability of a Labor win, reflecting recent opinion polls, but also (perfectly legal) [inside information](http://www.smh.com.au/federal-election/parties-bet-they-will-lose-20100731-110tj.html "inside information"):
+
+> SENIOR Labor figures have placed significant bets on the outcome of the federal election, with some punting against their own party. A major betting agency said bets had been placed on members of the opposing team to win marginal seats in NSW and Queensland.
+>
+> Centrebet primary analyst Neil Evans said: ‘‘I can’t tell you who but I can tell you this: these are people very high up betting on some of the critical seats and I can tell you they don’t always stay faithful to their party - they swap sides.
+>
+> ‘‘They are well-known Labor figures and associates that are punting on these seats. A lot of Labor-connected money has been backing a Coalition win in marginal seats and, to a lesser extent, the Coalition has been doing the reverse.’‘
+>
+> The Sun-Herald understands the figures include parliamentary staffers, advisers and senior party officials.

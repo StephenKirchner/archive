@@ -1,0 +1,7 @@
+---
+title: "The Market Can Only Know What is Knowable"
+date: "2009-08-12"
+categories: ["Economics", "Financial Markets"]
+---
+
+[Eugene Fama](http://www.dimensional.com/famafrench/2009/08/fama-on-market-efficiency-in-a-volatile-market.html "Eugene Fama") explains why recent asset price volatility is entirely consistent with the efficient markets hypothesis.

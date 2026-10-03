@@ -1,0 +1,9 @@
+---
+title: "Never Mind the Prices, Check the Volumes"
+date: "2009-10-23"
+categories: ["Economics", "Financial Markets"]
+---
+
+As Australia [records](http://www.abs.gov.au/AUSSTATS/abs@.nsf/ProductsbyReleaseDate/AD48224A384AA1C3CA25765700161B6C?OpenDocument "records") the biggest annual percentage decline in Australian dollar export prices since comparable data began in 1974, [Stephen Green](http://media.bloomberg.com/bb/avfile/News/Surveillance/vx7FG7TaRdtw.mp3 "Stephen Green") predicts ‘enormous’ Chinese demand for Australian iron ore next year.
+
+I discuss the relationship between Australian export prices and volumes in this [article](../../files/POLICY_commodity_prices.pdf "article").

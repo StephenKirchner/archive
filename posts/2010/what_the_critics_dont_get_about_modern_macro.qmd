@@ -1,0 +1,15 @@
+---
+title: "What the Critics Don’t Get About Modern Macro"
+date: "2010-11-11"
+categories: ["Economics", "Financial Markets"]
+---
+
+[Tom Sargent](http://www.minneapolisfed.org/publications_papers/pub_display.cfm?id=4526 "Tom Sargent") defends modern macro in a very good interview for the Minneapolis Fed:
+
+> The criticism of real business cycle models and their close cousins, the so-called New Keynesian models, is misdirected and reflects a misunderstanding of the purpose for which those models were devised. These models were designed to describe aggregate economic fluctuations during normal times when markets can bring borrowers and lenders together in orderly ways, not during financial crises and market breakdowns.
+>
+> By the way, participants within both the real business cycle and new Keynesian traditions have been stern and constructive critics of their own works and have done valuable creative work pushing forward the ability of these models to match important properties of aggregate fluctuations. The authors of papers in this literature usually have made it clear what the models are designed to do and what they are not. Again, they are not designed to be theories of financial crises.
+>
+> it is just wrong to say that this financial crisis caught modern macroeconomists by surprise. That statement does a disservice to an important body of research to which responsible economists ought to be directing public attention. Researchers have systematically organized empirical evidence about past financial and exchange crises in the United States and abroad. Enlightened by those data, researchers have constructed first-rate dynamic models of the causes of financial crises and government policies that can arrest them or ignite them. The evidence and some of the models are well summarized and extended, for example, in Franklin Allen and Douglas Gale’s 2007 book Understanding Financial Crises. Please note that this work was available well before the U.S. financial crisis that began in 2007.
+
+(HT: Falkenblog)

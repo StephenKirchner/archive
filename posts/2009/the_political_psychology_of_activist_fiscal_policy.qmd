@@ -1,0 +1,15 @@
+---
+title: "The Political Psychology of Activist Fiscal Policy"
+date: "2009-09-08"
+categories: ["Economics", "Fiscal Policy"]
+---
+
+[David Hirshleifer](http://www.psychologytoday.com/blog/what-lies-beneath/200907/what-s-in-name-the-political-psychology-stimulus "David Hirshleifer") ponders the loaded character of the language behind activist fiscal policy:
+
+> Regardless of who’s right on the economics, clearly the ‘stimulus’ language captures the pro side perfectly, and the con side not at all. Indeed, the term immunizes the mind to opposing evidence…
+>
+> So, here’s a political psychology question. Why did opponents gullibly swallow the stimulus terminology, and thereby defeat?
+
+The antidote to the loaded language of activist fiscal policy is to draw attention to the government’s inter-temporal budget constraint.  Few people would regard the announcement of a \$42 billion future tax increase as ‘stimulatory’, but that is exactly what the federal government’s unfunded fiscal stimulus package amounts to in the absence of an explicit commitment to future cuts in government spending.
+
+(HT: [Don Boudreaux](http://cafehayek.com/2009/09/stimulating-post.html "Don Boudreaux"))

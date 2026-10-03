@@ -1,0 +1,9 @@
+---
+title: "The 25th John Bonython Lecture and CIS Annual Dinner"
+date: "2009-02-11"
+categories: ["CIS"]
+---
+
+![](../../files/JBL09_web-image.gif)
+
+[A taste of PJ](http://www.ft.com/cms/s/0/2802e3a8-f77c-11dd-81f7-000077b07658.html?nclick_check=1 "A taste of PJ").

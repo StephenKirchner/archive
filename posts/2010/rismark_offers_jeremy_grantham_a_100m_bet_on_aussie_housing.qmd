@@ -1,0 +1,17 @@
+---
+title: "Rismark Offers Jeremy Grantham a $100m Bet on Aussie Housing"
+date: "2010-11-05"
+categories: ["Economics", "House Prices"]
+---
+
+Rismark’s Chris Joye offers Jeremy Grantham [the mother of all house price wagers](http://christopherjoye.blogspot.com/2010/11/100-million-challenge-to-gmos-jeremy.html "the mother of all house price wagers"):
+
+> Rismark believes it can facilitate a transaction whereby Mr Grantham will be able to invest \$100 million into a short position over the RP Data-Rismark Australian capital cities dwelling price index, which is universally regarded as the most accurate and timely house price benchmark in the market.
+>
+> Following a torrent a criticism, Mr Grantham appears to have placed tentative conditions on his extraordinary assertions, opining that, “In Australia’s case, the timing and speed of the decline is very uncertain, but the outcome is inevitable.”
+>
+> Recognising Mr Grantham’s equivocality, we will give him lots of time—three years, in fact. That is, he would be able to invest his \$100 million for a three year horizon against RP Data-Rismark’s Australian capital cities dwelling price index.
+>
+> Mr Grantham’s investment would be structured as a very simple “delta-one” transaction: for every 1 per cent fall in the index, Mr Grantham would receive \$1 million. Conversely, for every 1 per cent rise in the index, Mr Grantham would pay \$1 million away. The trade would be settled at the end of three years with monthly margining to manage credit risk.
+
+[Beats sending the guy up a mountain wearing a funny t-shirt](../2010/steve_keens_latest_media_stunt.qmd "Beats sending the guy up a mountain wearing a funny t-shirt").

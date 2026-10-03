@@ -1,0 +1,7 @@
+---
+title: "The Tax Cut that Could Have Been"
+date: "2009-09-18"
+categories: ["Economics", "Fiscal Policy"]
+---
+
+How much of a tax cut could you get for \$97 billion in federal fiscal stimulus spending?  [Alex Robson](http://ipa.org.au/library/publication/1253086576_document_20090916_-_how_large_a_tax_cut.pdf "Alex Robson") does the sums.  Of course, from a Ricardian standpoint, a temporary and unfunded tax cut should be no more effective in stimulating activity than a temporary and unfunded increase in government spending.  However, it does have the advantage that whatever spending does occur out of the tax cut is on things people actually want, rather than projects the government thinks we need, while the private sector also gets to allocate any increase in saving.

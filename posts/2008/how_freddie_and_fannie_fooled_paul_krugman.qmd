@@ -1,0 +1,15 @@
+---
+title: "How Freddie and Fannie Fooled Paul Krugman"
+date: "2008-10-23"
+categories: ["Economics", "Financial Markets"]
+---
+
+Charlie Calomiris and Peter Wallison in [The Last Trillion-Dollar Commitment: The Destruction of Fannie Mae and Freddie Mac](http://www.aei.org/docLib/20080930_Binder1.pdf "The Last Trillion-Dollar Commitment: The Destruction of Fannie Mae and Freddie Mac"):
+
+> *Although Fannie and Freddie were building huge exposures to subprime mortgages from 2005 to 2007, they adopted accounting practices that made it difficult to detect the size of those exposures. Even an economist as seemingly sophisticated as Paul Krugman was misled.  He wrote in his July 14, 2008, New York Times column that:*
+>
+> ‘Fannie and Freddie had nothing to do with the explosion of high-risk lending…whatever bad incentives the implicit federal guarantee creates have been offset by the fact that Fannie and Freddie were and are tightly regulated with regard to the risks they can take. You could say that the Fannie-Freddie experience shows that regulation works.’
+>
+> *Here Krugman demonstrates confusion about the law (which did not prohibit subprime lending by the GSEs), misunderstands the regulatory regime under which they operated (which did not have the capacity to control their risk-taking), and mismeasures their actual subprime exposures (which he wrongly states were zero).  There is probably more to this than lazy reporting by Krugman; the GSE propaganda machine purposefully misled people into believing that it was keeping risk low and operating under an adequate prudential regulatory regime.*
+
+Krugman is hardly alone in this.

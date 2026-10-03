@@ -1,0 +1,11 @@
+---
+title: "Open Australia"
+date: "2009-07-30"
+categories: ["Economics", "Financial Markets", "Politics"]
+---
+
+[Open Australia](http://www.openaustralia.org "Open Australia") is providing a useful service making information about federal parliament available on-line.  This volunteer effort often provides better information than parliament itself, as [this story](http://www.news.com.au/technology/story/0,28348,25649658-5014239,00.html "this story") notes. 
+
+Most notably, the volunteers have scanned the 1500-odd pages of the Register of Members’ Interests and made them available on-line.  Previously, this information was available only in hard copy in binders kept in Parliament House, Canberra, making it a costly exercise for members of the public to examine the Register.  It says a lot about the willingness of politicians to subject themselves to the same levels of disclosure and transparency they routinely demand of the private sector.
+
+Unfortunately, the Register does not contain enough information to perform [a study like this](http://insidertrading.procon.org/sourcefiles/abnormal.pdf "a study like this"), showing how US Senators’ shareholdings significantly outperform the market.

@@ -1,0 +1,11 @@
+---
+title: "Stevens on Monetary & Fiscal Policy"
+date: "2008-03-14"
+categories: ["Economics", "Financial Markets"]
+---
+
+[RBA Governor Stevens](http://www.rba.gov.au/Speeches/2008/sp_gov_140308.html "RBA Governor Stevens"), speaking to Treasury officers Wednesday, remained decidedly agnostic on the appropriate mix of monetary and fiscal policy in controlling inflation:
+
+> It strikes me that in the popular discussion about fiscal policy, many participants talk past each other because they are looking at different time dimensions. It is not unreasonable to say that if the budget is perpetually in surplus, there is no debt to speak of and no other looming large unfunded liability, taxes should probably, over some long run horizon, be lower.  This, it seems to me, is the economic case for structural reductions in taxes, which some observers articulate. Others argue that such reductions should be delayed, for cyclical reasons, given that demand needs to slow to contain inflation. So there is a structural case for taxes to fall, and a cyclical case for them not to. It is no doubt difficult for any government to reconcile these two, equally valid, points of view, the more so if the same tension persists for a number of consecutive years…
+>
+> If it is accepted, on the other hand, that inflation is sufficiently general that overall demand has to slow, the amount of slowing has to be the same regardless of whether it comes via monetary policy or fiscal policy. It would be somewhat differently distributed across sectors and regions, as the impact of interest rate and exchange rate effects obviously would not overlap exactly with the tax or spending measures that would occur in their place. I would hazard a guess, though, that a good many people who are today paying higher interest rates would instead pay higher taxes in a world where fiscal policy was used more actively to manage the business cycle.

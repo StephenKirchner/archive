@@ -1,0 +1,17 @@
+---
+title: "The Economy and the Polls: A Rational Choice Perspective"
+date: "2007-05-24"
+categories: ["Economics", "Financial Markets", "Politics"]
+---
+
+Australia’s incumbent federal Coalition government is struggling in the opinion polls ahead of this year’s federal election, despite some of the strongest economic conditions in the post-war period.  Treasurer Peter Costello likes to boast of his role in ‘managing a trillion dollar economy.’  As [Andrew Leigh](http://andrewleigh.com/?p=1472 "Andrew Leigh") notes, we must have all missed Australia’s transition from a market to a planned economy!  It is likely that voters are aware of this distinction, even if Peter Costello is not. 
+
+There is some evidence to suggest that economic data has predictive power for the incumbent two-party preferred vote share at the federal level.  Yet rational choice theory would also lead us to expect the two main parties to fully endogenise the preferences of the median voter ahead of the federal election.  The modifications that both parties have made to their industrial relations policies in recent weeks are consistent with the predictions of the median voter model.  Opposition leader Kevin Rudd’s claim to be a ‘fiscal conservative’ is similarly an attempt to endogenise the preferences of the median voter.  Rudd’s political skill lies largely in not differentiating himself from the federal government, unlike former leader Mark Latham, who actively sought to differentiate himself on issues such as school funding and health.
+
+This model still fails to explain why the opposition should enjoy such a strong lead in the polls, since the model is more consistent with voter indifference, with actual election outcomes a random walk.  However, it is noteworthy that betting and prediction market pricing of the election seems closer than that suggested by the opinion polls.  As [Bryan Palmer](http://www.ozpolitics.info/blog/2007/05/24/betting-market-update-41/ "Bryan Palmer") notes:
+
+> *The book makers are saying that if the same 2007 Federal election were repeated 20 times, John Howard would expect to win 9 elections and Kevin Rudd would expect to win 11. It is still a close contest*.
+
+As Andrew Leigh’s research has found, markets such as these may have better predictive power for election outcomes than opinion polls and economic data. 
+
+From the perspective of a rational voter, there are few substantial differences between the Coalition and Labor on monetary and fiscal policy and a diminishing amount of product differentiation on industrial relations.  Since the last federal election, it is also likely that voters have learned that international and cyclical influences are more significant in the determination of interest rates than anything the government might do with the federal budget balance.

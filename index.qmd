@@ -1,0 +1,15 @@
+---
+title: "Blog archive"
+subtitle: "Posts from the Institutional Economics blog, 2003–2024"
+listing:
+  contents: posts/**/*.qmd
+  type: table
+  fields: [date, title, categories]
+  sort: "date desc"
+  date-format: "D MMM YYYY"
+  page-size: 50
+  categories: true
+  filter-ui: true
+  sort-ui: true
+page-layout: full
+---

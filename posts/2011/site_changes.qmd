@@ -1,0 +1,11 @@
+---
+title: "Site Changes"
+date: "2011-02-02"
+categories: ["Misc"]
+---
+
+The various glitches you may have noticed in recent weeks follow an upgrade to the backend of the site and a server migration that did not go as smoothly as usual, but have since been bedded down. A few cosmetic changes have also been made, including the introduction of “share” icons (thanks to [Brendan Underwood](http://www.ipixel.com.au/) for implementing these).
+
+I’m increasingly using Twitter as a more efficient way of linking to things of interest that do not require any additional comment or elaboration from me. You can [follow me on Twitter](http://www.twitter.com/insteconomics) and be confident there will be no tweets about what I had for breakfast, just the good stuff.
+
+Let me know if you encounter any problems with the site. Self-registration for comments is permanently closed for security reasons, but you can email me and I will register you for comments.

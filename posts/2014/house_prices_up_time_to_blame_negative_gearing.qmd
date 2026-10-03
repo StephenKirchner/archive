@@ -1,0 +1,11 @@
+---
+title: "House Prices Up, Time to Blame Negative Gearing"
+date: "2014-01-23"
+categories: ["Economics", "House Prices"]
+---
+
+I have an op-ed in today’s [Australian](http://www.theaustralian.com.au/opinion/forget-trying-to-curb-demand-build-more-houses/story-e6frg6zo-1226807923196#) beating the housing supply drum at the expense of the anti-negative gearing brigade. In particular, I address the argument that demand for investment property is largely met through existing rather than newly built dwellings:
+
+> *This reflects the fact that the flow of new houses is small relative to the existing dwelling stock. But it is about as relevant as noting that investors in the stockmarket mostly buy already held rather than newly issued shares. It is only supply-side constraints that prevent demand for existing dwellings from inducing new construction.*
+
+Negative gearing is first and foremost a tax policy issue and should be addressed as such as part of a broader tax reform effort. I could live with the Henry review’s proposed discount for income derived from saving, although ideally it would be much larger than his suggested 40%.

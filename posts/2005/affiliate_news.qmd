@@ -1,0 +1,9 @@
+---
+title: "Affiliate News"
+date: "2005-02-11"
+categories: ["Economics/Financial Markets"]
+---
+
+Affiliate relationships are an important source of support for Institutional Economics, so we will occasionally highlight special offers from affiliate sites.  [Elliott Wave International](http://www.elliottwave.com/a.asp?url=/freeweek/&cn=4ie "Elliott Wave International") is currently offering some of its services for free for a limited time.
+
+To anticipate the inevitable criticism of technical analysis, I think the efficient markets hypothesis and technical analysis can be reconciled, once we allow for bounded rationality and transaction and information costs.  In this context, the existence of historical dependencies in financial market prices and other market anomalies become readily explicable.  Far from being an illustration of the ‘irrationality’ of markets, such dependencies are an illustration of the essential role markets play as discovery processes in a world that is far from frictionless.

@@ -1,0 +1,7 @@
+---
+title: "How Taxing Housing Diminishes Affordability"
+date: "2012-04-18"
+categories: ["Economics", "House Prices"]
+---
+
+I have a piece in [The Conversation](http://theconversation.edu.au/how-taxing-housing-diminishes-affordability-6486) highlighting the role of taxation in reducing housing affordability. It draws on a recent [CIE report](http://hia.com.au/media/Industry-policy/~/media/Files/documents/CIE%20Tax%20Report.ashx) for the Housing Industry Association that should have been more widely reported.

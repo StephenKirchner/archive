@@ -1,0 +1,15 @@
+---
+title: "Economists as Gurus"
+date: "2010-10-17"
+categories: ["Economics", "Financial Markets"]
+---
+
+Among many great papers at the Mont Pelerin Society General Meeting in Sydney was Geoff Brennan’s contribution on The Economist as Guru, which looked at the supply and demand for gurus. There was some debate as to whether the willingness of some economists to misappropriate their intellectual authority mattered given a free market in ideas.
+
+Perhaps the most outrageous case of a guru in financial markets is Nouriel Roubini, but [this article](http://www.nypost.com/p/news/business/roubini_doom_is_in_his_predictions_yddlejublbVt7nFOL0SCXO "this article") shows that the market in ideas has not completely failed in exposing Roubini:
+
+> A closer inspection of Roubini’s record shows that while he was predicting doom and gloom for the US in 2004, his initial call had nothing to do with a runaway housing bubble.
+>
+> Rather he argued that the Bush Administration was racking up massive deficits to foreign investors, namely the Chinese, and that the Chinese would scale back on their purchases of US debt, causing interest rates to spike and the dollar to decline in value, resulting in “financial trainwrecks for the US economy in a matter of a couple of years.”
+>
+> Sounds good, but the problem with the theory is that it didn’t happen.

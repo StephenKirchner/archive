@@ -1,0 +1,17 @@
+---
+title: "More Survey Evidence for Ricardian Equivalence"
+date: "2009-08-27"
+categories: ["Economics", "Fiscal Policy"]
+---
+
+[Andrew Leigh](http://econrsss.anu.edu.au/~aleigh/pdf/FiscalStimulus.pdf "Andrew Leigh") uses survey evidence to estimate the amount by which the 2009 fiscal stimulus payments boosted spending in Australia.  The cross-sectional variation in the spending rate finds evidence in favour of Ricardian equivalence:
+
+> *The third variable tabulates the spending rate against respondents’ degree of worry about government debt. This is a loose test of Ricardian equivalence – the theory that consumers will only spend a payment if it is accompanied by a reduction in government expenditure. Respondents who are more worried about government debt (and therefore perhaps more concerned that government payments now will lead to tax increases in the future) are significantly less likely to spend the rebate. For example, only 25 percent of respondents who are very worried about government debt spent the rebate, as compared with 46 percent of respondents who are not at all worried bout government debt. This difference remains significant even in a multivariate regression.*
+
+The survey results find that just under 60% of respondents save the payments/paid off debt, while 40.5% claim to have spent it. Leigh suggests this points to a marginal propensity to consume out of the stimulus of 0.41 to 0.42.  However, he also notes an obvious limitation of the Australian survey data:
+
+> *the US questions asked respondents whether the rebate would lead them to increase spending, while the Australian question asked respondents whether they would spend the money. In theory, Australian respondents who did not think that the money would increase their overall spending might nonetheless have told the interviewer that they would spend it, if they thought that the question related to cash flow rather than net expenditure.*
+
+Because stimulus payments are fungible with other income, the survey question does not directly address the issue of whether recipients increased their overall spending.  This problem also afflicts the Westpac-Melbourne Institute survey noted by Leigh.  The ANU survey results may therefore overstate what is already a low MPC.
+
+Meanwhile, Peter Garrett [discovers](http://www.theaustralian.news.com.au/story/0,25197,25987216-2702,00.html "discovers") the marginal propensity to import.

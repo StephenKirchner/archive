@@ -1,0 +1,9 @@
+---
+title: "Institutional Economics Now Available via Newstex"
+date: "2005-11-02"
+categories: ["Economics"]
+---
+
+Institutional Economics is no longer being aggregated at Nouriel Roubini’s \$600 a year [doomsday cult site](../2005/contrarian_optimism_versus_the_doomsday_cult_a_fund_managers_view.qmd "doomsday cult site") (can’t think why!)  However, it is now available via [Newstex](http://www.newstex.com/ "Newstex"), where you can choose your own content from among numerous financial and other blogs:
+
+*Newstex offers Content On Demand, including tailored, real-time news and commentary from thousands of branded newswires, newspapers, magazines, financial and business sources, official government feeds and weblogs. Newstex collects full-text digital news and commentary feeds, standardizes the content format, adds stock ticker symbols, people tickers and categories, and instantly delivers the result as easy-to-integrate XML or RSS newsfeeds.*

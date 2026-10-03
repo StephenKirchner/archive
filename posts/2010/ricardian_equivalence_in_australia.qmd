@@ -1,0 +1,7 @@
+---
+title: "Ricardian Equivalence in Australia"
+date: "2010-06-16"
+categories: ["Economics", "Fiscal Policy"]
+---
+
+Shane Brittle has completed a [PhD thesis](http://ro.uow.edu.au/cgi/viewcontent.cgi?filename=0&article=4032&context=theses&type=additional "PhD thesis") that is the most comprehensive examination of the issue of Ricardian equivalence and related questions in an Australian setting. Brittle estimates a long-run private saving offset to changes in public saving of around one-half. One interesting conclusion from the thesis is that around 80% of the Howard government’s tax cuts were saved, an empirical refutation of the ‘tax cuts lead to higher interest rates’ nonsense of a few years ago.

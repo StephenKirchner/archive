@@ -1,0 +1,7 @@
+---
+title: "I, Toaster: Home Appliances under Autarchy"
+date: "2011-01-14"
+categories: ["Economics"]
+---
+
+Instead of Leonard Read’s classic [I, Pencil](http://www.econlib.org/library/Essays/rdPncl1.html "I, Pencil"), I have been using [The Toaster Project](http://www.thetoasterproject.org/ "The Toaster Project") in teaching as a more contemporary take on the division of labour, specialisation and the gains from trade. Thomas Thwaites gave a presentation on it at TED, which be viewed [here](http://www.ted.com/talks/thomas_thwaites_how_i_built_a_toaster_from_scratch.html "here"). While it is amazing he got as far as he did, it is also a disturbing glimpse into the counter-factual of life under autarky.

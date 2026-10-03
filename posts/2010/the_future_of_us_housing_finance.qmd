@@ -1,0 +1,7 @@
+---
+title: "The Future of US Housing Finance"
+date: "2010-08-24"
+categories: ["Economics", "Financial Markets"]
+---
+
+Peter Wallison’s [gloomy thoughts](http://www.american.com/archive/2010/august/when-economic-policy-became-social-policy "gloomy thoughts").

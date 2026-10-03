@@ -1,0 +1,25 @@
+---
+title: "Anchoring Fiscal Expectations"
+date: "2009-08-25"
+categories: ["Economics", "Financial Markets", "Fiscal Policy", "Monetary Policy"]
+---
+
+[Eric Leeper](http://mypage.iu.edu/~eleeper/Papers/AFE_RBNZ.pdf "Eric Leeper") argues that expectations for fiscal policy are as important as those for monetary policy.  Leeper points to ‘an egregious example of non-transparent fiscal policy’:
+
+> the recent \$787 billion American fiscal stimulus plan. Leading up to the introduction and passage of the American Recovery and Reinvestment Act, the entire economic rationale for thestimulus package consisted of the job creation prediction in a document by Romer and Bernstein (2009).  The document claims it “suggests a methodology for ensuring the package contains enough stimulus. . . \[to\] create sufficient jobs to meet the Presidentelect’s goals \[p. 2\].” An appendix reports multipliers for a permanent increase in government spending and decrease in taxes of 1 percent of GDP. Four years after the initial stimulus, government purchases raise GDP by 1.55 percent, while tax cuts raise GDP by 0.98 percent. Sources for these numbers are reported as the Federal Reserve’s FRB/US model and “a leading private forecast firm.”
+>
+> To assess how this rationale for stimulus measures up in terms of transparency, I raise some questions that are not addressed in the Romer-Bernstein document, but are important for anchoring fiscal expectations:
+>
+> • What are the economic models underlying the multiplier numbers and are those numbers reproducible?\
+> • Why consider permanent changes in fiscal variables when the Act makes transitory changes?\
+> • What are the consequences of the stimulus for government debt?\
+> • What are the repercussions of significantly higher government debt?\
+> • Will the debt run-up be sustained or retired?\
+> • How will policies adjust in the future to either sustain or retire the debt?\
+> • What “methodology” does this document suggest for gauging the necessary size of fiscal stimulus?
+>
+> Some might accuse me of finding a straw man to ridicule. But this is an important example because of its potential impact on the world economy.
+
+The same questions could be asked in the Australian context.
+
+Robert Carling and I make a similar case for rules-based fiscal policy [here](http://www.cis.org.au/policy_monographs/pm98.pdf "here").

@@ -1,0 +1,11 @@
+---
+title: "A Higher Frequency CPI"
+date: "2010-12-22"
+categories: ["Economics", "Financial Markets", "Monetary Policy"]
+---
+
+Not content with a monthly CPI, an article in [Slate](http://www.slate.com/id/2278623/ "Slate") looks at the prospects for an even higher frequency CPI in the US. According to the article, the US CPI costs \$US234m a year to compile at a monthly frequency, which works out at about US\$0.75 per capita. The [ABS tells us](http://www.abs.gov.au/AUSSTATS/abs@.nsf/Latestproducts/6469.0Appendix5Dec%202010?opendocument&tabname=Notes&prodno=6469.0&issue=Dec%202010&num=&view= "ABS tells us") that a monthly CPI in Australia would cost \$A25m a year compared to the \$A10m it spends compiling the existing quarterly release, which works out at around \$A1.11 per capita.  There must be economies of scale in compiling the CPI. Otherwise, the ABS quote looks expensive, even at PPP exchange rates.
+
+I recall a certain market economist in the late 1990s who would embarrass the ABS by pointing out the above-CPI increases in the cover price of the ABS CPI publication.
+
+I make the case for a monthly CPI in Australia [here](../../files/ctoped1mar10.pdf "here").

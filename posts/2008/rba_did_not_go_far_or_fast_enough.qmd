@@ -1,0 +1,13 @@
+---
+title: "RBA Did Not Go Far or Fast Enough"
+date: "2008-08-12"
+categories: ["Economics", "Financial Markets"]
+---
+
+I have an op-ed in today’s [Age](http://business.theage.com.au/business/dont-count-ratecut-chickens-before-they-hatch--inflation-is-still-simmering-20080811-3to5.html?page=1# "Age"), arguing that:
+
+> *TURNING points in the official interest rate cycle are usually accompanied by claims that monetary policy has gone too far. But if there is any criticism to be made of the Reserve Bank’s most recent tightening cycle, it is that it did not tighten far or fast enough.*
+
+The August [Statement on Monetary Policy](http://rba.gov.au/PublicationsAndResearch/StatementsOnMonetaryPolicy/statement_on_monetary_0808.html "Statement on Monetary Policy") released yesterday contained this observation:
+
+> *the increase in CPI inflation in Australia is not due only to energy and food prices. Measuring ‘core’ inflation in a broadly similar manner to that used in other industrial countries, inflation excluding food and energy and financial services has increased from around 2 per cent to 3 per cent over the past few years in Australia. This calculation indicates that inflation pressures here have been more broadly based over the past couple of years than in other countries. Indeed, inflation in Australia is now higher than the median of comparable countries in nearly all of the 11 major CPI categories.*

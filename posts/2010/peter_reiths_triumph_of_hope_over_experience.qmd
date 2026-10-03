@@ -1,0 +1,11 @@
+---
+title: "Peter Reith’s Triumph of Hope Over Experience"
+date: "2010-10-05"
+categories: ["Economics", "Fiscal Policy"]
+---
+
+Robert Carling and I [recently argued](http://www.cis.org.au/media-information/opinion-pieces/article/2186-fiscal-authority-the-way-to-go "recently argued") that a parliamentary budget office was the wrong model for an improved fiscal responsibility framework in Australia. Former federal minister Peter Reith has an [op-ed in today’s Australian](http://www.theaustralian.com.au/news/opinion/dont-shortchange-a-parliamentary-budget-office/story-e6frg6zo-1225934043814 "op-ed in today’s Australian") arguing for a PBO, but his review of overseas experience does not inspire confidence:
+
+> *Hopefully, Australia’s PBO will not have the rocky start that the Canadians have had. Only recently, while I was in Canada, former deputy minister of finance Scott Clark wrote that the PBO had been an experiment in transparency and accessibility “that was doomed from the start”. Clark told me it was ironic that the Conservatives established the PBO in 2008, then undermined it from the start. The big problems have been a lack of independence, the failure to properly resource the PBO and the failure of government departments to provide necessary information. Clark says the PBO should be appointed and dismissed by parliament, not by the prime minister. It should be adequately resourced and have access to the same information as the auditor-general.*
+
+Carling and I have argued for an independent statutory Fiscal Commission, with Commissioners appointed in consultation with the states in much the same manner as the ACCC Commissioners. This was a theme I pursued at the recent Conference of Economist panel on Monetary and Fiscal Policy Interactions organised by Jan Libich from La Trobe University. The papers from the panel will appear in a future issue of Economic Papers.

@@ -1,0 +1,7 @@
+---
+title: "Steve Keen, They Hardly Knew You: Consumer House Price Expectations"
+date: "2009-05-27"
+categories: ["Economics", "House Prices"]
+---
+
+The most recent Westpac-MI Consumer Sentiment survey included a [question](http://www.westpac.com.au/manage/wrap.nsf/vPdfUrls/C3FF04F2435BE3F5CA2575BE00049C7A/$File/er20090522BullConsumerHousePriceExpectations.pdf?OpenElement "question") on expectations for house prices over the next 12 months.  Expectations were close to balanced nationally, with those expecting declines slightly outnumbering those expecting falls.  However, there was considerable sub-national variation.  Most pessimistic are the resource states of Queensland and WA, while the south-eastern states are relatively upbeat.  No change was the single most common expectation in every state, except NSW, where the single most common expectation was for a rise of 0-10%.

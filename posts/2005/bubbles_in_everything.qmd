@@ -1,0 +1,19 @@
+---
+title: "Bubbles in Everything"
+date: "2005-07-15"
+categories: ["Economics"]
+---
+
+There is not a single asset class that has not been pronounced as being in a ‘bubble’ in recent years.  My working definition of a bubble is anything that goes up in price faster than The Economist magazine can understand.  Now bubbles have apparently spread from assets to services, with a ‘bubble’ in, of all things, [freight](http://slate.msn.com/id/2122743/fr/rss/ "freight"):
+
+Clearly, investors in shipping companies—and the brokers who book freight—are looking beyond the horizon. It takes a long time to turn an oil tanker around, and the shipping market is slow to respond to sudden upturns in demand. Prices for freight rose so rapidly in 2003 and 2004 in part because it takes a long time to commission new oceangoing tankers and container ships.
+
+When demand rises more rapidly than capacity, of course, the natural response by companies is to increase capacity. But now there’s concern that capacity growth could outstrip demand. If China’s growth slows dramatically, and global demand for oil doesn’t materialize as projected, in a few years there may be a lot of empty ships haunting the seas, like so many Flying Dutchmans. And investors in many of these newly public companies could be left high and dry.
+
+What makes this article so annoying is that the author actually carefully analyses the various fundamental factors that are driving global freight, all of which argue against the notion that shipping is subject to a bubble, unless you see freight as being a sub-set of a China ‘bubble.’  It seems the author is using ‘bubble’ as shorthand for anything that is subject to a rise and possible fall in price driven by fluctuations in supply and demand.  That’s not a bubble: it’s a market.
+
+The article is also interesting in showing the parochial nature of the debate about capacity constraints in Australia.  US west coast ports are severely stretched coping with imports from China.  This is just the flipside of the commodities export bottlenecks in Australia. 
+
+While it is now taken as an article of faith that the Nasdaq saw a bubble in the late 1990s, this conventional wisdom is also being [challenged](http://www.smarteconomist.com/insight/68 "challenged"):\
+*\
+Contrary to what many academics and finance practitioners believe, Nasdaq prices at the turn of the millennium did not necessarily constitute a price bubble. The authors’ stock valuation model suggests that the fundamental value of firms increases with uncertainty about future profits. This uncertainty was abnormally high during the late 1990s and led prices to be unusually high as well. In fact, Nasdaq prices were not far from firms’ real values, so the description of the phenomenon as a bubble is incorrect.*

@@ -1,0 +1,11 @@
+---
+title: "GSE Debt: ‘Treasuries with Higher Yield’"
+date: "2011-07-14"
+categories: ["Economics", "Financial Markets"]
+---
+
+Why worry about US Treasuries when they’re [buried in agency debt](http://www.american.com/archive/2011/july/the-government2019s-four-decade-financial-experiment):
+
+> The expansion of agency debt not only imposes risk and realized losses on taxpayers—we recall the \$160 billion that the U.S. Treasury has been forced to put into Fannie and Freddie to prevent their financial collapse—it also increases the cost of Treasury’s direct financing by creating a huge pool of alternate government-backed securities to compete with Treasury securities, and thus increases the interest cost to taxpayers.
+>
+> So although agencies are not “officially government debt,” they undoubtedly increase the required interest rates on Treasury securities, in my judgment, and thus increase the federal deficit. The greater the amount of agency securities available as potential substitutes for Treasuries, the greater this effect must be. As a manager of a major institutional investor told me recently, “We view Fannie and Freddie MBS as Treasuries with a higher yield—so now we own very few Treasuries.”

@@ -1,0 +1,15 @@
+---
+title: "In Defence of Bernanke"
+date: "2006-07-13"
+categories: ["Economics", "Financial Markets"]
+---
+
+[James Surowiecki](http://www.newyorker.com/talk/content/articles/060710ta_talk_surowiecki "James Surowiecki") defends Ben Bernanke’s commitment to a more open communications style:
+
+> *acknowledging uncertainty doesn’t play well with the media or the market. Today, the Fed’s actions are subject to constant press scrutiny. And it’s easier to lure audiences by using labels like “hawk” and “dove” than by exploring the subtleties of forecasting an uncertain future. In theory, investors should look past the headlines to the substance, but if the multitudes are treating the headlines as important news it’s hard for any individual investor not to do likewise.*
+
+[John Taylor](http://online.wsj.com/article/SB115275691231905351.html?mod=opinion_main_commentaries "John Taylor") argues that recent Fed policy actions accord with his ‘Taylor principle:’
+
+> *Since the beginning of Mr. Bernanke’s term, the Fed has responded by raising the funds rate by 75 basis points—to 5.25% from 4.5%, which is the neutral rate according to the St. Louis Fed’s version of the “Taylor rule.” This rise appears to be more than the increase in inflation since the start of his term; so, thus far, the Bernanke Fed is following a key principle of monetary success. There is likely to be some more work to do, however. If the inflation rate of personal consumption expenditures (PCE) continues at the 3.3% pace of the past 12 months, then a funds rate of 6.5% will be needed.*
+
+Oddly enough, Taylor opposes formal inflation targeting, even though an inflation target is implicit in his Taylor rule.

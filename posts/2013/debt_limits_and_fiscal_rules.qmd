@@ -1,0 +1,13 @@
+---
+title: "Debt Limits and Fiscal Rules"
+date: "2013-12-10"
+categories: ["Economics", "Financial Markets", "Fiscal Policy"]
+---
+
+This week’s abolition of the local federal debt limit is a welcome development, but only because a debt limit in absolute dollar terms is not a well specified fiscal rule and was never intended to serve as such. The US debt limit, from which Australia’s took its inspiration, was also never intended to be a binding constraint on government borrowing, although threatened to become one on the back of poor fiscal outturns.
+
+The US debt ceiling was first put in place in the 1930s. Its purpose was to alleviate the US Treasury from having to seek Congressional authorisation for each individual debt issue. Instead, Treasury was given discretion to issue debt within the overall limit specified by Congress, but not in the expectation that it would serve as a binding constraint on government borrowing. Since 1960, the US debt limit has been amended by Congress 78 times. More recently, the US debt limit has been politicised and used a proxy fiscal rule, but is unfit for this purpose. Government borrowing is ultimately a product of government spending in excess of revenue and it is government spending that needs to be controlled.
+
+A net debt limit specified as a share of GDP rather than in absolute dollar terms is a better specification and a useful addition to a suite of fiscal rules designed to impose fiscal discipline, as I have argued elsewhere.
+
+A traditional objection to fiscal rules is that they might force a fiscal consolidation or prevent the operation of automatic stabilisers so that fiscal policy becomes pro- rather than counter-cyclical. However, as argued in my [AFR](../2013/the_30th_anniversary_of_the_floating_of_the_australian_dollar.qmd) op-ed Monday, this is only a problem in the absence of an independent monetary and exchange rate policy. An inflation targeting central bank and a floating exchange rate allows fiscal policy to focus on supply-side issues and long-run fiscal sustainability without being pre-occupied by aggregate demand management and macroeconomic stabilisation.

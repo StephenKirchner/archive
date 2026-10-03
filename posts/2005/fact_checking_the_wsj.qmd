@@ -1,0 +1,17 @@
+---
+title: "Fact Checking the WSJ"
+date: "2005-09-05"
+categories: ["Economics"]
+---
+
+I don’t mind the [WSJ](http://online.wsj.com/article/0,,SB112587344577631578,00.html?mod=opinion%5Fmain%5Feurope%5Fasia "WSJ") running a puff piece on Australia and Prime Minister John Howard, but at least get the facts straight:
+
+*When he entered office in 1996, unemployment was 9%, interest rates hovered around 20%.*
+
+No, the unemployment rate was 7.6% and the official cash rate was 7.5%. 
+
+Then there is this:
+
+*the debt is a puny 4 billion Aussie dollars.*
+
+True enough, but why stop with the current net debt figures.  In 2008-09, general government net debt is projected at -\$56,389 million or -5.3% of GDP.  But I’m guessing that a negative net debt position would be a little too tricky for the WSJ to explain to its readers.

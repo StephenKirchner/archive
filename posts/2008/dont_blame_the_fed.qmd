@@ -1,0 +1,15 @@
+---
+title: "Don’t Blame the Fed"
+date: "2008-04-18"
+categories: ["Economics", "Financial Markets"]
+---
+
+Why [Arnold Kling](http://econlog.econlib.org/archives/2008/04/why_i_am_an_aus.html "Arnold Kling") is not an Austrian:
+
+> over the past year the shocks to financial markets in the United States have sent signals to entrepreneurs and workers to leave the housing construction industry and instead to get into, say, export industries or import-competing industries. This is easier said than done, so in the meantime unemployment rises and output falls short of potential.
+>
+> I believe that shocks to the financial system often are market-generated. In contrast, an Austrian would insist that the Fed is responsible for all bad things, such as the subprime mortgage market boom and bust.
+>
+> Attributing every financial distortion to Fed behavior can be almost tautological if one is not careful. Here, the Austrian bias against empiricism gives me trouble. I would like the hypothesis that all economy-wide shocks are caused by the Fed to be falsifiable.
+>
+> To the extent that Austrians make predictions that sound falsifiable, they tend to be like Paul Krugman (who is not an Austrian), repeating a mantra “bad times are coming, bad times are coming” every year. Then, when bad times come they can say, “See, I told you so.” It would be more interesting if every once in a while they predicted good times.

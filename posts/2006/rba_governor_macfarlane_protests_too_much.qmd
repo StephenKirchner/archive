@@ -1,0 +1,25 @@
+---
+title: "RBA Governor Macfarlane Protests Too Much"
+date: "2006-08-19"
+categories: ["Economics", "Financial Markets"]
+---
+
+In his appearance before the House Economics Committee on Friday, RBA Governor Macfarlane complained that some of his remarks before a previous Committee hearing had been taken out of context.  In an [interview](http://www.smh.com.au/news/national/a-man-of-great-reserve/2006/08/18/1155408025320.html?page=fullpage#contentSwap2 "interview") in today’s SMH, Macfarlane also complains about the way the issue of interest rates was handled during the last federal election campaign, saying that:
+
+> *we thought that the independence of the Reserve Bank was already so well established that that argument would not be a plausible argument.*
+
+Yet in the same interview, Macfarlane takes pride in his almost non-existent public profile during his 10 years as Governor:
+
+> He went the length of his term without giving an on-the-record interview to any Australian media outlet, or appearing once on TV or radio, a matter of considerable pride to him. “I’ve never been able to see how that could possibly be in the interests of the Reserve Bank. As far as I could see it would probably trivialise things. You have to be honest and forthright but you don’t have to be constantly pontificating. You’re not an economic commentator.”
+>
+> He says there is a difference between transparency and self-promotion, “and I don’t think it would be a good idea to go into self-promotion”. There is an implied rebuke here to others, such as Greenspan, who have allowed their own personality cults to overshadow their institutions.
+
+The comparison with the Fed is appropriate, because it shows what an absurd argument it is to suggest that the Governor of the Reserve Bank should not be an active participant in economic debate.  The Fed Chairman, the Federal Reserve Board Governors and Federal Reserve Bank Presidents who serve on the Federal Open Market Committee have high public profiles, routinely speak out on a wide range of economic issues and are often critical of the government on issues such as fiscal policy.
+
+Macfarlane was understandably reluctant not to have the Bank drawn into partisan political debate and it would certainly be inappropriate for the Bank to have adjudicated on competing claims about interest rates during the last federal election.  Yet it is the Bank’s more general absence from public debate that makes it more likely that issues surrounding the determination of official interest rates will be misrepresented.
+
+While Macfarlane would see himself as upholding the independence of the Bank, the fact that he felt unable to speak out as Governor for fear of coming into conflict with the Treasurer speaks volumes about the nature of the RBA’s independence.  For all the hype surrounding the August 1996 Joint Statement on the Conduct of Monetary Policy, it amounted to little more than a codification of existing practice and left the statutory basis for RBA independence unchanged.  A central bank governor who feels unable to publicly criticise the government of the day is lacking independence, not upholding it.
+
+It should also be said that Macfarlane’s public reticence also extended to his areas of direct responsibility.  In his appearance before the House Economics Committee on Friday, Macfarlane sounded positively put upon when asked to express an opinion on the direction of interest rates, having studiously avoided any discussion of the issue in his prepared statement.  While Macfarlane did then venture an opinion, it was one the Bank did not bother to include in its Statement on Monetary Policy only two week’s previously.  This was a [repeat performance of the February hearings](../2006/the_rbas_historical_revisionism.qmd "repeat performance of the February hearings"), when Macfarlane also offered a view on the direction of interest rates that was more explicit than the preceding SOMP.  What this shows is that Bank often has a view on the direction of interest rates that it is not willing to share with the public, except on an ad hoc basis in response to questions from a Committee before which the Governor appears only twice per year.
+
+Macfarlane can hardly complain about the course of public debate when he was so obviously unwilling to participate in it.

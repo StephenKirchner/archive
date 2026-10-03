@@ -1,0 +1,7 @@
+---
+title: "Horizontal Fiscal Equalisation in Australia"
+date: "2013-10-22"
+categories: ["Economics", "Fiscal Policy"]
+---
+
+The Fraser Institute has released a collection of essays on [Federalism and Fiscal Transfers](http://www.fraserinstitute.org/research-news/display.aspx?id=20502), including my essay on Australia’s experience with horizontal fiscal equalisation. The efficiency and equity implications of horizontal fiscal equalisation in Australia are theoretically and empirically ambiguous, arguing against overly ambitious attempts at equalisation. The 2002 Garnaut-FitzGerald Review of Commonwealth-State Funding still remains the best reform proposal.

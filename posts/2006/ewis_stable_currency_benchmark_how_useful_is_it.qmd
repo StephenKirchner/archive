@@ -1,0 +1,21 @@
+---
+title: "EWI’s Stable Currency Benchmark: How Useful Is It?"
+date: "2006-11-24"
+categories: ["Economics", "Financial Markets"]
+---
+
+[Elliott Wave International](http://www.elliottwave.com/a.asp?url=/&cn=4ie "Elliott Wave International") has developed a [Stable Currency Benchmark](http://www.stablecurrencybenchmark.com/default.aspx "Stable Currency Benchmark") (BEWI Index DES
+
+on Bloomberg) that is designed to serve as an alternative valuation metric for assets denominated in specific currencies and as a vehicle for protecting ‘global purchasing power.’  The SCB gives a 25% weight to each of the US, New Zealand and Singapore dollars and the Swiss franc.
+
+The role of alternative valuation metric recognises the simple fact that changes in the price of given assets can look very different when denominated in other currencies.  For example, the gold price can look very different when quoted in euros or the Australian dollar.  The much vaunted relationship between the USD and the gold price is partly just a straightforward valuation effect that arises from the fact that gold, along with most other commodities, is typically quoted in USD. 
+
+This leads to the second concern about ‘global purchasing power.’  The SCB is designed to offer protection against a loss of ‘global purchasing power’ due to exposure to a single currency.  Since most investors do most of their purchasing in their home market, the need for such protection is far from obvious.  Investing in foreign currencies or foreign currency-denominated assets, rather than providing a hedge against loss of ‘global purchasing power,’ gives the investor an additional exposure to movements in foreign exchange rates, as well the underlying assets themselves. 
+
+This is why many investors hedge their holdings of foreign currency denominated assets against exchange rate movements.  They are more concerned about securing the domestic purchasing power of their foreign asset holdings than their ‘global purchasing power,’ and so are often more than happy to give up possible gains from exchange rate movements in exchange for protection against exchange rate losses.  Hedging foreign asset holdings back into an investor’s home currency offers better protection of purchasing power than taking on an unhedged exposure to even a well diversified basket of foreign currencies
+
+The composition of the SCB is also a curious one.  While the NZ dollar has the desirable characteristic of being backed by a generally sound monetary and fiscal policy, it is subject to large cyclical fluctuations.  These fluctuations play an important role in insulating NZ against external shocks.  While the NZD offers a high yield that appeals to foreign investors, an exposure to the NZD is essentially an exposure to a highly cyclical, small open economy.
+
+The Singapore dollar is actively managed by the Monetary Authority of Singapore against a basket of foreign currencies, which serves as the main vehicle by which Singapore conducts its monetary policy.  Singapore has a policy of ‘non-internationalisation’ of the Singapore dollar, discouraging its use for purposes other than those related to economic activity in Singapore.  In practice, this policy relies on only very modest restrictions, since most non-residents have little interest in holding Singapore dollars.  While its use as a monetary policy instrument gives the Singapore dollar some stability, holding Singapore dollars still involves taking on an exposure to the business cycle of a small city-state, whose economy is in turn highly exposed to the global business cycle. 
+
+The SCB would thus appear to be of limited value.  It is far from clear why most investors should care about the performance of their assets measured against the SCB, as opposed to their home currency.  At the same time, investments in the SCB involve foreign currency exposures that, however well diversified, may well do more harm to one’s domestic purchasing power than they do to enhance ‘global purchasing power.’

@@ -1,0 +1,9 @@
+---
+title: "Mankiw on Clueless Pundits"
+date: "2005-05-25"
+categories: ["Economics"]
+---
+
+Greg Mankiw interviewed in [Fortune](http://www.fortune.com/fortune/articles/0,15114,1064384-7,00.html#krug "Fortune"):
+
+*There are a lot of preconceived notions from people in the media who write stuff based on no knowledge at all. There are a lot of people who just make stuff up…Let me give you example. This is as I was arriving \[as the new chair of the White House Council of Economic Advisers\]. Glenn Hubbard, my predecessor, was leaving. I read one of Paul Krugman’s New York Times’ columns, and he said something like, “Hubbard said he was leaving to be with his family, but you could see the knives sticking out of his back.” The suggestion was that he’s being kicked out. I knew that wasn’t true. I knew I got the job in large part because Glenn recommended me. So here we have Krugman sitting in some office in New Jersey making a supposition about what’s going on in Washington and then writing for the New York Times, with readers presuming that he knew something.*

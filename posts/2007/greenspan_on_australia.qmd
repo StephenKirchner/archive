@@ -1,0 +1,9 @@
+---
+title: "Greenspan on Australia"
+date: "2007-09-19"
+categories: ["Economics", "Financial Markets"]
+---
+
+Australia features in Greenspan’s memoir, [The Age of Turbulence](http://www.amazon.com/gp/product/1594201315/002-2289919-9243250?ie=UTF8&tag=institutional-20&linkCode=xm2&camp=1789&creativeASIN=1594201315 "The Age of Turbulence"):
+
+> *Australia has always fascinated me as a microcosm of the United States in many ways. It is a land with vast open spaces, similar in many respects to the American West.  I know I can’t generalise on the basis of a few years of observations, but I nonetheless found myself during my tenure at the Fed looking to Australia as the leading indicator of many aspects of US economic performance.  I continually monitor Australia’s current account deficit, which has persisted far longer than that of the United States with no evident significant micro-economic impact other than large increasing foreign ownership of Australian corporate assets.*

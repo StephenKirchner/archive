@@ -1,0 +1,13 @@
+---
+title: "The political health of the Medibank Private sale"
+date: "2006-09-12"
+categories: ["Politics"]
+---
+
+Despite its name, [Medibank Private](http://www.medibank.com.au/ "Medibank Private") is owned by the Australian government, which wants to sell it - though [there seems to be some confusion](http://www.theage.com.au/news/national/medibank-sale-in-doubt/2006/09/12/1157826910043.html "there seems to be some confusion") within the Cabinet as to whether or not this year is the right time to do so.
+
+One thing we can be sure of, though, is that public opinion won’t support it. In the 1980s, there was some popular support for privatisation, but it went into decline after major privatisations began in the early 1990s. Asked at an abstract level in 2005 (in the Australian Survey of Social Attitudes) whether privatisation brought more benefits than costs, 53% disagreed and 17.5% agreed. On more specific privatisations, some of the ‘don’t know’ respondents say ‘no’, with about two-thirds typically against the two main recent sale proposals, Telstra and Medibank Private. This was [seen again in an ACNielsen poll](http://www.theage.com.au/news/national/public-thumbs-down-for-medibank-sale/2006/09/11/1157826875276.html "seen again in an ACNielsen poll") published in this morning’s Fairfax broadsheets, with 63% against selling Medibank Private off and 17% in favour. Newspoll [recorded almost the same result](http://www.hsu.net.au/news/1145405627_403.html "recorded almost the same result") back in April.
+
+Politically, I believe that marketisation and privatisation are contrary agendas - though in a policy sense they are synergistic agendas. The pragmatic Australian electorate wants reliable, cheap services, and [as I argued last year in Telstra’s case](http://catallaxyfiles.com/?p=1090 "as I argued last year in Telstra's case") if things are broadly ok people will stick with the safe status quo. Telstra’s service levels have improved significantly since the telecommunications market was opened up, and so removed the ‘do something, anything’ frustrations that were probably driving pro-privatisation opinion. Similarly, Medibank Private operates in a competitive market already so it is hard to see how privatisation will create any significant consumer benefits, and indeed as the Newspoll found most people think premiums would rise if it was privatised (though in reality competitive conditions in the industry will be the main determinant of prices).
+
+The government isn’t likely to win this debate, but far more significant privatisations than Medibank Private have proceeded without obvious political cost, so they may as well take the cash from a sale if and when they can.

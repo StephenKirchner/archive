@@ -1,0 +1,21 @@
+---
+title: "Upstaged by a Teenage Economist"
+date: "2008-04-05"
+categories: ["Economics", "Financial Markets"]
+---
+
+The first appearance by RBA Governor Stevens before the House Economics Committee since last year’s federal election saw very little change in the dynamics of these hearings.  Rather than seeking to hold the Governor accountable for inflation outcomes, Committee members continue to treat the Governor as an oracle whose main role is to adjudicate in their partisan disputes.  Instead of criticising the Bank’s conduct of monetary policy, Coalition members tried to enlist the Governor into their inflation denialism.  Both government and opposition members continued to ask questions that are simply outside the Governor’s statutory responsibilities.
+
+Committee members were then well and truly [upstaged](http://www.aph.gov.au/hansard/reps/commttee/R10715.pdf "upstaged") by one of the high school students invited to submit questions to the RBA Governor:
+
+> Ardi Astarto—Good morning. In an article published in the American Economic Review in 1995 the economist Carl Walsh argued that governments should impose a personal financial penalty on their central bank governors if they failed to meet their set inflation targets and that the further the actual inflation rate is from the target the greater the penalty should be. This idea is supported in principle by the current governor of the US Federal Reserve, Ben Bernanke. Do you support or are you opposed to being made accountable for your decisions in this way?
+>
+> Mr Stevens—That is an interesting proposition. To my knowledge no country has actually implemented it—that could be because central bank governors cannot actually control inflation exactly over short periods; there are other things that impinge on it. It could also be that you do not actually want the governor to try to control inflation too closely over a very short period; otherwise you may find that the rest of the economy is swung around more than it needs to be.  So that is why our system is actually for a flexible target that lets us bring inflation back on course gradually so that we do not do too much damage to other things in the process. As for my own remuneration, that is set by my board, and I gratefully accept whatever they choose to give me.
+
+It says a lot about the politics of monetary policy in Australia that the only person who knows what they’re doing in these hearings is still in high school.
+
+Deputy Governor Ric Battellino did a good job laying to rest the myth of mass mortgage stress:
+
+> *Over the past couple of decades, as Glenn has mentioned, we have moved to a system where finance is readily available in the community. That is in marked contrast to where we were in the 1970s, where basically the average person had a great deal of difficulty getting money from a bank. In the current system the onus is more now on the individuals to be careful about accessing finance. Thirty years ago, basically it was less likely that people got themselves into trouble, because money was not available. I have seen the program. It is hard to draw general conclusions from a program like that, because, in the end, there were very few people on that program. There is no doubt that in a community of 20 million people there are going to be some people in trouble. But looking across the whole economy the figures show—I think our calculations are—there are 15,000 people in the whole of Australia who are running 90 days overdue on their housing loans. The aggregate figure is not a lot of people and, as Glenn said, recently it has been coming down again.*
+
+More in this week’s Business Spectator [column](http://www.businessspectator.com.au/bs.nsf/Article/THE-WEEKEND-ECONOMIST-How-appropriate-DD993?OpenDocument "column").

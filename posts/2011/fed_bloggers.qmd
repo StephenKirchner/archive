@@ -1,0 +1,13 @@
+---
+title: "Fed Bloggers"
+date: "2011-03-22"
+categories: ["Economics", "Monetary Policy"]
+---
+
+The Federal Reserve Bank of New York has launched a new blog, [Liberty Street Economics](http://libertystreeteconomics.newyorkfed.org/2011/03/welcome-to-liberty-street-economics.html), following in the footsteps of the Atlanta Fed’s [Macroblog](http://macroblog.typepad.com/). From their introductory post:
+
+> We have created this blog to augment our existing publications by providing a way for our economists to engage with the public about economic issues quickly and frequently. Further, the less technical style that we are striving for in the blog posts should make the insights from our research informative to a broader audience…
+>
+> There are some topics that you will not find in the Liberty Street Economicsblog. We will not be blogging on the next policy move of the Federal Open Market Committee (FOMC) or other issues that only the FOMC or other policymakers could know. And the blog posts will not necessarily reflect the official opinion of the Federal Reserve Bank of New York or the Federal Reserve System.
+
+I wouldn’t hold your breath waiting for the RBA to start blogging.

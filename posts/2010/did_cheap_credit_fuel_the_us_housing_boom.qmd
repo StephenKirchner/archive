@@ -1,0 +1,15 @@
+---
+title: "Did Cheap Credit Fuel the US Housing Boom?"
+date: "2010-08-04"
+categories: ["Economics", "Financial Markets", "House Prices", "Monetary Policy"]
+---
+
+No, according to [Ed Glaeser and his co-authors](http://www.economics.harvard.edu/faculty/glaeser/files/Glaeser_Cheap_Credit.pdf "Ed Glaeser and his co-authors"):
+
+> *Interest rates do influence house prices, but they cannot provide anything close to a complete explanation of the great housing market gyrations between 1996 and 2010. Over the long 1996-2006 boom, they cannot account for more than one-fifth of the rise in house prices. Their biggest predictive influence is during the 2000-2005 period, when long rates fell by almost 200 basis points. That can account for about 45% of the run-up in home values nationally during that half-decade span. However, if one is going to cherry-pick time periods, it also must be noted that falling real rates during the 2006-2008 price bust simply cannot account for the 10% decline in FHFA indexes those years. There is no convincing evidence from the data that approval rates or down payment requirements can explain most or all of the movement in house prices either.*
+
+The authors also note that Robert Shiller’s ‘irrational exuberance’ is a non-explanation:
+
+> *even if Case and Shiller are correct, and over-optimism was critical, this merely pushes the puzzle back a step. Why were buyers so overly optimistic about prices? Why did that optimism show up during the early years of the past decade and why did it show up in some markets but not others? Irrational expectations are clearly not exogenous, so what explains them? This seems like a pressing topic for future research. Moreover, since we do not understand the process that creates and sustains irrational beliefs, we cannot be confident that a different interest rate policy wouldn’t have stopped the bubble at some earlier stage. It is certainly conceivable that a sharp rise in interest rates in 2004 would have let the air out of the bubble. But this is mere speculation that only highlights the need for further research focusing on the interplay between bubbles, beliefs and credit market conditions.*
+
+A more fruitful line of inquiry would be to investigate fundamental factors such as the role of US housing GSEs in distorting the allocation of global capital.

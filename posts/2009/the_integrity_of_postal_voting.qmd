@@ -1,0 +1,17 @@
+---
+title: "The Integrity of Postal Voting"
+date: "2009-10-18"
+categories: ["Politics"]
+---
+
+[Peter van Onselen](http://www.theaustralian.news.com.au/story/0,25197,26220269-5014047,00.html "Peter van Onselen") on Australia’s internationally anomalous system of postal voting and why you should never use the postal voting forms sent out by politicians:
+
+> Political parties operate sophisticated databases that track voters, recording their voting intentions and issues of interest. They are a central element of the professionalisation of politics in this country.
+>
+> The Labor database carries the sinister-sounding name Electrac. The Liberal database is called Feedback.
+>
+> When postal vote forms come in - and in complete violation of the principle of the secret ballot - the name of the voter is checked into the database and if they have had their voting intention previously identified (through doorknocking or telephone canvassing), the party knows how diligently it may be in looking to forward the form to the AEC.
+>
+> Kelly writes in his paper: “It is conceivable that a party might delay forwarding a completed postal voting application to the AEC if the elector is identified as a non-supporter.” He casts his concerns more broadly: “While political parties continue to be allowed to be involved in the postal voting process, the integrity of Australia’s ‘independent’ electoral administration is undermined.” …
+>
+> At the very least the privacy of voters is under siege when party operatives are using databases to cross-check voting intentions of postal voting electors. If political parties had not exempted themselves from the Privacy Act (our legislators in action) they would not be allowed to operate the postal voting system as they do.

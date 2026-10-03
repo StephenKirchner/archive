@@ -1,0 +1,11 @@
+---
+title: "What Did They Know and When Did They Know It: Ex-Ante Views on US Housing"
+date: "2010-08-17"
+categories: ["Economics", "Financial Markets", "House Prices"]
+---
+
+Looking through all the after-the-fact wisdom and hand-wringing, a [Boston Fed discussion paper](http://www.bos.frb.org/economic/ppdp/2010/ppdp1005.htm "Boston Fed discussion paper") examines the ex ante views of economists in relation to the US housing market:
+
+> *From our review of the pre-crisis housing literature from the early-to-mid-2000s, it is apparent that well-trained and well-respected economists with the best of motives could and did look at the same data and come to vastly different conclusions about the future trajectory of U.S. housing prices. This is not such a surprising observation once one realizes that the state-of-the-art tools of economic science were not capable of predicting with any degree of certainty the collapse of U.S. house prices that started in 2006.*
+
+The paper has mostly fatal implications for the idea that the authorities can actively manage cycles in house prices.

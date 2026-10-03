@@ -1,0 +1,15 @@
+---
+title: "The Wizards of Oz: Behind the Curtain"
+date: "2009-08-10"
+categories: ["Economics", "Financial Markets", "Monetary Policy"]
+---
+
+The always interesting [Scott Sumner](http://blogsandwikis.bentley.edu/themoneyillusion/?p=2139 "Scott Sumner") (who is right on most things) falls into the grass-is-always-greener trap that seems to afflict many Americans when it comes to monetary policy:
+
+> *Earlier I said Australia is very similar to the US.  The main difference is that the wizards who run monetary policy in Australia don’t listen to Puritans who insist we must suffer high unemployment for our sins. *
+
+Scott is impressed with Australia’s high rates of nominal GDP growth, which he attributes to superior monetary policy.  But as Scott himself notes, Australia has had a high average growth rate for nearly 20 years.  Real growth has also averaged at or near the top of the OECD.  In other words, this outperformance is structural rather than cyclical and has little to do with short-run demand management.  The fact that Australia has continued to outperform in the context of a global economic downturn lends further weight to the view that this outperformance has been structural rather than cyclical.
+
+Scott fails to consider the downside of this high rate of nominal GDP growth: a high rate of inflation.  While Australia’s headline inflation rate has moderated recently, the [statistical core series](http://www.abs.gov.au/AUSSTATS/abs@.nsf/Latestproducts/6401.0Main%20Features5Jun%202009?opendocument&tabname=Summary&prodno=6401.0&issue=Jun%202009&num=&view= "statistical core series") that capture the persistent component of inflation are still running well above the upper bound of the RBA’s 2-3% target range, even after a nearly two percentage point increase in the unemployment rate.  Australia consequently also has some of the highest nominal interest rates of any developed country.  As Friedman noted, high nominal rates are often indicative of monetary policy that is too loose due to a high inflation premium. 
+
+The RBA’s inflation target range has a mid-point above the 2% widely considered to be consistent with price stability in the rest of the world.  Australia has thus institutionalised a relatively high rate inflation.  If the central bank’s primary responsibility is long-run inflation and price stability rather than nominal income growth, then Australia’s monetary policy performance does not compare favourably to the US.  What is considered to be an acceptable inflation rate in Australia would be considered a policy failure in the US.

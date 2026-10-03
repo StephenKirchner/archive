@@ -1,0 +1,21 @@
+---
+title: "The RBA’s Historical Revisionism"
+date: "2006-05-06"
+categories: ["Economics"]
+---
+
+The RBA’s quarterly [Statement on Monetary Policy](http://www.rba.gov.au/PublicationsAndResearch/StatementsOnMonetaryPolicy/index.html "Statement on Monetary Policy") is something of a misnomer, because most of the document studiously avoids any discussion of monetary policy as such.  Monetary policy gets at best a few lines describing recent policy actions (or lack of action).  Another few lines contain a broadbrush inflation forecast, which is the bottom-line for policy and from which policy inferences can be made. 
+
+Even though the inflation forecast is made on a no policy change basis, there is a sense in which the inflation forecast is endogenous.  It is unlikely the Bank would ever forecast inflation outside the target range in the SOMP, because by the time such a forecast made it into the quarterly Statement, the RBA would almost certainly have acted on that forecast with a change in interest rates.  The May Statement was a case in point, with the inflation forecast left unchanged, largely because the RBA had already tightened earlier in the week. 
+
+It is surprising then that so many in the markets look to the Statement for an explicit policy bias, since more often than not, it has none.  The May Statement contained a little exercise historical revisionism, in which the RBA sought to retrofit a bias that was far from apparent in recent SOMP’s.  According to the May SOMP:
+
+*the Board had taken the view that the next move in interest rates was more likely to be up than down, and this was signalled in the Bank’s policy statements.*
+
+In a narrow sense, this is untrue.  Both the November and February SOMP’s said that ‘the Board recognises that policy would need to respond in the event that demand or inflation pressures prove stronger than currently expected.’  This falls well short of an explicit tightening bias and is little more than a statement of the obvious.
+
+It was left to Governor Macfarlane to make it explicit, firstly in off the cuff remarks in response to a question at an ABE dinner in December last year and again in testimony before the House Economics Committee in February.  As we noted at the time, [Labor MHR Dr Craig Emerson](../2006/the_rbas_policy_bias.qmd "Labor MHR Dr Craig Emerson") was astute enough to pick the discrepancy between the February Statement and Macfarlane’s testimony.  So what started as little more than an obvious statement of risks in the November SOMP turned into a May tightening, without ever making its way into a SOMP as an explicit tightening bias.
+
+The May tightening statement also noted that underlying inflation in Q1 was running at 2.75%.  The only “underlying” measures of inflation running at around this rate in Q1 were the RBA’s statistical weighted median and trimmed mean series.  The statistical series are sometimes referred to as the “RBA core” series, but only in the sense that the RBA constructs and publishes them.  These measures seek to identify the central tendency of inflation, but are necessarily somewhat arbitrary in what they exclude.  The exclusions-based analytical series calculated by the ABS have a stronger economic motivation, in that they exclude items which are known to be volatile or that are non-market determined.
+
+The reason the median market economist gave only a 40% probability to a rate rise in May was that they were looking at the ABS exclusions-based core series, which was running at only 1.7% y/y in Q1.  The RBA has given “underlying” inflation an Alice in Wonderland quality, in which underlying inflation means whatever the RBA chooses it to mean.

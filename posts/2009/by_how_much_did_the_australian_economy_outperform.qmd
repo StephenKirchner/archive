@@ -1,0 +1,9 @@
+---
+title: "By How Much Did the Australian Economy Outperform?"
+date: "2009-06-04"
+categories: ["Economics", "Financial Markets", "Fiscal Policy"]
+---
+
+Updating our earlier [model](../2009/a_simple_test_for_the_effectiveness_of_macro_policy_stimulus_in_australia.qmd "model") of Australian GDP growth for yesterday’s data revisions yields a forecast for the March quarter of -0.5% q/q compared to an actual result of 0.4% q/q.  So growth was 0.9 percentage points stronger than a forecast based solely on US GDP growth.  This outperformance is even larger if we believe the expenditure measure of GDP (1.1% q/q), but turns into underperformance if we believe the conceptually equivalent production measure, which came in at -0.9% q/q.
+
+Of all the country-specific factors that might account for this outperformance, discretionary fiscal policy is likely to have been the least of them.

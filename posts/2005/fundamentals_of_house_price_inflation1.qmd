@@ -1,0 +1,11 @@
+---
+title: "Fundamentals of House Price Inflation"
+date: "2005-12-07"
+categories: ["Economics"]
+---
+
+There is a remarkable coincidence between Q3 [capital city house price growth](http://www.abs.gov.au/ausstats/abs@.nsf/Lookup/70FFF157FB8E05B9CA2568A90013937B "capital city house price growth") and growth in state final demand, as recorded in the Q3 [national accounts](http://www.abs.gov.au/ausstats/abs@.nsf/Lookup/35F488B5F9F7D242CA256DF000814610 "national accounts").  House prices in Sydney have recorded the largest decline of the capital cities at -4.7% y/y.  NSW also saw the weakest growth in state final demand of 2.3% y/y.
+
+The two cities with the strongest annual house price growth were Darwin, NT at 21.9% y/y and Perth, WA at 17.7% y/y.  These just happen to be the capitals of the mainland states that recorded the strongest growth in state final demand at 13.6% y/y and 6.7% y/y respectively.
+
+This is an interesting test of causality. It has been common for analysts to attribute moderating economic growth nationally to a wealth effect from more subdued growth in house prices.  Yet we know that economic growth in WA and NT is benefiting strongly from the global boom in commodity prices, a development that is entirely exogenous to the domestic economy.  This would strongly suggest that it is broader economic developments that are driving house prices, not the other way around.  On a state-by-state basis, house prices would seem to have a firm connection with fundamentals.

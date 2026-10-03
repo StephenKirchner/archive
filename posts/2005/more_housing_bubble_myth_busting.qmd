@@ -1,0 +1,9 @@
+---
+title: "More Housing ‘Bubble’ Myth Busting"
+date: "2005-10-31"
+categories: ["Economics"]
+---
+
+[IMF research](http://www.imf.org/external/pubs/ft/wp/2005/wp05200.pdf "IMF research") points to the role of mortgage securitisation in reducing deviations in house prices from fundamentals:
+
+*With funding conditions now determined in a national market, trends in real activity and prices have become less cyclical and converged across all regions of the United States. As a result, a model of housing prices based on economic fundamentals finds that pricing errors—the deviations of actual prices from those estimated in the model—have fallen by half. Moreover, a change in homebuilders’ behavior—in particular, a move away from speculative starts and a reduction of levels of inventories of new homes—has reduced the risk of a sharp decline in housing prices, although some indicators suggest speculative pressures in a number of metropolitan areas. This stabilization of housing activity may have made an important contribution to the reduction of the volatility of GDP growth over the same period.*

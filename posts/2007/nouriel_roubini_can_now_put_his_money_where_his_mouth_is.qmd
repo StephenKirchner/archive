@@ -1,0 +1,21 @@
+---
+title: "Nouriel Roubini Can Now Put His Money Where His Mouth Is"
+date: "2007-01-05"
+categories: ["Economics", "Financial Markets"]
+---
+
+Doomsday cultists like Nouriel Roubini can now put their money where their mouth is with [Intrade’s](http://www.intrade.com/apply.jsp?heardFromPromotionDetail=s0545138709r "Intrade’s") 2007 US recession contract:
+
+> Contract on US Economy going into Recession
+>
+> Thursday, Jan 4, 2007
+>
+> The Exchange has listed a contract on the United States economy going into recession during 2007. This contract can be found under Financial—Economic Numbers—US Economy in Recession.
+>
+> This contract will expire at 100 if the United States economy goes into recession during 2007. The contract will expire at 0 if it does not.
+>
+> For expiry purposes a recession is defined as two successive quarters of negative real economic growth. Expiry will be based on figures released by the United States Department of Commerce and reported in three independent and reliable media sources.
+>
+> The contract will be expired once the 2007 fourth-quarter figures are released (may not be until 2008). If however the 2007 third-quarter figures show positive growth the contract will be expired at 0.
+
+As is often the case with prediction markets, the contract specification raises more questions than it answers.  There is no reference to whether the contract expires with the advance, preliminary or final GDP releases.  The potential expiry with the Q3 release still leaves open the possibility of a recession in 2007 as a result of revisions to historical data.  You could be right about a recession in 2007 and still lose money with this contract specification.  And why do we need the media to confirm data released by the BEA?  Perhaps Intrade are trying to avoid the problems that arose with their [North Korean missile launch contract](../2006/when_a_nork_missile_launch_is_not_a_nork_missile_launch_can_a_prediction_ma.qmd "North Korean missile launch contract").

@@ -1,0 +1,17 @@
+---
+title: "The Inflation Forecast that Isn’t"
+date: "2005-05-07"
+categories: ["Economics"]
+---
+
+The now institutionalised process of pre-Budget leaks is in full swing.  Some leaks are not as impressive as they sound.  [John Garnaut](http://www.smh.com.au/news/Business/Growth-slows-as-surplus-fattens/2005/05/06/1115092685029.html?oneclick=true "John Garnaut") writes-up the sometimes market-sensitive Budget economic forecasts:
+
+*The budget papers will also predict consumer prices will grow by 2.5 per cent next financial year, in the middle of the Reserve Bank’s inflation target zone of 2 and 3 per cent.  The benign inflation outlook is unchanged from last year’s budget forecast.*
+
+This seemingly unchanged outlook is not a coincidence.  The Treasury’s inflation forecast is more of a technical assumption that the RBA will do its job properly, rather than an actual forecast.  Inflation is not an exogenous variable under an inflation targeting regime.  The Treasury’s inflation forecast is necessarily endogenous to the RBA’s policy actions, even with a steady interest rate assumption.  There is very little scope for Treasury to present an alternative point of view without implicitly forecasting a monetary policy mistake.  This makes a nonsense of Garnaut’s claim that the Treasury’s forecast:
+
+*marks a victory for Mr Costello and Treasury in their recent tug-of-war with the Reserve Bank over interest rates.  In February the bank highlighted the risk that inflation would rise above 3 per cent next.  But yesterday the bank retreated, after tense boardroom debates involving the Treasury Secretary, Ken Henry, over assumptions used to support the bank’s inflation forecasts.*
+
+The fact that the RBA did not actually lower its inflation forecast in the May SOMP does not suggest much of a retreat to me.  This tendency to overinterpret differences between the RBA and Treasury on inflation is no doubt one of the reasons the RBA persists in presenting its forecasts in a very informal way.  The RBA is trying, not very successfully, to avoid silly beat-ups like this by making its forecasts not directly comparable with those of Treasury, while maintaining the public fiction that inflation outcomes are independent of its policy actions. 
+
+The obvious solution is for both the RBA and Treasury to fully endogenise their macro forecasts to the inflation targeting regime.  This would force the RBA to present a projection for the official cash rate consistent with the maintenance of the inflation target.  By making it obvious that inflation is not an independent variable, it would reinforce the credibility of the inflation target and might even enable a lowering in nominal interest rates.

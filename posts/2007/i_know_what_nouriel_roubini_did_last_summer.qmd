@@ -1,0 +1,7 @@
+---
+title: "I Know What Nouriel Roubini Did Last Summer"
+date: "2007-01-11"
+categories: ["Economics", "Financial Markets"]
+---
+
+We have [previously noted](../2006/larry_kudlow_notes_that_the_us_november_retail_sales_report_almost_single_h.qmd "previously noted") that the US November retail trade report almost single-handedly tanked Nouriel Roubini’s call for flat US GDP growth in Q4 2006.  The November [trade](http://bea.gov/bea/newsrel/tradnewsrelease.htm "trade") and [wholesale trade](http://www.census.gov/mwts/www/currentwhl.html "wholesale trade") data releases have seen economists further revising their Q4 growth forecasts, with some seeing a 3%-handle as increasingly likely.

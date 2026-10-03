@@ -1,0 +1,9 @@
+---
+title: "The RBA’s Policy Bias"
+date: "2006-02-17"
+categories: ["Economics"]
+---
+
+In a rare display of insight on the part of a member of the House Economics Committee, Craig Emerson questioned RBA Governor Macfarlane on differences in the Bank’s presentation of its policy bias in his prepared [testimony](http://www.rba.gov.au/Speeches/2006/sp_gov_170206.html "testimony") to the Committee compared to the [Statement on Monetary Policy](http://www.rba.gov.au/PublicationsAndResearch/StatementsOnMonetaryPolicy/statement_on_monetary_0206.html "Statement on Monetary Policy") earlier in the week.  Macfarlane denied there was any difference, arguing that the two presentations were intended to be the same, although he also noted that the statements had two different authors.  Financial markets took a different view, with the Australian dollar rallying and bond futures selling-off after the delivery of his Committee testimony, implying that the market thought there was a change in emphasis.
+
+This episode confirms my view that the RBA does not give as much thought as it should to the presentation of its policy bias and its statements are over-interpreted relative to the thought the Bank puts into them.  It seems incredible to me that a backbencher could discern a key difference in presentation that was not apparently discernable to the Governor of the Bank.  Consistency in communication has never been the Bank’s strong point.  The Statement on Monetary Policy is a misnomer, since most of the document studiously avoids any discussion of the policy outlook.

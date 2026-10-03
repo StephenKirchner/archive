@@ -1,0 +1,11 @@
+---
+title: "Why Central Banks Should Not Burst ‘Bubbles’"
+date: "2006-02-12"
+categories: ["Economics"]
+---
+
+An [IIE Working Paper by Adam Posen](http://www.iie.com/publications/wp/wp06-1.pdf "IIE Working Paper by Adam Posen"), arguing that monetary policy should not seek to burst asset price ‘bubbles.’  While I would reject Posen’s assumption that markets can be meaningfully characterised as experiencing ‘bubbles’ (and Posen himself notes some of the real factors that give rise to so-called bubble behaviour), his bottom-line is essentially correct:
+
+Bubbles generally arise out of some combination of irrational exuberance, jumps forward in technology, and financial deregulation (with more of the second in equity price bubbles and more of the third in real estate booms). Accordingly, the connection between monetary conditions and the rise of bubbles is rather tenuous, and by raising interest rates a central bank is unlikely to achieve what is needed—i.e., persuading investors that the bubble is ill-founded and/or that they will not find some greater fool to sell to in time. More important, the cost of bubbles bursting largely depends upon the structure and fragility of the economy’s financial system. A properly supervised and regulated financial system—or one with more securitized and liquid markets than bank-dependent—will not suffer much in real terms from a bubble expanding and bursting. If the financial system is fragile or improperly supervised, then monetary tightening will be even more costly in real economic terms, but such tightening in no way substitutes for directly dealing with the underlying financial problems.
+
+The lack of monetary tightening’s effectiveness to pop bubbles or to respond to financial fragility and the far greater cost of inducing recessions than riding bubbles out are structural factors characteristic of modern financial systems and bubbles. The cost-benefit analysis inherently goes against popping bubbles and in favor of monetary easing after busts because there is an asymmetry in the way investors and financial intermediaries behave in the two situations. In the end, no amount of monetary discipline can substitute for lack of proper financial regulation and supervision.

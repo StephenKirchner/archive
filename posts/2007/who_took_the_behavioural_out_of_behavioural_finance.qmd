@@ -1,0 +1,15 @@
+---
+title: "Who Took the Behavioural Out of Behavioural Finance?"
+date: "2007-08-28"
+categories: ["Economics", "Financial Markets"]
+---
+
+[Robert Shiller](http://www.nytimes.com/2007/08/26/business/yourmoney/26view.html?_r=1&oref=slogin "Robert Shiller") sounds increasingly like the anti-modernist Clive Hamilton:
+
+> As we all try to adjust to a rapidly growing and increasingly capitalist world, we have been trying to discover who we are and how we fit into it. This has meant an enormous change in values.
+>
+> Many people feel that they have discovered their true inner genius as investors and have relished the new self-expression and excitement. Investors across the world have been thinking that they are winners — not recognizing that much of their success is only a result of a boom. Declines in asset prices endanger this very self-esteem.
+>
+> That is why it is so hard to turn around investor attitudes once a downward psychology sets in. The Fed and other central banks do not have lithium or Prozac in their bag of remedies, and so cannot control it.
+
+This is actually identical to the arguments used by market technicians like Robert Prechter, who resort to market psychology as an explanation for the behaviour of asset prices.  Prechter would argue that causality runs from sentiment to prices, with sentiment being exogenous.  Shiller seems to allow for bilateral causality, but the turning point in market sentiment is still effectively exogenous.  In other words, what is missing from Shiller’s behavioural finance is an actual behavioural model.

@@ -1,0 +1,11 @@
+---
+title: "The Quiggin-Caplan Wager: I’m with Quiggin"
+date: "2009-05-29"
+categories: ["Economics", "Financial Markets"]
+---
+
+[Bryan Caplan](http://econlog.econlib.org/archives/2009/05/quiggan_takes_m.html "Bryan Caplan") and [John Quiggin](http://johnquiggin.com/index.php/archives/2009/05/28/bet-with-bryan-caplan/ "John Quiggin") take a 10-year bet on the average of the US-EU15 unemployment rate differential.  On this bet, I have to say I’m with Quiggin.  The reason: the US is thinking more and more like Quiggin and less like Caplan.  Public policy in the EU is not appreciably worse than it has been in the past, but the rate of deterioration in the US implies that their respective structural unemployment rates should converge via a faster rate of deterioration in the US.  The capital allocation process in the US is now so deeply compromised by political intervention that there is little reason to believe in the continued structural outperformance of the US economy.  Differences in labour market institutions won’t matter much in this context.  Caplan himself puts his chances of winning at only 60%.
+
+[David Goldman](http://blog.atimes.net/?p=1019 "David Goldman") put it well in perhaps the most disturbing metaphor for the crowding-out effect on US economy:
+
+> *The moment the zombie pulls on his chain, rates rise, consumption falls, and the zombie gets less oxygen.*

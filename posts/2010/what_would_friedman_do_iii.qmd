@@ -1,0 +1,13 @@
+---
+title: "What Would Friedman Do III?"
+date: "2010-11-30"
+categories: ["Economics", "Financial Markets", "Monetary Policy"]
+---
+
+Yes, [Friedman](http://www.bankofcanada.ca/en/res/wp/2000/keynote.pdf "Friedman") was a ‘money printer’:
+
+> **David Laidler:** Many commentators are claiming that, in Japan, with short interest rates essentially at zero, monetary policy is as expansionary as it can get, but has had no stimulative effect on the economy. Do you have a view on this issue?
+>
+> **Milton Friedman**: Yes, indeed… It’s very simple. They can buy long-term government securities, and they can keep buying them and providing high-powered money until the high powered money starts getting the economy in an expansion. What Japan needs is a more expansive domestic monetary policy.
+
+(HT: Doug Irwin via [David Beckworth](http://macromarketmusings.blogspot.com/2010/11/case-closed-milton-friedman-would-have.html "David Beckworth"))

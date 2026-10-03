@@ -1,0 +1,9 @@
+---
+title: "Why US Monetary Policy is Too Tight"
+date: "2012-10-16"
+categories: ["Economics", "Financial Markets", "Monetary Policy"]
+---
+
+An excellent op-ed by [Doug Irwin](http://www.ft.com/intl/cms/s/0/d1fb899c-16b2-11e2-957a-00144feabdc0.html#axzz29OrjDTcJ) on why US monetary policy is too tight:
+
+> *The Divisia M3 and M4 figures for the US money supply, calculated by the Center for Financial Stability, show that the money supply is no higher today than in early 2008. For all the fretting about the Fed’s accommodative policy, the money supply has barely increased and is way off its previous trend. This represents a very tight policy compared to Friedman’s rule that growth in the money supply should be limited to a constant percentage. The lack of growth in the money supply is an important reason why US inflation and inflationary expectations remain under control. The Federal Reserve Bank of Cleveland’s latest market-based estimate of the 10-year expected inflation rate is 1.32 per cent.*

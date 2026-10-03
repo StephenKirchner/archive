@@ -1,0 +1,25 @@
+---
+title: "Tax Cuts Don’t Cause Higher Interest Rates: Part III"
+date: "2006-05-13"
+categories: ["Economics"]
+---
+
+[Alan Wood](http://www.theaustralian.news.com.au/story/0,20867,19116312-31478,00.html "Alan Wood") still gets it:
+
+A REMARKABLY popular view in markets and elsewhere is that the budget’s tax cuts and spending will drive the Reserve Bank to put up interest rates because of their effect on inflationary pressures in the economy.
+
+Remarkable because it flies in the face of what we have been told by the man who decides monetary policy, Ian Macfarlane. Two years ago, again last year, and again now we have been told by market (and media) analysts the budget tax cuts will drive up interest rates.
+
+Over this period the official cash rate has increased twice - by 25 basis points in March 2005 and another 25 basis points this month. Neither of these rises have had anything to do with tax cuts or fiscal policy more generally.
+
+How do we know? Because the RBA governor explicitly denied any connection with the first rise and has laid out a formula for the relationship between fiscal policy and interest rates that makes it clear he would also deny any connection between the latest rate rise and tax cuts.
+
+And [Wowser Ross](http://www.smh.com.au/news/business/costello-bumps-accelerator-instead-of-the-brake/2006/05/12/1146940732615.html?page=2 "Wowser Ross") still doesn’t:
+
+The trouble with it, however, is it ignores the “counterfactual” (what would have happened had you not done what you did) and thus ignores the opportunity cost of Mr Costello’s decision to spend as much this week as he did.
+
+If Mr Costello had spent or given away not one extra cent in the budget, the surplus would have risen from \$14.8 billion (or 1.5 per cent) in the old year to \$22.4 billion (2.2 per cent) in the new year.
+
+Wowser Ross doesn’t tell us what a government with a negative net debt position is supposed to do with a budget surplus of 2.2% of GDP.  Dump it into the Future Fund?  Even if we grant Ross his ridiculous counterfactual in which the government hoards even more revenue it doesn’t need, the numbers involved would not yield a significant impact on monetary policy.
+
+Terry McCrann (no link, but see today’s Australian) is appropriately dismissive of the notion that the budget balance has anything to do with the determination of official interest rates.  As McCrann notes, fiscal policy is a movable feast and the budget numbers are only as good as the next policy announcement or shift in parameter estimates, rendering Gittins’ counter-factual completely arbitrary.

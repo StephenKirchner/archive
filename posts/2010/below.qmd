@@ -1,0 +1,7 @@
+---
+title: "Below-the-Line Senate Voting Tool"
+date: "2010-08-04"
+categories: ["Politics"]
+---
+
+For those who like to make the major parties work for their vote, [here is a handy web site](https://www.belowtheline.org.au/ "here is a handy web site") that lets you create customised below-the-line Senate voting tickets that you can print-out and take with you on polling day (just don’t use it as a ballot paper, it won’t count!)

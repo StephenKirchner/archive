@@ -1,0 +1,13 @@
+---
+title: "Consumer Sentiment Surges on the Demise of Kevin Rudd"
+date: "2010-07-15"
+categories: ["Economics", "Financial Markets", "Opinion Polls", "Politics"]
+---
+
+Consumer confidence surged 11.1% in July, the ‘strongest monthly increase in the Index from a base above the 100 level since records began in the mid–1970s’ according to Westpac.  The [press release](http://www.westpac.com.au/docs/pdf/aw/economics-research/er20100714BullConsumerSentiment.pdf "press release") is far too polite to point to the most obvious reason for the surge in confidence, but we can all read between the lines:
+
+> *Interest rates do not appear to have been the most significant driver of the July result. The confidence of those folks with a mortgage actually rose a little less than tenants or others. As we noted last month the 5.7% fall in the Index in June seemed to be partly driven by concerns about the Budget and tax policy.*
+
+Consumer sentiment doesn’t have much independent explanatory power for economic activity once you control for other variables, suggesting that causality runs from activity to sentiment and not the other way around. But that’s just the average effect observable to the econometrician. It does not preclude one off exogenous shifts in sentiment having a significant economic impact. Assuming the new Prime Minister can sustain the boost in confidence, dumping Kevin Rudd may prove to be something close to an economic free lunch. I have not yet seen the break-down by voting intention, but my guess is that it argues against the view that dumping Rudd was a negative from the standpoint of Labor voters.
+
+[Arthur Sinodinos](http://www.theaustralian.com.au/news/opinion/kevins-shadow-is-spooking-the-pm/story-e6frg6zo-1225891819015 "Arthur Sinodinos") notes that Kevin Rudd could destabilise a future Gillard cabinet, arguing against his inclusion in a future government.

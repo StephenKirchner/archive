@@ -1,0 +1,9 @@
+---
+title: "Who’s Afraid of NZ’s Current Account Deficit?"
+date: "2006-03-22"
+categories: ["Economics"]
+---
+
+New Zealand’s Q4 current account deficit is expected to come in at around 9% of GDP when it’s released tomorrow.  The fact that a small open economy like NZ can run such a large deficit should be reassuring.  It should also not be surprising.  [RBA Governor Macfarlane](http://www.rba.gov.au/Speeches/2005/sp_gov_120505.html "RBA Governor Macfarlane") has noted that Singapore ran current account deficits averaging 15% of GDP for a decade, in the context of a much less flexible exchange rate and capital account regime. 
+
+[Alan Wood](http://www.theaustralian.news.com.au/common/story_page/0,5744,18554283%255E31478,00.html "Alan Wood") notes that ‘the bigger risk is that the RBNZ has raised rates to a level that turns out to be economic overkill,’ an argument we have also made on these pages.  The whole point of having a floating exchange rate and open capital account is that monetary policy does not need to concern itself with considerations of external balance or prop up the currency, yet the current account has featured heavily in the RBNZ’s policy discussion of late.  As Australia’s experience in the late 1980s and early 1990s demonstrates, external imbalances only become scary when they become a preoccupation of policymakers.

@@ -1,0 +1,10 @@
+---
+title: "Brad & Nouriel, Take Note"
+date: "2005-11-24"
+categories: ["Economics"]
+---
+
+Ben Bernanke’s [response to questions](http://online.wsj.com/public/resources/documents/bernankebunning11212005.pdf "response to questions") from Senator Bunning:\
+*\
+Concerns have been raised that the quantities of U.S. Treasury securities held by China\
+and other foreign investors, both private and official, have become so large as to increase the vulnerability of the U.S. economy to changes in the portfolio allocations of those investors.  However, many of the reasons that investors hold these securities—their unparalleled safety and liquidity, together with the dollar’s traditional role as a reserve currency—are unlikely to disappear any time soon. Moreover, markets for dollar-denominated financial assets are extraordinarily deep; for example, foreign official holdings of U.S. Treasuries, of which holdings by China represent only a part, collectively account for only three percent of total U.S. credit market debt outstanding. Accordingly, U.S. financial markets would likely be able to absorb a significant shift in foreign official demands for U.S. debt, including by China.*

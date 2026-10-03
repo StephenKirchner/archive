@@ -1,0 +1,13 @@
+---
+title: "Endogenous Fed Policy: Why You Can’t Profit from Nouriel Roubini"
+date: "2006-08-31"
+categories: ["Economics", "Financial Markets"]
+---
+
+Those who have argued that rising commodity prices, particularly gold, are symptomatic of easy Fed policy face the embarrassment of explaining why commodity prices have fallen rather than surged in response to the recent Fed pause.  As usual, [James Hamilton](http://www.econbrowser.com/archives/2006/08/inflation_expec.html "James Hamilton") has already said what I wanted to say on this:
+
+> *What brought commodity prices and long-term nominal yields down is the same thing that induced the Fed to pause, namely, the recognition that the magnitude of the incipient economic slowdown is more significant than many were anticipating a few months ago. To be sure, many other factors influence the price of any given commodity, and some commodities, such as silver, lead, and nickel, are up rather than down over the last two months. But other things equal, slower growth of real economic activity is bearish for any commodity, and as the reality of the slowdown has sunk in, commodity prices have responded, one by one.*
+
+This reinforces a point we have made on many occasions previously, that monetary policy is more often than not an endogenous response to economic developments rather than a driver of them.
+
+It is worth noting that the CRB index is now at risk of breaking its multi-year uptrend from the 2001 lows.  If you think this sounds bearish, you’re right.  But what commodity prices and Treasury yields are telling us is that an economic slowdown is already largely discounted.  It’s the slowdowns that are not priced in that you have to worry about.  While Nouriel Roubini likes to portray himself as an out-of-consensus contrarian, the reality is that the market already largely agrees with him.  Or to invert Glenn Reynolds, the permabears are a herd, not a pack.

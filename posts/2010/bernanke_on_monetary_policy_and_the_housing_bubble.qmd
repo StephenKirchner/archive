@@ -1,0 +1,19 @@
+---
+title: "Bernanke on Monetary Policy and the Housing ‘Bubble’"
+date: "2010-01-04"
+categories: ["Economics", "Financial Markets", "House Prices", "Monetary Policy"]
+---
+
+Reporting on Fed Chair Ben Bernanke’s [speech](http://www.federalreserve.gov/newsevents/speech/bernanke20100103a.htm "speech") to the American Economic Association has focused on his suggestion that ‘we must remain open to using monetary policy as a supplementary tool for addressing those risks’ associated with asset price inflation.  However, the rest of his speech makes clear that Bernanke views this as very much a second-best option.  His speech contains a review of the evidence against the notion that monetary policy was the main cause of the housing ‘bubble’ in the US and elsewhere.
+
+The [WSJ](http://www.theaustralian.com.au/business/markets/us-federal-reserve-must-be-open-to-using-interest-rates-to-pop-future-asset-bubbles/story-e6frg926-1225815807464 "WSJ") quotes Dale Jorgenson on what was missing from Bernanke’s speech:
+
+> a Harvard professor who served as Mr Bernanke’s thesis adviser at MIT in the 1970s, said the Fed chairman made a “pretty convincing” argument that low rates were not the driving force of the housing bubble.
+>
+> But he said Mr Bernanke should have laid more blame at the feet of Congress for encouraging reckless mortgage lending with its support of Fannie Mae and Freddie Mac and other policies meant to increase home ownership.
+>
+> “I didn’t hear any word with regard to going back to Congress about changing housing policy,” he said.
+
+Leaving aside that fact that his reconfirmation is pending before Congress, one suspects that Bernanke knows a lost cause when he sees one.  As the WSJ notes in [another article](http://online.wsj.com/article/SB10001424052748704152804574628350980043082.html "another article"):
+
+> *In today’s Washington, we suppose, it only makes sense that the companies that did the most to cause the meltdown are being kept alive to lose even more money. The politicians have used the panic as an excuse to reform everything but themselves.*

@@ -1,0 +1,11 @@
+---
+title: "Why Central Banks Should Not Lean Against the Wind"
+date: "2010-11-23"
+categories: ["Economics", "Monetary Policy"]
+---
+
+The Cato Institute held its [28th Annual Monetary Policy Conference](http://www.cato.org/events/monconf2010/program.html "28th Annual Monetary Policy Conference") on the theme of ‘Is Monetary Policy Responsible for Bubbles?’ Adam Posen (a social democrat rather than a classical liberal) presented a paper titled ‘[Do We Know What We need to Know in Order to Lean Against the Wind](http://www.piie.com/publications/papers/posen20101118.pdf "Do We Know What We need to Know in Order to Lean Against the Wind")?’ This was his conclusion:
+
+> *even the seemingly least controversial assumption required for leaning against the wind to succeed – that central banks can discern destabilizing booms with sufficient notice to pre-empt them – will be invalid. Since this argument is solely about the ability of monetary policymakers to recognize and react to asset price booms, and not about the viability of their means to affect asset prices, this should concern advocates of discretionary macroprudential policymaking as well, even when using non-monetary tools.*
+
+Posen wrote an even more thorough critique of using monetary policy to manage asset prices that can be found [here](http://www.iie.com/publications/wp/wp06-1.pdf "here"). My own effort in this regard can be found [here](http://cis.org.au/publications/policy-monographs/article/906-bubble-poppers-monetary-policy-and-the-myth-of-bubbles-in-asset-prices "here").

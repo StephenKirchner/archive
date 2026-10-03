@@ -1,0 +1,13 @@
+---
+title: "Teaching With Cowen and Tabarrok’s Modern Principles of Economics"
+date: "2010-08-09"
+categories: ["Economics"]
+---
+
+I have been using Tyler Cowen and Alex Tabarrok’s [Modern Principles of Economics](http://tiny.cc/to1z5 "Modern Principles of Economics") to teach an introductory course in economics to MBA students. Many if not most students study economics as part of vocationally-oriented degrees, without any intention of working as economists or completing further study in economics. Unfortunately, most textbooks are not designed with this in mind. Robert Frank has argued that many courses in economics do the equivalent of teaching language students the pluperfect tense at the expense of basic conversational fluency. Students consequently come away from their economics subjects with the sense that it is an arcane discipline of little real-world relevance, damaging the standing of economics in the community.
+
+By contrast, Cowen and Tabarrok’s textbook is well suited to students who may be studying economics not only for the first time, but also for the last time. It imparts the essential economic insights, without over-burdening students with derivation and optimisation. It is the only text I know of that gives students an appreciation of the coordinating role of markets. The macro part of the text emphasises the role of shocks and real factors in driving the business cycle. Aggregate demand is derived from quantity theory relations rather than aggregate expenditure concepts. It also stresses the limitations of macroeconomic policy instruments.
+
+With the exception of the chapters on monetary and fiscal policy, the text avoids being overly US-centric, reflecting the cosmopolitan sensibility of its authors. The first chapter begins with an Australian example, which is a nice point of entry for Australian students.
+
+Australian faculty can contact Helen Boyd at Palgrave Macmillan (Helen.Boyd \[at\] macmillan.com.au) for examination copies of the text.

@@ -1,0 +1,11 @@
+---
+title: "Economics Blogs Lead Wall Street"
+date: "2005-08-12"
+categories: ["Economics"]
+---
+
+The [WSJ](http://online.wsj.com/article/0,,SB112372374369510501,00.html "WSJ") profiles economic blogs:
+
+While many investors continue to take their cues from traditional outlets, the real news junkies—including those who aim to get a trading idea before they hear about it from their broker—have bookmarked the blogs, or Web logs. Even Wall Street itself is paying heed.
+
+“It’s all about the ‘memes,’ ” says Stan Jonas, head of interest rate strategy at Fimat USA in New York, employing a word that describes ideas that spread quickly by word of mouth—or Web. “Those guys say it and about a week or two later, the guys on Wall Street pick it up.”

@@ -1,0 +1,19 @@
+---
+title: "Never Mind the Volumes, Check those Prices"
+date: "2005-03-03"
+categories: ["Economics"]
+---
+
+A development often overlooked in the doom-mongering on Australia’s current account is the stunning growth in Australia’s terms of trade, 10% y/y in Q4.  The rising terms of trade were explicitly mentioned in yesterday’s statement by the RBA rationalising its decision to raise official interest rates.
+
+The improvement in the terms of trade reflects strength in export prices relative to import prices, implying an improvement in Australia’s national purchasing power.  Australia has fortuitously become a net consumer of those goods for which prices are in secular decline, like ICT, while remaining a net producer of goods and services for which prices have been rising.
+
+An important implication of the improvement in the terms of trade is that volume based measures such as GDP will understate the gains associated with this improvement in national income.  As import prices fall and volumes rise, this will count as a subtraction from growth, even though we are demonstrably better off from the improvement in national income.
+
+The ABS get some major brownie points for highlighting this in a [feature article](http://www.abs.gov.au/ausstats/abs@.nsf/Lookup/A747BE0AA38F712BCA256FB700804440 "feature article") in yesterday’s national accounts release. Extracts from the article can be found over the fold…
+
+It is this change in the purchasing power that is not reflected directly in measures of GDP in volume terms and which may lead to the view that GDP is misstating the true state of economic activity. This perception may intensify if improvements in the terms of trade are large and ongoing and hence the gains from changing purchasing power are reflected in many component series of GDP such as household consumption, which may be met by increases in domestic production or in import volumes or more likely, a combination of both…
+
+if import prices are falling relative to export prices, then for a given current price amount of exports, the volume of exports will be higher and growth in real gross domestic income will be greater than that in the volume of GDP…
+
+In recent years as the terms of trade has been rising, growth in RGDI has been stronger than growth in volume GDP.  The difference in recent quarters is quite pronounced as the strength in the terms of trade has been much greater. The growth rate in RGDI in the year ended December quarter 2004 was 3.5%, 2.0 percentage points higher than the growth rate in volume GDP of 1.5%.

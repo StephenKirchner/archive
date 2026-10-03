@@ -1,0 +1,9 @@
+---
+title: "Mining Booms and Government Budgets"
+date: "2012-05-04"
+categories: ["Commodity Prices", "Economics", "Fiscal Policy"]
+---
+
+John Freebairn makes the case against a sovereign wealth fund for Australia in the [Australian Journal of Agricultural and Resource Economics](http://onlinelibrary.wiley.com/doi/10.1111/j.1467-8489.2012.00580.x/full) (no paywall for the moment!) From the conclusion:
+
+> *The applicability of arguments used in other countries, including Norway and the smaller Middle East oil producers, to quarantine the revenue windfalls of a mining boom in a sovereign wealth fund for use by future generations are questioned for Australia. Relative to these countries, in Australia mining revenues represent a smaller share of the economy and budget, and Australia has a much more diverse portfolio of different minerals and energy, and many with proven reserves exceeding 50 years at current extraction rates. There are other sources of volatility of government revenues and outlays with low correlations with mining government revenues. Future generations are expected to have higher per capita incomes than the current generation. Including mining revenues and outlays within the normal budget processes provides greater flexibility for using the mining boom revenue windfalls for a wider range of investment, tax reform and debt reduction strategies to support higher future incomes than a sovereign wealth fund.*

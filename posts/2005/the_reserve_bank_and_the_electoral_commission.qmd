@@ -1,0 +1,13 @@
+---
+title: "The Reserve Bank and the Electoral Commission"
+date: "2005-04-09"
+categories: ["Economics"]
+---
+
+Yesterday’s SMH story turns out to have been something of a beat-up, with the RBA having now released some of its [correspondence](http://www.rba.gov.au/MediaReleases/2005/mr_05_05.html "correspondence") in relation to the matter.  Today [Peter Hartcher](http://www.smh.com.au/news/National/Struggling-to-maintain-its-reserve/2005/04/08/1112815729466.html "Peter Hartcher") tries to give it legs with a comment piece that seems to consist almost entirely of inference on his part (no sources are quoted).
+
+The Secretary of the RBA wrote to a minor Liberal Party figure in response to a complaint from the public and asked the official to desist distributing a brochure that cited the RBA as a source for some of its claims.  My own recollection is that much of the Liberal Party’s campaign material cited the RBA as a source, something the press gallery did not make much of at the time.  This is technically defensible, since presumably they were offering the RBA as the source for the historical data on interest rates cited in their brochures.  Obviously, the Liberal Party would not have been too upset if people inferred more than this, but would the campaign have been less effective if the brochures cited Bloomberg or Reuters or even offered no source at all?  It was the electorate’s historical memory of rates that made the campaign effective.
+
+The RBA is still not completely off the hook in this matter.  The fact that members of the public complained to the RBA shows that the electorate are quite capable of forming their own views about the material.  The RBA certainly had no business telling a political party to stop distributing an election brochure, whatever the content, even if only to mollify an irate member of the public.
+
+**UPDATE:**  It all comes down to a [missing asterisk](http://www.theage.com.au/news/National/Asterisk-at-fault/2005/04/09/1112997216282.html "missing asterisk").  Australia’s first punctuation-induced political crisis!  As silly beat-ups go, this one is hard to beat.

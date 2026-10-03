@@ -1,0 +1,13 @@
+---
+title: "When Bubble Poppers Attack"
+date: "2008-11-12"
+categories: ["Economics", "Financial Markets"]
+---
+
+I have an op-ed in today’s *[Australian](http://www.theaustralian.news.com.au/story/0,25197,24638099-7583,00.html "Australian")*, arguing against the view that central banks should explicitly target asset prices:
+
+> In 2002, prior to becoming Fed chairman, Bernanke gave a speech titled Asset “Bubbles” and Monetary Policy. Bernanke noted that “the correct interpretation of the 1920s is not the popular one: that the stock market got overvalued, crashed and caused a Great Depression. The true story is that monetary policy tried overzealously to stop the rise in stock prices. But the main effect of the tight monetary policy was to slow the economy. The slowing economy, together with rising interest rates, was in turn a major factor in precipitating the stock market crash”.
+>
+> The singular cause of the Great Depression of the 1930s, in Bernanke’s view, was that the Federal Reserve fell under “the control of a coterie of bubble poppers”.
+>
+> Bernanke was merely reaffirming a well-established consensus among economists, ranging all the way from John Maynard Keynes to Milton Friedman. In his A Treatise on Money, Keynes said: “I attribute the slump of 1930 primarily to the deterrent effects on investment of the long period of dear money which preceded the stock market collapse and only secondarily to the collapse itself.” Friedman’s 1963 A Monetary History of the United States also laid blame for the Great Depression squarely at the feet of the Fed and its attempt to become “an arbiter of security speculation or values”.

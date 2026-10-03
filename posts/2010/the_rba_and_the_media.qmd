@@ -1,0 +1,27 @@
+---
+title: "The RBA and the Media"
+date: "2010-02-20"
+categories: ["Economics", "Financial Markets", "Monetary Policy"]
+---
+
+RBA Governor Stevens’ appearance before the [House Economics Committee](http://www.aph.gov.au/Hansard/reps/commttee/R12597.pdf "House Economics Committee") on Friday included this exchange with the federal member for Mayo:
+
+> Mr BRIGGS—Just on a slightly different track: On 2 November last year there was an article on the Lateline Business program about suggestions that the Reserve Bank executive selectively leaks the likely outcome of the board meeting prior to the board meeting. I guess the presenter summarised it best:
+>
+> Certainly, there’s disquiet among market economists that the Reserve Bank is selectively briefing certain journalists in the lead-up to rate decisions. Many argue the practice undermines the board process.
+>
+> I am just interested—did you see the report, and do you have a comment?
+>
+> Mr Stevens—I did see the report. Apparently there were not too many selective leaks in February, because everybody was surprised, so I am not sure what to make of all this.
+>
+> Mr BRIGGS—So, you—
+>
+> Mr Stevens—No, people do not leak the outcome. For a start, the staff do not take calls from the media after the relevant internal meetings where we have come to the view of what we are going to recommend. That is usually on the Thursday morning; the papers go that night.  Secondly, we cannot be certain that the board will do what we recommend. It is a board of nine people, and I can assure you they are all of independent mind. People do not leak that information; in my experience the Reserve Bank never has leaked and, if I can help it, it never will.
+
+Stevens is probably correct to argue that the outcome of the Board meeting has never been leaked outright, but that was not what the Lateline Business story was about.  The issue raised was whether the RBA backgrounded journalists to the point where they were much better informed about the RBA’s policy bias and therefore better able to call the likely outcome of the Board meeting.
+
+There is evidence on the public record for the view that the RBA has engaged in this practice.  In a profile of former Governor Ian Macfarlane published in the AFR Magazine in 2001, a former RBA official is quoted as follows:
+
+> *The Bank uses newspapers to manage expectations.  It’s a game the Bank manages very well.  Senior people talk to a small handful of the economics writers from the major papers on a strictly non-attributable basis.  I think it’s right to do this from the bank’s point of view, but not necessarily from a public policy view: accountability and a critical press are very important in this system.*
+
+That last sentence is the key issue in a nutshell.  My sense is that the RBA has now been subjected to sufficient heat over the issue that we won’t see another episode of this in future.  The test for the RBA will be whether there is a future recurrence of market speculation about RBA media backgrounding, despite the Governor’s denial.

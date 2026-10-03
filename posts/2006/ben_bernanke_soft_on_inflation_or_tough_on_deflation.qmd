@@ -1,0 +1,41 @@
+---
+title: "Ben Bernanke: Soft on Inflation or Tough on Deflation?"
+date: "2006-05-29"
+categories: ["Economics"]
+---
+
+The notion that Fed Chair Bernanke is somehow soft on inflation still has considerable resonance in financial markets and has been used to rationalise everything from rising commodity prices to USD weakness.  The sole basis for this reputation is a couple of speeches Bernanke gave amid the 2002-03 global deflation scare, in which Bernanke made the simple observation that the Fed had quantitative tools available to it in the event that the zero bound became a binding constraint on the Fed funds rate.
+
+This was little more than a straightforward application of the quantity theory of money and one that Milton Friedman would find unobjectionable (Friedman advocated an identical policy approach in the Japanese context).  No one ever accused Friedman of being soft on inflation.  It would be more accurate to say that Bernanke is tough on deflation.  His preferences over inflation are appropriately symmetrical.
+
+[Stephen Jen](http://www.morganstanley.com/GEFdata/digests/latest-digest.html#anchor2 "Stephen Jen") is right when he says that:
+
+*The ‘credibility problem’ of the Fed is exaggerated: the complaint against the Fed is everywhere except in the bond prices or market indicators.  As long as the Fed continues to tighten, the dollar will struggle to sell off. *
+
+[James Hamilton](http://www.econbrowser.com/archives/2006/05/m2_and_inflatio.html "James Hamilton") examines the M2 data and finds little evidence of runaway inflation there either:
+
+such money growth would not be expected to produce the sort of runaway inflation that some commentators think they detect in commodity prices. Furthermore, the 5% M2 growth rate of the last three years would be the sort of thing to get the economy back on track to a 1.5% inflation rate.
+
+Obviously M2 is a pretty noisy indicator if you have to look to 10-year averages, and even then be careful. Nevertheless, it confirms a picture that I think emerges from any of a number of other indicators: the Fed was a little too aggressively expansionary a few years ago. That may have been responsible for a slight increase we’re seeing now in current inflation. However, the more restrictive measures adopted by the Fed over the last three years should help keep future inflation at acceptable levels.
+
+Meanwhile, [RBA Deputy Governor Stevens](http://www.rba.gov.au/Speeches/2006/sp_dg_270506.html "RBA Deputy Governor Stevens") (adopting the broad historical perspective of his boss) addresses the so-called bond yield ‘conundrum:’
+
+*Against the backdrop of the past century, on the other hand, recent levels of long-term US interest rates do not look especially low; they look quite within the range of historical experience, especially experience when inflation was low. The 1970s and 1980s look more like the outlying period. Nor have spreads, for US corporate debt at least, been all that low when viewed from this longer perspective. There were lengthy periods in the mid part of the 20th century when spreads were as low as or lower than they are today.\*
+\
+Stevens also addressed the subject of global imbalances after his speech, in comments reported [here](http://www.smh.com.au/news/business/reserve-banker-not-so-reserved/2006/05/28/1148754868346.html "here"):
+
+“I perhaps have a slightly different view to much of the conventional wisdom here.
+
+“I think that in the past decade the behaviour of the US has actually been stabilising for the global economy.
+
+“I think to no small extent the rise in the US deficit was a lot to do with a rational response on the part of Americans to changes in prices.
+
+“If it was really the case that the US was dragging this capital out of a world economy that was reluctant to give it, the price would have gone up. But the price didn’t go up, it went down.
+
+“The quantity rose and the price fell - the supply curve moved.
+
+“I think one might say it was a good thing that the Americans and others were prepared to use that capital because that kept the global economy going a lot better than it would have if things had been different.
+
+“That isn’t to say that all of that can go on indefinitely. It can’t.”
+
+If it’s not the conventional wisdom, then it should be.  Strangely, Bernanke has also suggested that his global saving glut thesis is unconventional, yet it strikes me as an entirely orthodox position.  It is those who persist in fretting about imbalances in a world of floating exchange rates and international capital mobility who are outside the bounds of contemporary macroeconomic thought.

@@ -1,0 +1,17 @@
+---
+title: "Why Raising the US Debt Ceiling Was a Mistake"
+date: "2011-08-11"
+categories: ["Economics", "Financial Markets", "Fiscal Policy", "Monetary Policy"]
+---
+
+I have an article at [The Conversation](http://theconversation.edu.au/keep-an-eye-on-the-underlying-economic-threat-not-market-ups-and-downs-2751) arguing that failure to raise the US debt ceiling need not have led to sovereign debt default:
+
+> It was the failure of US politicians to acknowledge the policy implications of long-run budget sustainability that decided the recent ratings action by Standard & Poor’s. Failing to raise the debt ceiling would not have led to debt default if US politicians had taken the necessary decisions to put the budget on a sustainable footing. Raising the debt ceiling kicks the problem down the road and creates the risk of a far more serious fiscal crisis in future.
+>
+> A fiscally responsible US president would have joined with responsible members of Congress in refusing to sign a further increase in the debt ceiling. The Obama administration could have used the unthinkable prospect of debt default to force spendthrift members of Congress to reduce government spending and stabilise expectations for the future path of net debt that are currently weighing on economic growth.
+>
+> Congress and the Administration know that if they lead the US to default on its obligations, the American people will sweep them from office. For politicians, incentives don’t come much stronger than that.
+
+My CIS colleague [Adam Creighton](http://cis.org.au/media-information/opinion-pieces/article/3402-us-congress-swapped-a-crisis-yesterday-for-a-bigger-crisis-tomorrow) has been making similar points in Crikey, although I’m far better disposed towards quantitative easing than he is.
+
+See also Jonah Goldberg, [Wake Up and Smell the Tea](http://www.aei.org/article/103981).

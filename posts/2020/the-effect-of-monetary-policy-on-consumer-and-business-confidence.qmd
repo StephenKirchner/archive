@@ -1,0 +1,11 @@
+---
+title: "The Effect of Monetary Policy on Consumer and Business Confidence"
+date: "2020-01-24"
+categories: ["Monetary Policy"]
+---
+
+I have an article forthcoming in the March issue of the [Australian Economic Review](../../files/aereConfidence.pdf) examining the US and Australian evidence on the effect of monetary policy on consumer and business confidence. It has been suggested that recent reductions in official interest rates might have a perverse signalling effect on consumer and business confidence. But that is not what the US and Australian evidence or my own estimates suggest. While consumers talk their book in relation to expectations for their own finances, when it comes to expectations for the economy as a whole, consumers and business are for the most part clear about rate cuts being expansionary for the economy.
+
+As noted in the article, even if rates cuts did have a perverse signalling effect on confidence, this would not be an argument against monetary easing. It implies that the Reserve Bank should not act on its assessment of the economy, which is likely to be self-defeating.
+
+Shane Wright writes up the paper for the [SMH/Age](https://www.smh.com.au/politics/federal/bushfires-dent-shopper-confidence-and-set-to-punch-hole-in-xmas-sales-20200122-p53tqk.html) in the context of the January consumer confidence release.

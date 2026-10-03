@@ -1,0 +1,17 @@
+---
+title: "The Pessimistic Punditocracy"
+date: "2005-12-02"
+categories: ["Economics"]
+---
+
+[Brian Wesbury](http://online.wsj.com/article/SB113349267303212142.html?mod=opinion_main_commentaries "Brian Wesbury") notes the pervasive pessimism of the economic commentariat, which extends well beyond the [doomsday cultism](../2005/contrarian_optimism_versus_the_doomsday_cult_a_fund_managers_view.qmd "doomsday cultism") of Setser and Roubini:
+
+During a quarter century of analyzing and forecasting the economy, I have never seen anything like this. No matter what happens, no matter what data are released, no matter which way markets move, a pall of pessimism hangs over the economy.
+
+It is amazing. Everything is negative. When bond yields rise, it is considered bad for the housing market and the consumer. But if bond yields fall and the yield curve narrows toward inversion, that is bad too, because an inverted yield curve could signal a recession.
+
+If housing data weaken, as they did on Monday when existing home sales fell, well that is a sign of a bursting housing bubble. If housing data strengthen, as they did on Tuesday when new home sales rose, that is negative because the Fed may raise rates further. If foreigners buy our bonds, we are not saving for ourselves. If foreigners do not buy our bonds, interest rates could rise. If wages go up, inflation is coming. If wages go down, the economy is in trouble.
+
+This onslaught of negative thinking is clearly having an impact. During the 2004 presidential campaign, when attacks on the economy were in full force, 36% of Americans thought we were in recession. One year later, even though unemployment has fallen from 5.5% to 5%, and real GDP has expanded by 3.7%, [the number who think a recession is underway has climbed to 43%](http://americanresearchgroup.com/economy/ "the number who think a recession is underway has climbed to 43%").\
+\
+A similar phenomenon is evident in Australia, where some of the best macroeconomic outcomes in decades in relation to unemployment and investment are at best taken for granted, or at worst, completely ignored.  I suspect much of this pessimism is ultimately motivated by hostility towards the current occupants of the White House and The Lodge.

@@ -1,0 +1,13 @@
+---
+title: "Steyn versus Caplan on EU Succession"
+date: "2008-04-28"
+categories: ["Economics", "Financial Markets"]
+---
+
+Mark Steyn [accepts](http://econlog.econlib.org/archives/2008/04/euro_bet_ii_x3.html "accepts") Bryan Caplan’s [EU succession wager](http://econlog.econlib.org/archives/2008/04/euro_bet_ii_win.html "euro succession wager"):
+
+> *If any current EU member with a population over 10 million people in 2007 officially withdraws from the EU before January 1, 2020, I will pay you \$100. Otherwise, you owe me \$100.*
+
+Unfortunately, Caplan has closed his book after three people took him up on the bet.  Perhaps [Intrade](http://www.intrade.com/apply.jsp?heardFromPromotionDetail=s0545138709r "Intrade") can be persuaded to make a contract out of it?
+
+Incidentally, while Intrade’s US 2008 recession contract is trading at just over 50%, the contracts for the quarterly GDP outcomes are suggesting a better than 50% chance that growth will be positive for every quarter this year, with the exception of Q2.  Intrade’s definition of recession is two consecutive quarters of negative GDP growth.

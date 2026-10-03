@@ -1,0 +1,13 @@
+---
+title: "The Efficient Markets Hypothesis as Meta Predictor"
+date: "2009-08-11"
+categories: ["Economics", "Financial Markets"]
+---
+
+[Bill Easterly](http://blogs.nyu.edu/fas/dri/aidwatch/2009/08/the_idiots_guide_to_answering.html "Bill Easterly") answers Her Majesty’s questions on the role of economists in the financial crisis:
+
+> *We correctly predicted that we would not be able to predict it.*
+
+[Robert Lucas](http://www.economist.com/businessfinance/displaystory.cfm?story_id=14165405 "Robert Lucas") spells out the obvious implications:
+
+> *The main lesson we should take away from the EMH for policymaking purposes is the futility of trying to deal with crises and recessions by finding central bankers and regulators who can identify and puncture bubbles. If these people exist, we will not be able to afford them.*

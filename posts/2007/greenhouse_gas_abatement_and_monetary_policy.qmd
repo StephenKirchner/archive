@@ -1,0 +1,11 @@
+---
+title: "Greenhouse Gas Abatement and Monetary Policy"
+date: "2007-10-25"
+categories: ["Economics", "Financial Markets"]
+---
+
+The RBNZ is quite possibly the world’s first central bank to reference greenhouse gas abatement in explaining the current stance of monetary policy.  According to today’s RBNZ [intra-quarter policy review](http://www.rbnz.govt.nz/news/2007/3149343.html "intra-quarter policy review"):
+
+> *There are a number of other upside risks to inflation, including the direct effects of the proposed greenhouse emissions trading scheme and rising global food prices.*
+
+Greenhouse gas abatement is analogous to a negative short-run supply shock in its implications for monetary policy, except that it is self-imposed restriction on supply and therefore not strictly a shock.  Couple this with the existing global demand shock emanating from the emerging market economies and monetary policymakers are increasingly going to have their work cut out for them.

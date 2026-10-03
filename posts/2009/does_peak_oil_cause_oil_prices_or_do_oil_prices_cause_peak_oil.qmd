@@ -1,0 +1,9 @@
+---
+title: "Does ‘Peak Oil’ Cause Oil Prices or Do Oil Prices Cause ‘Peak Oil’?"
+date: "2009-01-10"
+categories: ["Economics", "Oil"]
+---
+
+‘Peak oil’ is meant to drive a secular increase in oil prices.  But what if the cyclical behaviour of oil prices actually drove belief in peak oil?  [Matthew Kahn](http://greeneconomics.blogspot.com/2009/01/peak-oil-interest-and-price-of-gasoline.html "Matthew Kahn") notes that traffic at the peak oil blog The Oil Drum is closely correlated with oil prices.  The direction of causality is fairly unambiguous:
+
+> *I don’t believe that the Oil Drum blog causes gas price dynamics. The causality runs from oil price dynamics causing interest or declines in interest in the Oil Drum blog.*

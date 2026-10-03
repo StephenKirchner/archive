@@ -1,0 +1,11 @@
+---
+title: "Supply-Side Implications of Lower Taxes"
+date: "2007-10-16"
+categories: ["Economics", "Financial Markets", "Politics"]
+---
+
+The ‘tax cuts lead to higher interest rates’ brigade have been relatively quiet in response to the government’s tax cuts announced yesterday.  This is in no small part due to the government continuing to highlight in the Budget papers the positive supply-side implications of its tax cuts.  According to yesterday’s [Mid-Year Economic and Fiscal Outlook](http://www.budget.gov.au/2007-08/myefo/html/index.htm "Mid-Year Economic and Fiscal Outlook"):
+
+> *The 2007-08 MYEFO tax cuts and the Government’s goal for the personal income tax system will continue the focus on encouraging workforce participation that has been a feature of the tax cuts delivered by the Government since the introduction of The New Tax System. The estimated impact of the 2007-08 MYEFO tax cuts is to encourage around 65,000 new entrants into the workforce. The cumulative effect of the tax cuts delivered by the Government since The New Tax System is estimated to encourage around 300,000 new entrants to the workforce.*
+
+Far from leading to higher interest rates, the government’s tax cuts may play an important role in preventing the labour market from becoming a source of inflationary pressure and a constraint on economic growth.

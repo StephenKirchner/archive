@@ -1,0 +1,23 @@
+---
+title: "More Housing Nonsense from Gittins"
+date: "2005-06-06"
+categories: ["Economics"]
+---
+
+[Ross Gittins’](http://www.smh.com.au/news/Business/Welcome-to-life-after-the-housing-boom/2005/06/05/1117910186727.html "Ross Gittin’s") column today is almost a perfect summary statement of all the nonsense written about housing in recent years.  In particular, Gittins claims:
+
+*What many people don’t realise, I suspect, is that the housing boom effectively crowded out external demand (“net exports”). You can see this from two perspectives. The first is that, on the one hand, the housing boom added to consumption and so reduced saving while, on the other, it added to investment (in the housing stock). So, by reducing national saving and increasing national investment, the housing boom caused a widening of the current account deficit.*
+
+The problem with this argument is that it is simply not supported by the data.  As we have pointed out on previous occasions, consumption and national saving as a share of GDP have been remarkably steady.  Investment has boomed, of which housing makes up only a part.
+
+The widely held perception to the contrary stems in part from the fact that the ABS does not highlight the national saving data in the national accounts release, for the simple reason that these data are so boring.  They do report the household saving ratio, because it shows more colour and movement, but if you read the fine print, you will see that the ABS doesn’t believe its own numbers.  In particular, they warn that the data are potentially subject to significant revisions which ‘can cause changes in the apparent direction of the trend.’
+
+In fact, one can argue that it is the increased purchasing power of domestic production from improvements in the terms of trade that is driving income growth that is in turn driving consumption and house prices.  In other words, consumption and house prices are jointly driven by strong growth in national income, not the other way around.  Strong growth in the terms of trade is also driving the growth subtraction from net exports, as we substitute cheap imports for domestic production.  This makes us better off in welfare terms, but you won’t see this looking at the domestic product account. In fact, the peak in annual growth in house prices coincides quite nicely with the growth peak in real gross domestic income.
+
+Gittins goes on to argue:
+
+The second way to think of it is that, thanks to the economic growth emanating from the housing boom, the unemployment rate fell steadily to a 28-year low of 5 per cent.
+
+The Reserve Bank would not have wanted to see the economy growing any faster than it did. In its management of demand along the path it took, the Reserve kept the official interest rate higher than otherwise, which probably kept the exchange rate higher than otherwise, thereby crowding out net exports.
+
+I trust Gittins is not seriously arguing that we should have a slower rate of economic growth and a higher unemployment rate, just so we can have lower interest rates, a weaker dollar and a better current account balance, but that is the clear implication of what he is saying.  That is exactly the formula which brought us the early 1990s recession.

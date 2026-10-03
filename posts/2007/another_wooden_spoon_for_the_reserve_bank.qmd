@@ -1,0 +1,9 @@
+---
+title: "Another Wooden Spoon for the Reserve Bank"
+date: "2007-05-17"
+categories: ["Economics", "Financial Markets"]
+---
+
+The Reserve Bank of Australia typically scores poorly in cross-country rankings of central bank transparency and accountability.  It can now add to its collection of wooden spoon awards bottom place in [JP Morgan’s index of central bank communication](http://pull.jpmorgan-research.com/cgi-bin/pull/DocPull/14073-57FB/29908529/Central_bank_communication.pdf "JP Morgan’s index of central bank communication").  Indeed, the RBA is such an outlier that it single-handedly establishes a significant relationship between the JP Morgan index of central bank communication and at least one of their measures of interest rate forecast errors. 
+
+Of course, the fact that the RBA serves as an influential observation in this study only serves to highlight the more general conclusion from this and other studies, that there is typically not a robust relationship between measures of central bank transparency and measured market volatility.  This does not, however, negate the purely procedural case for increased transparency and accountability on the part of the RBA.

@@ -1,0 +1,9 @@
+---
+title: "The Content of Krugman’s Character"
+date: "2008-01-29"
+categories: ["Economics"]
+---
+
+Dan Klein and Harika Bartlett have produced a content analysis of Krugman’s New York Times columns, published in [Econ Journal Watch](http://www.econjournalwatch.org/pdf/KleinBarlettCharacterIssuesJanuary2008.pdf "Econ Journal Watch"):
+
+> *I maintain that the tension between Krugman’s NYT corpus and economic betterment is strong enough to present problems either way. If Krugman would deny that there is significant tension, then he functions irresponsibly, in ways indicated below. If Krugman would admit that, to some extent, he is ready to sacrifice poor people’s interests for the sake of social-democratic values, then he has to admit conflict among relevant values and give up posturing to the effect that he has been a voice of unbiased research and has stood above any ideological interpretation of affairs.*

@@ -1,0 +1,17 @@
+---
+title: "Should We Use Monetary Policy to Regulate Human Nature?"
+date: "2009-04-06"
+categories: ["Economics", "Financial Markets", "Monetary Policy"]
+---
+
+Writing in the letters page of today’s *AFR* (no link), Des Moore says:
+
+> Whether or not a targeting of asset prices warrants more attention, any review of policy surely needs to address the difficult issue of changes over time in human nature…
+>
+> There is a long history of swings in attitudes from optimism to pessimism, often “inspired” by governments, that result in changes in risk behaviour: our most recent swing of optimism was reflected in the boom in investment in commodity production. 
+>
+> If monetary policy does not pay sufficient regard to such swings, it is very likely that we will end up with a “bust” - and high unemployment. That is what happened in the 1980s and what is happening now…
+
+The idea that human nature is variable at business cycle frequencies is highly questionable, as is the assumption that the monetary authorities are somehow immune to these ‘swings of attitude’.  Des falls into the classic trap identified by public choice theorists of assuming that human nature changes when we relocate people from the private to the public sector. 
+
+In arguing that the recent boom in commodity investment was a ‘reflection’ of ‘our most recent swing in optimism’, Des Moore identifies himself with behavioralists like Robert Shiller, who maintain that sentiment drives economic activity, rather than the other way around.  But as I argue in *[Bubble Poppers](http://www.cis.org.au/policy_monographs/pm93.pdf "Bubble Poppers")*, the more asset prices are thought to be disconnected from the real economy, the weaker the case for using monetary policy to regulate asset prices via the real economy.

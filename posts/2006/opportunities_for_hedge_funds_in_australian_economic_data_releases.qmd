@@ -1,0 +1,11 @@
+---
+title: "Opportunities for Hedge Funds in Australian Economic Data Releases"
+date: "2006-03-16"
+categories: ["Economics"]
+---
+
+A [research paper](http://www.sfe.com.au/content/sfe/trading/qmm_200512.pdf "research paper") published under the auspices of the Sydney Futures Exchange seeks to highlight trading opportunities for the global CTA and hedge fund communities in relation to Australia macroeconomic data.  The paper examines price volatility in selected futures contracts around various macroeconomic releases.
+
+The results confirm previous studies in both the Australian and US contexts suggesting that the monthly employment numbers have the biggest impact on bond futures prices.  In part, this just reflects the volatility in the employment numbers themselves, which are subject to very large standard errors.  Outside of consensus employment numbers are thus more common than for other releases. 
+
+This still begs the question as to why the market reacts so strongly to a release that is relatively noisy and is widely thought to be a lagging indicator of activity.  My own behavioural finance explanation for this is that the monthly employment numbers are one of few indicators that everyone thinks they understand, because they have a fairly unambiguous economic interpretation: employment up, economy up; employment down, economy down.  Yet leading indicators of employment widely used in forecasting imply that this information is already in the data, for those who care to look.

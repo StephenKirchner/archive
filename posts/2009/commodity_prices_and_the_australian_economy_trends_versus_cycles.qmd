@@ -1,0 +1,7 @@
+---
+title: "Commodity Prices and the Australian Economy: Trends versus Cycles"
+date: "2009-01-07"
+categories: ["Commodity Prices", "Economics"]
+---
+
+I have an article in the latest issue of [Policy](../../files/POLICY_commodity_prices.pdf "Policy") examining trends and cycles in commodity prices.  In the article, I highlight the difficulty of isolating longer-run trends from the pronounced multi-year cycles in commodity prices.  I also argue that commodities are not nearly as important to the Australian economy as commonly assumed.

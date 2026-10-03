@@ -1,0 +1,13 @@
+---
+title: "The Wisdom of Crowds and Insider Trading"
+date: "2006-06-13"
+categories: ["Economics", "Financial Markets"]
+---
+
+[Henry Manne](http://online.wsj.com/article/SB115015714883578393.html?mod=opinion_main_commentaries "Henry Manne") argues that the success of prediction markets supports the legalisation of insider trading:
+
+The implications of what we already know of this “wisdom of crowds” approach to price formation, as against the traditional marginal pricing/arbitrage approach, are apt to be startling. We should rethink any current policies based on a view of pricing in which we exclude the best-informed traders and discard the wisdom of the many. For instance, we now have a new and more powerful argument than we had in the past for legalizing most insider or informed trading.
+
+Since such trading clearly makes the market process work more efficiently, it aids capital allocation decisions and informs business executives through market-price feedback of the best predictions about the value of new plans. Furthermore, the Supreme Court’s “fraud on the market” theory of civil liability under the federal securities laws and Congress’s ideas of correct civil damage claims for insider trading no longer have any intellectual merit. The same is true of any other part of our securities laws implicitly based on the notion of the marginal trader as a rational arbitrageur of price.
+
+The new approach would suggest that it is undesirable to have laws discouraging stock trading by anyone who has any knowledge relevant to the valuation of a security.

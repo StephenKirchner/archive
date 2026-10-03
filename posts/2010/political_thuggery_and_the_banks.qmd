@@ -1,0 +1,15 @@
+---
+title: "Political Thuggery and the Banks"
+date: "2010-11-03"
+categories: ["Economics", "Financial Markets", "Monetary Policy"]
+---
+
+[Saul Eslake](http://www.theage.com.au/business/no-place-for-politics-20101102-17cgv.html "Saul Eslake") notes the long history of ministerial thuggery directed at the banks, not to mention bureaucratic intimidation by the ACCC. As Saul reminds us:
+
+> the whole debate about whether the banks have some obligation to tie the timing and magnitude of movements in their lending rates to changes in the RBA’s cash rate entirely misses the crucial point that the RBA is now targeting the interest rates that borrowers actually pay when it sets the cash rate, and thus takes into account any change in the spread between the cash rate and the rates that borrowers pay.
+>
+> If banks raised lending rates by an average of, say, 50 basis points, following yesterday’s 25-basis point rise in the cash rate, the RBA would remove one of the series of further 25-basis point increases in the cash rate it is clearly contemplating between now and the peak of the current mining boom.
+>
+> Preventing banks raising their rates by more than the cash rate would not result in borrowers paying lower interest rates. All it would do is alter the distribution of the stream of interest payments made by borrowers between bank shareholders, bank depositors, and other sources of bank funds. And why that should be the subject of government intervention - especially by those who generally favour less rather than more government intervention in business decision-making - continues to elude me.
+
+What eludes me is why the banks make donations to political parties that are actively seeking to damage their franchise (see, eg, [CBA’s donations](http://periodicdisclosures.aec.gov.au/Donor.aspx?SubmissionID=11&ClientID=32592 "CBA’s donations")). These donations are clearly not buying the banks much in terms of influence. Shareholders should demand that the banks stop paying political protection money, sending a message to politicians that their shameless populism has consequences.

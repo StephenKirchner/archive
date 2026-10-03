@@ -1,0 +1,11 @@
+---
+title: "How Not To Solve a Crisis"
+date: "2008-12-10"
+categories: ["Economics", "Financial Markets"]
+---
+
+The Lion Rock Institute and International Policy Network have published a report by Bill Stacey and Julian Morris on [How Not to Solve a Crisis](http://www.policynetwork.net/uploaded/pdf/HowNottoSolveaCrisis.pdf "How Not to Solve a Crisis").  I agree with their assessment of the failure to bail out Lehman Brothers, which runs counter to the conventional wisdom:
+
+> The Lehman bankruptcy followed on 15 September, after talks with a few parties about a buyout failed. Early talks apparently failed because management held out for a higher price. Later talks failed because the government refused the guarantees sought by potential purchasers. The consequences of failure were large, with unsettled trades and frozen collateral disrupting markets everywhere. The Bear precedent had led many market participants to believe that Lehman would not be allowed to fail.  Markets quickly priced the swing in policy, leaving all securities companies vulnerable.
+>
+> The popular view among market participants is that Lehman should not have been allowed to fail. Yet if Bear had not earlier been rescued, Lehman would likely earlier have raised funds, counterparties would have more quickly protected themselves from risks and underlying problems would have been recognized sooner.

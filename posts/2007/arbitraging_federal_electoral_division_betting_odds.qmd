@@ -1,0 +1,7 @@
+---
+title: "Arbitraging Federal Electoral Division Betting Odds"
+date: "2007-10-23"
+categories: ["Economics", "Financial Markets", "Politics"]
+---
+
+[Simon Jackman](http://jackman.stanford.edu/oz/Aggregate2007/bettingmarkets/arb.html "Simon Jackman") identifies daily spot arbitrage opportunities in bookmakers’ odds for various divisional races in this year’s federal election.

@@ -1,0 +1,11 @@
+---
+title: "How the US Government Funds Mortgage Fraud"
+date: "2009-12-14"
+categories: ["Economics", "Financial Markets"]
+---
+
+The Centre for Public Integrity and the Washington Post [investigate](http://www.washingtonpost.com/wp-dyn/content/article/2009/12/09/AR2009120904635_pf.html "investigate") Ginnie Mae:
+
+> The trouble signs surrounding Lend America had been building for years. A top executive was convicted of mortgage fraud but still helped run the company. Home loans made by its headquarters were defaulting at an extremely high rate. Federal prosecutors alleged in a civil suit that the company falsified loan documents and committed fraud.
+>
+> Yet despite these red flags, a little-known federal agency continued giving its blessing to Lend America, allowing it to do business in the name of the U.S. government. The Government National Mortgage Association, known as Ginnie Mae, authorized the firm to bundle its mortgages into securities and sell them to investors around the world—all backed by U.S. taxpayer money.

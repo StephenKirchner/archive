@@ -1,0 +1,15 @@
+---
+title: "Sovereign Fiscal Responsibility Index"
+date: "2011-03-24"
+categories: ["Economics", "Fiscal Policy"]
+---
+
+[Australia is number one](http://online.wsj.com/public/resources/documents/st_usdebt01_20110323.html) (meaning we hit the wall only after 40 years, as opposed to being broke right now). The United States sits between Italy and Hungary.
+
+These are the variables:
+
+Fiscal Space: An analysis of the additional amount of debt a country could issue before it is likely to face a fiscal crisis. Compares a country’s weighted-average debt level to the estimated maximum debt level a country could carry.
+
+Fiscal Path: A projection of a country’s future levels of debt. The measure uses a projection of a country’s weighted-average debt level every year until 2050, using those figures to then calculate how long it takes a country to meet its maximum debt level.
+
+Fiscal Governance: A rating of a country’s spending rules, transparency about fiscal policy making, and whether those rules are actually enforceable.

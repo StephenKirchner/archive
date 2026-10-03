@@ -1,0 +1,19 @@
+---
+title: "A Monetarist’s Work is Never Done"
+date: "2008-01-17"
+categories: ["Economics", "Financial Markets"]
+---
+
+At the ripe old age of 92, [Anna Schwartz](http://www.telegraph.co.uk/money/main.jhtml?xml=/money/2008/01/13/ccschwartz113.xml "Anna Schwartz") is still giving the Fed a hard time:
+
+> *“There never would have been a sub-prime mortgage crisis if the Fed had been alert. This is something Alan Greenspan must answer for,” she says.*
+
+While this is a widely held view, it is one I (respectfully, in this case) disagree with.  It is hard to pin the under-pricing of risk in credit markets on monetary policy, as opposed to the innovative nature of the products involved.  One can make a case that the amplitude of the most recent Fed funds rate cycle has been a factor in triggering widespread mortgage defaults, but that in turn reflected the preponderance of fixed rate mortgages in the US, which delayed the pass through of changes in the Fed funds rate to actual lending rates.  The Fed was simply not getting much of an effect from changes in the Fed funds rate back in 2002 and 2003, which was also a factor in the very gradual re-tightening from mid-2004.  If anything, this suggests that the US economy is not all that responsive to changes in official interest rates.  The Fed stopped tightening and held rates steady for more than a year before the problems in credit markets emerged.  It is hard to believe that the Fed triggered a credit shock by doing nothing for more than 12 months.
+
+Few of the people who are now blaming the Fed were complaining about low interest rates in 2003.  For its part, the Fed was fretting over the prospect of deflation instead.  As the linked story notes:
+
+> *Bernanke insists that the Fed has leant the lesson from the catastrophic errors of the 1930s. At the late Milton Friedman’s 90th birthday party, he apologised for the sins of his institutional forefathers. “Yes, we did it, we’re very sorry, we won’t do it again.”*
+
+Of course, there is no reason why we shouldn’t revise our analysis of events ex-post.  But to blame subsequent events entirely on monetary policy is as unhelpful as it is implausible.
+
+Still, you’ve got to hand it to Anna, fronting up to work at the NBER at 92.  Most of us should be grateful to still be constructing coherent sentences at that age.  If Friedman and Schwartz are any guide, monetarism is good for your health.

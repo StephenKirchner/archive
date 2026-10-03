@@ -1,0 +1,9 @@
+---
+title: "Central Bank Open Market Operations"
+date: "2007-08-28"
+categories: ["Economics", "Financial Markets"]
+---
+
+RBA Deputy Governor [Ric Battellino](http://www.rba.gov.au/Speeches/2007/sp_dg_280807.html "Ric Battellino") addresses some of the misconceptions around recent central bank open market operations:
+
+> *none of these measures was intended as a change in monetary policy settings and no central bank has reduced its interest rate target. Neither should these measures be seen as an attempt to ‘bail out’ banks or markets. Rather, the measures have been technical operations aimed at breaking up the log jams in money markets and encouraging funds to flow again, in order to prevent monetary conditions becoming tighter than the settings that had been determined by the central bank monetary policy committees and boards in the various countries.*

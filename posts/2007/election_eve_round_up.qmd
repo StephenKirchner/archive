@@ -1,0 +1,21 @@
+---
+title: "Election Eve Round-Up"
+date: "2007-11-23"
+categories: ["Economics", "Financial Markets", "Politics"]
+---
+
+[David Uren](http://www.theaustralian.news.com.au/story/0,25197,22804978-28737,00.html "David Uren") blames Paul Romer for Ruddonomics:
+
+> Rudd is influenced by the new growth theory of Californian economist Paul Romer. Where traditional economics says economic growth results from the forces of labour and capital coming together, assisted by the fortuitous development of new technology, Romer argues that investment in knowledge is a measurable input and part of the growth process. New technology doesn’t appear like manna from heaven but requires investment in education.
+>
+> Labor’s take on Romer’s work is that investment in education will produce long-term dividends in economic growth. Its election promises such as the tax rebate for education equipment and funds for school computers are tokens of its new approach and could be expected to be followed, if elected, by a more substantial shift of budget priorities towards education.
+
+Econtalk has a superb [interview](http://www.econtalk.org/archives/2007/08/romer_on_growth.html "interview") with Paul Romer, in which Romer is very careful to disassociate himself from some of the many abuses of endogenous growth theory.
+
+[Sinclair Davidson and Alex Robson](http://ipa.org.au/publications/publisting_detail.asp?pubid=694 "Sinclair Davidson and Alex Robson") calculate the tax cuts that could have been financed out of the election spending promises of Labor and the Coalition:
+
+> According to the Coalition’s own calculations of the size of its and Labor’s tax cut and spending commitments, the average taxpayer earning approximately \$60,000 per annum would receive a benefit after four years of \$65 per week under the Coalition’s plans and \$52 per week under the ALP’s plans—if each party’s tax policy was implemented and if the amount each party promised in new spending was instead devoted to tax cuts. If the Sunday Telegraph’s calculations were used these figures would be \$58 per week under the Coalition’s plans and \$47 per week under the ALP’s plan. Using the estimates of The Age/SMH and The Australian after four years the average taxpayer would be \$94 per week better off under the Coalition, and \$66 per week better off under Labor.
+>
+> It can be said therefore, that regardless of who’s figures are believed the average taxpayer would be better off after four years by at least \$58 per week under the Coalition and \$47 per week under Labor, Labor, if tax cuts were delivered instead of spending increases.
+
+The [Intrade](http://www.intrade.com/apply.jsp?heardFromPromotionDetail=s0545138709r "Intrade") federal election contract is giving an 88% chance to a Labor win, although there is actually more market depth on the short-side of the Labor contract, suggesting that at least some people are looking to take advantage of Labor being over-priced.

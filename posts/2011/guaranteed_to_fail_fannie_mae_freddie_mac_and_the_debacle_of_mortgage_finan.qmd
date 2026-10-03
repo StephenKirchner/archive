@@ -1,0 +1,15 @@
+---
+title: "Guaranteed to Fail: Fannie Mae, Freddie Mac and the Debacle of Mortgage Finance"
+date: "2011-03-31"
+categories: ["Economics", "Financial Markets"]
+---
+
+The financial crisis has generated hundreds of wise-after-the-fact, morality play and melodrama books on the subject, almost all of which have been completely beside the point. Until now. [James Pressley](http://www.bloomberg.com/news/2011-03-29/godzilla-hedge-funds-fannie-mae-freddie-were-guaranteed-to-fail-books.html) reviews [Guaranteed to Fail: Fannie Mae, Freddie Mac and the Debacle of Mortgage Finance](http://press.princeton.edu/titles/9400.html):
+
+> Fannie Mae and Freddie Mac’s growth reflected astonishing advantages they had over private rivals. They paid lower taxes, could borrow at cheaper rates and were required to hold less capital. How much less? When they guaranteed the credit risk of mortgage-backed securities, or MBS, the capital requirement was 0.45 percent—just 45 cents per \$100 of guarantees, the authors say; when they invested such securities, the buffer was 2.5 percent, or \$2.50 per \$100.
+>
+> A federally insured bank, by contrast, faced a capital requirement of 4 percent for holding residential mortgages—unless it held GSE MBS. In that case, the requirement fell to 1.6 percent, creating perverse incentives for banks to originate mortgages, sell them to the GSEs for securitization and buy them back as GSE MBS. Same risk, less capital.
+>
+> A race to the bottom was on—a competition to churn out increasingly dicey mortgages—only now it pitted Godzilla Fannie Mae and Freddie Mac against King Kong banks deemed to have “a too-big-to-fail government guarantee,” the authors say. Here was “a highly leveraged bet on the mortgage market by firms that were implicitly backed by the government with artificially low funding rates.” America, the bastion of free markets, became anything but when it came to mortgages.
+
+You can read Chapter One [here](http://press.princeton.edu/chapters/s9400.pdf).

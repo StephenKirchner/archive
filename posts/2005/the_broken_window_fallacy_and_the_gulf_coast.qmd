@@ -1,0 +1,9 @@
+---
+title: "The Broken Window Fallacy and the Gulf Coast"
+date: "2005-09-04"
+categories: ["Economics"]
+---
+
+Natural disasters always bring out plenty of instances of [Bastiat’s broken window fallacy](http://bastiat.org/en/twisatwins.html#broken_window "Bastiat’s broken window fallacy").  However, to point out the implications of disasters like Hurricane Katrina for measured growth is not necessarily to fall victim to the broken window fallacy.  It is simply to highlight the well known limitations of the ways in which we measure economic activity, particularly for flow based measures like GDP.  This is not the same thing as claiming that we are better off in a welfare sense as a result of a natural disaster.  No doubt some commentators are not clear about this distinction, but it is also clear that many of those who are pointing out the fallacy in the context of Katrina are not clear about the distinction either. 
+
+Understanding the distortions to measured activity arising from events like Katrina is an important task for economists.  [Action Economics](http://www.actioneconomics.com "Action Economics") Director of Investment Research and Analysis Rick MacDonald is an expert at sifting through the implications of hurricanes for US economic data.  For those wanting a good handle on the implications of Katrina for these data, I would highly recommend his research.

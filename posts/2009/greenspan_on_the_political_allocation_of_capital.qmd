@@ -1,0 +1,9 @@
+---
+title: "Greenspan on the Political Allocation of Capital"
+date: "2009-06-26"
+categories: ["Economics", "Fiscal Policy", "Monetary Policy"]
+---
+
+[Alan Greenspan](http://www.ft.com/cms/s/0/e1fbc4e6-6194-11de-9e03-00144feabdc0.html "Alan Greenspan"), on the quantitative channel for crowding-out:
+
+> *Even absent the inflation threat, there is another potential danger inherent in current US fiscal policy: a major increase in the funding of the US economy through public sector debt. Such a course for fiscal policy is a recipe for the political allocation of capital and an undermining of the process of “creative destruction” – the private sector market competition that is essential to rising standards of living. This paradigm’s reputation has been badly tarnished by recent events. Improvements in financial regulation and supervision, especially in areas of capital adequacy, are necessary. However, for the best chance for worldwide economic growth we must continue to rely on private market forces to allocate capital and other resources. The alternative of political allocation of resources has been tried; and it failed.*

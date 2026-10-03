@@ -1,0 +1,13 @@
+---
+title: "Joe Stiglitz and Fannie Mae"
+date: "2011-06-12"
+categories: ["Economics", "Financial Markets"]
+---
+
+From Morgenson and Rosner’s [Reckless Endangerment](http://www.amazon.com/dp/0805091203/ref=as_li_qf_sp_asin_til?tag=institutional-20&camp=0&creative=0&linkCode=as1&creativeASIN=0805091203&adid=0VH14AJRGJ5BFP5X1GZ2):
+
+> *Fannie Mae also published its own series of studies on housing, known as Fannie Mae Papers. In these reports, Fannie would ask prominent academics to discuss topics near and dear to the company’s heart. In March 2002 Joseph Stiglitz, a Nobel Prize winner, and Peter Orszag, who would later become the head of the Congressional Budget Office under Obama, along with Jonathan Orszag, published a paper entitled “Implications of the New Fannie Mae and Freddie Mac Risk-Based Capital Standard.” The noted academics pushed back against the companies’ critics who argued that both Fannie and Freddie posed significant risks to the taxpayer. For example, their paper concluded that even though Fannie and Freddie held much smaller capital cushions than other financial institutions, these would never have to be used. “The probability of a shock as severe as embodied in the risk-based capital standard is substantially less than one in 500,000—and may be smaller than one in three million,” the authors wrote. “If the probability of the stress test conditions occurring is less than one in 500,000, and if the GSEs hold sufficient capital to withstand the stress test, the implication is that the expected cost to the government of providing an explicit government guarantee on \$1 trillion in GSE debt is less than \$2 million.”*
+
+Not even close.
+
+> *Fannie Mae’s financing of academic research on such a large scale meant that few housing experts were left to argue the other side of any debate involving the company. Any discussion involving Fannie Mae in these papers was designed to defend the status quo. One bank lobbyist was interested in hiring academics to write papers that might take a different point of view on housing issues. But most of the experts in the area had been co-opted by Fannie Mae. “I tried to find academics that would do research on these issues and Fannie had bought off all the academics in housing,” the lobbyist said. “I had people say to me are you going to give me stipends for the next 20 years like Fannie will?” The answer was no. The discussion was over.*

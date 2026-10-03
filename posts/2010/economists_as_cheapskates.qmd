@@ -1,0 +1,13 @@
+---
+title: "Economists as Cheapskates"
+date: "2010-01-02"
+categories: ["Economics"]
+---
+
+The [WSJ](http://online.wsj.com/article/SB126238854939012923.html?mod=WSJ_hpp_MIDDLENexttoWhatsNewsTop "WSJ") examines the idea that economists are chronic cheapskates, citing both survey and anecdotal evidence.  Given that economics proceeds from the notion of opportunity cost, this reputation is not hard to explain.  The relative reluctance of economists to donate to charity may not be motivated by a lack of philanthropy, but by a better understanding of incentives or the unintended consequences of such generosity. 
+
+According to the WSJ:
+
+> *Stanford University economist Robert Hall, incoming president of the American Economic Association, values his time so highly that his wife, economist Susan Woodward, occasionally puts her foot down. “Bob doesn’t see why we can’t just hire people to trim the Christmas tree,” she says. “I tell him that’s not what it’s supposed to be about.”*
+
+Hall has probably realised that the only genuinely scarce resource is the amount of attention an individual has to devote to their life-time activities.  Shirley Conran had the same idea when she declared that life was too short to stuff a mushroom.

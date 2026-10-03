@@ -1,0 +1,11 @@
+---
+title: "The Credit Crunch that Wasn’t II"
+date: "2007-10-10"
+categories: ["Economics", "Financial Markets"]
+---
+
+We [previously noted](../2007/the_credit_crunch_that_wasnt.qmd "previously noted") that there was little sign of a credit crunch in Australia’s financial aggregates for the month of August.  My associates at [Action Economics](http://www.actioneconomics.com "Action Economics") reach similar conclusions in relation to the US:
+
+> What if Wall Street throws a panic, and nobody shows up? Some players became so caught-up in the pass-through scenario of credit market disruption to reduced economic growth that it seemed a fait accompli. Yet, the events of August were better described as market turmoil than a credit crunch, and the difference is important for the economy, inflation, and the Fed…
+>
+> In total, the use of the term “credit crunch” to describe the events of August may prove a misnomer with real implications for risk assessments as we enter Q4. Though turmoil for financial market participants was substantial, there is widespread evidence that the large majority of the borrowing public both ignored the events and experienced little effect. To most U.S. borrowers, the period has only been associated with declining interest rates, a falling dollar, surging stock and commodity prices, and rapid loan, money, and reserve growth. Such patterns usually define a period of easy money and rising inflation rather than a “credit crunch.” Even if some borrowers on the margin are now unable to obtain credit, and there is no doubt that credit conditions have tightened for some borrowers, expanded borrowing by everyone else may more than offset the difference.

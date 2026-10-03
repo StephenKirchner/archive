@@ -1,0 +1,11 @@
+---
+title: "The EMH Following the Mother of All Typos"
+date: "2010-05-08"
+categories: ["Economics", "Financial Markets"]
+---
+
+[Phil Levy](http://www.aei.org/article/102026 "Phil Levy") on the return of efficient markets:
+
+> One of the great memes to emerge from the financial crisis was that economists had no idea what they were talking about. After all, professional economists had urged deregulation and faith in markets; an internet full of amateur economists could easily see that such misguided nuggets of advice were solely responsible for all the woe that ensued.
+>
+> This analysis was always a bit problematic. First, we may need a bit more perspective to properly attribute causality in the crisis. The snap analyses have been politically convenient, in that they have supported snap policy responses, but they have their flaws. For example, what about Fannie Mae and Freddie Mac? These were hardly paragons of unfettered market extremism and they were central to the housing bubble and to the cost of the eventual government bailout. I know firsthand that this was a crisis foretold by economists, since I served as a senior staff economist for Greg Mankiw when he chaired President Bush’s Council of Economic Advisers. Greg, working with excellent economists like Karen Dynan, now of Brookings, was vocal about the dangers posed by these government-sponsored enterprises and helped formulate proposals for reining them in. Congress blocked the proposals.

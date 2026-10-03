@@ -1,0 +1,11 @@
+---
+title: "When Interventions Collide"
+date: "2009-07-02"
+categories: ["Economics", "Financial Markets", "Monetary Policy"]
+---
+
+[Christopher Joye](http://www.businessspectator.com.au/bs.nsf/Article/Joe-Hockey-jumps-on-the-bandwagon-pd20090701-THVAA?OpenDocument&src=is&is=Property&blog=Concrete%20Detail "Christopher Joye") notes how the government’s bank guarantees have undermined its \$8 billion intervention in the market for residential mortgage-backed securities:
+
+> *while the \$8 billion has directly helped out the lenders who have benefited from the capital, it has had no effect at all on the overall cost of RMBS funding (or the so-called ‘spreads’) because it is being undermined by the government guarantees of bank debt, which have massively increased the supply of AAA-rated securities and created two-tiers of investment – those AAA assets with and without a government guarantee (RMBS and CMBS obviously fall into the latter category). Indeed, as the RBA (in its Statement of Monetary Policy) and the Treasury’s David Gruen have recently observed with some bewilderment, RMBS spreads have actually increased markedly to more than 200 basis points over the swap rate since the AOFM started investing its money notwithstanding their incredibly low default rates (again because of the dysfunction indirectly introduced by the government guarantees of bank debt). In the ten years prior to the advent of the GFC, Aussie RMBS spreads averaged 20-30 basis points over. And today, the 90 day mortgage default rate sits at about 15 per cent and 25 per cent of US and UK levels, respectively, or roughly 0.6 per cent.*
+
+As I argue in this [paper](http://www.cis.org.au/issue_analysis/IA99/ia99.pdf "paper"), the idea that government intervention in the RMBS market can engineer an exogenous easing in credit conditions is mistaken, because the RBA fully discounts these conditions in its conduct of monetary policy.  Even if such an easing were possible, it would be capitalised into house prices, with no benefit to home borrowers.

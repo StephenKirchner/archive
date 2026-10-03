@@ -1,0 +1,25 @@
+---
+title: "Ebay and Online Gaming Regulation"
+date: "2006-06-11"
+categories: ["Economics"]
+---
+
+[Radley Balko](http://www.cato.org/pub_display.php?pub_id=6429 "Radley Balko") on Ebay’s lobbying efforts in relation to on-line gaming regulation:
+
+Thiel and Levchin’s vision for PayPal is long dead. But it lives on in similar, offshore companies like Neteller and FirePay. These companies are safe and reliable (FirePay is traded on the London Stock Exchange), but aren’t subject to U.S. law, and so can be used for all sorts of goods and services the U.S. government has determined Americans aren’t grown-up enough to purchase. The most notable of these is Internet gambling.
+
+Once your money leaves your bank account for a Neteller or FirePay “online wallet,” there’s no way to know how you then spend that money. Your bank doesn’t know you’ve set up an online poker account, or bought a plane ticket or a bottle of wine.
+
+Enter Rep. Goodlatte. Goodlatte’s bill bans the use of financial services to facilitate Internet gambling sites. It’s already illegal to operate a gaming site on U.S. soil. But most experts agree it’s still legal to “place” a bet. Goodlatte wants to put up a wall between the domestic “bet placing” and the offshore “bet taking,” which FirePay and Neteller make possible.
+
+If banks and other financial institutions are going to be responsible for policing what their customers do online, as will happen should Goodlatte’s bill become law, it’s safe to assume that they’ll comply by simply banning all transactions with offshore payment services.
+
+Which means that Goodlatte’s bill’s main effect will be to shield PayPal, a domestic company, from foreign competitors (foreign competitors that, ironically, are doing exactly what PayPal’s founders envisioned).
+
+What’s more, the letter eBay government relations director Brian Bieron sent to Goodlatte announcing the company’s support of his bill actually goes above and beyond what any gambling foes in Congress have called for. Bieron in fact calls for the actual prosecution of Internet gamblers themselves, a policy which could only be enforced by allowing law enforcement officials to essentially begin monitoring everyone’s online activity, including tracing visited websites back to IP addresses.
+
+A law similar to what Bieron is advocating hit the books in Washington State this month. It makes online gambling a Class C felony, on par with child pornography.
+
+The funny thing is, even as eBay has joined Rep. Goodlatte’s moral crusade against gambling, the company’s overseas operations are moving into the gaming business. According to the gaming industry publication igamingnews.com, PayPal Europe has recently entered into agreements with two online gambling services to allow PayPal to be used by Europeans who want to gamble online.
+
+Industry insiders estimate that as much as 4 percent of the U.S. population participates in online gambling. That’s about 12 million people. It’s likely that a good percentage of those 12 million active, online users also patronize eBay. I wonder what they’d think if they knew that eBay has called for them to be arrested and prosecuted?

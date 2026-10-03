@@ -1,0 +1,21 @@
+---
+title: "The Case Against (Another) Australian Sovereign Wealth Fund"
+date: "2010-05-19"
+categories: ["Economics", "Fiscal Policy"]
+---
+
+As if the [Future Fund](http://www.cis.org.au/policy/Spring_07/links/spring07_kirchner.html "Future Fund") were not bad enough, there are those (really just Paul Cleary, who thinks Australia is like Timor Leste, where he spent too much time) who argue that Australia should establish another sovereign wealth fund as a revenue stabilisation fund to smooth out the budgetary implications of terms of trade shocks. In yesterday’s [speech](http://www.treasury.gov.au/documents/1813/HTML/docshell.asp?URL=Secretary_address_ABE.htm "speech") to ABE, Treasury Secretary Ken Henry argued against the idea, while pretending not to:
+
+> I don’t want to pre-empt a debate on these matters. But I will make a few observations.
+>
+> First, if the revenue surge is regarded as likely to be long-lived, the alternative of tax cuts – permitting the private sector to make its own saving and investment decisions – should always be considered first.
+>
+> Second, of the various objectives, the proposition that a sovereign wealth fund can be used to impose discipline on government spending is most problematic. Sovereign wealth funds that have been in place around the world have not been as effective in imposing spending discipline as many seem to believe. IMF research has found that there is no statistical evidence that such funds impose any effective expenditure restraint.6 Even if rules are put in place to restrict access to the fund, in the absence of liquidity constraints, a government that wants to finance an increase in current spending can borrow against the security of the fund. Money is, after all, fungible.
+>
+> Third, stabilisation, consumption smoothing and exchange rate sterilisation are not dependent upon having a sovereign wealth fund. That is to say, these objectives could just as well be achieved within the context of the overall budget strategy.
+>
+> Fiscal stabilisation can be achieved without drawing on a sovereign wealth fund, as demonstrated in Australia’s response to the global financial crisis and international recession.
+>
+> Consumption smoothing can alternatively be achieved in the Australian context by investments in human capital and high quality public infrastructure or through contributions to individuals’ superannuation accounts.
+>
+> And a country experiencing large gross flows, both inward and outward, of both equity and debt, doesn’t have to take an explicit decision to invest the proceeds of fiscal surpluses in foreign assets in order that those surpluses put downward pressure on the nominal exchange rate. That is, using budget surpluses to repay debt, or even to purchase another financial asset domestically, would have the same effect.

@@ -1,0 +1,15 @@
+---
+title: "Gold Bug Myths"
+date: "2005-10-08"
+categories: ["Economics"]
+---
+
+With the USD price of gold at its highest levels since the late 1980s, [Stephen Jen](http://www.morganstanley.com/GEFdata/digests/latest-digest.html#anchor5 "Stephen Jen") reviews some stylised facts about gold:
+
+1.    Stocks overwhelm flows.  What sets gold apart from other commodities, besides being ‘non-destructible’ and ‘homogeneous’, is the above-ground stocks are massive (153,000 tonnes as of 2004), relative to the annual newly mined supply (2,464 tonnes in 2004).  This means the holders, not the producers, of gold have market power.
+
+2.    Gold has not been a good inflation hedge.  The real price of gold has declined by 50% since 1983.  To keep pace with inflation since 1983, gold should be trading at US\$930 an ounce — about twice the current market price.
+
+3.    Gold has a low to negative correlation with stock prices, and low general correlation with the business cycle.
+
+The Dow/gold ratio, or the number of ounces of gold required to buy the DJIA, has been trending higher for over a century (putting aside the 1979-80 episode), yet gold bugs typically view this as indicative of overvaluation in stocks rather than an argument against holding gold.

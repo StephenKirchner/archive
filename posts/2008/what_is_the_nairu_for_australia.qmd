@@ -1,0 +1,11 @@
+---
+title: "What is the NAIRU for Australia?"
+date: "2008-02-19"
+categories: ["Economics", "Financial Markets", "Politics"]
+---
+
+Opposition Treasury spokesman Malcolm Turnbull sought to put Treasurer Swan on the spot yesterday, [asking him to nominate](http://www.abc.net.au/news/stories/2008/02/18/2165968.htm?section=justin "asking him to nominate") Australia’s non-accelerating inflation rate of unemployment (NAIRU).  The question was specifically designed not to get an answer.  I dare say Malcolm can’t answer this question either.  If he can, he has chosen the wrong profession.
+
+The NAIRU is one of those latent variables that is inherently unobservable and likely changes over time.  The concept is thus not very useful in the real-time conduct of macroeconomic policy.  The more important focus for policymakers is to ease the NAIRU constraint on growth, by lowering the structural or non-cyclical component of unemployment.
+
+By way of comparison, New Zealand also currently enjoys a record low unemployment rate of 3.4% compared to Australia’s 4.1%.  Recent inflation outcomes suggest that both economies are likely facing the NAIRU constraint.  Yet on some measures (eg, non-tradeables inflation) Australia’s inflation performance is currently worse than that of New Zealand, despite its higher unemployment rate.  We can reasonably infer that New Zealand’s NAIRU is somewhat below that of Australia.  The 0.7 percentage point differential in the unemployment rate between the two countries reflects the additional structural unemployment Australian policymakers have been willing to accept in their choice of labour market institutions compared to those favoured in New Zealand.

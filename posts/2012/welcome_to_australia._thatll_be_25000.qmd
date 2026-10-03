@@ -1,0 +1,17 @@
+---
+title: "Welcome to Australia. That’ll be $25,000"
+date: "2012-07-01"
+categories: ["Economics", "Population & Migration"]
+---
+
+Brian Toohey in the [Weekend AFR](http://www.afr.com/p/national/an_immigration_fee_could_slow_the_HvUwiBXdODS2TieZBXMwFN) suggests charging for permanent migration rights:
+
+> The time may be ripe to adopt a market-based solution to the political obstacles to obtaining more workers from overseas.
+>
+> Charging immigrants a fee to help fund new infrastructure could help ease worries about overcrowding as more people become permanent residents. For refugees, paying the Australian government to come here would be a lot more attractive than paying a people smuggler. Combined with an increased refugee intake, it should help undermine the smugglers’ “business model”.
+>
+> In theory, politicians who accept the free movement of capital, and goods and services, across international borders, should also accept the free movement of labour. In practice, both sides of Australian politics squabble over who can best control the inflow of new workers and their families, especially those who have fled political violence…
+>
+> The migration program for 2012-13 of 190,000, including a humanitarian component of 13,750 refugees, is likely to stay around that level for several years. It is doubtful if a deferred fee of \$20,000 to \$25,000 per adult, with a discount for upfront payments and couples, would deter suitable applicants. If 190,000 permanent new settlers paid an average of only \$17,500 each year, this would raise more than \$3.3 billion annually when the scheme matured.
+
+In my CIS Policy Monograph, [Hands, Mouths, and Minds](http://www.cis.org.au/images/stories/policy-monographs/pm-123.pdf) I suggested an auction scheme rather than a flat fee for permanent migration rights, including the humanitarian quota. However, an auction scheme should not be viewed primarily as a revenue-raising measure, but rather as a selection device. Prospective migrants have much more knowledge about their potential for success in Australia than bureaucrats in Canberra attempting to centrally plan the labour market. An auction scheme allows potential migrants to act on their superior knowledge while enabling the Australian government to economise on migrant selection processes by focusing only on security assessments.

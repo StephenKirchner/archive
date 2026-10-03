@@ -1,0 +1,9 @@
+---
+title: "US 2009 Depression"
+date: "2008-10-08"
+categories: ["Economics", "Financial Markets"]
+---
+
+For the truly bearish, [Intrade](http://www.intrade.com/apply.jsp?heardFromPromotionDetail=s0545138709r "Intrade") launches a US 2009 depression contract.  Depression is defined ‘as a cumulative decline in GDP of more than 10.0% over four consecutive quarters… Negative quarters in the preceding year will count towards the total GDP decline for expiration purposes.’
+
+The contract is yet to trade, but the bid-ask is 5.1/15, with most of the volume on the short-side.

@@ -1,0 +1,17 @@
+---
+title: "The Shadow RBA Board"
+date: "2011-08-30"
+categories: ["Economics", "Monetary Policy"]
+---
+
+The Centre for Applied Macroeconomic Analysis at the ANU has put together a [Shadow RBA Board](http://cama.anu.edu.au/ShadowRBAborad/August%202011/29%20JULY%20-%20shadow%20RBA_RELEASE_FINAL.pdf):
+
+> Made up of senior Australian economists, the shadow board was set up as a research project by The Australian National University to look at interest rate setting by monetary policymakers.Director of the Centre for Applied Macroeconomic Analysis at ANU Professor Shaun Vahey said board members were asked to rank their preferred target interest rate, and to give the probability that each interest rate is appropriate.“Each economist gave a percentage value for how much they preferred each interest rate using an electronic voting system,” he said.
+>
+> “The board members are not forecasting actual RBA board behavior, but are considering what they believe is the appropriate rate.”
+
+Of course, what you believe to be the appropriate rate should be the same as your prediction for the actual interest rate outcome, unless you think the RBA Board is behaving inappropriately! Not surprisingly, at the August meeting, every member of the Shadow Board except Shaun assigned the single highest weight to the current official cash rate setting, endorsing the current stance of monetary policy.
+
+This highlights a major point of difference between the Shadow RBA Board and its overseas namesakes. The US Shadow Open Market Committee and the UK’s Shadow Monetary Policy Committee were established specifically to critique current policy from a monetarist perspective, as well as advocating reform of existing monetary institutions. The members of the Shadow RBA Board for the most part share with the RBA the standard New Keynesian framework for monetary policy, which is unlikely to lead Shadow Board members to adopt a radically different policy stance, even in a probabilistic setting. This is not to say that the New Keynesian model is an inappropriate framework. As Ed Nelson has shown, the basic features of the New Keynesian model can be derived explicitly from quantity theory identities.
+
+One possibly unintended consequence of the Shadow RBA Board will be to hold it members accountable for their policy prescriptions. Having confidently announced in a press release that ‘the current interest rate is at the correct level,’ it will now be more difficult for members of the Shadow RBA Board to retrospectively criticise the stance of monetary policy. Unlike the US and UK shadow policymaking bodies, the Shadow RBA Board may find themselves locked-in to defend the official policy position.

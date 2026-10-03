@@ -1,0 +1,9 @@
+---
+title: "Government Activism Hindering Recovery: Greenspan"
+date: "2011-03-06"
+categories: ["Economics", "Financial Markets"]
+---
+
+Alan Greenspan, writing in [International Finance](http://www.cfr.org/content/publications/attachments/infi_1277_Rev6.pdf), highlights the role of government activism in undermining economic recovery in the US:
+
+> *What is most notable in sifting through the variables that might conceivably account for the lacklustre rebound in GDP growth and the persistence of high unemployment is the unusually low level of corporate illiquid long-term fixed asset investment. As a share of corporate liquid cash flow, it is at its lowest level since 1940. This contrasts starkly with the robust recovery in the markets for liquid corporate securities. What, then, accounts for this exceptionally elevated level of illiquidity aversion? I break down the broad potential sources, and analyse them with standard regression techniques. I infer that a minimum of half and possibly as much as three-fourths of the effect can be explained by the shock of vastly greater uncertainties embedded in the competitive, regulatory and financial environments faced by businesses since the collapse of Lehman Brothers, deriving from the surge in government activism.*

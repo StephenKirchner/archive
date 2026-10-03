@@ -1,0 +1,13 @@
+---
+title: "M3, the Fed and Inflation"
+date: "2005-11-16"
+categories: ["Economics"]
+---
+
+[David Altig](http://macroblog.typepad.com/macroblog/2005/11/much_ado_about_.html "David Altig") weighs in on the Fed and M3, noting that:
+
+*From the point of view of a policy maker, why do we care about monetary measures in the first place? We care for the same reason everyone else does—because most of us still believe that, ultimately inflation, inflation is everywhere and always a monetary phenomenon.*
+
+There is robust cross-country empirical evidence for this proposition, but it is also easy to imagine situations in which tests for the long-run neutrality of money might fail due to permanent shocks to financial technology that disturb the velocity term in the quantity theory equation.  If these shocks are not modelled explicitly, then they could show up as a unit root process in the residual from a cointegrating specification involving money and inflation. 
+
+An obvious example is Japan, where growth rates in base money in excess of 30% y/y have been observed alongside chronic deflation.  Contrary to popular belief, monetarists have long recognised the potential for non-neutralities involving money.  This does not mean that money is unimportant.  But it highlights the fact that, even in the long-run, there may not be a straightforward relationship between money and inflation that would warrant the rather simplistic interpretation often given to growth rates in monetary aggregates.

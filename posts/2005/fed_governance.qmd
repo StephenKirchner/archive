@@ -1,0 +1,19 @@
+---
+title: "Fed Governance"
+date: "2005-11-19"
+categories: ["Economics"]
+---
+
+The [FT](http://news.ft.com/cms/s/0e249e30-586b-11da-90dd-0000779e2340,stream=FTSynd,s01=2.html "FT") reports on possible candidates to fill the two vacancies on the Federal Reserve Board of Governors:
+
+The White House is considering appointing business leaders, financial markets participants or experts in regulation to the board, according to two people familiar with the administration’s deliberations.
+
+“It does not mean they will not end up picking two academic economists but they feel \[they\] have the flexibility to look more broadly,” one of the people said.
+
+Candidates for the vacancies include Kevin Warsh, a member of the National Economic Council, a lawyer who previously worked in Morgan Stanley’s investment banking department. Paul McCulley, a Fed-watcher and portfolio manager at Pimco, the fixed-income investment manager, is said to be one of a number of names put forward by Mr Bernanke as chairman of the White House Council.
+
+Among the academic economists under consideration, Richard Clarida, a professor at Columbia University, was a Treasury official in President George W. Bush’s first term and is now a consultant to Clinton Group, the hedge fund. Randall Kroszner, a professor at the University of Chicago’s graduate school of business, is an expert on banking, international finance and financial regulation and served on the Council of Economic Advisers during Mr Bush’s first term.
+
+The White House declined to comment on candidates or the timing of the nominations. There are currently no academic economists on the board.
+
+Both Clarida and Kroszner would be excellent appointments.  Appointing non-specialists with financial market backgrounds would be a mistake in my view, increasing the risk of the sort of regulatory capture by Wall Street that beset the US Treasury under Robert Rubin.

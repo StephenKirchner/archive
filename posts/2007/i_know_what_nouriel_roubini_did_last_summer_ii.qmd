@@ -1,0 +1,9 @@
+---
+title: "I Know What Nouriel Roubini Did Last Summer II"
+date: "2007-01-13"
+categories: ["Economics", "Financial Markets"]
+---
+
+The slow death of Nouriel Roubini’s forecast for flat US GDP growth in Q4 continues, with the December retail trade report.  [One economist’s reaction](http://www.ftadvisors.com/retail/pages/economicresearchpage.aspx "One economist’s reaction"):
+
+> *Almost every piece of recent economic data - employment, unemployment claims, car and truck production, construction, and the ISM indexes for both manufacturing and services - has come in above expectations.  Today’s report on retail sales is no different.  The economy ended 2006 with a full head off steam.  Weakness in housing has not filtered through to the rest of the economy.  Retail sales, excluding autos and building materials, are a direct feed into GDP data (auto sales data come from another source and building materials are counted as investment).  With these sales up 1.3% in December after a revised 0.9% gain in November, real consumption growth likely increased about 4.5% at an annual rate in the fourth quarter.  Our forecast for fourth quarter real GDP growth is now 3.5%, a significant improvement from the second and third quarter average growth rate of 2.4%.  At this rate of growth the Fed is going to get increasingly uncomfortable with market expectations of its next move being a rate cut rather than a rate hike.*

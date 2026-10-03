@@ -1,0 +1,9 @@
+---
+title: "Federal Election Betting Market Odds and Carbon Sunday"
+date: "2011-07-14"
+categories: ["Economics", "Financial Markets", "Politics"]
+---
+
+Simon Jackman updates [federal election betting market implied probs](http://jackman.stanford.edu/oz/Aggregate2010/bettingMarkets/analysis/historyMonth.pdf). See if you can spot carbon Sunday!
+
+Sadly, Malcolm Turnbull still [doesn’t get it](http://www.abc.net.au/pm/content/2011/s3268718.htm).

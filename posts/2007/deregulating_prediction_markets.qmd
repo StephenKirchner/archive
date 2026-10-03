@@ -1,0 +1,11 @@
+---
+title: "Deregulating Prediction Markets"
+date: "2007-06-08"
+categories: ["Economics", "Financial Markets"]
+---
+
+[Andrew Leigh and Justin Wolfers](http://econrsss.anu.edu.au/~aleigh/pdf/PredictionMarketsBusiness.pdf "Andrew Leigh and Justin Wolfers") call for the deregulation of prediction markets in their Melbourne Review article:
+
+> *In Australia, the legal environment has prevented prediction markets from establishing themselves in most States. In addition, there is a concern that, for major bookmakers such as Centrebet, trading on economic derivatives would bring them into conflict with the Australian Stock Exchange and the Australian Futures Exchange. Since Australian betting agencies already handle significant sums of money for elections and major sporting events, relaxation of the regulation governing such markets would bring little risk but a significant public benefit.*
+
+Unfortunately, the (now merged) ASX and SFE would probably resist the expansion of prediction markets.  Given the SFE’s failure to generate interest in many of the futures contracts it offers, it is hard to imagine it being very enthusiastic about increased competition from new prediction markets offering new products.  As in the US, incumbent exchanges and gaming interests, as well as restrictions on cross-border financial transactions, are likely to stand in the way of further development of prediction markets.

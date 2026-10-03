@@ -1,0 +1,7 @@
+---
+title: "Bogle Blog"
+date: "2006-05-18"
+categories: ["Economics"]
+---
+
+Bogleheads and Vanguard Diehards can now hear their master’s voice at [The Bogle Blog](http://johncbogle.com/wordpress/ "The Bogle Blog").

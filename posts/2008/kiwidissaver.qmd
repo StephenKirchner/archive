@@ -1,0 +1,15 @@
+---
+title: "KiwiDisSaver"
+date: "2008-05-26"
+categories: ["Economics", "Financial Markets"]
+---
+
+New Zealand Institute of Economic Research economist [Trinh Le](http://www.nbr.co.nz/comment/trinh-le/kiwisaver-just-another-money-go-round "Trinh Le") on the KiwiSaver scheme (HT: [Matt Nolan](http://tvhe.wordpress.com/2008/05/26/kiwisaver-and-aggregate-savings-a-question-for-our-readers/ "Matt Nolan")):
+
+> KiwiSaver is merely a money-go-round. Over half of the savings are funded by taxpayers, in the form of the \$1000 kick-start subsidy, matching contributions of up to \$1040 per year and foregone tax revenue from ESCT (employer superannuation contribution tax) exemption. Most of the remaining savings are employers’ contributions and money that members would have saved in other forms.
+>
+> Only 9-19 per cent of KiwiSaver balances are estimated to be from reduction in consumption.
+>
+> That much “new” saving is hardly enough to cover the administration and compliance costs of implementing the scheme, and the deadweight loss due to taxation…
+
+More on KiwiSaver from [Phil Rennie](http://www.cis.org.au/issue_analysis/IA94/ia94.pdf "Phil Rennie") at CIS.

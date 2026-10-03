@@ -1,0 +1,9 @@
+---
+title: "Tax Competition and the Future Fund"
+date: "2009-10-30"
+categories: ["Economics", "Financial Markets", "Fiscal Policy"]
+---
+
+Australia’s sovereign wealth fund, the Future Fund, does not pay tax, which would be pointless, but it is not too keen on paying foreign taxes either.  The Fund’s [2008-09 Annual Report](http://www.futurefund.gov.au/__data/assets/pdf_file/0018/3546/15333_FF_AR_WEB.pdf "2008-09 Annual Report") shows five Cayman Islands subsidiaries.  As the report notes ‘the Fund seeks to maximise after tax returns and, where it is legitimate to use a structure which protects the claim to sovereign immunity, this path has been taken.’  The Australian government has been an enthusiastic participant in international efforts to crack-down on so-called ‘harmful’ tax competition, but is not averse to having its own proprietary trading operation take advantage of these opportunities.  To be clear, this is meant as a criticism of the government’s participation in such efforts and not the Future Fund.
+
+The Fund saw a real rate of return of -5.7% (ex-Telstra), which is pretty poor compensation for the tax cuts forgone as a result of the Fund’s creation.  The Fund remains 41.1% invested in cash (ex-Telstra), down from 62.1% at the end of the previous financial year.  The government could have achieved a better return with less risk and at lower cost simply leaving the funds on deposit with the Reserve Bank.

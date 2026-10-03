@@ -1,0 +1,19 @@
+---
+title: "Stock Market Booms and Monetary Policy: The Strange Resilience of Austrian Business Cycle Theory"
+date: "2007-04-05"
+categories: ["Economics", "Financial Markets"]
+---
+
+We have [previously noted](../2006/friends_the_austrian_school_could_do_without.qmd "previously noted") the popularity of the Austrian theory of the business cycle as a stylised account of the role of monetary policy in the economy and asset price determination, not least among those who otherwise have little sympathy for the Austrian tradition.  The popular appeal of this stylised account is curious, given that it lacks even an approximate fit with the data, as [Bordo and Wheelock](http://research.stlouisfed.org/publications/review/07/03/BordoWheelock.pdf "Bordo and Wheelock") suggest:
+
+> *Our review of earlier stock market booms in the United States and nine other developed countries during the 20th century indicates that the patterns observed during the U.S. boom of 1994-2000 were similar to those of earlier booms. Stock market booms typically arose when output growth exceeded its long-run average and when inflation was below its long-run average. There were, however, exceptions. Notably, we find that across all post-1970 booms the median growth rates of real GDP and productivity did not substantially exceed their long-run averages.  We find less variation in the association of booms with low inflation than we do in the association of booms with rapid output or productivity growth.  Further, we find that both nominal and real money stock growth were typically below average during booms, suggesting that booms did not result from excessive liquidity.*
+
+[Posen](http://www.iie.com/publications/opeds/oped.cfm?ResearchID=221 "Posen") has reached similar conclusions, based on IMF survey evidence:
+
+> Monetary ease is neither necessary nor sufficient to produce bubbles. There have been 48 periods of sustained monetary easing in the 15 main industrial countries since 1970, as measured by M3 growth or ultra-low real interest rates, and only 17 of them resulted in asset price booms. At the same time, only one-third of the booms identified by the IMF were preceded or accompanied by monetary ease. If one looks at ease as measured by interest rates, there are essentially no cases where booms were preceded or accompanied by monetary ease. Bubbles are made in financial markets, not in central banks.
+>
+> Bubbles are rarely followed by either deflation or further bubbles. The dangerousness of bubbles is taken for granted. According to the received wisdom, either they put a lasting burden on investment and prices when they burst or, worse, they lead to follow-on bubbles that build up a bigger collapse. Yet fully three-quarters of the asset price booms had no follow-on bubbles after their busts, and fewer than one in 10 busts led to periods of consumer price deflation.
+>
+> This cross-national evidence is consistent with economic historians’ assessments of the US experience. Among the many booms, panics, and busts in the 19th and 20th centuries, only those accompanied by banking problems had negative consequences lasting beyond a few quarters. Bubbles can pop with limited macroeconomic impact, and usually do.
+
+The lack of empirical support for the Austrian theory of the business cycle suggests that its main function is to serve as a comforting narrative for those who are troubled by economic and financial developments they cannot otherwise comprehend.

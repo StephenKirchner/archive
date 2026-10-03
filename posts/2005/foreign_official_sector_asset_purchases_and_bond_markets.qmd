@@ -1,0 +1,9 @@
+---
+title: "Foreign Official Sector Asset Purchases and Bond Markets"
+date: "2005-08-02"
+categories: ["Economics"]
+---
+
+[Brad Setser](http://www.rgemonitor.com/blog/setser/93295 "Brad Stetser") asks ‘Can China add close to \$300 b to its reserves a year and have no impact on the bond market?’  I think the answer to this question is yes, although I would agree with him that the small size of the RMB revaluation means that it is not a good test of this proposition one way or the other.  It is generally agreed that central bank intervention in foreign exchange markets is ineffective, because the size of these interventions are trivial in relation to the multi-trillion dollar daily turnover in these markets.  Yes, central banks can peg their exchange rate below its equilibrium level, because there is no theoretical limit on the ability of a central bank to devalue its own currency by issuing more of its own liabilities, but as China has found, the sustainability of such a policy is limited in practice.  Pegging the exchange rate above its equilibrium value is even more problematic because, as many countries have found, foreign exchange reserves can be quickly exhausted in attempts to defend fixed exchange rates against the weight of the market.
+
+I would suggest that the same argument can be made in relation to central bank purchases of debt securities.  It is very difficult to determine total turnover in global bond markets, because of the lack of centralisation in bond trading compared to foreign exchange markets.  However, even the relatively small Australian bond market had an annual turnover of AUD 1 trillion in the mid-1990s.  The totality of East Asian central bank purchases of USD denominated assets would have at best a marginal impact on markets with the depth and liquidity of US Treasuries and the US dollar.

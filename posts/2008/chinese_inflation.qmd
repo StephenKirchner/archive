@@ -1,0 +1,13 @@
+---
+title: "Chinese Inflation"
+date: "2008-03-11"
+categories: ["Economics", "Financial Markets"]
+---
+
+[Jonathan Anderson](http://www.feer.com/articles1/2008/0803/free/p020.html?Pricing_In_China%E2%80%99s_Inflation_Risk "Jonathan Anderson") is relaxed about Chinese inflation:
+
+> All the evidence suggests that the current spike in prices will prove to be temporary, likely fading away by the second half of 2008, and as it does the prevailing furor over the inflation issue will subside as well…
+>
+> We agree that money growth is a fundamental force behind inflation in China, and there is a clear and tight correlation between the two over time. But the salient point is that monetary factors drive underlying inflation, and not every short-term twist and turn in CPI along the way. During the deflationary period 1997-2003, the measure of broad money, M2, grew at an average annual rate of 16.4%. What was the comparable pace for the second half of 2007? Around 17.6% year on year—in other words, only slightly higher.\
+> \
+> Base money growth has been much lower still, with sharply falling commercial bank excess liquidity ratios in the process. So while it’s easy to argue that money growth may have been nudging core inflation upward, it certainly can’t explain a seven percentage point rise in the headline rate.

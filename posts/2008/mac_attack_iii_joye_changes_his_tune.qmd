@@ -1,0 +1,27 @@
+---
+title: "Mac Attack III: Joye Changes his Tune"
+date: "2008-09-15"
+categories: ["Economics", "Financial Markets"]
+---
+
+AussieMac co-author Christopher Joye [changes his tune](http://news.theage.com.au/business/rismark-wants-nationalised-aussie-mac-20080914-4g6q.html "changes his tune"):
+
+> Property sector funds management and indices business Rismark International has called on the federal government to introduce an “Aussie Mac” mortgage financing conduit along the same lines as ailing US giants Fannie Mae and Freddie Mac.
+>
+> But Rismark managing director Christopher Joye said the differentiator for Aussie Mac would be that it remained in government hands, given that he considered the demise of Fannie and Freddie to be directly attributable to dominance supplied through government guarantee.
+
+In their [original paper](http://works.bepress.com/cgi/viewcontent.cgi?article=1016&context=joshuagans "original paper"), by contrast, Joye and Gans argued that:
+
+> *In the near- to medium-term we would expect AussieMac to be privatised with the result that its debt would be taken off the government’s own balance sheet.*
+
+Joye and Gans can’t seem to make up their minds whether they want AussieMac to be publicly or privately-owned, but ownership in and of itself does not define the nature of the relationship with government (just ask any US taxpayer).  As they noted in their original paper, AussieMac would be ‘leveraging off the Commonwealth’s secure credit rating.’  In other words, its position in capital markets would be defined by its relationship to the government’s credit rating, which in turn depends on the government’s power to tax. 
+
+In their original paper, Joye and Gans said that ‘Fannie Mae and Freddie Mac have been extraordinary successful institutions for the best part of 50 years.’  Joye now concedes that ‘There’s a question as to whether Fannie and Freddie were conceived in the right manner.’
+
+The only point of difference between the US GSEs and AussieMac is that Joye and Gans argue that AussieMac should be kept strictly limited in scope:
+
+> Mr Joye said his vision for Aussie Mac would be that it ordinarily sat on the sidelines, and would not actively pool mortgages, repackage them and on-sell the vehicles to promote liquidity.
+>
+> Instead, Aussie Mac would lie in wait as a backup in the case of any liquidity crisis.
+
+As I noted in my [paper](http://www.cis.org.au/issue_analysis/IA99/ia99.pdf "paper") on AussieMac, the RBA already provides a much more robust infrastructure for supporting market liquidity.  There are few limits in principle to the RBA providing liquidity in relation to an almost limitless range of counter-parties and assets, if deemed necessary.  The only rationale for AussieMac is thus to create a GSE that would be soft touch for the mortgage securitisation industry compared to the RBA.

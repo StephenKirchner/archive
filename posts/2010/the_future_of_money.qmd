@@ -1,0 +1,9 @@
+---
+title: "The Future of Money"
+date: "2010-02-25"
+categories: ["Economics", "Financial Markets"]
+---
+
+[New innovations in payment systems](http://www.wired.com/magazine/2010/02/ff_futureofmoney/all/1 "New innovations in payment systems"), including:
+
+> *dynamic invoices that pay themselves — that constantly monitor exchange rates, say, or the price of lumber, and then automatically send out an order to withdraw funds or to make a purchase just when the price is cheapest.*

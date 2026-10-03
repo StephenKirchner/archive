@@ -1,0 +1,7 @@
+---
+title: "Reforming Australian Monetary Policy: My New Working Paper for the Mercatus Center"
+date: "2021-01-28"
+categories: ["Monetary Policy"]
+---
+
+Last year, Scott Sumner invited me to contribute to the Mercatus Center Working Paper series on the topic of Australian monetary policy and how a nominal income targeting regime might be implemented in a small open economy. You can read the research summary [here](https://www.mercatus.org/system/files/kirchner_reforming-australian-monetary-policy_rs_media.pdf) and the full paper [here](https://www.mercatus.org/system/files/kirchner_reforming-australian-monetary-policy_wp_mercatus_v1.pdf).

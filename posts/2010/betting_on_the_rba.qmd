@@ -1,0 +1,19 @@
+---
+title: "Betting on the RBA"
+date: "2010-03-02"
+categories: ["Economics", "Financial Markets", "Monetary Policy"]
+---
+
+Someone was [betting big](http://www.theage.com.au/business/punters-say-no-rate-rise-money-men-say-its-on-20100301-pdlk.html "betting big") on the outcome of today’s RBA Board meeting:
+
+> a Centrebet regular, has staked just short of \$30,000 on the Reserve Bank sitting on its hands.
+>
+> If at 2.30pm the bank announces its board has decided to keep rates on hold, he will walk away with a profit of \$21,000. If it puts rates up, he will say goodbye to \$29,500.
+>
+> ‘‘He is very confident. He placed four separate bets, continuing to pile in as the odds went down,’’ said Centrebet’s Neil Evans.
+>
+> ‘‘Another punter staked \$5000 on there being no change, another \$3500.
+>
+> ‘‘It’s the house against the punters. I am hoping they don’t know something I don’t.’‘
+
+[They didn’t](http://www.rba.gov.au/media-releases/2010/mr-10-04.html "They didn't").

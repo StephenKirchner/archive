@@ -1,0 +1,11 @@
+---
+title: "The Inflation Scare in Perspective"
+date: "2006-06-27"
+categories: ["Economics", "Financial Markets"]
+---
+
+In the period since Bernanke’s appointment as Fed Chair, we have argued against the notion that Bernanke was somehow more dovish on inflation than his predecessor.  Markets seem to have finally taken this in.  Indeed, they now seem to be swinging in the other direction, with some very large hedge fund shorts in September eurodollar futures suggesting that some are looking for a 50 bp tightening from the Fed Thursday.\
+ \
+[Alan Reynolds](http://www.cato.org/pub_display.php?pub_id=6446 "Alan Reynolds") has a timely piece that puts the current inflation scare in perspective:
+
+> *Others have expressed concern about “asset inflation” becoming embedded in core inflation. I cannot imagine how that idea ever gained credibility. The U.S. stock market boom of 1997-2000 was not followed by higher inflation. Neither was Japan’s land and stock boom of the late 1980s. Strength in asset prices in 1929 was perhaps the world’s worst predictor of inflation.*

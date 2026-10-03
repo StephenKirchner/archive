@@ -1,0 +1,9 @@
+---
+title: "Why Richard Epstein Will Never be a Keynesian"
+date: "2010-07-12"
+categories: ["Economics"]
+---
+
+From the latest issue of the [Harvard Journal of Law and Public Policy](http://www.harvard-jlpp.com/archive/#332 "Harvard Journal of Law and Public Policy"):
+
+> *The decision to save counts as deferred consumption, which has its own multiplier effect. Here it is best to drop the term and just substitute for multiplier effect the traditional concern with gains from trade through voluntary transactions, which typically have positive external effects by creating additional opportunities for others. As one person saves the other invests in long term projects with borrowed capital. The key point is that stable expectations require enforceable contracts and steady and predictable price levels. So long as each person makes informed trades, each of these contracts over time should be a positive sum. Reduce the transaction costs in good Coasean style by supporting stable property relationships and the temporal consumption issue will take care of itself in the same way that all such allocations take care of themselves.*

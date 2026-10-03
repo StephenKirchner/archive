@@ -1,0 +1,17 @@
+---
+title: "Wayne Swan on Monetary Offset and the GFC"
+date: "2014-08-12"
+categories: ["Economics", "Fiscal Policy", "Monetary Policy"]
+---
+
+Former Treasurer Wayne Swan is releasing some of his briefing notes from the GFC ahead of the launch of his upcoming memoir, [The Good Fight](http://www.thegoodfightonline.com.au/news/). The [first instalment](http://www.thegoodfightonline.com.au/wp-content/uploads/2014/08/1.-Note-from-meeting-at-the-lodge-%E2%80%93-August-2008.pdf) from a meeting at the Prime Minister’s residence with the Prime Minister, Treasury Secretary and other senior officials on 4 August 2008 is remarkable for its acknowledgement of monetary offset. Indeed, the notes could just as easily have been written by Scott Sumner:
+
+> There are three broad considerations the Government would need to keep in mind in taking a decision to engage in discretionary \[fiscal\] action:
+>
+> • The Reserve Bank through its control over interest rates, determines the overall level of aggregate demand in the economy, and the Bank would likely take account of any fiscal stimulus in its monetary decisions – that is, more spending would keep interest rates higher than otherwise…
+>
+> The bottom line is that in the event of a shallow downturn, discretionary \[fiscal\] action may not achieve any noticeable outcomes in terms of growth and unemployment, but would leave rates higher, erode the \[budget\] surplus and put at risk the Government’s fiscal credibility.
+>
+> These costs of course need to be weighed against the potential political costs of being seen to do nothing…
+
+Needless to say, the ‘political costs’ argument won in the end, with the first discretionary fiscal stimulus announced in October 2008.

@@ -1,0 +1,13 @@
+---
+title: "RBA Once Again Shows the Irrelevance of RMBS Intervention"
+date: "2008-10-07"
+categories: ["Economics", "Financial Markets"]
+---
+
+The [statement](http://rba.gov.au/MediaReleases/2008/mr_08_20.html "statement") accompanying today’s 100 bp easing in the official cash rate by the Reserve Bank once again makes explicit that the RBA calibrates monetary policy to changes in retail interest rates:
+
+> *the Board judged that a material change to the balance of risks surrounding the outlook had occurred, requiring a significantly less restrictive stance of monetary policy. The Board also took careful note of movements in funding costs in wholesale markets. Having weighed these considerations, the Board decided that, on this occasion, an unusually large movement in the cash rate was appropriate in order to bring about a significant reduction in costs to borrowers.*
+
+The RBA has always acknowledged that it is the average level of market interest rates over time that matters for the transmission of monetary policy.  Much of the commentary on the extent of pass through by the banks has ignored this obvious point.  Unfortunately, it is easier to bash the banks than to explain how monetary policy actually works.
+
+Today’s announcement also shows the RBA can deliver a more substantial easing in credit conditions than could ever be achieved through government intervention in the market for residential mortgage-backed securities.  The best way for the RBA to pull the rug out from under the RMBS interventionists is to be even more explicit about the extent to which it is discounting government policy in setting the cash rate.

@@ -1,0 +1,11 @@
+---
+title: "John Taylor versus Bernanke and Greenspan"
+date: "2011-03-03"
+categories: ["Economics", "Monetary Policy"]
+---
+
+John Taylor has accused Ben Bernanke of [mis-representing him in testimony before Congress](http://blogs.wsj.com/economics/2011/03/02/war-of-words-taylor-disputes-bernankes-description-of-interest-rate-rule/) over Taylor’s preferred version of his eponymous rule. This is a rather bizarre dispute, because naming rights aside, there can never be a definitive formulation of the Taylor rule. The Taylor rule depends on assumptions about unobservable variables such as the equilibrium real interest rate and potential output. There are dozens of methodologies for recovering these latent variables, all of which have strengths and weakness, but none of which yield definitive answers, especially not in the real time setting in which monetary policy is actually made. [Alan Greenspan](http://online.wsj.com/article/SB123672965066989281.html) was always very careful to highlight the implications of uncertainty in relation to these variables, whereas Taylor seems untroubled by this issue in his recent commentary on Fed policy.
+
+The Taylor rule can also be given a backward or forward-looking specification. Monetary policy is supposed to be forward-looking, so forecasts for inflation and the output gap are more relevant to judging the appropriateness of policy than contemporaneous or lagged values. Again, these forecasts are necessarily subject to considerable uncertainty. Insert the Federal Reserve Board’s staff forecast for inflation and the output gap circa 2003 into a reasonably parameterised Taylor rule and you will get different implied policy settings than if you use historical data, not least because the historical values will have been influenced by the stance of policy, which in turn was influenced by the forecast.
+
+Taylor’s 1993 rule was an outstanding contribution and most economists have embraced it, but they have also significantly improved upon it. John Taylor’s 1993 specification may be his own, but it is far from definitive and may not be the optimal or efficient rule. Taylor should concede this much at least.

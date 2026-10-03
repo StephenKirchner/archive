@@ -1,0 +1,11 @@
+---
+title: "Better Late than Never"
+date: "2008-02-05"
+categories: ["Economics", "Financial Markets"]
+---
+
+From today’s RBA [statement](http://www.rba.gov.au/MediaReleases/2008/mr_08_02.html "statement") on official interest rates:
+
+> *In **future** meetings, the Board will **continue** to evaluate whether the stance of policy will be sufficiently restrictive to return inflation to the 2-3 per cent target.*
+
+One would have hoped that the RBA might have performed this evaluation properly before inflation moved outside the target range.

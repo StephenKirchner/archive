@@ -1,0 +1,15 @@
+---
+title: "Is the RBA Still Agnostic on Bubble Popping?"
+date: "2009-05-21"
+categories: ["Economics", "Financial Markets", "Monetary Policy"]
+---
+
+In contrast to the cautious agnosticism of his boss on the question of bubble-popping, RBA Assistant Governor [Guy Debelle](http://www.rba.gov.au/Speeches/2009/sp_ag_150509.html "Guy Debelle") is remarkably clear on the issue:
+
+> the current episode vindicates the position that monetary policy, narrowly defined as the setting of the policy interest rate, should be confined to targeting inflation. Set interest rates primarily to achieve the inflation goal as that, in itself, contributes to sizeable social gains. A departure from that runs the risk of losing the nominal anchor that the inflation target provides.
+>
+> But other tools, most notably the much-touted (although not clearly defined) macro-prudential instruments, should be used to address asset price and credit imbalances. I do not think that a slightly tighter setting of interest rates would have prevented the development of the imbalances that have led to the current financial crisis. When human psychology is such that optimism about asset price rises is at the fore, then an excessively stringent setting of interest rates would be required to suppress the optimism. The Australian and Scandinavian experience in the late 1980s shows the sort of interest rate settings required to achieve such an outcome. In that example, a credit boom and bubble-like asset price dynamics took hold and only a very high setting of real interest rates ultimately curtailed that, but at the cost of a historically high level of unemployment.
+>
+> I do not think it would be socially acceptable or desirable to endure the level of unemployment that would come with the high interest rates necessary to pop the bubble. It is asking too much of the single monetary policy instrument, namely, the targeted short-term interest rate to target both financial excesses and inflation.
+>
+> Nor do I believe there is much to be achieved by ‘leaning against the wind’. The wind that is blowing in most episodes of credit booms is generally at least gale force. Setting interest rates a bit higher in such circumstances is likely to be close to futile when such credit dynamics take hold. Again, what would be the point of undershooting the CPI inflation target and enduring a higher than desirable level of unemployment with little to be gained. How would such actions be explained to the public?

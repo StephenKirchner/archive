@@ -1,0 +1,7 @@
+---
+title: "What Caused the Housing Boom of the 2000s?"
+date: "2011-04-14"
+categories: ["Economics", "House Prices", "Monetary Policy"]
+---
+
+[Not monetary policy](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1801026).

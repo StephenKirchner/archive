@@ -1,0 +1,11 @@
+---
+title: "The Case Against a Fed Easing"
+date: "2007-09-15"
+categories: ["Economics", "Financial Markets"]
+---
+
+[Allan Meltzer](http://online.wsj.com/article/SB118982591137728492.html?mod=opinion_main_commentaries "Allan Meltzer") argues against a Fed easing, referencing the arguments of Martin Feldstein:
+
+> *Mr. Feldstein and others offer a scenario for the unfolding of recent credit and housing problems that ends in a deep recession. He calls for a one percentage point reduction in the federal funds rate to partly overcome the disaster he foresees. Much of his analysis depends on forecasts or guesses about declines in house prices and failures of credit markets that are outside the range of past experience. But it is not difficult to find an alternative forecast that is far less gloomy. Many economists, including many at the Fed, foresee a more benign outcome—a slow growth rate for a few quarters but no recession. Only time will tell which is correct. At present, markets seem to accept the more favorable outcome.*
+
+[Intrade’s](http://www.intrade.com/apply.jsp?heardFromPromotionDetail=s0545138709r "Intrade’s") 2007 US recession contract is pricing around a 10% chance of recession, while the probability for 2008 is around 60%.  If recession is seen as mainly a risk for 2008 rather than 2007, this gives Fed policy a substantial lead on any downturn.  There is remarkably little conviction behind the near-term recession trade.  Intrade’s Q4 2007 GDP growth contraction contract has not even traded, with what little market depth there is lined-up mainly on the short side.

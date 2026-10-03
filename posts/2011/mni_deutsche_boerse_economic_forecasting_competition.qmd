@@ -1,0 +1,16 @@
+---
+title: "MNI-Deutsche Börse Economic Forecasting Competition"
+date: "2011-05-06"
+categories: ["Economics", "Financial Markets"]
+---
+
+I came third in the first round of the [MNI-Deutsche Börse economic forecasting competition](https://marketnews.deutsche-boerse.com/press/mnl-announces-april-forecast-competition-winners):
+
+> NEW YORK, NY, May 5, 2011 – Market News International has announced the April winners of the MNI Forecast Competition, a free online contest in predicting US economic indicators.
+>
+> April’s highest forecasters in descending order are:\
+> •  Omair Sharif, RBS\
+> •  Fernando Melro dos Santos, Private\
+> •  Dr. Stephen Kirchner, UTS Business School
+>
+> Until June 30, contestants are competing for the title of Best Overall Forecaster and a prize of \$1,500 by forecasting ten economic data releases: Non-farm Payrolls, Retail Sales, CPI, PPI, Industrial Production, ISM Manufacturing Index, Housing Starts, Durable Goods Orders, International Trade Balance, and New Home Sales.

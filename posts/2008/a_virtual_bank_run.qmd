@@ -1,0 +1,17 @@
+---
+title: "A Virtual Bank Run"
+date: "2008-01-23"
+categories: ["Economics", "Financial Markets"]
+---
+
+Second Life suffers a real life [banking system crisis](http://online.wsj.com/article/SB120104351064608025.html?mod=hps_us_inside_today "banking system crisis"):
+
+> the San Francisco company that runs the popular fantasy game pulled the plug on about a dozen pretend financial institutions that were funded with actual money from some of the 12 million registered users of Second Life. Linden Lab said the move was triggered by complaints that some of the virtual banks had reneged on promises to pay high returns on customer deposits…
+>
+> The shutdown has caused a real-life bank run by Second Life depositors. Though some players managed to get their Linden dollars out, others are finding that they can no longer make withdrawals from the make-believe ATMs. As a result, they can’t exchange their Linden-dollar deposits back into real dollars. Linden officials won’t say how much money has been lost, but a run on another virtual bank in August may have cost Second Life depositors an estimated \$750,000 in actual money.
+
+The WSJ profiles one of the Second Lifers affected:
+
+> “Everyone thinks that because you’re losing play money, it excuses everything, but it’s convertible to real money,” says a Second Life player whose avatar is named UpMe Beam. On Sunday night, the female character was wandering topless through the virtual lobby of a Second Life bank called BCX Bank, where a sign said it was “not currently accepting deposits or paying interest.”
+>
+> In real life, UpMe Beam is a man who says that he is a certified public accountant who has audited banks.

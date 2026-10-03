@@ -1,0 +1,11 @@
+---
+title: "Real Prices or Relative Prices? The Dow-Gold Ratio"
+date: "2008-02-22"
+categories: ["Economics", "Financial Markets"]
+---
+
+Robert Prechter’s January *Elliott Wave Theorist* (you can sign-up for a free copy [here](http://www.elliottwave.com/a.asp?url=http://www.elliottwave.com/club/free-theorist.aspx&cn=4ie "here")) presents one of Bob’s favourite charts, namely the Dow-gold ratio.  The ratio is currently around 13, down from a peak around 44.12 in the late 1990s.  Prechter argues that this ratio represents the Dow denominated in real terms.  This is true only if you think the gold price benchmarks real purchasing power.  We could equally measure the Dow in terms of any other commodity (as Prechter sometimes does with oil).  Since commodity prices are typically more volatile than consumer prices, they are a poor benchmark for consumer purchasing power, which is best measured with respect to the CPI.
+
+Rather than a real price, the Dow-gold ratio is better viewed as a relative price.  The ratio tell us that equity prices have recently underperformed commodity prices.  This should not come as a surprise, since equities typically underperform in an inflationary environment.  The Great Inflation of the 1970s was notoriously associated with a rolling multi-year bear market in stocks.
+
+While Prechter is notoriously bearish equities, he has also been bearish gold, so his case for gold is based on relative performance.  But the implication to be drawn from the Dow-gold ratio is that equities as an asset class are becoming cheaper relative to commodities as an asset class.  Relative value is thus increasingly on the side of equities, not commodities.

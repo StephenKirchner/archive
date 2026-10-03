@@ -1,0 +1,9 @@
+---
+title: "Taxploitation II: Tax Reform for Incentive, Growth and Smaller Government"
+date: "2011-07-13"
+categories: ["Economics", "Fiscal Policy"]
+---
+
+CIS has released a collection of readings [Taxploitation II: Tax Reform for Incentive, Growth and Smaller Government](http://cis.org.au/publications/cis-readings/article/3279-taxploitation-ii-tax-reform-for-incentive-growth-and-smaller-government). I have a chapter on capital gains tax, which updates an earlier policy monograph on the subject to reflect the outcome of the Henry tax review.
+
+As I note in my chapter, the Henry review should have been an embarrassment to most Australian journalists writing on the subject of capital gains tax and tax expenditures. George Megalogenis characterised the Henry review as ‘cheeky’, which is as close as he comes to acknowledging that the review’s conclusions and recommendations invalidate most of what George has written on these subjects. Australian journalists have misread (or simply failed to read) the fiscal implications of the Treasury’s tax expenditure statements. They are certainly not alone in doing this, but that is no excuse.

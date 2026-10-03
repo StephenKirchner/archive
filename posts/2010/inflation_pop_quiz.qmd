@@ -1,0 +1,19 @@
+---
+title: "Inflation Pop Quiz"
+date: "2010-12-08"
+categories: ["Economics", "Financial Markets", "Monetary Policy"]
+---
+
+Take [Zimran Ahmed’s](http://www.winterspeak.com/2010/11/start-eating-out-more.html "Zimran Ahmed’s") pop quiz:
+
+> *You’re a responsible Brazilian living in your decent Sao Paolo apartment (paid off!). You have a tidy pile of cruzeiros in your local bank, saved from the income your reasonable private sector job generates. But it’s 1979 and you’re worried about inflation looming on the horizon. What do you do?*
+
+[Nic Rowe](http://www.winterspeak.com/2010/11/start-eating-out-more.html "Nic Rowe") re-phrases the question for the benefit of a PhD candidate operating under the constraints faced by an economics blogger:
+
+> Using a macroeconomic model with monopolistically competitive firms, explain how an increase in the expected future price level will cause an increase in the current price level. Also explain whether there is an effect on real output.
+>
+> Your answer must use words only, with no diagrams or equations. Be very precise about all the mechanisms that would be involved in this interdependent system of simultaneous causation. Your answer must assume no previous knowledge of economic theory or familiarity with economic concepts on the part of the reader. Try to make your answer as realistic as possible, using 10 real-world goods as examples. These should be goods that a homeowner with liquid domestic currency assets living in Sao Paolo Brazil in 1979 might want to buy in response to an increase in the expected future price level. Any transactions in your explanation must be shown to be consistent with double-entry bookkeeping. Please write clearly.
+>
+> You have 2 hours to answer this question.
+
+Of course, this has never been a deterrent to [Scott Sumner](http://s84684.gridserver.com/ "Scott Sumner"), who writes blog posts faster than you can read them.

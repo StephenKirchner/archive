@@ -1,0 +1,9 @@
+---
+title: "The RBA’s Non-Statement on Monetary Policy"
+date: "2006-08-04"
+categories: ["Economics", "Financial Markets"]
+---
+
+Once every three months, financial markets turn to the RBA’s quarterly [Statement on Monetary Policy](http://www.rba.gov.au/PublicationsAndResearch/StatementsOnMonetaryPolicy/statement_on_monetary_0806.html "Statement on Monetary Policy") for guidance on the monetary policy outlook.  More often than not, they are disappointed.  It’s not hard to see why.  The quarterly Statements are scheduled after the Board meeting that follows each quarterly CPI release, so they typically serve as vehicles for the ex post rationalisation of existing policy moves, while studiously avoiding any explicit discussion of the policy outlook.  The broad-brush inflation forecasts contained in the Statements have taken on an increasingly endogenous character, being left largely unchanged from one Statement to the next because of intervening policy moves.  It is unlikely that the RBA would forecast underlying inflation outside the target range, since this would beg the question as to why policy action had not already been taken to pre-empt it.  The Bank would essentially be admitting that it was in the process of making a policy error. 
+
+Instead of persisting with the fiction that inflation is an exogenous variable, the RBA should move to formally endogenise its forecasting process to a published projection for the official cash rate that it believes is likely to be consistent with maintaining inflation within the target range.  This would help ensure the credibility of its medium-term inflation target, by making it more explicit that inflation is not an exogenous variable under an inflation targeting regime, as well as giving clearer guidance on the monetary policy outlook.

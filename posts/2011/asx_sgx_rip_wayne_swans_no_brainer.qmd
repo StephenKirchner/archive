@@ -1,0 +1,15 @@
+---
+title: "ASX-SGX RIP: Wayne Swan’s ‘No-Brainer’"
+date: "2011-04-08"
+categories: ["Economics", "Foreign Investment", "Rule of Law"]
+---
+
+Treasurer Wayne Swan’s [rejection](http://ministers.treasury.gov.au/DisplayDocs.aspx?doc=pressreleases/2011/030.htm&pageID=003&min=wms&Year=&DocType) of the SGX-ASX merger is given an [explicitly protectionist rationale](http://www.theaustralian.com.au/national-affairs/rejecting-singapore-exchanges-asx-takeover-is-a-no-brainer-wayne-swan/story-fn59niix-1226035818050):
+
+> *“Becoming a junior partner to smaller regional exchange through this deal would risk us losing many of our financial sector jobs,” he told media.*
+
+Former Treasurer Peter Costello resorted to similar protectionist arguments in [boasting](../2009/peter_costello_economic_nationalist.qmd) about his role in frustrating the globalisation of Australian business:
+
+> *The head office generates the corporate, financial, legal and insurance services and the highly skilled jobs that come with them.*
+
+The regulation of foreign direct investment in Australia is now effectively an arm of domestic industry and employment policy. Swan has received advice on the matter from the RBA and ASIC, but it remains to be seen how much of this advice is publicly released and how much stays a state secret. No doubt The Australian will try and FoI all of it. The [journalists](http://www.theaustralian.com.au/business/merger-inquiry-wont-find-anything-contrary-to-national-interest/story-e6frg8zx-1226035628467) at The Australian are the only ones who understand that this is principally a rule of law issue. The commercial merits and implications of the proposed transaction are a secondary consideration.

@@ -1,0 +1,11 @@
+---
+title: "Fundamentals of House Price Inflation: ‘Bubbles’ as Rational Ignorance"
+date: "2005-08-20"
+categories: ["Economics"]
+---
+
+For all the talk of a housing ‘bubble,’ very few seem willing to put this proposition to the test.  An exception is [Craig Depken](http://divisionoflabour.com/archives/cat_economics.php "Craig Depken") over at Division of Labour, who has some interesting empirical results relating housing ‘overvaluation’ to a few simple fundamentals for the US.
+
+The IMF’s 2003 Article IV consultation with Australia was notable for hedging its bets on whether Australia was experiencing a house price ‘bubble.’  A look at the accompanying [Selected Issues](http://www.imf.org/external/pubs/ft/scr/2003/cr03336.pdf "Selected Issues") paper suggested why.  IMF staff modelling showed only a small deviation in the relative price of housing compared to that implied by a simple fundamental model.
+
+Most ‘bubble’ talk is based on casual observation and the failure of observed valuations to conform with people’s prior beliefs and prejudices.  An obvious explanation for this is that most people are rationally ignorant about the underlying fundamentals (how many people could tell you the net inbound migration stats for Sydney over the last 12 months, for example).  The cost of acquiring this information exceeds its value for all but a handful of people.  Behavioural finance theories are often invoked to explain bubbles, but it is just as likely that the widespread belief in ‘bubbles’ is itself a behavioural finance phenomenon.  This is harmless enough in the hands of most people, but dangerous when it becomes the basis for public policy.

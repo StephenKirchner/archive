@@ -1,0 +1,13 @@
+---
+title: "Hubbard Brand Tax Reform"
+date: "2005-05-24"
+categories: ["Economics"]
+---
+
+Glenn Hubbard’s brand of [tax reform](http://www.aei.org/publications/filter.all,pubID.22559/pub_detail.asp "tax reform"):
+
+My brand of reform would tax all income only once—wages at the household level and business income at the business level. That’s a big improvement over the convoluted mix of preferences (special provisions or tax shelters) and biases (double taxation or worse) under current law.
+
+Indeed, unlike today’s devilishly difficult code, landmark changes can be simple. First, individuals would pay a tax on compensation, but not on income from savings (dividends, capital gains, and business interest). All businesses would be taxed on sales, less the costs of materials, wages, and a portion of capital expenses. Under an income tax, that capital expense would be a depreciated value over a period of years. Under a consumption tax, it would be 100% expensed. But both would end the double taxation of income on savings.
+
+Following the link for the AEI’s *Toward Fundamental Tax Reform*.

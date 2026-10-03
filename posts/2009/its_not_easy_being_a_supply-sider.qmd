@@ -1,0 +1,11 @@
+---
+title: "It’s Not Easy Being a Supply-Sider"
+date: "2009-07-29"
+categories: ["Economics", "Financial Markets", "House Prices", "Monetary Policy"]
+---
+
+From [RBA Governor Glenn Stevens’](http://www.rba.gov.au/Speeches/2009/sp-gov-280709.html "RBA Governor Glenn Stevens") speech yesterday:
+
+> *A very real challenge in the near term is the following: how to ensure that the ready availability and low cost of housing finance is translated into more dwellings, not just higher prices. Given the circumstances – the economy moving to a position of less than full employment, with labour shortages lessening and reduced pressure on prices for raw material inputs – this ought to be the time when we can add to the dwelling stock without a major run up in prices. If we fail to do that – if all we end up with is higher prices and not many more dwellings – then it will be very disappointing, indeed quite disturbing. Not only would it confirm that there are serious supply-side impediments to producing one of the things that previous generations of Australians have taken for granted, namely affordable shelter, it would also pose elevated risks of problems of over leverage and asset price deflation down the track.*
+
+Much of the commentary on Stevens’ speech suggested that he was warning of a housing ‘bubble’, but the text makes clear that his real concern was the supply-side rigidities that amplify asset price cycles.  Stevens’ speech is the lead story in much of today’s media, but [Google News](http://news.google.com/news?ned=au&hl=en&q=%22glenn+stevens%22+%22serious+supply-side+impediments%22 "Google News") finds only three stories that directly quoted ‘serious supply-side impediments’.  It is indicative of how difficult it is to interest the media in structural as opposed to cyclical stories.

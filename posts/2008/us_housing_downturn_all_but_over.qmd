@@ -1,0 +1,15 @@
+---
+title: "US Housing Downturn All But Over"
+date: "2008-05-06"
+categories: ["Economics", "Financial Markets"]
+---
+
+Traxis Partners MD [Cyril Moulle-Berteaux](http://online.wsj.com/article/SB121003604494869449.html?mod=opinion_main_commentaries "Cyril Moulle-Berteaux") argues the US housing downturn is all but over:
+
+> In the past five major housing market corrections (and there were some big ones, such as in the early 1980s when home sales also fell by 50%-60% and prices fell 12%-15% in real terms), every time home sales bottomed, the pace of house-price declines halved within one or two months.
+>
+> The explanation is that by the time home sales stop declining, inventories of unsold homes have usually already started falling in absolute terms and begin to peak out in “months of supply” terms. That’s the case right now: New home inventories peaked at 598,000 homes in July 2006, and stand at 482,000 homes as of the end of March. This inventory is equivalent to 11 months of supply, a 25-year high – but it is similar to 1974, 1982 and 1991 levels, which saw a subsequent slowing in home-price declines within the next six months.
+>
+> Inventories are declining because construction activity has been falling for such a long time that home completions are now just about undershooting new home sales. In a few months, completions of new homes for sale could be undershooting new home sales by 50,000-100,000 annually.
+>
+> Inventories will drop even faster to 400,000 – or seven months of supply – by the end of 2008. This shift in inventories will have a significant impact on prices, although house prices won’t stop falling entirely until inventories reach five months of supply sometime in 2009. A five-month supply has historically signaled tightness in the housing market.

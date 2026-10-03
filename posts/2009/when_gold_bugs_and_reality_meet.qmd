@@ -1,0 +1,17 @@
+---
+title: "When Gold Bugs and Reality Meet"
+date: "2009-06-11"
+categories: ["Economics", "Financial Markets", "Gold", "Monetary Policy"]
+---
+
+A [Wired](http://www.wired.com/threatlevel/2009/06/e-gold/ "Wired") story on the rise and fall of E-Gold:
+
+> In a sparsely decorated office suite two floors above a neighborhood of strip malls and car dealerships, former oncologist Douglas Jackson is struggling to resuscitate a dying dream.
+>
+> Jackson, 51, is the maverick founder of E-Gold, the first-of-its-kind digital currency that was once used by millions of people in more than a hundred countries. Today the currency is barely alive.
+>
+> Stacks of cardboard evidence boxes in the office, marked “U.S. Secret Service,” help explain why, as does the pager-sized black box strapped to Jackson’s ankle: a tracking device that tells his probation officer whenever he leaves or enters his home.
+>
+> “It’s supposed to be jail,” he says. “Only it’s self-administered.”
+
+There are some remarkable parallels between this story and the Paypal Wars.  Contrary to the hopes of the cypherpunk and cryptoanarchist movements, on-line payments systems have not been able to effectively challenge the power of the state.  I would agree with Richard Timberlake’s assessment (quoted in the linked article) of the original intentions behind E-Gold.

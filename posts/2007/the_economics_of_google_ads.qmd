@@ -1,0 +1,17 @@
+---
+title: "The Economics of Google Ads"
+date: "2007-07-18"
+categories: ["Economics"]
+---
+
+[Alan Kohler](http://www.smh.com.au/news/business/vanishing-up-each-others-google/2007/07/17/1184559788867.html "Alan Kohler") gives us a lesson in the economics of Google and the investment newsletter industry:
+
+> IF YOU google the phrase “Alan Kohler”, the top link in the main, unpaid search results is one of my articles on smh.com.au. Next is Eureka Report. But above that, against a beige background, there are two other links - one is to Eureka Report and the other is a link to Australian Stock Report, one of our competitors.
+>
+> Australian Stock Report has bought the Google phrase “Alan Kohler”. Eureka Report’s link only sits above it in the section headed “sponsored links” because we have paid more for it (to Google) in the auction system known as search engine marketing (SEM).
+>
+> Over to the right, in another sponsored links section for the search on the phrase “Alan Kohler”, there’s a link to Stock Resource - another competitor - and under that are a couple of book sites trying to flog my books (booktopia and ebay). Ebay buys millions of keywords, and among other things competes to buy just about every author’s name. We have also bought the phrase “Eureka Report”, of course, but if you google that then six competitors’ links appear in the sponsored links section of the results. They have all bought the phrase “Eureka Report”, but once again we have paid the most so we can be at the top. I hasten to add that we are also playing this rather brutal little game: we have bought, among things, the phrases “Rivkin Report” (another newsletter) as well as “Australian Stock Report”. Each of those newsletters ensures that its link is at the top of the Google sponsored links by paying the highest price. But Australian Stock Report’s search result, for example, is crowded with 10 competitors that have also bought its name.
+>
+> Thus do all of the financial newsletters compete with each other to throw money at Google.
+>
+> Another way to put this is that, when it comes to subscriptions obtained via Google marketing, the newsletters probably only make a profit from renewals in the second year - in the first year virtually the whole price of a new subscription goes to the Google machine. This is the essence of the Australian Competition and Consumer Commission’s case against Google for misleading and deceptive conduct, which caused a flurry of feather fluffing and squawking in the global internet henhouse last week.

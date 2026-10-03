@@ -1,0 +1,13 @@
+---
+title: "The RBNZ’s First Month in the Proprietary Trading Business"
+date: "2007-08-06"
+categories: ["Economics", "Financial Markets"]
+---
+
+The RBNZ’s [foreign currency liabilities and assets](http://www.rbnz.govt.nz/statistics/rbnz/f5/data.html "foreign currency liabilities and assets") show that the RBNZ held a net long foreign currency position valued at NZD 702m in June, compared a net short position of NZD 58m in May under the old arrangements whereby the Bank sought to match foreign currency assets and liabilities.  The RBNZ sold a net NZD 736m over the month. 
+
+The RBNZ would be approximately breaking even on these positions at current levels for the NZD, although would have been underwater for most of July.  The RBNZ is operating under self-imposed limits agreed with the government in relation to its intervention activities.
+
+The RBNZ’s intervention is notable for how little impact it has had on the exchange rate.  With the exception of the announced intervention on June 11, traders would be hard pressed to say whether the RBNZ had been intervening on a given day.
+
+Given the depth and liquidity of foreign exchange markets, with daily turnover in the trillions, this result should not be surprising.  There is little reason to believe that changes in the composition of official reserve assets are significant in exchange rate determination in the context of floating exchange rates.

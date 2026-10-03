@@ -1,0 +1,13 @@
+---
+title: "Bob Shiller, Ex-Ante and Ex-Post"
+date: "2014-03-25"
+categories: ["Economics", "Financial Markets"]
+---
+
+[Scott Sumner](http://econlog.econlib.org/archives/2014/03/endless_bubbles.html) has a nice comparison of Robert Shiller’s investment advice with that from one of my favourite supply-side economists, Alan Reynolds. Loyal readers of this blog will not be surprised to see that Scott’s post has my name all over it.
+
+Scott asks, ‘Can people find me the dates where Shiller recommended people buy stocks?’
+
+Sure. In his 2009 book with George Ackerlof, Shiller wrote: ‘there has been one way, at least in the past, in which almost everyone could become at least moderately rich … Invest it for the long term in the stock market, where the rate of return after adjustment for inflation has been 7% per year’ (p. 117).
+
+Unfortunately, Shiller’s ex-post observations on stock market returns in 2009 do not sit well with his ex-ante prediction in 1996: ‘long run investors should stay out of the market for the next decade.’

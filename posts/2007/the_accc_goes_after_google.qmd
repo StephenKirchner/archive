@@ -1,0 +1,17 @@
+---
+title: "The ACCC Goes After Google"
+date: "2007-07-12"
+categories: ["Economics"]
+---
+
+Further to the previous post, the [ACCC goes after Google](http://www.accc.gov.au/content/index.phtml/itemId/792088/fromItemId/142 "ACCC goes after Google").  The accompanying statement suggests the ACCC is more interested in the novelty value of the case than redressing any harm that might have been done to consumers or competing firms:
+
+> *This is the first action of its type globally. Whilst Google has faced court action overseas, particularly in the United States, France and Belgium, this generally has been in relation to trademark use. Although the US anti-trust authority the Federal Trade Commission has examined similar issues, the ACCC understands that it is the first regulatory body to seek legal clarification of Google’s conduct from a trade practices perspective.*
+
+**UPDATE:** [Responses](http://www.theaustralian.news.com.au/story/0,20867,22064695-643,00.html "Responses") to the ACCC’s action:
+
+> Chris Dimmock, chief executive of search marketing company Cogentis, said the system worked well. “How can they expect any one organisation to know the business practices and partnerships and strategies of every other business organisation in the country? It’s unrealistic,” he said.
+>
+> Google Australia spokesman Rob Shilkin said the action represented “an attack on all search engines and the Australian businesses, large and small, who use them to connect with customers throughout the world”.
+>
+> “Google Australia believes that these claims are without merit and we will defend against them vigorously,” he said.

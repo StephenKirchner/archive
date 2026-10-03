@@ -1,0 +1,15 @@
+---
+title: "30/30 Tax Reform"
+date: "2005-12-08"
+categories: ["Economics"]
+---
+
+John Humphreys’ [paper](http://www.cis.org.au/publications/policymonographs/pm70.pdf "paper") advocating a 30% flat tax and \$30,000 tax free threshold, below which a negative income tax would apply, has been released by CIS as part of its Perspectives on Tax Reform series.
+
+There is now no shortage of reform proposals for the Australian taxation system.  Jeff Pope has put forward a revenue neutral reform proposal in the latest Economic Papers, which also deserves attention.  Although revenue neutrality is in many ways the enemy of meaningful tax reform, Pope’s proposal is nonetheless valuable in showing that the benefits of reform have very little to do with the take home benefits accruing to different income groups and everything to do with lowering the distortions, compliance and collection costs associated with the existing tax system.
+
+What is lacking is the political will to proceed with reform.  Both John Howard and Peter Costello remain wedded to a view of tax reform as a residual to be funded out of the surplus, after paying for the middle class welfare churn, a view that renders meaningful reform almost impossible.
+
+In the WSJ, [Martin Feldstein](http://online.wsj.com/article/SB113400654429916967.html?mod=opinion_main_commentaries "Martin Feldstein") makes the case for getting rid of taxes on interest, dividends and capital gains:
+
+*A tax on interest, dividends and capital gains creates a major distortion in the timing of consumption, and also exacerbates the adverse effects of the income tax on all aspects of work effort and personal productivity. Such distortions create unnecessary economic waste that lowers our standard of living. The combination of a lower tax rate on the income from savings and a revenue-neutral rise in the tax on earnings can produce a higher net reward for additional work and productivity, as well as a reduction in the distortion between consuming now and in the future. That would reduce the economic damage caused by the tax system while collecting the same total revenue with the same distribution of the tax burden.*

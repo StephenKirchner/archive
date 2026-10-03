@@ -1,0 +1,11 @@
+---
+title: "Robert Barro’s Great Depression Reading List"
+date: "2010-04-16"
+categories: ["Economics", "Fiscal Policy", "Monetary Policy"]
+---
+
+Robert Barro’s [reading list](http://fivebooks.com/interviews/robert-barro "reading list") on the economics of the Great Depression.  I would add that there is a shorter version of Friedman and Schwartz’s *A Monetary History of the United States* dealing specifically with the Depression: [The Great Contraction, 1929-33](http://www.amazon.com/gp/product/0691137943?ie=UTF8&tag=institutional-20&link_code=as3&camp=211189&creative=373489&creativeASIN=0691137943 "The Great Contraction, 1929-33"), recently re-published by PUP.
+
+Barro on stimulus:
+
+> *There’s a strong tendency for the economy to recover on its own, as long as it’s not subject to further new shocks, so a likely scenario is that that is what will happen today as well. And then the Obama administration will say that it’s because of our policy that things recovered, and there won’t be any way to prove whether that’s right or wrong.*

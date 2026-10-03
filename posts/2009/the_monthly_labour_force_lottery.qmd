@@ -1,0 +1,9 @@
+---
+title: "The Monthly Labour Force Lottery"
+date: "2009-05-25"
+categories: ["Economics", "Financial Markets"]
+---
+
+[Centrebet](http://goodevans.centrebet.com/2009/05/20/centrebet-special-historic-national-unemployment-market "Centrebet") is now running a book on the unemployment rate, as published in the monthly ABS Labour Force release.  A rate of 5.6%-5.7% is currently favoured for May following 5.4% in April. 
+
+The quoted range begs the question as to whether they would pay on a rounded estimate published at 5.6% or 5.7% that was actually outside this range on an unrounded basis.

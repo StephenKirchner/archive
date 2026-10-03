@@ -1,0 +1,11 @@
+---
+title: "Crowding-Out in a Small Open Economy (That Would Be Us!)"
+date: "2009-12-15"
+categories: ["Economics", "Financial Markets", "Fiscal Policy"]
+---
+
+[Tony Makin](http://www.theaustralian.com.au/news/opinion/stimulating-our-way-into-trouble/story-e6frg6zo-1225810351596 "Tony Makin") makes the case for a crowding-out effect from fiscal stimulus via the exchange rate and net exports.  Last week’s September quarter balance of payments implied a 1.8 percentage point subtraction from growth on the part of net exports, which is consistent with this story.  Indeed, despite a positive contribution in the first half of 2009, export volumes made no contribution to measured GDP growth for the year-ended in June.  A 13.1% decline in import volumes, by contrast, made a 3.3 percentage point contribution to growth over the same period. 
+
+Remarkably, the Australian dollar-US dollar exchange rate bottomed out in October 2008, the same month as the first stimulus package, before rising 57% from its lows around 0.6000 to its recent highs around 0.9400. 
+
+I made a similar case for crowding-out via the exchange rate and net exports in [this op-ed](http://www.theage.com.au/business/the-madding-crowding-out-20090521-bh5z.html "this op-ed") following the May Budget.

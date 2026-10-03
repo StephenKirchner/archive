@@ -1,0 +1,15 @@
+---
+title: "Will the Euro Survive the Crisis?"
+date: "2008-12-11"
+categories: ["Economics", "Financial Markets"]
+---
+
+[Martin Feldstein](http://www.aei.org/publications/pubID.29044/pub_detail.asp "Martin Feldstein") asks whether the euro can weather the global financial crisis:
+
+> The current differences in the interest rates of euro-zone government bonds show that the financial markets regard a break-up as a real possibility. Ten-year government bonds in Greece and Ireland, for example, now pay nearly a full percentage point above the rate on comparable German bonds, and Italy’s rate is almost as high.
+>
+> There have, of course, been many examples in history in which currency unions or single-currency states have broken up. Although there are technical and legal reasons why such a split would be harder for an EMU country, there seems little doubt that a country could withdraw if it really wanted to.
+>
+> The most obvious reason that a country might choose to withdraw is to escape from the one-size-fits-all monetary policy imposed by the single currency. A country that finds its economy very depressed during the next few years, and fears that this will be chronic, might be tempted to leave the EMU in order to ease monetary conditions and devalue its currency. Although that may or may not be economically sensible, a country in a severe economic downturn might very well take such a policy decision.
+
+[Intrade](http://www.intrade.com/jsp/intrade/common/c_cd.jsp?conDetailID=589672&z=1228955629882 "Intrade") puts the probability of an existing member leaving the eurozone before the end of 2010 at 27%.

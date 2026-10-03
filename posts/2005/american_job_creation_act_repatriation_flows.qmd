@@ -1,0 +1,19 @@
+---
+title: "American Job Creation Act Repatriation Flows"
+date: "2005-03-08"
+categories: ["Economics"]
+---
+
+[Action Economics](http://www.actioneconomics.com "Action Economics") chief economist Mike Englund on the impact of repatriation flows under the American Job Creation Act, something which is getting little attention outside of financial markets:
+
+US repatriation of funds in 2005 related to legislation passed last October should reach \$350 bln. This will relieve FX intervention pressure on foreign central banks that are defending the dollar, boost U.S. debt and equity markets at the expense of foreign counterparts, directly contribute to U.S. economic growth.  Repatriation will have an enormous impact on the “direct investment abroad” and “foreign official asset” components of the U.S. capital account data in some of the quarters of 2005, with details depending on how the BEA specifically chooses to treat the payments…
+
+It appears that the BEA is unlikely to boost the “direct investment receipt” component of the U.S. current account export measure but, rather, will reveal two offsetting component adjustments on “distributions” and “reinvested income” that will leave U.S. receipts, or “factor income,” unaffected by the payments. This means that the payments will not directly impact the headline current account or GNP figures for each of the quarters of 2005. But, the payments will depress the “U.S. direct investment abroad” figures in the U.S. capital account by the size of the quarterly dividend payments.
+
+The magnitude of these potential flows highlights a broader issue: growing cross-border ownership and control of equity capital requires greater sophistication in interpreting current account data. 
+
+In Australia’s case, the net income deficit is the main contributor to the current account deficit over time.  Like the more cyclical balance on goods and services, it can also be interpreted as a measure of the relative performance of the Australian economy.
+
+When the Australian economy outperforms, the foreign owners of the stock of Australian equity capital will be repatriating profits, while Australian-owned companies abroad will be performing less well.  This effect is becoming more pronounced, because while foreigners control a large part of Australia’s stock of equity capital, in flow terms, Australia has become a net exporter of direct investment capital in recent years.  At least part of Australia’s current account balance is funding the globalisation of Australian business. 
+
+Extensive cross-border control of equity capital associated with globalisation requires that we re-think our views on current account balances and leave behind the ‘balance of payments constraint’ mindset that is a hang-over from Bretton Woods-era institutional arrangements.

@@ -1,0 +1,9 @@
+---
+title: "Inflation Targeting and the Fed"
+date: "2005-11-22"
+categories: ["Economics"]
+---
+
+[Mark Thoma](http://economistsview.typepad.com/economistsview/2005/11/should_bernanke.html "Mark Thoma") points to a piece in the FT by Peter Hartcher, criticising Ben Bernanke for his focus on inflation targeting at the expense of targeting asset prices.  My [review of Hartcher’s book](http://www.institutional-economics.com/index.php/section/comments/bubble_man_alan_greenspan_the_missing_7_trillion_dollars_by_peter_hartcher/ "review of Hartcher’s book"), *Bubble Man*, explains why Bernanke is right and Hartcher is wrong:
+
+*Hartcher never ventures to suggest by how much the Fed should have tightened over this period.  Instead, he quotes Fed research on the elasticity of stock prices to Fed funds rate shocks contained in a 2003 speech by then Federal Reserve Board Governor Ben Bernanke.  In this context, Hartcher says that the idea that ‘monetary policy has a strong influence over the market…is supported by all the evidence from within the Fed itself’ (p. 151).  Hartcher neglects to mention that the rest of Bernanke’s speech is in fact a compelling review of the theory and evidence against the proposition that monetary policy should respond to asset prices, citing no less than 20 academic papers and other sources on the subject.  In particular, Bernanke summarises his argument by noting that ‘monetary policy can lower stock values only to the extent that it weakens the broader economy, and in particular that it makes households considerably worse off.  Indeed, according to our analysis, policy would have to weaken the general economy quite significantly to obtain a large decline in stock prices.’*

@@ -1,0 +1,13 @@
+---
+title: "The RBA’s Perception Problem"
+date: "2010-04-30"
+categories: ["Economics", "Financial Markets", "Monetary Policy"]
+---
+
+Regardless of whether the RBA still backgrounds journalists on the monetary policy outlook, the perception that it does so remains alive and well in financial markets. Yesterday’s column by [Terry McCrann](http://www.heraldsun.com.au/business/terry-mccranns-column/no-rate-escape-this-time/story-e6frfig6-1225859640902 "Terry McCrann") confidently declared that ‘the Reserve Bank is all-but certain to deliver its third successive interest rate increase next Tuesday.’  At the same time, the implied probability of a 25 bp tightening priced into inter-bank futures rose from around 32% Wednesday to around 48% Thursday.  There was a similar increase in the probability of a tightening on [iPredict](https://www.ipredict.co.nz/app.php?do=contract_detail&contract=RBA.25.4MAY10 "iPredict"). 
+
+This suggests that the market doesn’t believe RBA Governor Glenn Stevens’ [denial](../2010/the_rba_and_the_media.qmd "denial") that the RBA leaks, although that denial was couched in very narrow terms. Of course, current pricing also implies that the market doesn’t have complete confidence in Terry McCrann either, but the change in market pricing is still significant.
+
+[Chris Joye](http://christopherjoye.blogspot.com/2010/04/has-rba-stitched-up-media-commentators.html "Chris Joye") speculates that this might be part of a RBA sting operation designed to finally put to rest the idea that the RBA leaks. Yet even if the punditocracy is deliberately wrong-footed on this occasion, it may not be enough to change market perceptions.  When I worked in financial markets, I was often asked by clients whether I had ‘contacts’ at the RBA, with the clear implication that anyone who did was more likely to have the inside running on monetary policy. I always thought these clients had a greatly exaggerated view of the extent to which any such contacts might be useful in calling the interest rate outlook and the amount of media and other backgrounding that actually takes place. But that perception, even if exaggerated, is still a problem for the integrity of monetary policy.
+
+**UPDATE:** Friday’s Reuters poll has the median financial market economist giving a 60% chance to a 25 bp tightening on Tuesday. Not quite the ‘all-but’ certainty expressed by McCrann.

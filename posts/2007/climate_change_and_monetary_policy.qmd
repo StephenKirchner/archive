@@ -1,0 +1,21 @@
+---
+title: "Climate Change and Monetary Policy"
+date: "2007-12-06"
+categories: ["Economics", "Financial Markets"]
+---
+
+The new Australian government has been quick to ratify Kyoto, but this does not necessarily sit comfortably with its other policy commitment to keep downward pressure on interest rates.  The RBNZ’s latest [Monetary Policy Statement](http://www.rbnz.govt.nz/monpol/statements/ "Monetary Policy Statement") discusses the monetary policy implications of the proposed Emission Trading Scheme in New Zealand:
+
+> Another recent Government announcement that could have significant implications for the medium-term inflation outlook is the intention to introduce an emissions trading scheme as part of New Zealand’s Kyoto Protocol obligations… it is likely that the emissions trading scheme will have very significant direct and indirect effects on CPI inflation by affecting fuel and electricity prices. It will also affect inflation expectations and supply and demand in the economy….
+>
+> It is likely that incorporating the effects of the emissions trading scheme… would result in interest rates being held higher for even longer than assumed here…
+>
+> to the extent that the gradual phasing in of the scheme adversely affects the medium-term path of inflation, policy will need to lean against this.
+
+The RBNZ assumes an emissions price of NZD 21/tonne, which could prove overly optimistic. 
+
+On another subject, the RBNZ seems oblivious to the glaring contradiction in this statement:
+
+> *New Zealand is one of the few developed countries in which the government now has net financial assets. The government’s very strong overall balance sheet, achieved as a result of a series of fiscal choices over the past 20 years, is undoubtedly helping to keep the long-term average level of interest rates in New Zealand lower than it would otherwise be.*
+
+New Zealand is also notorious for having the highest interest rates in the developed world, which rather argues against the importance of fiscal policy as a determinant of interest rates.

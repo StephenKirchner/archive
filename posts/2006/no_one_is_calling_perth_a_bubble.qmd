@@ -1,0 +1,11 @@
+---
+title: "No One is Calling Perth a ‘Bubble’"
+date: "2006-11-16"
+categories: ["Economics"]
+---
+
+Or at least no one I could find using Google News.  This follows yesterday’s release of the [ABS house price index](http://www.ausstats.abs.gov.au/ausstats/subscriber.nsf/0/4AE2B01279C8DDDFCA257226001CC637/$File/64160_sep%202006.pdf "ABS house price index"), which had Perth established house prices up 10% over the September quarter and 46% over the year.  Perth seems to have escaped being tagged with the ‘b’-word, because there is a fairly straightforward fundamental story that accounts for the rise in Perth property prices: the flow of income and population associated with the commodity price boom.  Even the vexed issue of causality is less problematic than usual, since the commodity price boom is exogenous to the Australian economy and so we can be more confident in the case of Perth that it is economic developments driving house prices rather than the other way around.
+
+While Treasury Secretary Ken Henry would argue that there is long-run, terms of trade-driven, shift in Australia’s centre of economic gravity to the west and north, Perth is unlikely to sustain double-digit annual growth rates in house prices of this magnitude indefinitely.  When house price growth slows, no doubt some will start talking about a ‘burst bubble,’ but the experience of other state capitals suggests that Perth will hold on to most of its recent gains.
+
+Looking at each of the state capitals, only Sydney has recorded negative annual growth in house prices in recent years, with a trough of -5.9% in the March quarter of 2005.  As former RBA Governor Ian Macfarlane has argued, what is most likely happening here is an equilibrating process, where the ratio of Sydney house prices to other state capitals returns to historical levels.  High relative prices in Sydney have actually helped this process along, by adding to the attractiveness of inter-state and regional migration driven by differences in regional economic performance.  This is a far cry from the stylised ‘bubble’ story promoted by Robert Shiller, in which prices collapse due to some inexplicable reversal in investor psychology, a theory of asset price determination that is entirely devoid of analytical content.  Instead, what we see is a standard response to economic incentives.

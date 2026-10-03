@@ -1,0 +1,16 @@
+---
+title: "Australian House Prices Up 10% YTD"
+date: "2009-11-30"
+categories: ["Economics", "House Prices"]
+---
+
+[RP Data-Rismark](http://www.rpdata.com/ "RP Data-Rismark") have released the capital city hedonic house price index for October, showing house prices up 10% YTD.
+
+\
+![](../../files/rpdata.bmp)
+
+\
+Here’s what \$1.85 million [buys you](http://wentworth-courier.whereilive.com.au/photos/gallery/amazing-auction-result-for-derelict-paddington-terrace/ "buys you") in the Sydney suburb of Paddington:
+
+\
+![](../../files/windsorst.jpg)

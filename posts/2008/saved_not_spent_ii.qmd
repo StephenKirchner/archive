@@ -1,0 +1,13 @@
+---
+title: "Saved Not Spent II"
+date: "2008-02-29"
+categories: ["Economics", "Financial Markets", "Politics"]
+---
+
+An [opinion poll](http://www.news.com.au/couriermail/story/0,23739,23294093-953,00.html "opinion poll") finds that a slim majority would prefer tax cuts to be paid into superannuation accounts:
+
+> The survey was based on interviews with 800 Queenslanders and found 55 per cent of respondents would prefer the proposed tax cuts to be delivered as extra payments to their superannuation fund. This included a majority of Labor and Coalition supporters.
+>
+> Only 38 per cent of people wanted the money upfront through lower taxes.
+
+This is an interesting result, because there is nothing to prevent people from putting their tax cuts into super voluntarily.  The only reason to favour having the choice made for you would be as a solution to an imagined collective action problem: I might save my tax cut, but if others don’t, the consequences could be inflationary, so a policy that is also binding on others is to be preferred.  This policy preference is likely the result of a cognitive bias: the belief that other people are less prudent than ourselves (I’m sure [Andrew Norton](http://andrewnorton.info/blog/ "Andrew Norton") would have hard data on the extent of this belief).  In reality, if we think saving a tax cut is a good thing, then others probably see it that way too.

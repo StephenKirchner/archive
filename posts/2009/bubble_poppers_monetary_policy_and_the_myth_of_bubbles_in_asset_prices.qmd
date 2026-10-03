@@ -1,0 +1,11 @@
+---
+title: "Bubble Poppers: Monetary Policy and the Myth of ‘Bubbles’ in Asset Prices"
+date: "2009-03-19"
+categories: ["Economics", "Financial Markets", "Monetary Policy"]
+---
+
+CIS has released my Policy Monograph, [Bubble Poppers: Monetary Policy and the Myth of ‘Bubbles’ in Asset Prices](http://www.cis.org.au/policy_monographs/pm93.pdf "Bubble Poppers: Monetary Policy and the Myth of ‘Bubbles’ in Asset Prices").  The text was finalised before Greenspan published a defence of his record in the [WSJ](../2009/greenspan_versus_taylor.qmd "WSJ"), but takes a similar position to the former Fed Chair.
+
+The monograph is partly devoted to debunking the concept of a ‘bubble’ in asset prices.  It argues that if the idea of ‘bubbles’ in asset prices cannot be given analytical or empirical substance, then monetary policy should not attempt to actively manage asset price cycles.
+
+There is a shorter version in the latest issue of [Policy](http://www.cis.org.au/POLICY/autumn09/autumn09.html "Policy") and an even shorter version in today’s [Age](http://www.businessday.com.au/business/dont-blame-greenspans-monetary-policy-20090318-925f.html "Age").

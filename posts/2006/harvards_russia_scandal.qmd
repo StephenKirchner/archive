@@ -1,0 +1,11 @@
+---
+title: "Harvard’s Russia Scandal"
+date: "2006-02-28"
+categories: ["Economics"]
+---
+
+Institutional Investor has a [special report](http://www.institutionalinvestor.com/Default.asp?Page=1&SID=606917&PUB=243&ISS=21210&p=1 "special report") on Andrei Schleifer and Harvard’s Russia scandal, which played a role in the recent resignation of Harvard President Larry Summers:
+
+*Since being named president of Harvard University in 2001, former U.S. Treasury secretary Lawrence Summers has sparked a series of controversies that have grabbed headlines…Then, in quiet contrast, there is the case of economics professor Andrei Shleifer, who in the mid-1990s led a Harvard advisory program in Russia that collapsed in disgrace. In August, after years of litigation, Harvard, Shleifer and others agreed to pay at least \$31 million to settle a lawsuit brought by the U.S. government. Harvard had been charged with breach of contract, Shleifer and an associate, Jonathan Hay, with conspiracy to defraud the U.S. government.*
+
+Some might see a certain irony in the fact that Schleifer is a big name in behavioural economics, particularly as author of papers such as ‘Does Competition Destroy Ethical Behavior?’

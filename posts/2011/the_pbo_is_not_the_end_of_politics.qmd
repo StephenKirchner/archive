@@ -1,0 +1,13 @@
+---
+title: "The PBO is Not the End of Politics"
+date: "2011-08-23"
+categories: ["Economics", "Fiscal Policy"]
+---
+
+Bloomberg is seemingly the only news organisation to have thought that the introduction of the Parliamentary Budget Office legislation is worthy of note. The [Bloomberg report](http://www.bloomberg.com/news/2011-08-21/australia-to-create-u-s-style-budget-office-to-advise-lawmakers.html) suggests that the federal opposition have unrealistic expectations for the new body:
+
+> *“We want an independent source,” opposition Finance spokesman Andrew Robb told the Melbourne Age newspaper last month. “I’d expect next time there will be no debate over our costings.”*
+
+As I argued in this piece for [The Drum](http://www.abc.net.au/unleashed/2721450.html), it would certainly be desirable to put an end to pointless partisan bickering over costing assumptions and instead focus on the merits of the policies being proposed apart from their assumed implications for the budget bottom line. Unfortunately, the political process is such that politicians cannot admit to being wrong and they are unlikely to accept contrary opinions from the PBO, no matter how independent. My guess is the PBO will very quickly disappoint the expectations of the opposition and independents and will itself become embroiled in partisan conflict.  This was the Canadian experience, discussed by Peter Reith [here](http://www.theaustralian.com.au/news/opinion/dont-shortchange-a-parliamentary-budget-office/story-e6frg6zo-1225934043814). Reith seems to think we can do better, but gives us no real reason to think that we will.
+
+Robert Carling and I [have a better idea](http://www.cis.org.au/publications/policy-monographs/article/902-fiscal-rules-for-limited-government-reforming-australias-fiscal-responsibility-legislation).

@@ -1,0 +1,15 @@
+---
+title: "Tax Cuts & Interest Rates: Round Up the Usual Suspects"
+date: "2007-05-09"
+categories: ["Economics", "Financial Markets"]
+---
+
+Actually, there are very few members of the economic commentariat arguing that tax cuts will lead to higher interest rates in response to this year’s federal budget.  Even [Wowser Ross](http://www.smh.com.au/news/budget2007/temptation-avoided/2007/05/08/1178390315008.html "Wowser Ross") was forced to concede that the budget would not put upward pressure on interest rates, while Brian Toohey in the AFR (unlinkable) argued that ‘at least the tax cuts can be seen as having some incentive effect.’ 
+
+Part of the reason is that in the Budget papers, the Treasury makes explicit the links between tax cuts and increased labour supply, going so far as to quantify the expected impact of the tax cuts on labour force participation.  This puts the commentariat in the position of having to argue against Treasury numbers, something few of them are brave enough to do.  Since many of the economics writers in the mainstream press rely on wholesale recycling of Treasury speeches and other research as the basis for their columns, they are not about to start arguing with one of their favourite sources.  The fact that the tax cuts are aimed at low income earners also helps, since few are prepared to argue against tax cuts for the low paid.  Tax cuts for the ‘rich’ would have been a different story.
+
+The fiscal impulse between 2006-07 and 2007-08 is a small 0.3% of nominal GDP.  Some will make the argument that the timing of budget measures makes the short-run stimulus larger, but this misses the point of what has been happening with the budget balance in recent years.  The main problem faced by the government has been to avoid what would have been a large fiscal contraction induced by above forecast revenue collections.  Recent budgets have largely been aimed at keeping the fiscal impulse steady, by returning some of this increased revenue in the form of tax cuts and increased spending.  This is a phenomenon the RBA has also noted, which is one of reasons it has not been bothered by fiscal policy in recent years.
+
+The most salient aspect of fiscal policy is that the government has been raising much more revenue that it needs to fund recurrent expenditure.  This government is in the process of accumulating a large negative net debt position, to the tune of nearly 5% of GDP by 2010-11.  Hence the advent of the Future Fund to manage these assets.  The Future Fund concept has now been extended to include a higher education endowment. 
+
+We know from the prospective fiscal gap identified in the most recent Intergenerational Report that, on a no policy change basis, federal spending will eventually outstrip revenue.  The solution to this problem is not to hoard revenue now, but to grow the economy faster today, while restructuring federal tax and spending programs to put them on a more sustainable long-term footing.  This is the basis on which fiscal policy should be assessed, not its largely imaginary implications for interest rates.

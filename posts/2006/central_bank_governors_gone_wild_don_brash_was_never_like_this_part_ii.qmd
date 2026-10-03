@@ -1,0 +1,13 @@
+---
+title: "Central Bank Governors Gone Wild: Don Brash Was Never Like This, Part II"
+date: "2006-03-09"
+categories: ["Economics"]
+---
+
+[Previously](../2005/central_bank_governors_gone_wild_don_brash_was_never_like_this.qmd "Previously"), we highlighted the unprecedented tightening in monetary conditions presided over by RBNZ Governor Bollard.  The RBNZ’s March [Monetary Policy Statement](http://www.rbnz.govt.nz/monpol/statements/mar06.pdf "Monetary Policy Statement") has now ruled out any easing in official cash rate during 2006. 
+
+This can be partly justified by an inflation target breach, but the RBNZ’s discussion of the inflation outlook has recently been dominated by its views on the housing sector and the supposedly ‘unsustainable’ domestic saving-investment and current account imbalance.  In the March MPS, Governor Bollard says ‘the other key inflation risk over the next two years remains the housing market.  We need to see this market continue to slow, so that consumption moderates and helps to reduce inflation pressures.’
+
+Governor Bollard is implying that causality runs from housing to consumption to overall economic growth to inflation.  But if this causal reasoning is wrong, or even if there is bilateral causality between housing and activity more broadly, then the New Zealand economy is in serious trouble.  The risk is that by the time the housing market cracks, New Zealand will already be in recession, particularly given the slow transmission from changes in the official cash rate to effective mortgage interest rates in NZ.  Indeed, the yield curve inversion driven by RBNZ tightening is even facilitating longer-term fixed rate borrowing, while encouraging capital inflow that makes the current account deficit even worse.
+
+Just like Australia in the early 1990s, the authorities will probably argue that any subsequent recession was necessary to correct these imbalances, substantiating their view about their ‘unsustainability.’  The real lesson from Australia’s experience in the late 1980s and early 1990s is that the monetary authority has no business targeting private saving-investment and current account imbalances or the housing market.

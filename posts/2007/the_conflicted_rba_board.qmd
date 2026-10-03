@@ -1,0 +1,27 @@
+---
+title: "The Conflicted RBA Board"
+date: "2007-10-26"
+categories: ["Economics", "Financial Markets"]
+---
+
+[Brad Norrington](http://www.theaustralian.news.com.au/story/0,25197,22650589-5013871,00.html "Brad Norrington") notes the conflicts of interest sitting around the RBA Boardroom table:
+
+> ROGER Corbett faces a potentially excruciating choice when he enters the board room of the Reserve Bank in Sydney’s Martin Place on Melbourne Cup Day, less than two weeks away…
+>
+> two sides of Mr Corbett’s brain will be talking to him: the independent banker and the hard-headed businessman.
+>
+> Mr Corbett may no longer head Woolworths, but he still serves as a consultant to the giant retailer.
+>
+> And Michael Luscombe, Mr Corbett’s successor at Woolworths, has made his view plain: there is no case for a rate rise because the inflation rate at Woolies stores does not justify it…
+>
+> That courage could only make life more difficult for Mr Corbett and others in his position on the board whose business interests could be affected by the decisions they make. The three permanent members of the Reserve Bank are Mr Stevens, his deputy Ric Battelino, and Ken Henry, the Secretary to the Treasury.
+>
+> The six others, including Mr Corbett, are external board members and most have links to big corporations that do not want an interest rate hike.
+>
+> Unlike the US Federal Reserve, which hands out statements every time it holds a meeting and releases deliberations of its minutes every six weeks, deliberations of its Australian equivalent remain secret. When the Reserve successfully tried to block The Australian from seeing its minutes in 2004, former board member Dick Warburton said the release of such information would expose external directors to “undue criticism and pressure from the sectorial groups they nominally represent”.
+>
+> What transpires in the boardroom may never be known, but the pressure from retail business interests on Mr Corbett and his corporate colleagues inside the room is undeniable.
+
+What makes the RBA exceptional among central banks is not so much the lack of minutes, but the failure to separate monetary policy decision-making from the other governance functions of the Bank Board.
+
+In the US, the Federal Reserve Board and the Federal Open Market Committee have distinct functions, with the latter determining interest rates (indeed, there is no formal requirement that the Fed Chair also Chair the Open Market Committee).  The RBA’s actions before the AAT in seeking to block access to the Board minutes highlighted the incompatibility of the current governance arrangements with the increased transparency and accountability now routinely demanded of other central banks.

@@ -1,0 +1,13 @@
+---
+title: "The Efficient Market Fantasy of Justin Fox"
+date: "2009-11-05"
+categories: ["Economics", "Financial Markets"]
+---
+
+[Eugene Fama](http://www.dimensional.com/famafrench/2009/11/qa-is-market-efficiency-the-culprit.html#more "Eugene Fama") reviews *The Myth of the Rational Market*, by Justin Fox:
+
+> The book is fun reading, but its main premise is fantasy. Most investing is done by active managers who don’t believe markets are efficient. For example, despite my taunts of the last 45 years about the poor performance of active managers, about 80% of mutual fund wealth is actively managed. Hedge funds, private equity, and other alternative asset classes, which have attracted big fund inflows in recent years, are built on the proposition that markets are inefficient. The recent problems of commercial and investment banks trace mostly to their trading desks and their proprietary portfolios, and these are always built on the assumption that markets are inefficient. Indeed, if banks and investment banks took market efficiency more seriously, they might have avoided lots of their recent problems. Finally, MBA students who aspire to high paying positions in the financial industry have a tough time finding a job if they accept the EMH.
+>
+> I continue to believe the EMH is a solid view of the world for almost all practical purposes. But it’s pretty clear I’m in the minority. If the EMH took over the investment world, I missed it.
+>
+> The Fox book is an example of a general phenomenon. Finance, financial markets, and financial institutions are in disrepute. The popular story is that together, they caused the current recession. I think one can take an entirely different position: financial markets and financial institutions were casualties rather than the cause of the recession.

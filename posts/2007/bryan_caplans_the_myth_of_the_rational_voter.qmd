@@ -1,0 +1,15 @@
+---
+title: "Bryan Caplan’s The Myth of the Rational Voter"
+date: "2007-10-06"
+categories: ["Economics", "Politics"]
+---
+
+Bryan Caplan’s [The Myth of the Rational Voter](http://www.amazon.com/dp/0691129428?tag=institutional-20&camp=0&creative=0&linkCode=as1&creativeASIN=0691129428&adid=0W126MK4JPYYRVR64M4W& "The Myth of the Rational Voter") turns on the distinction he draws between the familiar rational choice theory concept of rational ignorance and what he calls rational irrationality: the idea that there are weak or no incentives to behave rationally in the political arena.  This runs counter to standard public choice theory, but Caplan argues that this explains the failure of political behavior to parallel market behaviour. 
+
+I’m not sure that Caplan’s attempt to distinguish between rational ignorance and rational irrationality succeeds in the end.  It mostly just relocates the standard cost-benefit analysis of rational choice theory from the costs and benefits of acquiring information to the costs and benefits of holding and indulging irrational beliefs in the political arena.  Caplan notes that to the extent that standard rational choice theory wrongly emphasises the former, ‘this is a failure of economists rather than a failure of economics.’ 
+
+Caplan suggests that one way of raising the economic literacy of the median voter is plural voting for the well-educated and eliminating efforts to increase voter turnout.  Caplan’s view implies that political-economic outcomes should be decidedly worse in a country with compulsory voting like Australia than in a country like the US, where voting is voluntary and electoral participation is correlated with education.  Australian and US economic literacy levels are likely to be very similar, but the economic literacy of the median Australian voter should be lower than that for the median US voter.  Yet as a generalization, the two political systems produce qualitatively similar public policy outcomes.  Indeed, in some policy areas, such as regulation of the financial system and retirement incomes policy, the Australian political system has produced decidedly better outcomes than in the US.  For a book that aims to explain ‘Why Democracies Choose Bad Policies,’ I think this is a significant problem.
+
+Caplan’s book includes a nice dig at the fever swamp Austrians of the Mises Institute.  Caplan argues against the caricature of economists as market fundamentalists, noting that only the Mises Institute crew comes close to giving substance to the caricature:
+
+> *Both Mises and Rothbard have passed away, but their outlook – including Ph.D.s who subscribe to it – lives on in the Ludwig von Mises Institute.  But groups like these have basically given up on mainstream economics; members mostly talk to each other and publish in their own journals.  The closest thing to market fundamentalists are not merely outside the mainstream of the economics profession.  They are way outside.*

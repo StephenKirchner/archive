@@ -1,0 +1,13 @@
+---
+title: "Separating Alpha and Beta"
+date: "2007-03-24"
+categories: ["Economics", "Financial Markets"]
+---
+
+[Alan Kohler](http://www.smh.com.au/news/business/put-your-money-on-alpha-bet/2007/03/23/1174597886037.html "Alan Kohler") points to the separation of alpha from beta in funds management, led by QIC’s Doug McTaggart (co-author of one of the better [undergraduate economics texts](http://www.pearsoned.com.au/Catalogue/TitleDetails.aspx?isbn=9780733973253 "undergraduate economics texts")):
+
+> At QIC, Doug McTaggart has separated alpha and beta into entirely different business streams, with separate profit and loss statements. This applies to the 50 per cent of QIC’s money that is managed internally as well the half that’s managed by outside fund managers.
+>
+> McTaggart says he is pushing for performance-only fees but he’s not quite there. But he’ll get there and so will other Australian institutions. Whether smaller investors benefit from this revolution depends on the financial planners and wrap/platform operators who say they are acting in their clients’ interests.
+
+In fact, there is no reason why Australian retail investors can’t do this for themselves, by combining index funds such as those provided by [Vanguard](http://www.vanguard.com.au/ "Vanguard") with investments in absolute return or hedge funds, which are readily available to Australian retail investors.

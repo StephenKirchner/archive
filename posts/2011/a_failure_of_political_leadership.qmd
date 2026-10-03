@@ -1,0 +1,11 @@
+---
+title: "A Failure of Political Leadership"
+date: "2011-04-12"
+categories: ["Economics", "Foreign Investment", "Politics"]
+---
+
+I have an op-ed in the [Straits Times](../../files/straitstimes11Apr2011.pdf) that discusses Australia’s regulation of foreign direct investment in light of the Treasurer’s rejection of the SGX-ASX merger:
+
+> the Treasurer’s sweeping powers and the open-ended nature of Australia’s ‘national interest’ test are a standing invitation for politicians to pre-empt and second-guess commercial outcomes. The Foreign Acquisitions and Takeovers Act is a lightning rod for political intervention in the market for ownership and control of Australian equity capital.
+>
+> The Act adds nothing useful to the regulation of business investment in Australia. It allows government to infringe the property rights of the owners of Australian equity capital, who are denied the opportunity to sell to the highest bidder and thereby realise the full value of their equity. That in turns reduces the amount of capital available for re-investment in Australia by the sellers of these assets. The Treasurer’s opposition to this and other deals devalues Australia’s stock of equity capital.

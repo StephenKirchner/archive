@@ -1,0 +1,13 @@
+---
+title: "US Recession Indicator Index"
+date: "2008-05-01"
+categories: ["Economics", "Financial Markets"]
+---
+
+[James Hamilton](http://www.econbrowser.com/archives/2008/04/gdp_still_growi.html "James Hamilton") updates his recession indicator index following the advance Q1 GDP release:
+
+> Recent sluggish growth rates bring our recession indicator index for the fourth quarter of 2007 up to 26.9%. That’s its highest value since the 2001 recession, but still well short of the 65% reading that we require in order to make a declaration that the U.S. economy had entered a recession as of 2007:Q4.
+>
+> The numbers are reminding us that if, for example, the tax rebates were to keep GDP growth positive in the second quarter, we would end up characterizing the most recent experience as a period of slow growth rather than a typical economic contraction.
+
+Fed funds futures now imply a 78% chance the FOMC will leave the Fed funds rate unchanged at its June 25 meeting.

@@ -1,0 +1,57 @@
+---
+title: "Thrift is No Paradox"
+date: "2009-01-13"
+categories: ["Economics", "Fiscal Policy"]
+---
+
+I have an op-ed in today’s *AFR* refuting the paradox of thrift as a rationale for short-term fiscal stimulus measures.  In particular, I highlight the origins of the idea in the discredited ‘secular stagnation’ hypothesis of the1930s.  Text over the fold (may differ slightly from edited *AFR* version).
+
+[Greg Mankiw](http://www.aei.org/publications/pubID.29176/pub_detail.asp "Greg Mankiw") makes related arguments in the US context.
+
+The Rudd government has urged Australians to spend-up in an effort to ward-off an economic downturn.
+
+This follows the government’s \$10.4 billion Economic Security Package, which was deliberately targeted at those deemed most likely to open their wallets in the lead-up to Christmas: pensioners and families.
+
+The injunction to spend is based on an old-fashioned Keynesian notion, the so-called paradox of thrift.  The paradox holds that while increased saving might be virtuous for the individual, at the collective level, it might be ruinous.  If everyone saves rather than spends, incomes will be reduced, employment will fall, leading to further reductions in spending, creating a self-reinforcing downturn.
+
+John Maynard Keynes thought that saving was problematic because the advanced economies were at risk of exhausting the investment opportunities available to them.  These economies would then become permanently stuck below full employment, as the marginal efficiency of capital was driven to zero.
+
+Keynes’ *General Theory* thus looked forward to ‘the euthanasia of the cumulative oppressive power of the capitalist to exploit the scarcity-value of capital.’ 
+
+Far from providing a rationale for short-term fiscal stimulus, this view mandated permanent government intervention to maintain fully employment as a counter-weight to what Keynes saw as a secular tendency toward stagnation.
+
+This ‘secular stagnation’ hypothesis became enormously influential from the mid-1930s until well into the 1960s, even against the backdrop of a rapid post-war economic expansion that provided abundant empirical refutation for the idea.
+
+As economist W. H. Hutt argued ‘the building up physical productive power has no greater tendency to force interest toward zero than has the growth of population a tendency to reduce the value of labor to zero.’
+
+The paradox of thrift is based on the idea that saving is a ‘leakage’ from the flow of income in the economy.  But the circumstances in which this might occur are quite limited, even in a Keynesian framework.
+
+The hoarding of cash under mattresses might result in the disintermediation of saving from the financial system, which would then be unavailable to fund increased investment spending.
+
+This might occur in a deflationary environment where consumer prices are falling and hoarded cash increases in purchasing power, providing a positive rate of return that might not be available from other non-cash assets in a severely recessed economy. 
+
+However, a deflationary environment is a problem for monetary policy, not an argument against increased saving.
+
+Far from putting cash under the mattress, the most likely destinations for household saving in the current environment are paying down debt, increased bank deposits, or the acquisition of other forms of financial assets. 
+
+The latest national accounts data imply that the increase in household disposable income due to the 1 July 2008 tax cuts and growth in the economy has been saved rather than spent.  The household saving ratio rose from 1.3% in the June quarter to 3.9% in the September quarter of last year, well up on the negative household saving ratio seen just a few years ago. 
+
+This suggests that households have been paying down debt in response to the uncertainties associated with the global financial crisis.
+
+But this does not mean that these funds are lost to economy.  Rather than being a ‘leakage’ from the flow of income, such saving becomes part of the life blood of the economy, increasing the capacity of banks and other financial institutions to lend.
+
+By reducing their borrowing from financial institutions, households increase the capacity of financial institutions to lend for a given level of capital. 
+
+Increased saving via bank deposits has provided a much needed boost to the ability of banks and financial institutions to continue lending in the context of the credit crisis, lowering the cost of funds to these institutions and their borrowers.
+
+Households also strengthen their own balance sheets through increased saving.  A lower household debt burden adds to disposable income and consumption.
+
+By increasing the availability of capital, an increase in saving by households supports aggregate spending and the investment opportunities that Keynesians wrongly believed to have been all but exhausted by the 1930s.
+
+It is hardly surprising that consumers and businesses should moderate their spending in the context of an economic downturn.  But recessions are not made worse via increased saving, so long as the financial system continues to put that saving to work.  By making capital more abundant and lowering the cost of funds, increased saving is one of the mechanisms by which economic growth is sustained. 
+
+The ‘paradox of thrift’ is thus no paradox at all.  What is individually virtuous is also socially virtuous.  As the great 19th century French economic journalist Frederic Bastiat said, ‘to save is to spend.’
+
+However, there is one sense in which governments do need to be wary of increased household saving.  If households anticipate a higher future tax burden as a result of unfunded fiscal stimulus measures, then households will have every incentive to increase their saving to offset reductions in their future disposable income.  Public sector dissaving would then be offset by increased private sector saving, leaving national saving unchanged. 
+
+The irony is that fiscal stimulus measures may unintentionally promote private saving rather than spending, but with no benefit to overall national saving.  This is why fiscal policy is generally ineffective as a demand management tool and there are very few historical examples of successful fiscal stimulus.

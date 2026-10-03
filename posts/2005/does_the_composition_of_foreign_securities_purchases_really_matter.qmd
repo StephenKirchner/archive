@@ -1,0 +1,11 @@
+---
+title: "Does the Composition of Foreign Securities Purchases Really Matter?"
+date: "2005-08-17"
+categories: ["Economics"]
+---
+
+Every month, we see certain economics bloggers pouring over the data on net foreign securities purchases for the US, trying to discern implications for strength or otherwise in the financing of the US current account deficit.  In fact, the current account deficit must be financed by definition, so the absolute amount of financing is never in question, yet many analysts persist in approaching these data as though the financial account tail wags the current account dog.
+
+For a given domestic saving-investment imbalance, asset prices adjust to ensure that the resulting current account deficit is financed.  Shifts in the asset composition of the financial account are likely to reflect changes in relative asset prices, but the absolute value of this financing is essentially pre-determined for a given current account deficit.  Only the prices these assets trade at is in question, and these reflect the influence of all market participants, not just those foreigners looking to recycle surplus USD receipts because of systemic problems in their own domestic capital markets, which renders their funding of the US current account deficit non-discretionary.  US asset pricing has of course remained remarkably robust throughout the recent deterioration in the current account, as many US bond and dollar bears have discovered at great cost.
+
+As [RBA Governor Macfarlane](http://www.rba.gov.au/Speeches/2005/sp_gov_120505.html "RBA Governor Macfarlane") has argued persuasively before a Chinese audience, countries with open capital markets and floating exchange rates do not face an external financing constraint.  Countries with managed exchange rate regimes and closed capital markets have the bigger problem.

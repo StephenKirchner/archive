@@ -1,0 +1,11 @@
+---
+title: "True Confessions of Peter Costello"
+date: "2007-01-08"
+categories: ["Economics", "Financial Markets"]
+---
+
+Treasurer Costello is quoted in the weekend Australian Financial Review (no link) saying:
+
+> *I think there is also evidence now that the round of tax cuts in May could well have been used to boost savings \[sic\].  The interesting thing is that although they were very substantial tax cuts, consumption didn’t grow by that much.  It looks like people have taken the opportunity of the tax cuts to put some money away.  Although I can’t give you figures yet, I do believe that a lot of money is being put into superannuation in preparation for the changes next year.*
+
+There is indeed very little evidence that recent tax cuts have boosted consumption.  Costello probably doesn’t realise it, but these remarks effectively concede the point often made on this blog, that the government’s budget surpluses come partly at the expense of private sector saving.  They make a nonsense of claims that tax cuts might result in higher interest rates, since the substitution between public and private saving leaves national saving unchanged.  Household sector dissaving (on a national accounts basis) is largely a function of households paying more tax (and mortgage debt interest) as a share of GDP to keep their consumption share steady, while gross national saving has also remained approximately steady.

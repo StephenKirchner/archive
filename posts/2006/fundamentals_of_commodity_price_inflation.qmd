@@ -1,0 +1,11 @@
+---
+title: "Fundamentals of Commodity Price Inflation"
+date: "2006-05-17"
+categories: ["Economics"]
+---
+
+[James Hamilton](http://www.econbrowser.com/archives/2006/05/commodity_price.html "James Hamilton") on commodity price inflation:
+
+*One challenge for either the monetary inflation or the speculative bubble view of the commodity price movements is the fact that there is such diversity, with some commodities going up a great deal and others not at all. Indeed, these differences across commodities are actually much bigger in magnitude than the average movements common to them all. Although not entirely discounting the potential role of monetary or speculative factors, I’m therefore inclined to try to interpret much of the relative price movements as resulting from the same factors that have always made commodity prices much more cyclically sensitive than other prices. Specifically, the long lead times in production and short-run demand and supply inelasticity mean the price can be particularly sensitive to demand fluctuations. A broad increase in the level of economic activity can thus lead to a broad increase in the relative price of a particular group, though with huge differences across items reflecting the particular factors of supply and demand in each market.*
+
+Supply and demand determining prices?  Who would’ve thought?

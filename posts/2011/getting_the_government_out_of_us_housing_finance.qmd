@@ -1,0 +1,9 @@
+---
+title: "Getting the Government Out of US Housing Finance"
+date: "2011-01-21"
+categories: ["Economics", "Financial Markets"]
+---
+
+Government intervention in US housing finance was the cause of the recent financial crisis and yet US policymakers have completely ignored GSE reform in their policy responses. Despite having some of the world’s most sophisticated, deep and liquid capital markets, US policymakers find it hard to conceive a system of housing finance that is not dependent on government support. The AEI has produced a [white paper on GSE reform](http://www.aei.org/paper/100189 "white paper on GSE reform"), a theme the AEI has pursued since well before the crisis. [Here’s some of what the AEI had to say about the GSEs in 2005](http://www.aei.org/paper/22705 "Here’s some of what the AEI had to say about the GSEs in 2005"):
+
+> *Congress may be unable to summon the political will necessary for enacting a suitable regulatory framework for these politically powerful entities.  The inability of the political process to cope with the power of the GSEs, even after their demonstrable failings in recent years, should be a matter of concern to all Americans. Either Congress controls the GSEs or the GSEs control Congress.*

@@ -1,0 +1,9 @@
+---
+title: "In Defence of Fractional Reserve Banking"
+date: "2011-06-01"
+categories: ["Economics", "Monetary Policy"]
+---
+
+[George Selgin](http://www.freebanking.org/2011/05/31/the-state-and-100-percent-reserve-banking/) defends fractional reserve banking against the fever swamp Austrians:
+
+> *Free bankers have tried responding to this argument by noting how fractional reserve banking has prevailed under every sort of bank regulatory regime, from the earliest beginnings of banking, not excepting regimes that involved very little regulation, like those of Scotland, Canada, and Sweden, and that lacked even a trace of government guarantees or other sorts of artificial support.  But since some 100-percenters seem unmoved by this approach, I here take a different tack, which consists of pointing out that every significant 100-percent bank known to history was a government-sponsored enterprise, which depended for its existence on some combination of direct government subsidies, compulsory patronage, or laws suppressing rival (fractional reserve) institutions. Yet despite the special support they enjoyed, and their solemn commitments to refrain from lending coin deposited with them, they all eventually came a cropper. What’s more, it was these government-sponsored full-reserve banks, rather than their private-market fractional reserve counterparts, that were the progenitors of later central banks, starting with the Bank of England.*

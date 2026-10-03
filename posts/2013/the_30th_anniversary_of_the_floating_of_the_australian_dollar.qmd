@@ -1,0 +1,41 @@
+---
+title: "The 30th Anniversary of the Floating of the Australian Dollar"
+date: "2013-12-09"
+categories: ["Economics", "Financial Markets", "Fiscal Policy", "Monetary Policy"]
+---
+
+I have an op-ed in today’s [AFR](http://www.afr.com/p/opinion/policy_are_still_stuck_in_the_pre_WlW7osOJDykzyz5ZJugitO) on the occasion of the 30th anniversary of the decision to float the Australian dollar. This year also marks the 20th anniversary of the adoption of implicit inflation targeting by the Reserve Bank, although a formal inflation target was not adopted until August 1996. As I note in the op-ed, the combination of these two macroeconomic institutions fundamentally changed the role of fiscal policy in the economy. Yet much of our macroeconomic policy debate remains stuck in the pre-float era. Full text below the fold (may differ somewhat from edited AFR text).
+
+Economic thinking still mired in pre-float era
+
+The ninth of December will mark the 30th anniversary of the decision to end Australia’s officially managed foreign exchange rate regime in favour of a market-based one. Together with the liberalisation of the capital account and the deregulation of interest rates, the floating of the dollar transformed the Australian economy. Yet much of our macroeconomic policy debate, especially about the role of fiscal policy, is still stuck in the pre-float era.
+
+Prior to 1983, the managed foreign exchange rate regime was the tail that wagged the Australian economy. Economic shocks that did not lead to an adjustment in the officially-determined exchange rate had to be accommodated through adjustments in the domestic economy.
+
+Milton Friedman made the intellectual case for a floating exchange rate regime as early as 1953. Friedman’s logic was compelling. A floating exchange rate would allow the economy to accommodate a wide range of external and internal economic shocks through the adjustment of a single relative price, rather than thousands of domestic prices.
+
+Most managed exchange rate regimes eventually fail. Today, the decision to float the dollar is portrayed as an act of policy heroism. But like many other countries, Australia was forced to float by external pressures. 
+
+As then Reserve Bank Governor Bob Johnston later described it, ‘we didn’t make a formal decision to float until the deathknock.’ Foreign capital inflows driven by speculation about yet another official revaluation of the exchange rate undermined the Reserve Bank’s ability to control the domestic money supply, forcing the Hawke government’s hand.
+
+The most significant implication of the float was that it allowed the Reserve Bank to conduct an independent monetary policy better suited to the domestic economy rather than one subordinate to the official exchange rate.
+
+Unfortunately, some of the potential benefits from an independent monetary policy were lost in the first 10 years of the float by the Reserve Bank’s failure to focus its monetary policy on the goal of price stability.
+
+It was not until the onset of implicit inflation targeting from 1993 and the adoption of an explicit inflation target in August 1996 that the Australian economy realised the benefits of an independent monetary policy focused on controlling inflation.
+
+The floating of the exchange rate and the adoption of inflation targeting by the central bank also had radical, although still widely misunderstood, implications for the efficacy of fiscal policy.
+
+Government borrowing, rather than driving up domestic interest rates, now sees an increase in foreign capital inflows and an appreciation in the Australian dollar. The corollary of these capital inflows is a widening in the current account deficit and a smaller contribution to economic growth from net exports.
+
+This crowding-out of government spending via the exchange rate and net exports can be reduced to the extent that private saving rises to offset increased government borrowing in anticipation of higher future tax burdens. Empirical estimates suggest that changes in private saving offset around half of any change in government saving. Yet this in itself is a hurdle for any discretionary fiscal policy that is meant to stimulate the economy through increased private consumption.
+
+The other significant hurdle to the effectiveness of discretionary fiscal policy is the Reserve Bank’s monetary policy. With monetary policy already given the task of managing aggregate demand, discretionary fiscal policy is at best traded-off against changes in official interest rates. As US economist Scott Sumner has argued, ‘estimates of (positive) fiscal multipliers become little more than forecasts of central bank incompetence’ when the central bank manages aggregate demand.
+
+In the context of the recent global financial crisis, Treasury and Reserve Bank officials acknowledged this trade-off between monetary and fiscal policy. They defended discretionary fiscal policy on the basis that it was better to rely on a mix of policy instruments rather than just monetary policy to accommodate a large negative external shock. It was suggested that very low nominal interest rates might have adverse side effects.
+
+It has also been argued that the zero lower bound on nominal interest rates is a constraint on monetary policy. But overseas experience shows that the main constraint on monetary policy has not been the zero lower bound, but the unwillingness of central banks to make even greater use of quantitative operating instruments. While monetary policy mistakes are always possible, this is an argument for better monetary policy, not greater reliance on fiscal policy.
+
+It is unfortunate that 30 years on from the float and 20 years after the adoption of inflation targeting, thinking about the role of fiscal policy in the economy still remains mired in an earlier era when committees of politicians and bureaucrats set foreign exchange and interest rates.
+
+Dr Stephen Kirchner is a Research Fellow at the Centre for Independent Studies.

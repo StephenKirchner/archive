@@ -1,0 +1,13 @@
+---
+title: "The Quiet Boom"
+date: "2006-11-20"
+categories: ["Economics"]
+---
+
+John Edwards has produced an overview of recent developments in the Australian economy for the Lowy Institute, ‘[Quiet Boom](http://www.lowyinstitute.org/Publication.asp?pid=506 "Quiet Boom").’  Edwards does a very good job of showing the origins and consequences of Australia’s 15 year economic expansion.  I disagree with many of his conclusions, in particular, his claim that ‘the gains from more market reforms maybe worthwhile but will be marginal.’  This does not sit comfortably with his demonstration of the enormous gains that previous reform efforts have delivered or his observations about the challenges that slowing productivity growth presents to policymakers.  Edwards notes that ‘at the beginning of the upswing market disciplines, deregulation and “economic rationalism” were widely questioned.  Fifteen years on, there is no call to go back.’  Yet Edwards doesn’t exactly present much of a call to go forward either, instead falling back on tired mantras about ‘the importance of education, training, innovation and research and development,’ areas in which the returns to non-market based policy initiatives have been very low. 
+
+There is also a nice dig at *The Economist* magazine, which he notes:\
+
+> sternly predicted that the collapse of Australia’s long house price boom would foretell a global downturn.  The magazine had moved on to new alarms by the time it quietly ended.
+
+Of course, *The Economist* was hardly alone in this.

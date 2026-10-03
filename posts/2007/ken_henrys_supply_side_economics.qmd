@@ -1,0 +1,19 @@
+---
+title: "Ken Henry’s Supply-Side Economics"
+date: "2007-05-15"
+categories: ["Economics", "Financial Markets"]
+---
+
+Treasury Secretary Ken Henry has [previously argued](../2005/ken_henry_and_the_classics.qmd "previously argued") that the Australian economy is operating in a classical world and his emphasis on the supply-side of the economy puts him squarely within the classical tradition.  This is why analysis of the federal budget in terms of Keynesian demand-management is so misplaced.  The ‘tax cuts lead to higher interest rates’ brigade simply fail to understand what is driving fiscal policy.   
+
+Henry’s [traditional post-Budget address](http://www.treasury.gov.au/contentitem.asp?NavId=008&ContentID=1260 "traditional post-Budget address") to Australian Business Economists reiterated some of the main themes in the Budget papers, including this analysis of the supply-enhancing implications of the government’s tax cuts:
+
+> The Treasury’s participation modelling project has the capability to assess the impact on labour supply (or potential labour utilisation) of tax-transfer policy changes in particular.  We have run last week’s tax cuts through our version of the Melbourne Institute Tax and Transfer Simulator (MITTS).  Most of the positive impact on labour supply comes from the increase in the 30 per cent threshold from \$25,000 to \$30,000 – including the labour supply response of many secondary earners.  The increases in LITO and the 40 per cent and 45 per cent thresholds are also positive for labour supply, though smaller.  And the increase in the dependent spouse rebate is estimated to produce a very small negative impact on labour supply.
+>
+> Overall, we calculate that the Budget tax cuts might increase labour supply by about 0.1 hours per week.  If this additional supply is fully employed, the increase in labour utilisation will lift the employment ratio by about a third of a percentage point. 
+>
+> But there is another way of looking at this.  The increase in labour supply expands potential GDP in the same way as a cut in the NAIRU does.  As a rough approximation, an increase in labour supply of 0.1 hours a week would have about the same impact on potential GDP as a cut in the NAIRU of half of a percentage point – quite a significant amount.
+>
+> The package of tax cuts announced in last year’s budget, and in particular the increase in the 30 per cent threshold from \$21,600 to \$25,000, would have added about another 0.1 hours a week to labour supply.  Thus, over two budgets, the increase in this threshold could have an impact on potential GDP broadly equivalent to a one percentage point cut in the NAIRU.
+>
+> Changes to child care arrangements announced in last week’s budget can also be expected to make a positive contribution to labour supply.  Coming on top of the earlier welfare-to-work measures and the superannuation changes announced in last year’s budget, we have had quite a significant policy-induced boost to the economy’s supply capacity.

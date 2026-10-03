@@ -1,0 +1,13 @@
+---
+title: "China’s Credit Crunch"
+date: "2007-11-19"
+categories: ["Economics", "Financial Markets"]
+---
+
+The Chinese authorities are resorting to administrative window guidance in order to control the inflationary implications of the exchange rate peg to the US dollar, according to the [WSJ](http://online.wsj.com/article/SB119542008187297217.html?mod=hps_us_whats_news "WSJ"):
+
+> In recent weeks, regulators have quietly ordered China’s commercial banks to freeze lending through the end of the year, according to bankers in several cities. The bankers say that to comply, they are canceling loans and credit lines with businesses and individuals.
+>
+> A China Banking Regulatory Commission official here confirmed that local and Chinese subsidiaries of foreign banks have been asked to ensure that loans at the end of the year don’t exceed the total outstanding on Oct. 31. The official described the request as “guidance aimed at supporting the macro-control measures being implemented.”…
+>
+> Bankers say they will honor the lending edict, partly because it comes with threats of financial penalties for noncompliance. “Which commercial bank would dare not obey this?” says Liu Haibin, chairman of the supervisory committee of Shanghai Pudong Development Bank Co.

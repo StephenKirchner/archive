@@ -1,0 +1,11 @@
+---
+title: "Ricardian Equivalence, with a Vengeance"
+date: "2009-06-30"
+categories: ["Economics", "Financial Markets", "Fiscal Policy"]
+---
+
+[Dave Rosenberg](https://ems.gluskinsheff.net/Articles/Breakfast%20with%20Dave_062909_Sum.pdf "Dave Rosenberg"), on the effectiveness of US fiscal stimulus efforts:
+
+> In April, total stimulus from the federal government to the personal sector, in the form of tax reduction and increased benefits, came to \$121 billion at an annual rate. But that month, in nominal terms, consumer spending rose the grand total of \$1 billion. Then we found out on Friday that in May, the total stimulus from the Obama economics team came to \$163 billion at an annual rate, and consumer spending increased by a measly \$25 billion (again at an annual rate). The big story is that the personal savings rate surged again to a new 16-year high of 6.9% from 5.6% in April and 4.3% in March. This is a repeat of the fiscal impact from the tax relief a year ago when the savings rate jumped from 0.2% in March 2008 to 4.8% in May 2008. This is what economists refer to as “Ricardian equivalence” — the money from Uncle Sam goes into the coffee can instead of being used to buy more coffee.
+>
+> So let’s get this straight, the future taxpayer is being asked to contribute to a policy today that is aimed at perpetuating a consumer cycle — and yet for every dollar that is coming out of Washington to support a 70% consumption/GDP ratio, it is getting barely more than 8 cents worth of new spending activity. In real terms, as was the case with the tax rebates of just over a year ago, the real impact is on the savings rate, and it is very clear that not even the most aggressive monetary and fiscal policy since the 1930s is going to stop consumer spending in volume terms from rolling over in the second quarter.

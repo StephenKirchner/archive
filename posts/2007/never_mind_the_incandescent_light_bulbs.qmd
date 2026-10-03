@@ -1,0 +1,9 @@
+---
+title: "Never Mind the Incandescent Light Bulbs"
+date: "2007-06-14"
+categories: ["Economics"]
+---
+
+From RBA Governor Glenn Stevens’ [speech](http://www.rba.gov.au/Speeches/2007/sp_gov_140607.html "speech") in Brisbane today:
+
+> *One recent [study](http://www.econ.nyu.edu/dept/courses/gately/DGS_Vehicle%20Ownership_2007.pdf "study") suggests that, based on the experience of most other countries which have made that transition, the number of motor vehicles owned in China would be expected to rise from 20 million in 2002 to almost 400 million by 2030. That would be equivalent to nearly 50 per cent of the vehicles in the world today.*

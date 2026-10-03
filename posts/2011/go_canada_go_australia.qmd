@@ -1,0 +1,7 @@
+---
+title: "Go Canada, Go Australia"
+date: "2011-03-22"
+categories: ["Economics", "Financial Markets"]
+---
+
+Substitute ‘Australia’ for ‘Canada’ in [this story](http://www2.macleans.ca/2011/03/16/the-canada-bubble/) for no loss of generality.

@@ -1,0 +1,19 @@
+---
+title: "None Dare Call it Conspiracy II"
+date: "2008-02-16"
+categories: ["Economics", "Financial Markets", "Politics"]
+---
+
+[Terry McCrann](http://www.theaustralian.news.com.au/story/0,25197,23221361-14743,00.html "Terry McCrann") remains hard on the case of the AFR’s resident conspiracy theorists:
+
+> Now Harris’s substantive assertion was that Treasury had unexpectedly cut the inflation forecasts from the previous year’s 2.9 per cent.
+>
+> That was wrong. He did not tell readers that Treasury had actually increased its CPI inflation forecasts. From 2.5 per cent in both years in the May budget to 2.75 per cent for both years in the MYEFO/PEFO.
+>
+> Crucially, those are for year average - all of 2007-08 over 2006-07 and the same for 2008-09. They were exactly consistent with the-then latest inflation forecasts from the Reserve Bank.
+
+It should hardly be surprising that the Treasury and the Reserve Bank are mostly in agreement on the inflation outlook.  Since the Treasury Secretary is an ex-officio member of the Reserve Bank Board, he notionally presides over both sets of inflation forecasts.  A Treasury forecast that deviated too far from the RBA’s forecast might be seen as an implicit criticism of the Reserve Bank and its Board.  If Treasury were to forecast inflation outside the target range, it would effectively be accusing the RBA of presiding over a monetary policy error, one in which the Treasury Secretary was necessarily implicated.  It should also be pointed out that the Treasury and RBA forecasts are not strictly comparable, if only because the forecasts are made at different points in time.  If a week is a long time in politics, it is also a long time in the forecasting business.
+
+According to Governor Stevens, the Board operates under a doctrine of collective responsibility.  If there were any substance to this doctrine, then a Board member who takes a different view on inflation to the one publicly endorsed by the Bank needs to either reconcile himself to the Board’s majority view, or resign.  Since the Treasury Secretary is a member of the Board by statute, the latter is not exactly an option.
+
+Rather than looking for non existent conspiracies, the AFR might instead go in search of the rather more obvious conflict of interest.  The Treasury Secretary should not be a member of the RBA Board.

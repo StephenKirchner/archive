@@ -1,0 +1,7 @@
+---
+title: "Kiwi Prediction Market"
+date: "2008-09-18"
+categories: ["Economics", "Financial Markets"]
+---
+
+[iPredict](http://www.ipredict.co.nz "iPredict") is New Zealand’s first real money prediction market.  In addition to the usual political contracts, iPredict is running markets on whether New Zealand will be in recession with the June quarter GDP release, as well as the September quarter CPI outcome.

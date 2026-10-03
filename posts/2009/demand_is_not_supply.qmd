@@ -1,0 +1,21 @@
+---
+title: "Demand is Not Supply"
+date: "2009-08-17"
+categories: ["Economics", "Financial Markets", "Fiscal Policy", "Monetary Policy"]
+---
+
+Asked about the effectiveness of discretionary fiscal stimulus measures, [RBA Governor Stevens told the House Economics Committee](http://www.aph.gov.au/hansard/reps/commttee/R12070.pdf "RBA Governor Stevens told the House Economics Committee") on Friday that:
+
+> *we believe that the fiscal measures have supported demand and, therefore, at least to some extent, output.*
+
+The distinction was probably lost on members of the Committee, but is nonetheless an important one.  Demand can be met out of imports and inventories, without boosting domestic production.  This is why indicators like retail sales are entirely inappropriate as a measure of the effectiveness of fiscal policy.
+
+Some remarkably good questioning from Liberal MHR Scott Morrison also flushed out some more of the Governor’s position on using monetary policy to target asset prices:
+
+> *One view, the Alan Greenspan view, is you cannot know it is a bubble until it has burst, so you should not do anything much, and then you should clean up the mess once it has burst… I personally would not want to commit to saying, ‘We’re definitely never going to pay attention to asset prices and totally ignore them.’  That has been shown to be a mistake, basically. But nor do I think it is our brief to aggressively chase down asset things that pop up here and there that we might personally find hard to accept or agree with, at the expense of other things that we have as our objectives. So I think that, into the future, it is going to be a matter of judicious, careful use of our instrument in trying to meet all these worthy goals—keeping in mind as well that there is a whole separate debate about other tools that might be applied to booms and busts and asset prices. That is a whole separate section of this debate—what tools could be used by the supervisory authority to rein in the lending.*
+
+In fact, no one has ever suggested that asset prices should be completely ignored.  Greenspan explicitly rejected this proposition in his 1996 ‘irrational exuberance’ speech.  The issue is whether asset prices should have a weighting in the central bank’s reaction function that is independent of the inflation forecast.
+
+Stevens can at least be thankful he does not have to [appear before the US Congress](http://online.wsj.com/article/SB10001424052970203863204574348631746426944.html "appear before the US Congress"):
+
+> *Far from deference, Mr. Bernanke’s recent testimonies have been treated with all the delicacy usually reserved for a mob boss.*

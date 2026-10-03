@@ -1,0 +1,15 @@
+---
+title: "The Harvard Education You Could Do Without"
+date: "2007-08-14"
+categories: ["Economics", "Financial Markets"]
+---
+
+[Harvard Magazine](http://www.harvardmagazine.com/2007/07/debtor-nation.html "Harvard Magazine") interviews some of its leading lights on international economic and financial issues and uncovers a morass of closed economy macro, mercantilism and doomsday cultism:
+
+> *The global imbalances created by this dynamic of American borrowing and foreign lending appear stable for now, but if they slip suddenly, that could pose serious dangers for middle- and working-class Americans through soaring interest rates, a crash in the housing market, and sharply higher prices for anything no longer made domestically. Harvard economists and political scientists see possible threats to globalization (the opening of markets and trade that has made the economy a world phenomenon): the risk of rising protectionism; the potential for a world recession if market forces unwind the imbalances too quickly; and even the possibility that political considerations could trump shared economic interests, causing nations to use their international financial positions as weapons.*
+
+At least they interviewed Richard Cooper:
+
+> But what if our current account deficit is a side effect of globalization that is not going to go away? Richard Cooper, Boas professor of international economics, takes a much more relaxed view about this possibility than his colleagues do. In theory, he says, the deficit could persist forever, as long as it eventually stops increasing as a percent of the U.S. GDP.
+>
+> Cooper, who was undersecretary of state for economic affairs from 1977 to 1981, and chair of the Federal Reserve Bank of Boston from 1990 to 1992, sees global imbalances as a natural consequence of a decline in investment “home bias.” “What do we mean by globalization?” he asks. “What we mean is that everyone around the world thinks beyond \[his or her own\] national boundaries when it comes to allocating their savings.” Americans used to invest almost 100 percent in the United States, but now allocate a portion of their portfolios abroad. “That is a process that is going on worldwide: foreigners are investing more abroad, too, but foreigners save more than Americans do.” Because the United States is 30 percent of the world economy, a world with no home bias would see foreigners investing 30 percent of their savings in the United States and Americans investing 70 percent of their savings outside the country. “If you apply those two numbers to actual savings levels,” Cooper says, “you get a \$1.1 trillion current account deficit in the year 2005, with foreigners investing \$2.3 trillion in the U.S. on savings of over \$8 trillion, and Americans investing \$1.2 trillion abroad. The difference between those two is \$1.2 trillion.” International diversification of investments, in other words, causes the current account gap.

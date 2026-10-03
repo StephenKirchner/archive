@@ -1,0 +1,9 @@
+---
+title: "Labour Supply of Politicians"
+date: "2012-01-10"
+categories: ["Economics", "Politics"]
+---
+
+From a new [NBER Working Paper](http://www.nber.org/papers/w17726.pdf?new_window=1):
+
+> *Doubling an MEP’s salary increases the probability of running for reelection by 23 percentage points and increases the logarithm of the number of parties that field a candidate by 29 percent of a standard deviation. A salary increase has no discernible impact on absenteeism or shirking from legislative sessions; in contrast, non-pecuniary motives, proxied by home-country corruption, substantially impact the intensive margin of labor supply. Finally, an increase in salary lowers the quality of elected MEPs, measured by the selectivity of their undergraduate institutions.*

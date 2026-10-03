@@ -1,0 +1,11 @@
+---
+title: "Freakonomics"
+date: "2005-03-23"
+categories: ["Economics"]
+---
+
+It is now increasingly common to set up a blog to accompany the release of a new book.  Steve Levitt and Dubner have done this for their new book [*Freakonomics*](http://www.amazon.com/exec/obidos/tg/detail/-/006073132X/ref=ase_institutional-20/002-3342803-9471231?v=glance&s=books "Freakonomics").  One of their [first posts](http://www.freakonomics.com/2005/03/freakonomicsku-klux-klan-on-radio.html "first post") deals with why real estate agents are like the Ku Klux Klan.
+
+I think the title of the book is unfortunate, because while Levitt’s interests are unconventional for an economist, he often explores issues that are of wider social interest and importance.  Too often economists are engaged in work that is of only limited interest, even to other economists.  I often get invited to economics conferences where I cannot find a single interesting paper on the conference program. 
+
+Hopefully, this effort by the two Steves will help popularise econometric approaches to social and other issues that are often neglected by economists, leaving debate dominated by those from other disciplines that do not have a coherent theory of human behaviour and have limited interest in empirical testing.

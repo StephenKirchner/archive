@@ -1,0 +1,13 @@
+---
+title: "The Fed Moves Towards an Inflation Target"
+date: "2007-10-25"
+categories: ["Economics", "Financial Markets"]
+---
+
+Ben Bernanke seems to be getting his way, with the Fed moving towards increased transparency, but the new measures will stop short of an explicit inflation target, according to the [WSJ](http://online.wsj.com/article/SB119327971099670918.html?mod=hpp_us_whats_news "WSJ"):
+
+> Federal Reserve officials are nearing consensus on several steps to make their deliberations more transparent to the public, but are likely to defer one of Chairman Ben Bernanke’s longstanding goals: an explicit inflation target.
+>
+> The centerpiece of their new communications steps would be the release of economic forecasts of policy makers four times a year, instead of the current two times, with additional detail and background, according to people familiar with the matter. Moreover, the horizon for those forecasts would be extended to three years from two…
+>
+> While the idea of setting an inflation target hasn’t been shelved, officials say it needs more discussion. Meanwhile, they see the longer forecast horizon as an interim step with many of the benefits of an inflation target. The public could assume the Fed expects to achieve its desired inflation rate in three years and thus a third-year forecast amounts to a target. The forecast approach sidesteps the biggest problems with an official number: the misgivings some officials still have with a target, potential political fallout and the difficulty of agreeing on the right number.

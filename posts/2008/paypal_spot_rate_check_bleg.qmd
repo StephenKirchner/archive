@@ -1,0 +1,9 @@
+---
+title: "Paypal Spot Rate Check Bleg"
+date: "2008-01-18"
+categories: ["Economics", "Financial Markets"]
+---
+
+Would be grateful if any readers with a Paypal account and a USD balance could do a check on the USD-AUD exchange rate (not AUD-USD) quoted by Paypal.  Note that there is no need to do an actual conversion, just go into ‘manage currency balances,’ where it will give you a quote without having to follow through with the conversion.  I need the quote to five decimal places (try converting more than one US dollar to get the full quote).  Potentially an interesting story in it.  Will post a link from my site to yours as reward for your trouble.  Thanks in advance.  My email is info at institutional-economics.com.
+
+**UPDATE:** No more quotes thanks.  I have what I need.

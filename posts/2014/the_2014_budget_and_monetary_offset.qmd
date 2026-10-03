@@ -1,0 +1,16 @@
+---
+title: "The 2014 Budget and Monetary Offset"
+date: "2014-05-14"
+---
+
+The 2014 Budget is notable for its explicit rejection of monetary offset. According to the government’s fiscal strategy, ‘the pace of fiscal consolidation balances the need for structural fiscal repair with the shorter term impact on the economy.’ Yes, the government still thinks it is in the business of aggregate demand management.
+
+As I have argued in more detail [here](http://www.cis.org.au/media-information/opinion-pieces/article/5019-we-are-still-stuck-in-the-pre-1983-era-on-fiscal-policy), this misunderstands the role of fiscal policy in the economy. With an inflation targeting central bank and a floating exchange rate, fiscal policy need not concern itself with demand management. Interest rates and the exchange rates can carry most of the required adjustment to reduced government spending.
+
+The Abbott government proposes a four percentage point turnaround in the budget balance over 10 years.
+
+By way of comparison, the Hawke government’s ‘trilogy’ of fiscal rules led to a fiscal consolidation of similar magnitude in five years during the mid- to late-1980s. The combined efforts of the Keating and Howard governments turned a deficit of 4% of GDP in 1993-94 into a balanced budget by 1997-98 (using today’s measures). These turnarounds were as much cyclical as discretionary, but this only serves to demonstrate that the economy is more important for the budget than the budget is for the economy.
+
+The US has seen a sharp turnaround in its budget deficit from 10% to 4% of GDP over four years, including the sharpest decrease in federal spending since World War Two, without inducing an economic slowdown, because of accommodative monetary policy. As [Scott Sumner has argued](http://econlog.econlib.org/archives/2014/01/another_disappo.html), it is hard to conceive a better test of monetary offset.
+
+The Abbott government has thus conditioned its fiscal strategy on the same mistaken understanding of the role fiscal policy in the economy that informed the Rudd government’s fiscal stimulus of 2008-09.

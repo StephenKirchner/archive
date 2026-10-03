@@ -1,0 +1,11 @@
+---
+title: "New Year’s Links"
+date: "2010-01-01"
+categories: ["Economics"]
+---
+
+[Peter Wallison](http://online.wsj.com/article/SB10001424052748703278604574624681873427574.html "Peter Wallison") on the biggest public policy disaster in US history.
+
+[Henry Ergas](http://www.theaustralian.com.au/news/opinion/cprs-handouts-will-cost-the-country-dearly/story-e6frg6zo-1225814232542 "Henry Ergas") on the unacknowledged efficiency costs of an ETS.
+
+The welfare costs of [government playing Santa](http://www.theage.com.au/opinion/society-and-culture/the-seasonal-satisfaction-index-20091225-ley0.html "government playing Santa").

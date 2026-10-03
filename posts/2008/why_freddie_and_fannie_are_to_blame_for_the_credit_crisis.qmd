@@ -1,0 +1,13 @@
+---
+title: "Why Freddie and Fannie are to Blame for the Credit Crisis"
+date: "2008-09-23"
+categories: ["Economics", "Financial Markets"]
+---
+
+Contrary to the picture of Freddie and Fannie painted by Christopher Joye and Joshua Gans, [Charlie Calomiris and Peter Wallison](http://online.wsj.com/article/SB122212948811465427.html "Charlie Calomiris and Peter Wallison") highlight their role in causing rather than ameliorating the credit crisis:
+
+> In order to curry congressional support after their accounting scandals in 2003 and 2004, Fannie Mae and Freddie Mac committed to increased financing of “affordable housing.” They became the largest buyers of subprime and Alt-A mortgages between 2004 and 2007, with total GSE exposure eventually exceeding \$1 trillion. In doing so, they stimulated the growth of the subpar mortgage market and substantially magnified the costs of its collapse.
+>
+> It is important to understand that, as GSEs, Fannie and Freddie were viewed in the capital markets as government-backed buyers (a belief that has now been reduced to fact). Thus they were able to borrow as much as they wanted for the purpose of buying mortgages and mortgage-backed securities. Their buying patterns and interests were followed closely in the markets. If Fannie and Freddie wanted subprime or Alt-A loans, the mortgage markets would produce them. By late 2004, Fannie and Freddie very much wanted subprime and Alt-A loans…
+>
+> So it was that, beginning in 2004, their portfolios of subprime and Alt-A loans and securities began to grow. Subprime and Alt-A originations in the U.S. rose from less than 8% of all mortgages in 2003 to over 20% in 2006. During this period the quality of subprime loans also declined, going from fixed rate, long-term amortizing loans to loans with low down payments and low (but adjustable) initial rates, indicating that originators were scraping the bottom of the barrel to find product for buyers like the GSEs.

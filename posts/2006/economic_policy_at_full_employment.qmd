@@ -1,0 +1,19 @@
+---
+title: "Economic Policy at Full Employment"
+date: "2006-11-03"
+categories: ["Economics"]
+---
+
+The RBA is widely expected to raise the official cash rate to 6.25% at next week’s Board meeting, equalling the previous cycle peak from August 2000-February 2001.  In his [first speech as RBA Governor](http://www.rba.gov.au/Speeches/2006/sp_gov_111006.html "first speech as RBA Governor"), Glenn Stevens argued that the weakness in headline GDP growth did not square with the continued strength in the labour market and growth in tax revenue.  At the same time, the combination of employment and growth outcomes implies that productivity growth has been non-existent since the end of 2003.  While Stevens presented this as something of a puzzle and questioned the reliability of the data, he also spelled out the implications of taking the data at face value:
+
+> *if both sets of data are correct, then productivity actually has slowed down considerably. But if that is true, unless it is a temporary phenomenon, then potential GDP growth is not 3 per cent or a bit above any more. It will be less, and our growth aspirations would have to be adjusted accordingly. In this scenario, inflation pressure in the near term could well increase and demand growth may need to be further restrained for inflation to remain under control over time.*
+
+Stevens argued that inflation outcomes provide a ready test of whether the economy is really growing below potential:
+
+> *In trying to assess which of these possibilities, or which combination of them, is in operation, one of the pieces of evidence to which we will be looking for guidance is the behaviour of prices themselves. An economy with genuinely sub-potential growth over two years ought, other things equal, to start putting some downward pressure on inflation fairly soon. An inflation rate that continued to increase, on the other hand, would presumably raise questions about either the apparent rate of growth of demand and output, or of potential output or both.*
+
+It took a recession in the US to de-rail the last RBA tightening cycle.  But the recent slowing of growth in the US is unlikely to alleviate domestic capacity constraints.  After 15 years of continuous expansion, even modest domestic growth has the capacity to put upward pressure on inflation.  This could well see the RBA having to maintain tighter policy settings than in the previous interest rate cycle.
+
+[Treasury Secretary Henry](http://www.treasury.gov.au/documents/1183/PDF/Managing_Prosperity.pdf "Treasury Secretary Henry") also considers the implications of an economy operating at capacity:
+
+> *There are three important consequences of a near full employment economy that are worth emphasising.  First, provided growing businesses are not being subsidised in any way, we can be confident that any consequent reallocation of labour in their favour increases GDP.  On the other hand, if growing businesses are being subsidised, or if governments step in to prevent other businesses from shrinking, then GDP is lowered by their command of the nation’s scarce labour.  Second, government activity that doesn’t expand supply capacity necessarily crowds out private sector activity.  This crowding out represents the opportunity cost of the government’s having command of some part of the nation’s scarce resources, including labour.  And third, any attempt to inhibit an allocation of the economy’s factors of production consistent with its terms-of-trade must have adverse implications for GDP.*

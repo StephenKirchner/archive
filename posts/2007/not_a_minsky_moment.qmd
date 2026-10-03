@@ -1,0 +1,9 @@
+---
+title: "Not a Minsky Moment"
+date: "2007-10-11"
+categories: ["Economics", "Financial Markets"]
+---
+
+If you read only one paper on recent developments in credit markets, [this](http://www.aei.org/publications/filter.all,pubID.26944/pub_detail.asp "this") should be it:
+
+> *the correct application of the Minsky model to the current data indicates that the financial system may be able to absorb the subprime mortgage and securitization technology shocks in an orderly fashion, without a large “financial accelerator” effect. The financial system has suffered a significant liquidity shock, and it is not over yet. But the worrying turmoil does not necessarily mean that the turmoil resulting from this shock should be viewed, as some have labeled it, as a “Minsky moment” – that is, the beginning of a severe economic decline produced by a collapse of credit, which would magnify adverse aggregate demand shocks. Such collapses of credit, in the Minsky framework, tend to occur in reaction to asset price collapses, which are themselves partly a result of the widespread overleveraging of consumers and firms. At the moment, however, it is not obvious that housing or other asset prices are collapsing, or that leverage is unsustainably large for most firms or consumers. That is not to say that the economy will avoid a slowdown, or possibly even a recession.*

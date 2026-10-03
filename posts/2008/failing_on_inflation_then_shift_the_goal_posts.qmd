@@ -1,0 +1,15 @@
+---
+title: "Failing on Inflation? Then Shift the Goal Posts"
+date: "2008-04-26"
+categories: ["Economics", "Financial Markets"]
+---
+
+With inflation in Australia running well above the 2-3% medium-term target range, the [usual and even some not so usual suspects](http://www.theaustralian.news.com.au/story/0,25197,23599497-23850,00.html "usual and even some not so usual suspects") are starting to argue against an anti-inflationary monetary policy.  As [Alan Wood](http://www.theaustralian.news.com.au/story/0,25197,23599404-643,00.html "Alan Wood") notes, this argument transcends the usual partisan alignments:
+
+> On an unlikely unity ticket, failed prime ministerial aspirant John Hewson and the ACTU’s Sharan Burrow are calling for the RBA’s inflation target band to be widened - with a new ceiling of, say, 4 or 5 per cent…
+>
+> A second siren song, sung this week by Opposition Treasury spokesman Malcolm Turnbull, is that “while there are inflationary pressures evident in our economy, many of them are beyond our control, such as higher oil and commodity prices”. The implication is that Australian monetary policy can do little about this.
+
+In this context, it is worth pointing out that the RBA’s inflation target is already overly generous by international standards.  The ECB, BoE, BoC and RBNZ all have inflation targets with ceilings or mid-points of 2%.  The Fed has no formal target, but Federal Reserve officials have long stated a preference for inflation not to exceed 2%.  The 2.5% medium-term average that the RBA would deem a policy success would constitute a policy failure by the standards of comparable countries. 
+
+The RBA’s 2-3% medium-term inflation target means that Australia’s policymakers have already institutionalised a higher rate of inflation than would be considered acceptable in comparable countries.  While short-run inflation outcomes are subject to external shocks, medium-term inflation outcomes are a matter of policy choice.

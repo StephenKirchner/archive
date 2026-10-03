@@ -1,0 +1,15 @@
+---
+title: "Housing ‘Bubbles,’ Financial Intermediation and Moral Hazard"
+date: "2005-06-25"
+categories: ["Economics"]
+---
+
+More refreshing housing ‘bubble’ scepticism from [James Hamilton](http://www.econbrowser.com/archives/2005/06/what_is_a_bubbl.html "James Hamilton"), invoking a ‘consenting adults’ view of financial intermediation in relation to housing:
+
+even if you readily believe that large numbers of home buyers are fully capable of just such miscalculation, there’s another issue you’d have to come to grips with before concluding that the current situation represents a bubble rather than a response to market fundamentals. And that is the question, why are banks making loans to people who aren’t going to be able to pay them back? Maybe your neighbor doesn’t have the good sense not to burn his own money, but is the same also true of his bank?
+
+If you want to come up with an answer more sophisticated than “banks are stupid, too,” I think you’re ultimately led to look for the real roots of the housing bubble, if you think there is one, in some kind of moral hazard argument explaining why the equity capital of lending institutions is insufficient to cover the risk in the mortgage loans they issue or hold.
+
+I earlier mentioned deposit insurance as one story that could be told along these lines, while Greg Hess and the Chicagoboyz some time back argued that Fannie Mae could be playing such a role. But it’s not obvious what changed recently along these lines to only now be producing a housing bubble.
+
+Astute readers will notice this is the same argument we have been making in relation to current account deficits.

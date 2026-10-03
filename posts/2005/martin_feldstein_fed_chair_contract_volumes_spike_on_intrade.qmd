@@ -1,0 +1,7 @@
+---
+title: "Martin Feldstein Fed Chair Contract Volumes Spike on Intrade"
+date: "2005-10-08"
+categories: ["Economics"]
+---
+
+As the [White House](http://today.reuters.com/investing/financeArticle.aspx?type=economicNews&storyID=2005-10-07T184724Z_01_N07263584_RTRIDST_0_BUSH-GREENSPAN-UPDATE-2.XML "White House") confirms it is looking to make an appointment to replace Alan Greenspan as Fed Chair ‘as soon as possible,’ [Intrade’s](http://www.intrade.com/apply.jsp?heardFromPromotionDetail=s0545138709r "Intrade’s") Martin Feldstein contract has seen a spike in volumes, with over 1000 contracts changing hands in a single day, taking total volume to 1,309.  This makes Feldstein the most actively traded contract, overtaking the 798 contracts that have traded hands on Ben Bernanke, still the highest priced candidate.  The Feldstein contract has fallen in price and there is greater market depth on the short side of the Feldstein market.  However, the overall Fed Chair market is still remarkably thin.

@@ -1,0 +1,13 @@
+---
+title: "Don’t Worry About the US Mortgage Market"
+date: "2007-04-25"
+categories: ["Economics", "Financial Markets"]
+---
+
+The Peterson Institute’s [Adam Posen](http://www.petersoninstitute.org/publications/opeds/oped.cfm?ResearchID=729 "Adam Posen"), on why developments in the US mortgage market are not a threat to the wider US economy:
+
+> The biggest structural change has been the shift to securitized mortgage lending. Close to 60 percent of residential mortgages in the United States now are not kept on the lenders’ books—upon making the loan, the lender or a larger intermediary bundles these with other loans of similar attributes and sells them to investors in the form of a bond or security. As a result, the mortgage lender gets its cash repaid almost immediately. While the risk from mortgage defaults remain in the system, it avoids collecting on the balance sheets of individual banks where, in past real estate busts, it would erode those banks’ capital. That erosion led in turn to banks cutting back lending in their local region, and foreclosing on more mortgages, in hopes of restoring their own solvency. Such credit contraction would then cause significant cutbacks in investment and employment, causing more mortgages to become delinquent in payments, generating a downward cycle. With securitization, losses on delinquent mortgages no longer have direct effects on bank balance sheets, and so their growth impact is limited.
+>
+> If securitization led to markedly lesser lending standards in the United States when issuing mortgages, those benefits to economic stability would have been partially offset. In theory, such a decline in lending standards might have happened, because those doing the loan evaluations no longer retained the credit risk and so would be less careful. Yet, in practice, three factors seem to have, if anything, improved mortgage lending standards in the United States on net in recent years. First, the financial investors buying securitized mortgages were at least as tough scrutinizing portfolios of loans as individual bankers. Second, greater automation and standardization limited lending on nonmarket criteria. Third, the large players who held and resold the securitized loans are under better regulatory scrutiny themselves, by the Federal Reserve and other regulators, than the smaller mortgage lenders used to be in the United States by smaller, sometimes state-level or politically captured, supervisors.
+
+Incidentally, why is it that one of the few people prepared to defend innovation in the US mortgage market works for a liberal think-tank and is writing in a German newspaper?

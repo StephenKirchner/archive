@@ -1,0 +1,9 @@
+---
+title: "Bernanke on the Irrelevance of Foreign Official Reserve Asset Purchases"
+date: "2006-03-21"
+categories: ["Economics"]
+---
+
+[Ben Bernanke](http://www.federalreserve.gov/boarddocs/speeches/2006/20060320/default.htm "Ben Bernanke"), arguing against the proposition that foreign official reserve asset purchases are a significant determinant of US interest rates:
+
+*The performance of Treasuries relative to that of other fixed-income instruments also argues against a dominant influence of foreign official portfolio decisions on long-term rates. If foreign official holdings of Treasuries were the source of the decline in their yields, then we would expect to observe increased spreads between yields on Treasury securities and the returns to other types of debt less favored by foreign official holders. But we have not seen a significant widening of private yield spreads relative to Treasuries—quite the contrary—and, as I noted earlier, yields in other industrial economies have fallen as well, in many cases by more than U.S. yields. A reasonable conclusion is that the accumulation of dollar reserves abroad has influenced U.S. yields, but reserve accumulation abroad is not the only, or even the dominant, explanation for their recent behavior.*

@@ -1,0 +1,9 @@
+---
+title: "Pop! Why Bubbles Are Great for the Economy"
+date: "2007-05-10"
+categories: ["Economics", "Financial Markets"]
+---
+
+Dan Gross presents a [summary](http://www.slate.com/id/2165929/pagenum/all/#page_start "summary") of his book, [Pop! Why Bubbles Are Great for the Economy](http://www.amazon.com/gp/product/0061151548/104-9448699-9787948?ie=UTF8&tag=institutional-20&linkCode=xm2&camp=1789&creativeASIN=0061151548 " Pop! Why Bubbles Are Great for the Economy").  Jason Potts does a much better job making much the same argument [here](http://www.cis.org.au/Policy/spring04/spring04-3.pdf "here"), locating the case for ‘bubbles’ squarely within the Austrian market process tradition. 
+
+I would argue that the term ‘bubble’ has no analytical content.  More often than not, it is used tautologically as a description of asset price behaviour, while offering no insight into the process by which asset prices are determined.  Peter Garber’s [Famous First Bubbles](http://www.amazon.com/gp/product/0262072041/104-9448699-9787948?ie=UTF8&tag=institutional-20&linkCode=xm2&camp=1789&creativeASIN=0262072041 "Famous First Bubbles") shows how the idea of ‘bubbles’ in asset markets rests on very shaky historical and intellectual foundations that drive the widespread popular misuse of the term today.

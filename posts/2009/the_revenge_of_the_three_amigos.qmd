@@ -1,0 +1,11 @@
+---
+title: "The Revenge of the Three Amigos"
+date: "2009-11-04"
+categories: ["Economics", "Politics"]
+---
+
+An insight into how Australia is perceived abroad, care of [Holman Jenkins](http://online.wsj.com/article/SB10001424052748703740004574513410568503166.html "Holman Jenkins") in the WSJ:
+
+> What most infuriated their hosts, though, was Telstra’s abandonment of its traditional deference to policy makers. The company took regulators to court over mandates requiring it to lease its network to competitors at knockdown rates. Mr. Burgess bashed civil servants and politicians by name, in a fashion apparently deemed unbecoming a corporate citizen in Australia…
+>
+> Australia lacks America’s bottomless think-tank and K Street resources for publicizing policy differences. Its parliamentary government puts all the policy levers, including a ready resort to secrecy, in the ruling party’s hands. Australia is a small nation, with a small elite that tends to place limits on burn-the-bridges debate.

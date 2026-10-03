@@ -1,0 +1,19 @@
+---
+title: "Ken Henry on Activist Fiscal Policy"
+date: "2009-02-05"
+categories: ["Economics", "Fiscal Policy"]
+---
+
+Treasury Secretary [Ken Henry](http://www.treasury.gov.au/documents/1378/HTML/docshell.asp?URL=ABE%202008.htm "Ken Henry"), addressing Australian Business Economists in May this year:
+
+> *activist counter-cyclical fiscal policy might be frustrated by lags of recognition, implementation and transmission. And its effectiveness might be compromised by Ricardian equivalence, the permanent income hypothesis or import leakages. I noted that these lags and questions of effectiveness pose real challenges for the use of counter-cyclical fiscal policy. But I also noted that they do not rule out such use.*
+
+On the issue of import leakages, [much is being made](http://www.theaustralian.news.com.au/story/0,25197,25009838-2702,00.html "much is being made") of the alleged contribution of the government’s previous stimulus package to December retail trade:
+
+> *Greg Smith, the managing director of household goods store Clive Peeters, said wide-screen televisions, DVD players, digital cameras and laptop computers had begun walking out of the company’s stores from the day the Government’s first economic package reached the public.*
+
+Since all of the mentioned items are imported, this expenditure is a subtraction from Australian gross domestic product.  One of the problems with activist fiscal policy is that, to the extent that there is any boost to domestic demand, much of it will spillover into imports, which might stimulate the Chinese and other economies, but will do very little for economic growth in Australia.  Retail sales are inappropriate as a gauge of the effectiveness of fiscal policy in stimulating domestic production.
+
+[Westpac](http://www.westpac.com.au/manage/wrap.nsf/vPdfUrls/03BA800607AE8B78CA2575530014731D/$File/er20090204BullRetail2008Dec.pdf?OpenElement "Westpac") note that the increase in retail sales was disappointing given gains in disposable income:
+
+> *More importantly the December retail sales figure points to an even sharper run-up in household savings than previously anticipated. Indeed, it points to a spike in the savings rate to over 8% in Q4 from basically zero in the final quarter of 2007. This would mark the sharpest rise in saving on history back to 1960 by a very long way – effectively double any surge in household saving ever seen before.*

@@ -1,0 +1,13 @@
+---
+title: "Why I Don’t Lose Any Sleep Over the US Consumer"
+date: "2006-01-24"
+categories: ["Economics"]
+---
+
+By his own admission, [Stephen Roach](http://www.morganstanley.com/GEFdata/digests/latest-digest.html "Stephen Roach") is having trouble getting his colleagues and clients to take him seriously:
+
+*There was little sympathy for my long-standing complaint about the excesses of the asset-dependent American consumer.  Few seemed concerned that an income-short consumption dynamic might falter as the housing bubble now started to deflate.  Actually, few seem concerned about the US housing bubble, period…The group was nearly unanimous in believing that there was only modest downside to US consumption, at worst.*
+
+I don’t lose any sleep over the outlook for consumption either, yet reading the popular press, one could be forgiven for thinking that consumption was the single biggest risk to the growth outlook in the US and globally.  Since consumption is a large share of GDP measured on an expenditure basis, it necessarily figures prominently in terms of the contribution to growth.  This leads many to think of consumption as the main driver of growth.  Yet consumption is typically very stable as a share of GDP, suggesting a long-run equilibrium relationship between income and consumption. 
+
+Concerns over the contribution of housing wealth in driving consumption are greatly exaggerated.  If anything, the increased availability of new financial products that allow individuals to better access their housing wealth will enable them to more effectively smooth their consumption over time, contributing to reduced volatility in GDP growth.

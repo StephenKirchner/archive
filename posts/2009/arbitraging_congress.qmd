@@ -1,0 +1,15 @@
+---
+title: "Arbitraging Congress"
+date: "2009-03-17"
+categories: ["Economics", "Financial Markets"]
+---
+
+The [Congressional Effect Fund](http://congressionaleffectfund.com/index.php "Congressional Effect Fund") takes advantage of an interesting violation of the efficient markets hypothesis – the S&P 500 outperforms when Congress is not in session:
+
+> *The Congressional Effect Fund seeks to capture the historically higher returns on Congressional out of session days by primarily having exposure to price moves of the broad market as measured by the S&P 500 index on vacation days. The Fund does not try to capture the dividends of stocks in the index. Instead, it invests in interest bearing instruments including, without limitation, treasury bills, other government obligations and bonds, collateralized repurchase contracts, money market instruments and money market funds.*
+
+The Congressional effect holds on average over 43 years of data.  The fund has outperformed since its inception in 2008.  However, as the fund manager readily concedes, a sitting Congress isn’t all bad, all of the time:
+
+> *in 1997, Congress enacted significant tax cuts, including a cut in capital gains taxes generally. In that year, the annualized average price increase on the days when Congress was in session was 59.5% (an average daily gain of 0.18% or 18 basis points) as compared to an annualized average price loss of -4.6% (an average daily loss of -0.02% or 2 basis points) when Congress was out of session.*
+
+It is exceptions like this that perhaps explains the persistence of this apparent anomaly in market pricing.

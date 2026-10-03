@@ -1,0 +1,11 @@
+---
+title: "US T-Bills Versus Tuna"
+date: "2010-10-28"
+categories: ["Commodity Prices", "Economics", "Financial Markets", "Monetary Policy"]
+---
+
+[James Hamilton](http://www.econbrowser.com/archives/2010/10/negative_real_i.html "James Hamilton") on the implications of negative real interest rates:
+
+> You’re better off storing a can of tuna for a year than messing with T-bills at the moment. But there’s only so much tuna you can use, and many expenditures you might want to save for can’t really be stored in your closet for the next year. It’s perfectly plausible from the point of view of more realistic economic models that we could see negative real interest rates, at least for a while.
+>
+> Even so, within those models, there’s an incentive to buy and hold those goods that are storable. And in terms of the historical experience, episodes of negative real interest rates have usually been associated with rapidly rising commodity prices.

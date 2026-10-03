@@ -1,0 +1,15 @@
+---
+title: "Supply-Side Constraints and House Prices"
+date: "2005-02-15"
+categories: ["Economics"]
+---
+
+*[The Economist](http://www.economist.com/finance/displayStory.cfm?story_id=3645178 "The Economist")* finally has something to sensible to say on house prices, reporting on research into the effects of supply-side constraints on house prices in US cities.  There is hope for *The Economist* yet!  The original paper is [here](http://post.economics.harvard.edu/hier/2002papers/HIER1948.pdf "here").
+
+Meanwhile, [David Smith](http://www.economicsuk.com/blog/000181.html "David Smith") highlights the sorry record of house price crash predictions in the UK:
+
+The first housing-crash story I could find in the present cycle came in 1996, when one Bob Beckman predicted a 20-year fall in prices. There was another batch in 1997, when the fear was that Labour’s election would hit house prices hard.
+
+In 1998 and 1999, when the stock market was booming, there was a steady trickle of housing-crash predictions, building further when the stock-market boom turned to bust in 2000. The September 11 attacks on America persuaded many that housing was about to take a dive and, in the three years since, talk of a housing crash has built up to a crescendo.
+
+David Smith’s skepticism is refreshing.  It is interesting that the debate about house prices in the US, Australia and the UK is very similar, yet so many commentators remain wedded to country-specific explanations for what is clearly a global price shock to this asset class.

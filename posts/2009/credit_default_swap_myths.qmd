@@ -1,0 +1,9 @@
+---
+title: "Credit Default Swap Myths"
+date: "2009-01-08"
+categories: ["Economics", "Financial Markets"]
+---
+
+[Peter Wallison](http://www.aei.org/publications/pubID.29158/pub_detail.asp "Peter Wallison") tackles the many myths surrounding the role of credit default swaps in the financial crisis:
+
+> *One conventional explanation for the Bear rescue has been that CDSs made the financial markets highly “interconnected.” It is in the nature of credit markets to be interconnected, however: that is the way money moves from where it is less useful to where it is most useful, and that is why financial institutions are called “intermediaries.” Moreover, there is very little evidence that Bear was bailed out because of its involvement with CDSs—and some good evidence to refute that idea. First, if the government rescued Bear because of CDSs, why did it not also rescue Lehman? If the Treasury Department and the Federal Reserve really believed that Bear had to be rescued because the market was interconnected through CDSs, they would never have allowed Lehman—a much bigger player in CDSs than Bear—to fail. In addition, although Lehman was a major dealer in CDSs—and a borrower on which many CDSs had been written—when it failed there was no discernible effect on its counterparties. Within a month after the Lehman bankruptcy, the swaps in which Lehman was an intermediary dealer were settled bilaterally, and the swaps written on Lehman itself (\$72 billion notionally) were settled by the Depository Trust and Clearing Corporation (DTCC). The settlement was completed without incident, with a total cash exchange among all counterparties of \$5.2 billion. There is no indication that the Lehman failure caused any systemic risk arising out of its CDS obligations—either as one of the major CDS dealers or as a failed company on which \$72 billion in notional CDSs had been written.*

@@ -1,0 +1,23 @@
+---
+title: "Austrianism or Agnosticism at the BIS?"
+date: "2007-06-26"
+categories: ["Economics", "Financial Markets"]
+---
+
+The WSJ’s [Greg Ip](http://blogs.wsj.com/economics/2007/06/25/amid-financial-excess-a-revival-of-austrian-economics-in-basel/ "Greg Ip") claims that:
+
+> *Although the concluding chapter of the BIS’s latest annual report, released Sunday, never mentions the Austrian school, it is suffused with its influence.*
+
+My own reading of it would suggest that it is studiously agnostic on most issues.  We have previously had occasion to ridicule the notion of the BIS as a home of Austrian School thinking.  Greg Ip says that:
+
+> *The BIS’s leading “Austrian” is a Canadian, William White, the head of the bank’s monetary and economic department and sometimes-rumored successor to retiring Bank of Canada governor David Dodge.  In a 2006 paper Mr. White wrote that under Austrian theory, “credit creation need not lead to overt inflation. Rather…. the financial system … create\[s\] credit which encourages investments that, in the end, fail to prove profitable.” This leads to an “an eventual crisis whose magnitude would reflect the size of the real imbalances that preceded it \[because\] the capital goods produced in the upswing are not fungible, but they are durable. Mistakes then take a long time to work off.” He argued that in recent decades, “financial liberalisation has increased the likelihood of boom-bust cycles of the Austrian sort.”*
+
+As we noted when it was released, [White’s paper](../2006/who_spiked_the_drinks_at_the_bis.qmd "White’s paper") was little more than Bretton Woods revivalism dressed-up in Austrian clothes.  The notion that Austrian business cycle theory provides a basis for a revival of Bretton Woods institutions and central bank targeting of asset prices is absurd, but it is not hard to understand why these conclusions might appeal to a central banker.
+
+There is little evidence to support Austrian business cycle theory as even a stylised account of business cycle and financial market dynamics, at least under current central bank operating procedures in the major industrialised countries, which have been dominated by interest rate and inflation targeting for at least the last 10 years. 
+
+The Taylor rule and related literature shows that it is much easier to explain monetary policy with reference to the economy than it is to explain the economy with reference to monetary policy.  This is just another way of saying that monetary policy for the most part responds endogenously to economic developments and the exogenous component of monetary policy is very small.  Anyone who has tried to motivate a role for official interest rates in standard economic models (the sort of empirical work that few would-be Austrians are prepared to undertake) knows what a problematic exercise this can be.  Growth in money and credit aggregates can be given a similar endogenous interpretation.
+
+This makes the claim that, but for the supposed monetary policy errors of central banks, the amplitude of business and asset price cycles would be greatly reduced extremely implausible, at least under contemporary interest rate/inflation targeting regimes.  Indeed, we know that under the gold standard, the preferred monetary regime for many Austrians, volatility was more pronounced, with inflexibility in prices and exchange rates simply forcing any adjustment on to the real side of the economy.
+
+The increased prominence of Austrian business cycle theory in popular discourse actually has profoundly anti-market implications, because it leads people to believe that there is something wrong with macroeconomic and financial market outcomes that are in fact largely market-determined and have very little to do with either monetary policy or asset price ‘bubbles.’

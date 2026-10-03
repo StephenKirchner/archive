@@ -1,0 +1,15 @@
+---
+title: "Did the RBA Break with Convention Yesterday?"
+date: "2007-08-09"
+categories: ["Economics", "Financial Markets"]
+---
+
+Did the RBA break with convention yesterday by raising interest rates in an election year? [Andrew Leigh](http://andrewleigh.com/?p=1567#more-1567 "Andrew Leigh") thinks so:
+
+> *For two decades, it has been an unwritten rule that rates do not rise in an election year. While yesterday’s decision broke that rule, the alternative may well have been worse. In the face of an overheating economy, should we expect the RBA to wait for a non-election year before taking action? Just because of our ridiculously short three-year election cycles, it’s hard to see why an independent central bank should be forced to put monetary policy on ice one-third of the time.*
+
+By definition, there is no direct evidence for an unwritten rule and Leigh effectively argues against such a rule in endorsing the view put by Governor Glenn Stevens that it would be unrealistic for the RBA to be out of action for one year in three.
+
+A more plausible explanation for the lack of interest rate rises in election years is that the electoral and interest rates cycles have simply not coincided in this way.  The 1990 and 1993 elections were both held against the back drop of an extended easing cycle.  The 1996 election fell in a long period of steady rates between December 1994 and July 1996 and heading into a new easing cycle.  The 1998 election was held against the backdrop of the same easing cycle begun in 1996, with the 2001 election coinciding with the next easing cycle after that.  The 2004 election was held in another extended period of steady rates between December 2003 and March 2005 while in the midst of current tightening episode.
+
+Since politicians in Australia have some control over election timing and also some influence over economic conditions, we would expect some endogenity between the electoral and interest rate cycles, which may help explain why politicians have been able to avoid holding elections in close proximity to interest rate rises, but luck has probably played an even bigger role.

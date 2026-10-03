@@ -1,0 +1,7 @@
+---
+title: "The evidence suggests Reserve Bank rate cuts don’t hurt confidence"
+date: "2020-02-04"
+categories: ["Monetary Policy"]
+---
+
+In [The Conversation](https://theconversation.com/the-evidence-suggests-reserve-bank-rate-cuts-dont-hurt-confidence-130799), I round-up the US and Australian evidence on the effect of monetary policy on consumer confidence. There is little evidence for a perverse signalling effect from rate cuts on confidence, contrary to suggestions by the RBA Board.

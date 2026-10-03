@@ -1,0 +1,17 @@
+---
+title: "‘Excess Liquidity’ and Asset Prices"
+date: "2006-06-29"
+categories: ["Economics", "Financial Markets"]
+---
+
+The always sensible [Stephen Jen](http://www.morganstanley.com/GEFdata/digests/latest-digest.html "Stephen Jen") tries to give his colleagues an education on so-called ‘excess liquidity’ and asset prices:
+
+> What fraction of the financial activities (hedge funds’ long positions in risky assets, carry trades, etc.) is financed through bank credit?  I suspect that many analysts have put too much emphasis on the outdated concept of monetary aggregates driving asset prices.  It is the yield curve — the opportunity cost of liquidity — that is key, in my view, in thinking about asset prices.  Since central banks no longer have a great influence on the yield curves, it is perhaps not correct to blame the central banks for high asset prices.  So much of the financial activities are not a function of what banks do, but the non-bank financial institutions such as hedge funds.  The monetary aggregates say nothing about what these institutions are up to, what their perceived risk is, and what their risk taking appetite is. 
+>
+> Further, the Marshallian-k analysis actually says that the US base money to nominal GDP ratio has declined over the past decade, and the broad money to nominal GDP ratio being flat for the past few years.  Those who believe there is a positive link between the Marshallian-k and asset prices have to explain away these facts.  Moreover, we need to be very careful about three concepts:  interest rates, asset prices and the real economy.  Clearly, they are all related, but the Marshallian-k says very little about asset prices, though it might have some implications for inflation.
+
+I suspect that even in relation to inflation, most of the analysis based on conventional measures of ‘excess liquidity’ is mistaken.  Given the largely demand-determined nature of monetary aggregates, what is commonly thought of as ‘excess’ liquidity is more likely to be an ‘excess’ demand for money, reflecting portfolio choices between money, other assets and spending that only indirectly reflect central bank policy actions.
+
+**UPDATE:**  [David Miles](http://www.morganstanley.com/GEFdata/digests/latest-digest.html "David Miles") makes a similar point:
+
+> *shifts in the private sector’s desire to hold a part of its total wealth in a subset of assets labelled ‘money’ (bank deposits of various sorts) are many and varied. To a large extent they reflect portfolio movements that are driven by shifts in the perceived attractiveness of a very wide range of assets. Quite what the interpretation of a shift in broad money for spending and inflationary pressures should be is absolutely unclear, until you drill down to what is driving it.*

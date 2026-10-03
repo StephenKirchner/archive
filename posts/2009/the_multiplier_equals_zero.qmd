@@ -1,0 +1,15 @@
+---
+title: "The Multiplier Equals Zero"
+date: "2009-01-22"
+categories: ["Economics", "Fiscal Policy"]
+---
+
+[Robert Barro](http://online.wsj.com/article/SB123258618204604599.html "Robert Barro") makes the case for a zero multiplier from fiscal stimulus:
+
+> A much more plausible starting point is a multiplier of zero. In this case, the GDP is given, and a rise in government purchases requires an equal fall in the total of other parts of GDP—consumption, investment and net exports. In other words, the social cost of one unit of additional government purchases is one.
+>
+> This approach is the one usually applied to cost-benefit analyses of public projects. In particular, the value of the project (counting, say, the whole flow of future benefits from a bridge or a road) has to justify the social cost. I think this perspective, not the supposed macroeconomic benefits from fiscal stimulus, is the right one to apply to the many new and expanded government programs that we are likely to see this year and next.
+>
+> What do the data show about multipliers? Because it is not easy to separate movements in government purchases from overall business fluctuations, the best evidence comes from large changes in military purchases that are driven by shifts in war and peace. A particularly good experiment is the massive expansion of U.S. defense expenditures during World War II. The usual Keynesian view is that the World War II fiscal expansion provided the stimulus that finally got us out of the Great Depression. Thus, I think that most macroeconomists would regard this case as a fair one for seeing whether a large multiplier ever exists.
+>
+> I have estimated that World War II raised U.S. defense expenditures by \$540 billion (1996 dollars) per year at the peak in 1943-44, amounting to 44% of real GDP. I also estimated that the war raised real GDP by \$430 billion per year in 1943-44. Thus, the multiplier was 0.8 (430/540). The other way to put this is that the war lowered components of GDP aside from military purchases. The main declines were in private investment, nonmilitary parts of government purchases, and net exports—personal consumer expenditure changed little. Wartime production siphoned off resources from other economic uses—there was a dampener, rather than a multiplier.

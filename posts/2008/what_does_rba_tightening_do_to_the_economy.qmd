@@ -1,0 +1,13 @@
+---
+title: "What Does RBA Tightening Do to the Economy?"
+date: "2008-02-18"
+categories: ["Economics", "Financial Markets"]
+---
+
+[David Uren](http://www.theaustralian.news.com.au/story/0,25197,23229666-5015025,00.html "David Uren") writes:
+
+> WHAT does a 0.25 per cent rate rise do to the economy?...
+>
+> The Reserve Bank, like other central banks around the world, keeps its own estimate of the effect of its actions a secret.
+
+In fact, the RBA’s published research on this question is reasonably explicit.  The [latest iteration](http://www.rba.gov.au/PublicationsAndResearch/RDP/RDP2005-11.html "latest iteration") of the RBA’s policy simulation model estimates the long-run elasticity of the output gap with respect to a sustained increase in the real cash rate of 100 basis points at 1.0 (ie, real output 1% below potential output), with most of the impact seen within three years.  Significantly, the real cash rate enters the model as a deviation from an assumed neutral real cash rate of 3%.  As we have noted [previously](../2008/which_is_tighter_monetary_or_fiscal_policy.qmd "previously"), the real cash rate has only recently moved significantly above neutral based on headline inflation.  To that extent, it is only recently that monetary policy has been exercising any restraint at all on the economy.  Much of the tightening in the nominal cash rate in recent years has simply been offset by rising inflation.

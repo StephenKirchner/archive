@@ -1,0 +1,7 @@
+---
+title: "Are Opinion Polls Consistent with Ricardian Equivalence?"
+date: "2009-05-05"
+categories: ["Economics", "Fiscal Policy"]
+---
+
+The latest [Newspoll](http://www.theaustralian.news.com.au/files/5may-newspoll.html "Newspoll") finds 44% of respondents want the government to go ahead with the next round of legislated tax cuts, while 47% want the tax cuts cancelled ‘to help reduce the budget deficit.’  Given that the planned tax cuts are unfunded, respondents should be indifferent between these two choices.  Today’s unfunded tax cut is tomorrow’s tax increase.  All else being equal, the only reason why taxpayers should want a reduction in disposable income for the sake of a lower budget deficit is because they recognise the government’s inter-temporal budget constraint.  The near even split on this question suggests your average punter is a good deal smarter than the commentariat.

@@ -1,0 +1,13 @@
+---
+title: "The Productivity ‘Puzzle’"
+date: "2007-02-26"
+categories: ["Economics", "Financial Markets"]
+---
+
+The productivity ‘puzzle’ has bothered economic policymakers in Australia for some time now:  employment growth has outstripped what we would normally expect to see based on recent GDP growth, implying declining productivity growth.  As RBA Governor Stevens indicated in his [testimony](http://www.aph.gov.au/hansard/reps/commttee/R9961.pdf "testimony") to the House Economics Committee last week, there are dozens of possible interpretations of this ‘puzzle,’ but few that seem entirely plausible or persuasive. 
+
+As the following [article](http://www.statcan.ca/Daily/English/070223/d070223a.htm "article") from Statistics Canada notes, the productivity ‘puzzle’ is not an unusual phenomenon and one that is shared by countries that have recently experience favourable terms of trade shocks:
+
+> *Nor is it unusual for Organisation for Economic Co-operation and Development (OECD) countries to experience two (or more) years of little productivity growth. Just since 2000, 10 of the 29 OECD countries for which data are available experienced such an episode. Interestingly, Norway and Australia are both currently experiencing little or no growth in output per employee, and like Canada, both have large natural resource bases, which is the source of much of the productivity slowdown in Canada.*
+
+If the productivity ‘puzzle’ is ultimately attributable to the positive terms of trade shock, then it may not be something over which policymakers should lose much sleep.

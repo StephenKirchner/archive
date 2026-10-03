@@ -1,0 +1,15 @@
+---
+title: "Monetary versus Fiscal Stimulus"
+date: "2009-07-14"
+categories: ["Economics", "Financial Markets", "Fiscal Policy", "Monetary Policy"]
+---
+
+[Tony Makin](http://www.theaustralian.news.com.au/story/0,25197,25777608-7583,00.html "Tony Makin"), on the relative effectiveness of monetary and fiscal stimulus:
+
+> *dramatically easier monetary policy has probably done more for the Australian economy than fiscal policy. A less modest, or perhaps more independent, Reserve Bank would take more credit for this*.
+
+Tony makes an important point.  The RBA’s very low public profile relative to the very noisy fiscal stimulus efforts of politicians is skewing perceptions of the relative importance of these two arms of macro policy.
+
+It was not that long ago that many economic commentators were talking of a direct trade-off between fiscal and monetary policy.  Tax cuts and smaller budget surpluses, we were told, would lead to higher inflation and interest rates.  This argument never had much merit, not least because the actual (as opposed to the forecast) fiscal impulse was simply too small to matter very much for the economy.  The former government put in place some of the tightest fiscal policy settings since the early 1970s. 
+
+By contrast, the current government has put in place an unprecedented fiscal easing of 4.4% of GDP in a single financial year.  The RBA’s statements on monetary policy suggest that it believes that fiscal stimulus is supporting economic activity (in sharp contrast to previous years, in which fiscal policy was rarely even mentioned).  This would argue against reductions in interest rates at the margin, even if it is based on an exaggerated view of the effectiveness of fiscal policy.  The proponents of discretionary fiscal policy can’t have it both ways.  If activist fiscal policy is thought to be effective, there is less work for monetary policy to do in supporting activity and official interest rates will be higher than in the absence of a discretionary fiscal easing.

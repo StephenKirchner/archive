@@ -1,0 +1,15 @@
+---
+title: "Students to fund research"
+date: "2006-09-06"
+categories: ["Higher Education"]
+---
+
+Australian higher education policy insists that all universities do research **and** that university education be as cheap as possible for students. Obviously, these two goals are in tension, with many costly aspects of the higher education system - such as teaching for less than half the year or libraries full of books of little use to undergraduates - designed entirely with research in mind. The policy structure has exacerbated this further by favouring research rather than student interests. For example, Commonwealth-supported student places are allocated to universities by a rigid quota system, with universities penalised for taking too many or too few students. This solves the bums on seats problem for most universities without them having to try very hard to do well by their students, since prospective students have few alternatives outside the state-sponsored system. By contrast, various incentive schemes encourage universities to increase the quantity and quality of their research output.
+
+What this means in practice can be seen in [amazingly frank comments](http://www.theaustralian.news.com.au/story/0,20867,20360283-12332,00.html "amazingly frank comments") from new Macquarie University Vice-Chancellor Steven Schwartz about what his university will do with the 25% increase in student charges that they intend to impose:
+
+> Macquarie vice-chancellor Steven Schwartz said about 20 per cent of the extra money would fund \$1 million to \$2million in new scholarships for needy students, especially those keen on science, maths or technology. ...
+>
+> More fee income also would help Macquarie fund 40 new research positions advertised as part of a campaign to make the university more research intensive.
+
+So it seems that the vast majority of Macquarie students will get exactly nothing in return for a major price hike. Since all Macquarie’s competitors have already done exactly the same thing and they are all protected by quotas Schwartz doesn’t even need to pretend that students could benefit from increasing their investment in higher education. Schwartz is actually one of the more pro-market VCs, and his own actions and comments show yet again why we need stronger market mechanisms in the higher education sector.

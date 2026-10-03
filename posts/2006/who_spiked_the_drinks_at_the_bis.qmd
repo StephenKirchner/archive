@@ -1,0 +1,17 @@
+---
+title: "Who Spiked the Drinks at the BIS?"
+date: "2006-02-23"
+categories: ["Economics"]
+---
+
+A report in the [Torygraph](http://www.telegraph.co.uk/money/main.jhtml?xml=/money/2006/02/20/cndebt20.xml "Torygraph") pointed me in the direction of this [BIS Working Paper](http://www.bis.org/publ/work193.pdf "BIS Working Paper").  As the Torygraph and the author himself note, the arguments presented are a significant departure from what might be considered the current orthodoxy in favour of inflation targeting.  Indeed, they are a bizarre mix of Bretton Woods era economics and fever swamp Austrianism (note the use of the vague Mises quote at the beginning of the paper, which in my experience usually signals that some abuse of the Austrian tradition is about to follow).
+
+Although the author is somewhat vague when it comes to policy prescriptions, his main claim is that the absence of Bretton Woods-type arrangements is responsible for the supposed problem of global imbalances:\
+*\
+The underlying problem is that we no longer have a coherent system that somehow forces countries to alter their relative degrees of domestic absorption, and associated exchange rates, so as to reduce external imbalances in an orderly way…While it is logically possible that policy measures consistent with resolving domestic imbalances might resolve external imbalances as well, this should not be assumed. In any event, it is not likely to happen. This leads on to the question of whether there are institutional changes that might be recommended to strengthen the international adjustment process.*
+
+The reason Bretton Woods institutions were largely dispensed with in the early 1970s (with the exception of the IMF, which somehow managed to survive its redundancy), was precisely because external imbalances *were* a serious problem under fixed exchange rate regimes.  The move to floating exchanging rates and open capital accounts solved this problem and eliminated the external balance constraint on growth, with enormous benefits for those economies that liberalised along these lines.  It is therefore nothing short of bizarre to suggest that global imbalances now argue for a return to Bretton Woods-type institutions. 
+
+What the author, and many others who see global ‘imbalances’ as a problem, are effectively saying is that the Anglo-American economies should stop outperforming the rest the world and instead try and look more like everyone else.  Those who argue that this outperformance is built on debt and asset prices have things exactly the wrong way around.  Rising debt levels and asset prices are merely symptomatic of expectations for continued strong economic growth.  To argue otherwise is to implicitly attack the institutional foundations of Anglo-American economic success.
+
+The author favours a consolidation in the number of currencies.  As Hayek would argue, we need more currencies, not less.  For the author to invoke the Austrian tradition on behalf of proposals for a global macro regulatory framework and reduced currency competition is a travesty of that tradition.

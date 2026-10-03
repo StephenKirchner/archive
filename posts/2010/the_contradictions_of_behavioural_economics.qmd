@@ -1,0 +1,11 @@
+---
+title: "The Contradictions of Behavioural Economics"
+date: "2010-04-14"
+categories: ["Economics", "Financial Markets"]
+---
+
+[Andrew Ferguson](http://weeklystandard.com/articles/nudge-nudge-wink-wink?page=7 "Andrew Ferguson") on behavioural economics:
+
+> *You can see how useful the notion of irrational man is to a would-be regulator. It is less helpful to the rest of us, because it runs counter to every intuition a person has about himself. Nobody sees himself always as a boob, constantly misunderstanding his place in the world and the effect he has upon it. Surely the behavioral economists don’t see themselves that way. Only rational people can police the irrationality of others according to the principles of an advanced scientific discipline. If the behavioralists were boobs too, their entire edifice would collapse from its own contradictions. Somebody’s got to be smart enough to see how silly the rest of us are.*
+
+I make related arguments in my review essay ‘[Authoritarian Economics](../../files/ackerlofshillerreview.pdf "Authoritarian Economics")’.

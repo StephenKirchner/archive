@@ -1,0 +1,9 @@
+---
+title: "Sustainable Household Sector Debt Levels"
+date: "2007-09-25"
+categories: ["Economics", "Financial Markets"]
+---
+
+RBA Deputy Governor Ric Battellino’s [observations](http://www.rba.gov.au/Speeches/2007/sp_dg_250907.html "observations") on recent financial trends:
+
+> *I don’t think anybody knows what the sustainable level of gearing is for the household sector in aggregate, but given that there are still large sections of the household sector with no debt, it is likely to be higher than current levels.*

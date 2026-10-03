@@ -1,0 +1,25 @@
+---
+title: "Bailouts Gone Wild: The Welfare Economics of Porn"
+date: "2009-01-09"
+categories: ["Economics"]
+---
+
+With what I assume is tongue firmly in cheek, [Larry Flynt](http://www.marketwatch.com/news/story/hustlers-larry-flynt-girls-gone/story.aspx?guid=%7BFC7B3425-6BD4-4293-AD1A-799F6DDB2801%7D&dist=msr_6 "Larry Flynt") petitions Congress for a bailout:
+
+> LOS ANGELES, Jan 07, 2009 /PRNewswire via COMTEX/—As the 2009 AVN Adult Expo opens in Las Vegas this week, Girls Gone Wild CEO Joe Francis and HUSTLER magazine publisher Larry Flynt are petitioning the newly convened 111th Congress to provide a financial bailout for the adult entertainment industry along the lines of what is being sought by the Big Three automakers, a spokesperson for Francis announced today.
+>
+> Adult industry leaders Flynt and Francis sent a joint request to Congress asking for \$5 billion in federal assistance, “Just to see us through hard times,” Francis said. “Congress seems willing to help shore up our nation’s most important businesses, we feel we deserve the same consideration. In difficult economic times, Americans turn to entertainment for relief. More and more, the kind of entertainment they turn to is adult entertainment.”
+>
+> But according to Flynt the recession has acted like a national cold shower. “People are too depressed to be sexually active,” Flynt says, “This is very unhealthy as a nation. Americans can do without cars and such but they cannot do without sex.”
+
+As the [Tax Foundation](http://www.taxfoundation.org/blog/show/24182.html "Tax Foundation") notes, they probably have a stronger case than the auto industry:
+
+> is “adult entertainment” a public good?  Like all intellectual property, porno is non-rivalrous: once a Girls Gone Wild video is produced, the content can be endlessly distributed and redistributed.  And with the advance of the Internet and peer-to-peer file sharing, it is increasingly non-excludable: as noted in the bailout press release, a key driver behind reduced porn revenues is the illegal reproduction and sharing of porn content.
+>
+> Pornography might have even greater public good characteristics if its benefits extend beyond its direct consumers.  For example, pornography may have educational value that benefits not only its direct consumers but also those consumers’ sex partners.  Under Coasean analysis, this does not necessarily make porn a public good: those sex partners could bear the cost of their indirect porn consumption, perhaps by paying a “porn surcharge” to their better-educated partners.  However, the Coase theorem only applies when transaction costs are low, and given well-established social norms against the combination of sexual activity and financial transactions, it is likely that there is a market failure leading to porn underconsumption.
+>
+> This is not to say that Congress should give money to the adult entertainment industry.  However, these characteristics do make the providers of pornography a more attractive bailout recipient than, say, the auto industry, which produces goods that are clearly both excludable and rivalrous.
+
+[Chris Dillow](http://stumblingandmumbling.typepad.com/stumbling_and_mumbling/2009/01/why-larry-flynts-right.html "Chris Dillow"), channelling Bastiat’s [candlemakers’ petition](http://www.econlib.org/library/Bastiat/basSoph3.html "candlemakers’ petition"), notes that the industry is also subject to unfair competition:
+
+> *The need for a subsidy is especially pressing because the industry is under threat not just from the availability of free porn on the web, but also competition from another source - women giving it away for free. Both of these can be seen as a form of predatory pricing, or dumping. Many policy-makers believe it’s acceptable to protect industries from this.*

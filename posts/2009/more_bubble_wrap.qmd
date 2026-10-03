@@ -1,0 +1,15 @@
+---
+title: "More Bubble Wrap"
+date: "2009-05-29"
+categories: ["Economics", "Monetary Policy"]
+---
+
+[Alan Wood](http://www.theaustralian.news.com.au/story/0,25197,25552776-7583,00.html "Alan Wood") discusses the debate on the relationship between monetary policy and asset prices, referencing my CIS Policy Monograph [Bubble Poppers](http://www.cis.org.au/policy_monographs/pm93.pdf "Bubble Poppers").  Wood writes:
+
+> Central bankers have always taken asset prices into account in setting monetary policy and in Australia’s case successfully intervened in the housing market via both interest rates and jawboning by then governor Ian Macfarlane and head of Australian Prudential Regulation Authority, John Laker, a former Reserve banker, to cool off reckless lending and overheating in housing prices.
+>
+> Kirchner dismisses this episode as unsuccessful, and the Howard government certainly didn’t like it. But the ratio of house prices to income fell markedly after 2003, when the RBA raised rates by 0.5 percentage points in two back-to-back hits. And Australia has so far not suffered anything like the housing price collapses in the US and Britain.
+
+To be clear, my argument was that the RBA’s talk was not backed by policy action.  Like the rest of the world, monetary policy in Australia was accommodative in 2003 and the RBA had an explicit easing bias in June of that year.  As I noted in this [op-ed](http://business.theage.com.au/business/dont-count-ratecut-chickens-before-they-hatch--inflation-is-still-simmering-20080811-3to5.html?page=1# "op-ed"), the nominal official cash rate did not reach a neutral level until 2005 and the real cash rate struggled to stay above neutral as inflation increasingly got away on the RBA.  Unfortunately, most media commentators mistake increases in the nominal cash rate for a tightening in policy, ignoring what is happening with real or expected interest rates.  It is this confusion that gave rise to the myth that the RBA presided over a successful bubble popping episode in 2002-03.
+
+As the commodity price boom took off in 2003, population and income was sucked out of the south-eastern property markets and flowed into the resource-rich states.  As the RBA has noted, this saw renewed convergence in capital city house prices, as the heat was taken out of the south-east and shifted to the north-west.  This sub-national variation in house prices cannot be explained with reference to monetary policy, as much as the bubble poppers might like us to believe otherwise. It had a clear basis in sub-national differences in economic performance.

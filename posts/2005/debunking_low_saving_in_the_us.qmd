@@ -1,0 +1,17 @@
+---
+title: "Debunking ‘Low’ Saving in the US"
+date: "2005-04-02"
+categories: ["Economics"]
+---
+
+Bear Sterns chief economist [David Malpass](http://online.wsj.com/article_print/0,,SB111196898194490525,00.html "David Malpass") rubbishes the notion that the US does not save enough:
+
+Not only are we not running out of household savings, it is growing fast both in terms of the annual additions and the cumulative buildup of American-owned savings. Household net worth, one good measure of savings, reached \$48.5 trillion in 2004. Time deposits and savings accounts alone total a staggering \$4.3 trillion, versus slow-growing credit-card debt of \$800 billion. True, the U.S. is the world’s biggest debtor, but it is building assets faster than debt. Even if household assets took a hard fall, the remaining net worth would still dwarf other countries’. On a per capita basis, counting mortgages but not houses, net financial assets total \$89,800 in the U.S. versus \$76,900 in No. 2 saver, Japan. Of course, some households don’t have nearly this average, creating risks for them and burdens on others in the event of a downturn. This is an appropriate policy concern, but the macroeconomic issue is aggregate savings, of which the U.S. has an abundance.
+
+According to the Federal Reserve’s flow of funds data, the 2004 additions to household financial assets were a net \$590 billion. This was 6.8% of personal disposable income, providing a meaningful measure of the cash flow going into new financial savings. This increased the household’s financial net worth to \$26.1 trillion, way above any other country’s savings and plenty to fund profitable domestic investments. If the 2004 appreciation in the value of homes and equities were also counted, the 2004 saving rate was 46% of disposable income. Foreign savings invested in the U.S., the counterpart of the widely criticized current account deficit, is additive to our own large store of savings.
+
+Rather than a “dependence” on foreign savings, the U.S. is an effective user of it, profiting by growing faster than the interest cost of foreign saving. The combination of large domestic and foreign savings allows heavy investment in the U.S. decade after decade, part of the explanation for our fast growth and the world’s highest employment levels. Meanwhile, foreigners are actually losing ownership share in the U.S. despite the \$2.6 trillion net debtor position, since U.S. assets are growing faster than foreign savings in the U.S.
+
+A similar analysis would apply in the Australian context.  Malpass also highlights the real dangers associated with the ‘low’ saving view:
+
+*However, the bigger harm is not that we expose ourselves to a collapse, but that we allow ourselves and foreigners to underestimate, even mock, our economic system. We apologize for our “low savings rate” and “dependence on foreigners,” turn our foreign economic policy over to the International Monetary Fund’s economic gurus, and contemplate consumption tax increases, forced saving, protectionism, and a weaker dollar (with the consequent increase in inflation). Instead, while working hard to improve our system, we should encourage others to emulate its freedom, flexibility and prosperity.*

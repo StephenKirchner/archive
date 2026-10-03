@@ -1,0 +1,11 @@
+---
+title: "The Free Banking Origins of PayPal"
+date: "2005-08-29"
+categories: ["Economics"]
+---
+
+[Radley Balko](http://www.cato.org/pub_display.php?pub_id=4405 "Radley Balko") reviews [The PayPal Wars](http://www.lfb.com/cart/affiliate.php?=10488&stocknumber=CU8903 "The PayPal Wars"), highlighting its origins in the idea of currency competition:\
+*\
+In the book’s first chapter, Jackson recalls a speech Thiel gave to Confinnity employees, just a few days after he began work, in which he described his hopes for PayPal to become a borderless private currency. He saw PayPal facilitating trade in currency for anyone with an Internet connection by enabling an instant transfer of funds from insecure currencies to more stable ones, such as U.S. dollars. Thiel explained to his young staff how governments had historically robbed their own citizens through inflation and currency devaluation. The very rich could always protect themselves by investing offshore. It’s the poor and middle class, Thiel explained, who get screwed. “PayPal will give citizens worldwide more direct control over their currencies than they ever had before,” Thiel predicted. “It will be nearly impossible for corrupt governments to steal wealth from their people through their old means because if they try the people will switch to dollars or pounds or yen, in effect dumping the worthless local currency for something more secure.”*
+
+The story does not have a happy ending.

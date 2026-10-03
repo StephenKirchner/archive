@@ -1,0 +1,13 @@
+---
+title: "Politicians’ Relative Pay and Fiscal Performance"
+date: "2011-08-03"
+categories: ["Economics", "Fiscal Policy"]
+---
+
+I would call [this evidence](http://blog.american.com/2011/08/are-members-of-congress-worth-their-high-pay/) suggestive rather than definitive, but interesting nonetheless:
+
+> *The chart below compares the pay of legislators in 13 countries with those countries’ fiscal space. The best “deal” for the taxpayer comes at the top left of the chart, where legislators are relatively low paid but the country has a large fiscal space. The worst deal comes at the bottom right of the chart, where pay is high but fiscal space low.*
+
+My CIS colleague [Adam Creighton](http://www.cis.org.au/media-information/opinion-pieces/article/3011-wont-someone-think-of-politicians-when-it-comes-to-pay-rises) has suggested that politicians’ pay should be a fixed multiple of three times the median wage, ensuring that politicians’ incentives are aligned with those of the rest of the population. The linked chart suggests that this multiple is a little high by international standards. I would further modify Adam’s suggestion and tie politicians’ pay to a fixed multiple of the median *real* wage as an added anti-inflationary incentive.
+
+Robert Carling and I have further argued that politicians suffer pecuniary penalities for breaches of our [proposed fiscal responsibility legislation](http://www.cis.org.au/publications/policy-monographs/article/902-fiscal-rules-for-limited-government-reforming-australias-fiscal-responsibility-legislation).

@@ -1,0 +1,13 @@
+---
+title: "Saved Not Spent: Ricardian Equivalence Negates Fiscal Stimulus"
+date: "2008-12-04"
+categories: ["Economics", "Fiscal Policy"]
+---
+
+[Westpac](http://www.westpac.com.au/manage/wrap.nsf/vPdfUrls/E2A7CC1B468EDAEDCA257514001F7583/$File/er20081203BullGDPQ3.pdf?OpenElement "Westpac") crunches the numbers on the household income account, with some predictable results:
+
+> All up, the total fiscal boost to household disposable income in Q3 was about \$1.9bn. This was mostly due to \$7.1bn in income tax cuts, which equates to \$1.8bn a quarter.  The boost appears to have done little or nothing to stimulate consumer spending in Q3. Indeed, with aggregate household savings rising by \$4.4bn in the quarter, the implication is that, in aggregate, households saved all of the windfall and then some. Most of the savings appears to have gone towards paying down housing debt.
+>
+> The national accounts figures and RBA credit data imply that households injected an enormous \$7.5bn into their housing equity in Q3, most of which would have been via paying down principal. This is only the third net equity injection recorded since June 2001. It is easily the largest ever in dollar terms and is the biggest as a proportion of income since 1998Q3. If Q3 is a guide and households remain as deeply concerned about reducing their debt levels in the months ahead, the implication is that there will be little or no boost from policy stimulus in Q4.
+
+Westpac nonetheless thinks Q4 might be different, on the basis that saving all the stimulus in Q4 would be ‘too extreme’, but unprecedented times are likely to induce unprecedented responses as households anticipate a higher future tax burden.

@@ -1,0 +1,27 @@
+---
+title: "Why Stimulus Measures Don’t Work"
+date: "2008-12-10"
+categories: ["Economics", "Fiscal Policy"]
+---
+
+I have an op-ed in today’s *[Age](http://business.theage.com.au/business/flinging-wads-of-dosh-about-wont-work-20081209-6uyv.html "Age")*, highlighting the Ricardian and open economy macro arguments against using fiscal policy for demand management:
+
+> From the perspective of national saving, it makes no difference whether an increase in government spending comes out of the budget surplus or whether the government goes into deficit and borrows from capital markets.  Either way, the government is saving less.
+>
+> But this doesn’t mean that households will follow the government’s example.  In fact, households are likely to save more in anticipation of a higher future tax burden due to the reduction in government saving…
+>
+> Demand management is best left to the Reserve Bank and monetary policy, which has already responded aggressively to a slowing economy. 
+>
+> The sharp decline in the Australian dollar exchange rate is also a powerful stimulus to net exports, but any boost to demand from fiscal stimulus will also have the perverse effect of putting upward pressure on the exchange rate, reducing net exports.  In an open economy, there is no free lunch from fiscal policy.
+>
+> Fiscal policy still has a role to play in supporting economic growth, but it needs to focus on long-run structural and supply-side issues not short-term attempts at rigging aggregate demand.
+>
+> This means rewarding labour force participation, not encouraging welfare dependence.  Throwing more money at pensioners and families will not boost economic growth in the long-run and may not work as the government intends in the short-run.
+
+In *The Australian*, [Henry Ergas](http://www.theaustralian.news.com.au/story/0,25197,24776952-7583,00.html "Henry Ergas") makes a similar argument against proposals to use superannuation contributions as a macroeconomic stabilisation instrument:
+
+> Consumption decisions are shaped not by transient changes in income but by expectations of income going forward, a proposition known as the permanent income hypothesis. A short-term reduction in compulsory savings, soon reversed and followed by a sequence of rapid increases in mandatory contributions, amounts to a pre-announced reduction in disposable incomes. As households respond to the news that their disposable incomes will fall once the temporary cut is reversed, consumption is likelier to decline than to increase.
+
+My *Age* piece may have fallen victim to a [which-hunt](http://clubtroppo.com.au/2008/11/30/the-great-which-hunt/#more-6557 "which-hunt").  This line should read:
+
+‘The household saving ratio has already surged from 1.3% in the June quarter to 3.9% in the September quarter.  This implies that taxpayers squirreled away their 1 July tax cuts, *which came* at the expense of the budget surplus rather than cuts to government spending. ‘

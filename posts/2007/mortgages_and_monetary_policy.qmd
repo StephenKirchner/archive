@@ -1,0 +1,15 @@
+---
+title: "Mortgages and Monetary Policy"
+date: "2007-09-19"
+categories: ["Economics", "Financial Markets"]
+---
+
+More US recession skepticism, this time from Nobel laureate, [Robert Lucas](http://online.wsj.com/article/SB119017085710932141.html?mod=opinion_main_commentaries "Robert Lucas"):
+
+> I
+>
+> n this situation, it is all too easy for easy money advocates to see a recession coming and rationalize low interest rates. They could be right—who really knows?—and in any case we may not know enough to prove them wrong.
+>
+> So I am skeptical about the argument that the subprime mortgage problem will contaminate the whole mortgage market, that housing construction will come to a halt, and that the economy will slip into a recession. Every step in this chain is questionable and none has been quantified. If we have learned anything from the past 20 years it is that there is a lot of stability built into the real economy.
+>
+> To me, inflation targeting at its best is an application of Milton Friedman’s maxim that “inflation is always and everywhere a monetary phenomenon,” and its corollary that monetary policy should concentrate on the one thing it can do well—control inflation. It can be hard to keep this in mind in financially chaotic times, but I think it is worth a try.

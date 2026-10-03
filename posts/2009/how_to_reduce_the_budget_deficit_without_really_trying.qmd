@@ -1,0 +1,7 @@
+---
+title: "How to Reduce the Budget Deficit, Without Really Trying"
+date: "2009-12-09"
+categories: ["Economics", "Fiscal Policy"]
+---
+
+The Australian economy just got bigger, thanks to the adoption of the [new national accounting standard SNA08](http://www.abs.gov.au/AUSSTATS/abs@.nsf/Lookup/5204.0Main+Features12008-09?OpenDocument "new national accounting standard SNA08").  The revised data raise the level of nominal GDP by 4.4% for 2007-08.  As the [government was quick to point out](http://ministers.treasury.gov.au/DisplayDocs.aspx?doc=pressreleases/2009/122.htm&pageID=003&min=wms&Year=&DocType= "government was quick to point out"), this reduces the estimated budget deficit for 2009-10 from 4.7% to 4.5% of GDP, as well as the expected net debt to GDP ratio.

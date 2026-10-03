@@ -1,0 +1,7 @@
+---
+title: "The Superbowl Indicator as Swiftian Satire"
+date: "2011-01-31"
+categories: ["Economics", "Financial Markets"]
+---
+
+The market indicator that was [meant to be a joke](http://blogs.wsj.com/marketbeat/2011/01/28/super-bowl-indicator-the-secret-history/).

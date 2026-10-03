@@ -1,0 +1,9 @@
+---
+title: "Small Incentives Matter"
+date: "2006-06-20"
+categories: ["Economics"]
+---
+
+Recent data have confirmed what many of us have known anecdotally for some time: the federal government’s increased incentives for new born babies has triggered a baby boom.  The number of births in 2005 was the highest since 1992.  The 2005 increase over 2004 is even higher adjusting for age-specific fertility rates.  [Joshua Gans and Andrew Leigh](http://www.theaustralian.news.com.au/story/0,20867,19522038-7583,00.html "Joshua Gans and Andrew Leigh") have further quantified these effects in some well publicised research.
+
+This comes as no surprise to economists, who have always stressed that even seemingly small incentives can have big impacts on behaviour where it counts: at the margin of choice.  The fact that small incentives impact life-changing decisions like when to have children says a lot about the likely behavioural responses to high marginal tax rates.  The case for lowering these rates has never been primarily about increasing after-tax incomes (welcome though that may be for the beneficiaries).  The importance of lowering high marginal tax rates lies in reducing distortions to behaviour, not least, the waste of resources devoted to tax minimisation.

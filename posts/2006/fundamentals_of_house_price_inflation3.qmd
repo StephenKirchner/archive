@@ -1,0 +1,11 @@
+---
+title: "Fundamentals of House Price Inflation"
+date: "2006-09-14"
+categories: ["Economics"]
+---
+
+Another installment in our continuing series, dismissing the notion of house price inflation as a monetary policy-driven ‘bubble,’ this time from the [Chicago Fed](http://www.chicagofed.org/publications/economicperspectives/ep_3qtr2006_part3_fisher_quayyum.pdf "Chicago Fed"):
+
+> *the housing boom has not been driven by unusually loose monetary policy. This is not to say that monetary policy has not been unusually loose, but that to the extent it has been loose, this is not what has been driving spending on housing. Second, the current levels of spending on housing are largely explained by the wealth created by dramatic technological progress over the previous decade. Third, changes in the demographic, income, educational, and regional structure of the population account for only one-half of the increase in homeownership. ... The last finding is that substitution away from rental housing made possible by technology-driven developments in the mortgage market, such as subprime lending, could account for a significant fraction of the increase in residential investment and homeownership. The current spending boom thus may be a temporary transition toward an era with higher homeownership rates and a share of spending on housing that is nearer historical norms.*
+
+(HT:  [Mark Thoma](http://economistsview.typepad.com/economistsview/2006/09/what_caused_the.html "Mark Thoma"))

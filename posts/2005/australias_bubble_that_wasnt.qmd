@@ -1,0 +1,17 @@
+---
+title: "Australia’s Bubble that Wasn’t"
+date: "2005-07-19"
+categories: ["Economics"]
+---
+
+Australia’s experience with house price inflation is attracting a lot of attention in the US, featuring on the front page of the [WSJ](http://online.wsj.com/search#SB112129246010185054 "WSJ"), which notes that Australia provides a ready example of a major house price inflation that has ended benignly:
+
+*As the U.S. confronts its own housing-price boom, Australia’s experience suggests that the end of a boom needn’t necessarily lead to widespread economic distress. So long as most people decide to hold on to their homes and ride out the storm, the economy can hold up. Australia has yet to experience a trigger, such as widespread job losses or a spread of panic about the real-estate market, that would drive owners to unload their homes en masse and create a crisis.*
+
+The above extract implicitly concedes the point that house prices are driven by broader economic conditions, not the other way around.  But the notion that people would ‘unload their homes en masse’ in response to some sort of exogenous shock is nothing short of bizarre.  There are many reasons why house prices might fall, but people abandoning their homes to rent or live in the streets is not one of them.  Most participants in the housing market are buying and holding, not speculating, and choose the most favourable time to rollover their asset.  Falling prices lead to a reduction, not an increase, in market turnover.  Much of the post-boom weakness in Australia has been seen on volumes rather than prices. 
+
+The article also argues:
+
+*Mr. Greenspan has said that it’s hard to know when asset bubbles truly exist, raising the odds that a pre-emptive strike will unnecessarily damage an otherwise healthy economy. The other school of thought, exemplified by Australia, holds that it’s wiser to pop likely bubbles before they get out of hand. Even if Mr. Greenspan wanted to follow Australia’s lead, he might find it hard to. The U.S. Fed is already raising interest rates at a steady pace. If it moved any faster in an attempt to pop a bubble, it would risk putting the brakes on U.S. economic growth, with potential global consequences.*
+
+The RBA has in fact denied that it is targeting house prices and Governor Macfarlane has argued against the wisdom of doing so.  The article also overlooks the prevalence variable rate mortgages in Australia, which are closely tied to the RBA’s official cash rate.  This gives the RBA much more traction over household disposable income than is available to the Fed.  Targeting house prices with monetary policy is a much riskier proposition in the US than it is in Australia.  Greenspan is right not to follow Australia’s supposed example.

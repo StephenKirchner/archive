@@ -1,0 +1,19 @@
+---
+title: "US Government Debt Default – It’s Happened Before"
+date: "2009-01-27"
+categories: ["Economics", "Financial Markets", "Gold"]
+---
+
+[Alex Pollock](http://www.aei.org/publications/pubID.29262/pub_detail.asp "Alex Pollock") reviews the US government’s 1933 decision to repudiate its gold clause obligations:
+
+> The United States quite clearly and overtly defaulted on its debt as an expediency in 1933, the first year of Franklin Roosevelt’s presidency. This was an intentional repudiation of its obligations, supported by a resolution of Congress and later upheld by the Supreme Court.
+>
+> Granted, the circumstances were somewhat different in those days, since government finance still had a real tie to gold. In particular, U.S. bonds, including those issued to finance the American participation in the First World War, provided the holders of the bonds with an unambiguous promise that the U.S. government would give them the option to be repaid in gold coin.
+>
+> Nobody doubted the clarity of this “gold clause” provision or the intent of both the debtor, the U.S. Treasury, and the creditors, the bond buyers, that the bondholders be protected against the depreciation of paper currency by the government.
+>
+> Unfortunately for the bondholders, when President Roosevelt and the Congress decided that it was a good idea to depreciate the currency in the economic crisis of the time, they also decided not to honor their unambiguous obligation to pay in gold.
+
+The fact that the US defaulted on these obligations demonstrates that a gold standard is only a very weak constraint on government once the decision is made to go off it.  The gold standard fails an important test that all monetary institutions should satisfy, namely that they be politically robust.  It is noteworthy that private and public debt defaults are often associated with the failure of fixed exchange rate regimes, because those who borrow in foreign currencies at the former parity can face a sudden increase in their debt burden.
+
+A floating exchange rate regime, by contrast, is much less likely to give rise to the need for default on debt obligations.  In the case of the US, the ability to borrow in its own currency shifts exchange rate risk to its creditors.  Although this currency risk might be reflected in interest rates, in practice, this seems to be a relatively minor influence on interest rates.  For countries like Australia that are also heavily dependent on foreign borrowing, the exchange rate risk is typically swapped out.  The exchange rate can then carry most of the adjustment to an external shock, without causing significant problems for domestic borrowers.

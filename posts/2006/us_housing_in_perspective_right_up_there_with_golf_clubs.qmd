@@ -1,0 +1,13 @@
+---
+title: "US Housing in Perspective: Right Up There With Golf Clubs"
+date: "2006-10-13"
+categories: ["Economics"]
+---
+
+[Chicago Fed President Mike Moskow](http://www.chicagofed.org/news_and_conferences/speeches/2006_10_12_real_estate.cfm "Chicago Fed President Mike Moskow") puts US housing in broader macroeconomic perspective:
+
+> On average, over the past 50 years residential investment has accounted for a bit under 5 percent of GDP. That’s about a third more than businesses spend building factories, offices, and commercial space, but in the same ballpark as how much households spend on recreation, which includes items such as golf clubs, football tickets, and, as the Commerce Department likes to call it, legitimate theatre and opera.
+>
+> Five percent of GDP sounds small; but residential investment also is highly volatile, and over shorter periods of time it can influence GDP growth a good deal. For example, residential investment increased more than 25 percent and accounted for a full percentage point of GDP growth in 1976. But it fell at close to a 20 percent rate during the twin recessions in 1980 and 1981 and subtracted nearly a percentage point from growth in each of these years.
+>
+> It’s important to remember, though, in the early 1980s mortgage rates were almost 20 percent and the unemployment rate reached nearly 11 percent. The drop in housing then largely was the result of these macroeconomic influences, and not the cause of them. That is, the recessions did not occur because residential investment fell so much; rather, the factors that caused the recessions also resulted in sharp declines in residential investment.

@@ -1,0 +1,19 @@
+---
+title: "Shiller Runs with the Housing Herd"
+date: "2006-08-30"
+categories: ["Economics", "Financial Markets"]
+---
+
+[Robert Shiller and Karl Case](http://online.wsj.com/article/SB115688653772648766.html?mod=opinion_main_commentaries "Robert Shiller and Karl Case") argue that:
+
+> *Deterioration in that intangible housing market psychology is the most uncertain factor in the outlook today.*
+
+Yet in the same op-ed, Shiller and Case provide evidence from trading in their own house price indices on the Chicago Merc that suggests a downturn in house prices is already discounted:
+
+> *The U.S. now has a futures market based on home prices. The market that opened in May at the Chicago Mercantile Exchange is now showing backwardation in all 10 metropolitan areas trading. The backwardation can be expressed as implying a rate of decline of 5% a year for the S&P/Case-Shiller Composite Index by May 2007. Since the margin requirement is only about 2.5%, an investor who is sure that prices cannot actually fall by next May has, on that assumption, a sure return of at least 200% from buying a futures contract, and even more if prices rise at all. But there can’t really be so much “money on the table.” It must be that people really no longer see it as a sure thing that prices won’t start falling across the metro areas.*
+
+Not much uncertainty there.  Shiller and Case also can’t help but invoke these notorious contrarian indicators:
+
+> *the air is now full of talk of a bust. The covers of the New Yorker, the Economist, The Wall Street Journal and virtually every news magazine and newspaper in America has heralded the bursting of the “housing bubble.”*
+
+While Nouriel Roubini likes to portray himself as an out-of-consensus contrarian, both he and Shiller are just running with the herd in calling for a recession on the back of a housing sector downturn.  Yet recessions are rarely caused by events that are well anticipated, which is why they are almost never heralded on the front pages of newspapers until they are already well underway.  Based on the NBER business cycle reference dates, the 2001 recession in the US was all but over by the time it hit the front page.  The expansion began in November 2001, yet as late as the September terrorist attacks, there was still debate about whether or not the US was in recession.

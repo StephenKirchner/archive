@@ -1,0 +1,39 @@
+---
+title: "Credit Controls Won’t Fix Housing"
+date: "2013-10-03"
+categories: ["Economics", "House Prices", "Monetary Policy"]
+---
+
+I have an op-ed in the [AFR](http://www.afr.com/p/opinion/credit_controls_won_fix_housing_L0D0uLpIkeShAFaAbNOBjN) making the case against macro-prudential regulation in relation to lending for housing. Text below the fold (may differ slightly from published version).
+
+News that capital city dwelling prices rose to new record highs in September has been accompanied by the usual hand-wringing and warnings of a housing ‘bubble.’ In fact, recent price increases are far from exceptional from a long-run perspective. The bigger danger is not a house price ‘bubble,’ but that policymakers resort to crude attempts at suppressing demand rather than stimulating housing supply.
+
+Capital city dwelling prices rose 5.5% in the year to September or around 3% in real terms, according to RP Data-Rismark. The strongest gains were seen in Sydney, where dwelling prices rose 8% over the same period or around 5.6% in real terms.
+
+While these gains may sound impressive, it is important to put them in longer-run context. Over the last decade, Sydney house prices have risen only 2.5% per annum, slightly less than the average rate of inflation.
+
+The decade average conceals considerable shorter-term cyclical variation, but it highlights the fact that we should not read too much into short-term price movements. Annualising monthly or quarterly rates of dwelling price inflation makes for good headlines, but may be misleading about longer run trends.
+
+Dwelling prices have benefited from recent reductions in official interest rates by the Reserve Bank. Asset prices, including house prices, are one of the key mechanisms through which changes in monetary policy are transmitted to the rest of the economy.
+
+Far from being a problem, the responsiveness of dwelling prices to changes in official interest rates provides the central bank with useful leverage over the economy. US Federal Reserve Chairman Ben Bernanke would give his right arm for a housing market as responsive to monetary policy as Australia’s. It is ironic that gains in house prices are seen by many commentators as a constraint on Reserve Bank policy rather than evidence that monetary policy is actually working.
+
+The Reserve Bank should not conduct monetary policy on the basis of house prices any more than share prices. The historical record of central banks taking an activist approach to asset price cycles is nothing short of disastrous.
+
+It has been suggested that Australia might borrow from the Reserve Bank of New Zealand and resort to macro-prudential regulation to curb highly leveraged lending for housing. This would be a return to the bad old days of quantitative controls on lending that resulted in non-price credit rationing and was particularly harmful to low income borrowers looking to enter the housing market for the first time.
+
+Housing credit growth in Australia has been on a moderating trend over the last decade and household debt has stabilised relative to disposable income since the global financial crisis.
+
+Many commentators have singled-out the role of investors as a factor driving house prices, include those who may be negatively gearing, foreign investors and more recently self-managed superannuation funds.
+
+Investors play a particularly important role in supplying the rental market. The dwelling stock, including rental housing, must ultimately be owned by someone. Reducing incentives for investment in housing will do more to harm housing supply than limit demand.
+
+The Henry review made clear that reducing incentives for investment in rental housing would lead to severe dislocations in the rental market.
+
+While saving via owner-occupied housing is tax free, this does not mean that housing as such is untaxed. The Centre for International Economics has estimated that 44% of the price of a new home in Sydney reflects the combined effects of explicit and implicit local, state and federal taxes.
+
+According to the National Housing Supply Council, Australia had a national shortage of 228,000 dwellings in 2011. Based on their projections, the demand-supply gap is expected to widen to 663,000 dwellings by 2031.
+
+Increases in house prices are being driven by long-run fundamentals, not excessive leverage or ‘speculation.’
+
+Rather than adopting crude macro-prudential controls, the focus of public policy should be on reducing the tax burden on new housing and freeing-up the supply-side of the housing market so it can accommodate rising demand without putting upward pressure on prices.

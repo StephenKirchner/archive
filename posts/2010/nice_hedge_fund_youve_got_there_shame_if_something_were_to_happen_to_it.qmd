@@ -1,0 +1,19 @@
+---
+title: "Nice Hedge Fund You’ve Got There, Shame if Something Were to Happen to It"
+date: "2010-03-04"
+categories: ["Economics", "Financial Markets", "Rule of Law"]
+---
+
+Governments may sometimes feel threatened by hedge funds (and properly so), but no one beats the [US Justice Department](http://online.wsj.com/article/SB10001424052748704486504575098021150940494.html "US Justice Department") when it comes to bureaucratic intimidation and standover tactics:
+
+> The Justice Department has launched an investigation into whether hedge funds might have banded together to drive down the value of the euro, people familiar with the matter say.
+>
+> In a letter last week, the department has asked hedge funds including SAC Capital Advisors LP, Greenlight Capital Inc., Soros Fund Management LLC and Paulson & Co. to retain trading records and emails relating to the euro, say people who have seen the letter.
+>
+> The letter was dated Feb. 26, the same day a page-one article in The Wall Street Journal outlined a large bet being made in recent weeks by heavyweight hedge funds against the euro, in moves that are reminiscent of the trading action at the height of the financial crisis like bets against Lehman Brothers and other troubled firms…
+>
+> The Justice Department’s letter said the antitrust division “has opened an investigation into agreements among various hedge funds that trade euro contracts,” including contracts to trade euros in the “cash or the derivatives market,” a person familiar with the matter says.
+>
+> The letter requested that the funds “preserve all documents” and electronic communications relating to agreements to trade the euro or communications about agreements to trade currencies, the person says.
+
+As the article notes, the US authorities have a dismal track record in bringing successful prosecutions in these matters, suggesting that bureaucratic intimidation has become an end in itself.

@@ -1,0 +1,21 @@
+---
+title: "The End is Not So Nigh: Roubini Backtracks on Australia and New Zealand (or Does He?)"
+date: "2006-05-16"
+categories: ["Economics"]
+---
+
+At the end of March, [we criticised](../2006/a_roubini_forecast_that_is_dead_on_arrival.qmd "we criticised") Nouriel Roubini’s forecast of a currency and financial crisis in Australia and New Zealand.  Proving his value as a contrarian indicator, Roubini’s post on 28 March coincided exactly with the 2006 lows for both AUD-USD an NZD-USD, which then proceeded to rally strongly.
+
+Roubini [now](http://www.rgemonitor.com/blog/roubini/127611 "now") argues:
+
+*Some critics naively misunde\[r\]stood my blog as implying that all the countries in my list risked the kind of severe financial crisis that was, at that time, hitting Iceland. Obviously I did not mean that Australia or New Zealand risked a severe financial crisis.*
+
+This qualification is far from apparent from his original post.  Indeed, it is Roubini who shows signs of naivety in failing to appreciate institutional characteristics of the Australian and NZ economies and financial markets that we have highlighted on this blog on previous occasions, which make a financial crisis due to exchange rate depreciation laughably improbable. 
+
+From his latest post, however, it appears that doomsday has merely been postponed:
+
+*expect meaningful downward pressures on the Aussie dollar and the New Zealand Kiwi. Such depreciation - given the overall sounder fundamentals - will not lead to the same serious financial distress that emerging market economies with current account deficits (and the even more severe distress that EMs with twin deficits and other financial vulnerabilities) will experience. But it will not be an easy ride for these two currencies and their markets either.*
+
+So apparently we are dealing with only a difference of degree rather than kind.  Again, this distinction was far from evident in Roubini’s original post.  He has also yet to reconcile all this with his bearishness on the USD.  As we argued previously, it is a little difficult for both the US and Australia to experience a currency crisis simultaneously, since this implies that the AUD-USD and NZD-USD exchange rates should be relatively stable.  Hardly the makings of an Australian or NZ currency crisis.
+
+It is pleasing to see Nouriel at least qualify his previous post.  The main flaw in Roubini’s analysis is the way he persists in applying the Asian financial crisis paradigm that made his reputation in the late 1990s as an all-purpose analytical framework, regardless of the institutional realities of the countries in question.  It is a framework that doesn’t even fit emerging Asia anymore, much less Australia and the United States.  It’s time for Nouriel to get a new shtick.

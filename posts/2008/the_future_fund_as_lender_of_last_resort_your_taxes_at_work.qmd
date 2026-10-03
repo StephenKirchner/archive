@@ -1,0 +1,9 @@
+---
+title: "The Future Fund as Lender of Last Resort?  Your Taxes at Work"
+date: "2008-06-12"
+categories: ["Economics", "Financial Markets"]
+---
+
+Sources being quoted by [Reuters](http://www.reuters.com/article/rbssFinancialServicesAndRealEstateNews/idUSSYD31926120080612 "Reuters") suggest that Australian banks are raising term funding from the Future Fund.  ANZ has supposedly raised about A\$500 million this way.  A Commonwealth Bank spokesman is quoted as saying that it looked at all funding options and “the Future Fund is clearly emerging as a future source of funding.” 
+
+From a capital raising and portfolio management perspective, this lending would make good commercial sense and is fairly low risk.  However, it does raise some interesting issues as to whether the Future Fund may come to be seen as a de facto lender of last resort.  This also may not play well politically if the perception is that taxpayers are involved in subsiding bank capital.  It should make for some interesting questions at Senate estimates (hint for Coalition staff!).  Future Fund Chairman David Murray has previously argued that the Future Fund would serve to lower the cost of capital for Australian business, which effectively concedes the point that the Fund is providing a more or less explicit subsidy through such lending.

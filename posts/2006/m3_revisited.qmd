@@ -1,0 +1,17 @@
+---
+title: "M3 Revisited"
+date: "2006-06-01"
+categories: ["Economics"]
+---
+
+I suspect very few of the fever swamp Austrians and tin foil hat brigade who lamented the demise of M3 ever actually made any serious use of these data.  Not that they would get much out of it even if they tried, as [James Hamilton](http://www.econbrowser.com/archives/2006/05/m3_or_not_m3.html "James Hamilton") argues:
+
+I have to confess that in a quarter century of teaching and research, I never had any occasion to make use of M3. It always seemed to me that this unambiguously failed the definition of an asset that is used to pay for transactions. If you’re going to include such assets in your concept of “money”, why stop there? Don’t you want to include T-bills as well, and if them, why not Treasury bonds? You have to stop somewhere, and I always stopped with M1 or M2.
+
+In addition, a primary reason for focusing on the money supply for policy purposes is that it’s a magnitude controlled by the government. The physical dollar bills are of course printed by the government, and a bank that issues checking accounts must hold credits that could be used to obtain physical dollars (known as Federal Reserve deposits) in a certain proportion to the value of the outstanding checkable deposits. However, it is unclear how the government is supposed to control the M3 components. Balances at foreign banks, for example, are clearly outside the control of the U.S. government.
+
+I was thus a bit surprised at the brou-ha-ha that erupted over the Fed’s decision to discontinue requiring banks to provide the data that was used to calculate some components of M3. These concerns continue to bubble up in comments from Econbrowser readers.
+
+I’m aware of no evidence suggesting that M3 helps predict U.S. inflation or economic activity better than M2.
+
+I discuss the extent to which we should be concerned with broad money aggregates in my [review](http://www.institutional-economics.com/index.php/section/comments/money_and_asset_prices_in_boom_and_bust_by_tim_congdon/ "review") of Tim Congdon’s, *Money and Asset Prices*.

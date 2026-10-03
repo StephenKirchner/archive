@@ -1,0 +1,15 @@
+---
+title: "The Neutral Fed Funds Rate and the Bond Yield ‘Conundrum’"
+date: "2005-04-29"
+categories: ["Economics"]
+---
+
+One of the main problems with the dominant neo-Wicksellian paradigm for monetary policy is that it is organised around a latent variable: the neutral or equilibrium real interest rate.  There is currently a debate as to whether the neutral real interest rate for the US has declined, implying that US monetary policy is now rather closer to neutral than past experience would suggest.  The AEI’s resident monetary policy dove, [John Makin](http://www.aei.org/publications/filter.all,pubID.22383/pub_detail.asp "John Makin"), makes an argument along these lines.
+
+I don’t have a strong view on this, but given the role of expectations for the Fed funds rate in determining the yield curve, this strikes me as a plausible explanation for the so-called bond yield ‘conundrum.’  If the market takes the view that monetary policy settings are already neutral, while at the same time pricing further increases in the Fed funds rate, then it makes perfect sense for the market to also price a flat yield curve in the expectation that growth and inflation will moderate in the future.  In effect, the market is saying that it expects the Fed to overshoot neutral.
+
+This is certainly a more compelling explanation for the ‘conundrum’ than the standard cop-out that bonds are experiencing a ‘bubble,’ a term now so overused as to be bereft of any analytical content.  Obviously, the Fed thinks differently, otherwise it would not be expressing puzzlement over currently observed bond yields. 
+
+Australia is in a similar situation, with the RBA’s official cash rate still below its previous cyclical peak and with the yield curve already seeing a modest inversion.  In Australia, the market is moderating its tightening expectations, partly on the basis that an inverse yield curve implies a restrictive policy stance.
+
+One of the ways we discover the equilibrium real rate is by either under or overshooting it.  The resulting boom or recession reveals the otherwise unobservable equilibrium rate.  Central bankers face a knowledge problem every bit as acute as that faced by any other central planner trying to fix an equilibrium price.

@@ -1,0 +1,11 @@
+---
+title: "More Anti-‘Bubble’ Popping"
+date: "2009-06-24"
+categories: ["Economics", "Financial Markets", "Monetary Policy"]
+---
+
+BoE chief economist [Spencer Dale](http://www.bankofengland.co.uk/publications/speeches/2009/speech395.pdf "Spencer Dale"), on the evils of ‘bubble’ popping:
+
+> Short-term interest rates are a blunt instrument best deployed maintaining a broad balance between nominal demand and supply. They are not well suited to the task of managing asset price bubbles and economic imbalances. They may be wholly ineffective in addressing some types of imbalances, particularly those with an international dimension. And, even for domestic imbalances, short-term interest rates would probably need to be held substantially higher for a persistent period in order to suppress rapid rises in asset prices or growing imbalances. Such policy actions could generate significant economic costs. 
+>
+> The practical difficulty of implementing a policy of “leaning against the wind”, where the main policy instrument is short-term interest rates, should not be underestimated. If, as policymakers, we were successful in preventing a bubble from inflating, it might appear as if we were responding to phantom concerns. The bubble or imbalance would be nowhere to be seen, but interest rates would be higher, inflation would undershoot the inflation target and we would appear to have inflicted unnecessary economic hardship. That could undermine public faith and support in both the inflation target and the MPC.

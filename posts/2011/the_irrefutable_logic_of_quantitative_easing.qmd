@@ -1,0 +1,9 @@
+---
+title: "The Irrefutable Logic of Quantitative Easing"
+date: "2011-12-13"
+categories: ["Economics", "Financial Markets", "Monetary Policy"]
+---
+
+A useful thought experiment from [Robert Hetzel](http://www.cato-unbound.org/2011/12/12/robert-hetzel/tim-congdon-on-liquidity-traps-vs-portfolio-rebalancing/print/):
+
+> *The institutional fact that makes a liquidity trap an irrelevant academic construct is the unlimited ability of the central bank to create money. One can make this point in an irrefutable manner by noting that the logical conclusion to unlimited open-market purchases is that the central bank would end up with all the assets in the economy including interest-bearing government debt, and the public would hold nothing but non-interest-bearing money. Because that situation is untenable, individuals would work backward from that endpoint and begin to run down their money balances and stimulate expenditure in the current period.*

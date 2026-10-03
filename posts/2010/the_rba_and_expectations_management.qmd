@@ -1,0 +1,11 @@
+---
+title: "The RBA and Expectations Management"
+date: "2010-02-05"
+categories: ["Economics", "Financial Markets", "Monetary Policy"]
+---
+
+The RBA’s decision to leave the OCR unchanged at its February Board meeting is the subject of a lengthy discussion by Adrian Rollins in yesterday’s AFR.  The discussion centres on whether the surprise decision was a failure by the market to interpret the signals being sent by the RBA, or whether it was a failure on the part of the RBA to appropriately condition market expectations.  This is a joint problem, but one made worse because the RBA is not very good at communicating in a consistent, systematic and structured way.
+
+This is an issue that is more serious than just wrong-footing the market over the outcome of a given Board meeting.  Expectations for the future real official cash rate are critical to the transmission of monetary policy and are probably more important to the stance of policy than the actual cash rate.  Changes in these expectations can even substitute for changes in the actual policy rate.  Poor communication can lead to the effective stance of policy being easier or tighter than the Bank intends, requiring a more activist approach to changes in the OCR than would otherwise be necessary. 
+
+For example, it was not unusual for the market to periodically price in a new easing cycle during the 2002-2008 tightening episode.  This de facto easing in policy contributed to inflation getting out of control and increased the amount of tightening ultimately required.  It is thus very much in the RBA’s interests to ensure that market expectations align with its views.

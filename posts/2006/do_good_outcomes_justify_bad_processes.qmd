@@ -1,0 +1,17 @@
+---
+title: "Do Good Outcomes Justify Bad Processes?"
+date: "2006-09-18"
+categories: ["Economics"]
+---
+
+Since the Treasurer and incoming Governor of the Reserve Bank have largely [recycled](http://www.rba.gov.au/MonetaryPolicy/third_statement_on_the_conduct_of_monetary_policy_2006.html "recycled") the previous Joint Statement on the Conduct of Monetary Policy to coincide with commencement of Glenn Stevens’ term as RBA Governor, it seems like a good occasion for me to [recycle](http://www.cis.org.au/policy/spring04/spring04-9.pdf "recycle") my previous criticisms of the governance arrangements for Australian monetary policy. 
+
+A curious feature of this and previous Joint Statements is the assertion that:
+
+> *The Government and Bank continue to recognise that outcomes, and not the arrangements underpinning them, will ultimately measure the quality of the conduct of monetary policy.*
+
+At one level, this is an unexceptional statement: we do not want to privilege processes over outcomes.  Yet by the same token, we are not indifferent to the way in which policy outcomes are achieved either.  The fact that the government and RBA feel the need to say something about this betrays a certain defensiveness about the RBA’s governance arrangements, implicitly recognising that they are out of step with world’s best practice.
+
+The RBA’s successful track record in the implementation of policy since the early 1990s effectively backs its claim that the ‘Nike’ or ‘just do it’ approach it shares with the Fed makes statutory reform of the RBA Act to put in place a more rigorous transparency and accountability regime unnecessary.  There are also some supporting empirical studies, although isolating the effect of institutional arrangements on macro and financial market outcomes can be a fiendishly difficult exercise.
+
+At the same time, the RBA has never gone so far as to say that a reformed governance framework would be detrimental to monetary policy outcomes (its actions with the government before the AAT in suppressing the release of information about the Board’s deliberations notwithstanding).  What the government and RBA fail to recognise is that reform of the governance arrangements for the Bank may have procedural value that is independent of its implications for the actual conduct of monetary policy.  Even if the actual policy outcomes were the same, the worst that could be said of a reformed governance framework is that these arrangements are superfluous.  In fact, transparency and accountability are to be valued in their own right and not just for their implications for policy outcomes.  Good policy outcomes are ultimately a poor justification for bad policy processes.

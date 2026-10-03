@@ -1,0 +1,9 @@
+---
+title: "What COVID-19 means for Australian productivity"
+date: "2020-04-23"
+categories: ["Economics"]
+---
+
+I have a piece at the Committee for the Economic Development of Australia [blog](https://www.ceda.com.au/Digital-hub/Blogs/CEDA-Blog/April-2020/What-COVID-19-means-for-Australian-productivity) on the implications of the current pandemic for Australian labour productivity based on my recent report for USSC.
+
+David Uren also writes up my report for the Australian Strategic Policy Institute blog, [The Strategist](https://www.aspistrategist.org.au/economic-recovery-from-coronavirus-means-resisting-the-urge-to-back-away-from-globalisation/).

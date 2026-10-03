@@ -1,0 +1,11 @@
+---
+title: "ASIC Shuts Down Betting on RBA Board Meetings and the ASX 200"
+date: "2010-04-11"
+categories: ["Economics", "Financial Markets", "Monetary Policy"]
+---
+
+ASIC is seeking to prevent Centrebet from offering betting markets on the outcome of RBA Board meetings and the ASX 200 index, on the grounds that the bets are derivatives within the meaning of the Corporations Act.  [Sinclair Davidson](http://catallaxyfiles.com/2010/04/08/asic-on-derivatives/ "Sinclair Davidson") and [Ian Ramsay](http://www.theage.com.au/business/asic-moves-to-stop-rates-betting-20100409-rwuc.html "Ian Ramsay") both suspect regulatory protectionism is at work:
+
+> *Professor Ramsay said ASIC may have turned its attention to the bookmaker following a complaint from a competitor after it set up a market on the ASX200 share price index in March.*
+
+This will simply divert betting interest to offshore markets like [iPredict](https://www.ipredict.co.nz/ "iPredict"), which enjoys the support of the Reserve Bank of New Zealand.

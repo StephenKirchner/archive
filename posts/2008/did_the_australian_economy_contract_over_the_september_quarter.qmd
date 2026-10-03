@@ -1,0 +1,11 @@
+---
+title: "Did the Australian Economy Contract over the September Quarter?"
+date: "2008-12-01"
+categories: ["Economics", "Financial Markets"]
+---
+
+The consensus forecast for September quarter GDP growth to be released on Wednesday is 0.2%, with growth through the year seen at 1.9%.  Market forecasts range from -0.3% q/q to 0.5% q/q.  Dusting off the old top-down GDP model, I also get 0.2% q/q. 
+
+Growth would then have to accelerate slightly to 0.3% in the December quarter to be consistent with the RBA’s year-end forecast of 1.5%.  That may be a tall order given what is happening both domestically and globally, but by no means impossible.
+
+The market is expecting a 75 bp reduction in the official cash rate to 4.5% tomorrow.  With the RBA’s forecast for underlying inflation for the December quarter at 4.5%, the real cash rate will effectively be zero.

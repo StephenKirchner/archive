@@ -1,0 +1,19 @@
+---
+title: "The Fix is In"
+date: "2010-04-23"
+categories: ["Economics", "House Prices"]
+---
+
+In a [previous post](../2010/data_are_the_more_than_just_the_plural_of_anecdote.qmd "previous post"), I warned that:
+
+> *The danger now is that the government implements another of its short-term political fixes ahead of this year’s federal election and re-tightens the rules \[on foreign direct investment in residential property\] rather than addressing the supply-side constraints besetting Australian residential property.*
+
+In the event, we have [this](http://www.theage.com.au/national/canberra-states-probe-home-prices-20100421-t2ih.html "this"):
+
+> FEDERAL and state governments have commissioned a working party of officials to hold a no-stone-unturned inquiry into all factors contributing to record house prices, as Labor senses the issue is becoming a political danger.
+>
+> The inquiry, to deliver its first report within weeks, will examine sensitive areas such as tax breaks for negative gearing, land banking by developers, and whether grants to first home buyers push up house prices.
+
+More wide-ranging than I expected, but also a waste of time, something the government is fast running out of ahead of this year’s federal election.  As [Christopher Joye](http://christopherjoye.blogspot.com/2010/04/government-housing-review-waste-of-time.html "Christopher Joye") notes, these issues have already been extensively studied and the policy solutions are well-known.  The likely outcome is a short-term political fix designed to serve as a holding action ahead of the election. Do we really need an inquiry into whether grants to first home buyers push up house prices?  Even Steve Keen and I agree on that. Did we really need a [review by a former senior public servant](http://www.theaustralian.com.au/politics/bn-to-fix-pms-insulation-debacle/story-e6frgczf-1225857183949 "review by a former senior public servant") to tell us that the home insulation program was a waste?
+
+While the Prime Minister has an underserved reputation as a policy wonk, the reality is that he is what former Prime Minister Paul Keating would call a ‘policy bum’.

@@ -1,0 +1,17 @@
+---
+title: "The Perception that Will Not Die"
+date: "2010-10-06"
+categories: ["Economics", "Financial Markets", "Monetary Policy"]
+---
+
+The RBA wrong-footed the market and commentariat with Tuesday’s steady rates decision, although not quite as comprehensively as a similar decision back in February. The February decision provided a rather convenient backdrop for RBA Governor Glenn Stevens’ appearance before the House Economics Committee later that month, where he was [questioned](../2010/the_rba_and_the_media.qmd "questioned") about RBA media backgrounding and said that ‘people do not leak the outcome’.
+
+Despite the wrong-footing of the commentariat, most notably Terry McCrann, this has still not laid to rest financial market perceptions that the RBA engages in media backgrounding of selected journalists. [Chris Joye quotes Kieran Davies](http://christopherjoye.blogspot.com/2010/10/rba-changes-communications-strategy.html "Chris Joye quotes Kieran Davies"):
+
+> *note that the surprise decision today potentially signals a change in communication strategy by the Reserve Bank. In the past, the Bank has been fond of guiding the market via indirect signalling via the media. That hasn’t been the case this month, but it is not clear whether the Bank has permanently closed this channel.*
+
+Governor Stevens’ denial before the House Economics Committee and the wrong-footing of the commentariat has yet to convince those in financial markets. Having played favourites with the media for so long, it will be hard for the Bank to finally put this perception to rest.
+
+For the record, here is what a former RBA official had to say in the *AFR Magazine* in 2001:
+
+> *The Bank uses newspapers to manage expectations.  It’s a game the Bank manages very well.  Senior people talk to a small handful of the economics writers from the major papers on a strictly non-attributable basis.  I think it’s right to do this from the bank’s point of view, but not necessarily from a public policy view: accountability and a critical press are very important in this system.*

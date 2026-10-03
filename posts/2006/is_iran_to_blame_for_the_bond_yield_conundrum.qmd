@@ -1,0 +1,17 @@
+---
+title: "Is Iran to Blame for the Bond Yield ‘Conundrum’?"
+date: "2006-01-04"
+categories: ["Economics"]
+---
+
+[Kevin Hassett](http://www.aei.org/publications/filter.all,pubID.23636/pub_detail.asp "Kevin Hassett"), drawing on Robert Barro’s work on ‘[Rare Events and the Equity Premium](http://post.economics.harvard.edu/faculty/barro/papers/equity%20premium%2004-29.pdf "Rare Events and the Equity Premium"),’ asks whether the prospect of a show-down over Iran’s nuclear program might be responsible for low bond yields:
+
+If Barro is right, long-term rates may depend on low- probability geopolitical variables. And the effects may be enormous, perhaps even dwarfing the effects of traditional variables such as the deficit.
+
+Barro clarified this connection in a recent interview: “A small increase in this kind of risk—as an example, due to the Sept. 11th events—leads to a noticeable response in real interest rates. When this probability goes up, the risk-free rate goes down because people put more of a premium on holding a relatively safe asset.”…
+
+there has been a movement that is consistent with the Barro story. [Intrade.com](http://www.intrade.com/apply.jsp?heardFromPromotionDetail=s0545138709r "Intrade.com") offers a futures contract that pays off if the U.S. or Israel bombs Iran between now and the end of March 2007. That probability has soared in recent weeks, and stood at a sobering 31.6 percent on Dec. 30…
+
+Iran, not Iraq, may be the big story of 2006, both politically and economically.
+
+I prefer a monetary policy credibility explanation for low bond yields, but would agree that Iran will loom large this year.

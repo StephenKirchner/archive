@@ -1,0 +1,9 @@
+---
+title: "RBA Governor Stevens on US Housing"
+date: "2006-10-11"
+categories: ["Economics"]
+---
+
+Reserve Bank of Australia Governor [Glenn Stevens](http://www.rba.gov.au/Speeches/2006/sp_gov_111006.html "Glenn Stevens"), on the housing downturn in the US:
+
+> *With the effects of a buoyant housing market thought to have been an important expansionary force in the US in earlier years, the recent change in sentiment in that market is understandably regarded as significant. Australian experience suggests, as does that of the UK, that the end of a housing price boom can have noticeable effects on aggregate demand. But those experiences also suggest that such effects are manageable. In Australia’s case, the resources boom coincided with the housing moderation and helped to dampen its effects, but that has not been the case for the UK, which has had broadly similar economic outcomes to our own. On this basis, one would think that there are reasonable prospects for moderate growth in the US economy in the period ahead. But this is obviously an area of uncertainty, and even a favourable outcome involves slower growth in US aggregate demand in the future than we have tended to see over most of the past decade.*

@@ -1,0 +1,19 @@
+---
+title: "Bernard Keane Wrong on Tax Expenditures"
+date: "2010-05-14"
+categories: ["Economics", "Fiscal Policy"]
+---
+
+Writing in [Crikey](http://www.crikey.com.au/ "Crikey"), Bernard Keane says:
+
+> *Every year the government forgoes more than \$100 billion in tax revenue courtesy of exemptions and concessions in the tax system.*
+
+This is an all-too-common journalistic error that stems from a misreading (or failure to read) the Treasury’s [Tax Expenditures Statement](http://www.treasury.gov.au/documents/1719/PDF/TES_2009_Consolidated.pdf "Tax Expenditures Statement").  Here is how Treasury describes its methodology:
+
+> The estimates of tax expenditures in this statement are prepared under the ‘revenue forgone’ approach which calculates the value of tax expenditures in terms of **the benefit to the taxpayer** of the tax provisions concerned…
+>
+> Revenue forgone estimates differ from budget revenue estimates because they are estimated relative to different benchmarks…**It does not necessarily follow that there would be an equivalent increase to government revenue from the abolition of the tax expenditure**.
+>
+> the revenue forgone approach requires only a single consistent assumption regarding behavioural responses to removing a concession (no behavioural change) which allows the value of a tax concession to be based on the actual (or projected) level of transactions.
+
+The critical assumption of no behavioural change invalidates Keane’s inferences about the implications of various tax expenditures for budget revenue.

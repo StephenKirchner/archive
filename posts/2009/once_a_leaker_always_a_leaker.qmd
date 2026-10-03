@@ -1,0 +1,11 @@
+---
+title: "Once a Leaker, Always a Leaker"
+date: "2009-12-02"
+categories: ["Economics", "Financial Markets", "Monetary Policy"]
+---
+
+The following observation from a [London-based hedge fund trader](http://macro-man.blogspot.com/2009/12/ice-ice-baby.html "London-based hedge fund trader") is perhaps representative of offshore perceptions of monetary policy in Australia:
+
+> *The RBA hiked rates again overnight, in line with leaks yesterday but contrary to some speculation at the height of the Dubai panic.*
+
+I don’t think there were any leaks on this occasion.  Friday’s Reuters poll had all but one respondent expecting a 25 bp tightening, despite Dubai.  But it shows that the perception that the RBA is a leaker is well entrenched in financial markets.

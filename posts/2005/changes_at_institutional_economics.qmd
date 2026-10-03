@@ -1,0 +1,11 @@
+---
+title: "Changes at Institutional Economics"
+date: "2005-02-03"
+categories: ["Misc"]
+---
+
+The web site is undergoing a few changes, which should come on-line in the next week or so.  This also involves a host migration, so there may be some minor discontinuity in service.  The new site will add a number of features readers have been asking for, including permalinks, RSS syndication and comments, among others.
+
+Readers will be familiar with the problems associated with open comments facilities.  As with all problems associated with the public sphere, the solution is to turn public space into private space (privatisation is the solution to everything!)  Those wanting to post comments will need to register as members of the site via a double opt-in email procedure.  While I appreciate that yet another registration is the last thing you all need, it has some advantages, including allowing you to set your own user preferences for things such as email notification of posts.  Members are welcome to use screen names to preserve their anonymity when commenting and can hide their email address, but I will need to be convinced that you are legit before approving your registration.  Since I know many of you personally (or at least know of you), this should hopefully not be a major problem.  If your attempt at registration gets bounced, just send me a note introducing yourself.  Rest assured your email address will not be made available to third parties.
+
+I will make a further announcement when the new site is on-line.

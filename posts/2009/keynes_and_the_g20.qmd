@@ -1,0 +1,61 @@
+---
+title: "Keynes and the G20"
+date: "2009-03-28"
+categories: ["Economics", "Fiscal Policy"]
+---
+
+Tony Aspromourgos and I debate ‘Should Keynes Have a Seat at the G20 Table’ in today’s *AFR*.  Text below the fold (may differ slightly from edited *AFR* version).
+
+As if to help my case about the political imperatives driving fiscal stimulus, the *AFR’s* Smart Money section includes a feature called ‘The Great Australian Giveaway’:
+
+> Everybody loves a freebie, especially when money is tight and there are plenty of rebates, subsidies and handouts available from all levels of government, if you know where to look and what to ask for…
+>
+> The free-for-all is not restricted to the working families beloved of politicians.
+
+As [Bastiat](http://bastiat.org/en/government.html "Bastiat") said, ‘government is the great fiction through which everybody endeavors to live at the expense of everybody else.’
+
+If the leaders of the G20 nations and the International Monetary Fund are to be believed, activist fiscal policy is essential to save the global economy from an even deeper and more protracted downturn.  In this context, it is not surprising that many commentators, including Prime Minister Kevin Rudd in his recent essay for The Monthly, should turn to the work of John Maynard Keynes for inspiration.  For they will find very little support for activist fiscal policy in contemporary, mainstream economic thought.
+
+As University of Chicago professor John Cochrane has observed, even ‘Keynesians gave up by the 1970s… in textbooks and graduate curriculums \[fiscal\] stimulus is presented at best as quaint history of thought with no coherent defence that one should believe it in the context of modern economics.  At worst, it is presented as a classic fallacy.’  Contrary to the claims of the Prime Minister, traditional Keynesian fiscal policy is now very far removed from ‘standard economics 101’.
+
+The rational expectations revolution that swept through the economics profession in the 1970s dealt a death-blow to the remnants of Keynesian economics and the belief in activist macroeconomic policy.  Even ‘New Keynesian’ macroeconomics is notable mainly for its capitulation to the key insights derived from neo-classical economics, in particular, the importance of expectations and the way private sector behaviour adapts to frustrate the efforts of policymakers to manage the economy.
+
+New Keynesian macroeconomics emphasises rule-based, forward-looking monetary policy as the primary policy instrument for macroeconomic stabilisation.  Traditional Keynesian fiscal policy barely features in this framework.
+
+The collapse of traditional Keynesian economic thinking was not just theoretical.  The demise of Keynesianism in theory was largely inspired by decades of failed Keynesian policy practice. 
+
+You do not need to accept the word of ivory tower economists on this issue.  Just ask some of the people who have actually tried Keynesian policies.  Henry Morgenthau Jr, US Treasury Secretary under President Franklin Roosevelt between 1934 and 1945, came to lament years of failed fiscal stimulus efforts:
+
+“We have tried spending money. We are spending more money than we have ever spent before, and it does not work. … I want to see the country prosperous. I want to see people get a job. I want to see people get enough to eat. We have never made good on our promises. I say, after eight years of this administration, we have just as much unemployment as when we started … and an enormous debt to boot.”
+
+Contrary to popular myth, the New Deal and the Keynesian economics which came to inspire it, was a monumental failure.  There is a growing body of scholarship demonstrating that it was government intervention that put the ‘great’ into the Great Depression of the 1930s.  It is laughable that the worst economic disaster in the last century is still held up by some as the paradigmatic example of the success of Keynesianism and government intervention.
+
+Harvard economist Robert Barro has estimated the Keynesian fiscal policy ‘multiplier’, which measures the effect of increased government spending on economic growth.  Barro finds little evidence for a positive multiplier effect in the US, except in the extreme case of World War Two.  This exception only proves the rule and is subject to the important proviso that the war-time regime of administered prices renders the economic data unreliable at best.  But at least we had something to show for World War Two.  It is unlikely the US will look back on its current stimulus efforts with the same sense of accomplishment.
+
+If governments could successfully stimulate their economies, why would we ever need to experience a major economic downturn?  If the traditional Keynesian multiplier analysis is correct, surely it is just a matter of applying the right amount of fiscal stimulus to turn the economy around.
+
+As the current enthusiasm of the G20 for fiscal stimulus demonstrates, its failure is not for want of trying.  The IMF gave the game away when it recently prefaced its call for more fiscal stimulus by noting that ‘despite major stimulus packages announced by advanced economies and several emerging markets, trade volumes have shrunk rapidly, while production and employment data suggests that global activity continues to contract.’  You don’t say!
+
+The Obama Administration came into office confronting a budget deficit of 8.3% of GDP, already an unprecedentedly easy fiscal policy stance for the US economy in peace-time.  If a budget deficit of this magnitude hasn’t already stimulated the US economy, why would new measures, taking the US deficit to around 12% of GDP, make the difference between an economic downturn and recovery?
+
+Similarly, the spectacular turnaround in the Australian government’s budget balance could not prevent a contraction in economic activity in the December quarter.  The government tells us that stimulus has not yet had time to work, but you can be sure the government will announce further stimulus measures in its May Budget.  When it comes to activist fiscal policy, nothing succeeds like failure.
+
+Activist fiscal policy doesn’t work, because governments cannot generate new economic activity.  They can only redistribute the income and wealth of the private sector.  This redistribution can take place across different sectors of the economy or across time. 
+
+Many fiscal stimulus measures simply divert resources from one sector of the economy to another, rather than bringing unemployed labour and capital back into employment.  In any event, economic downturns are rarely purely cyclical affairs.  They frequently signal the need for structural change in the economy and the reallocation of capital and labour to more highly valued uses.  Those measures that are specifically directed at unemployed resources can prolong an economic downturn by interfering with the reallocation of capital and labour that is needed before recovery can begin.
+
+Governments do not become any better at allocating resources because there is an economic downturn.  Indeed, the political imperatives that drive fiscal stimulus measures mean that the quality of government decision-making frequently becomes worse.
+
+The attempt by governments to bring forward demand through unfunded fiscal stimulus measures assumes that people suffer from fiscal illusion and cannot foresee the future tax increases that will be required to pay for these measures.  To the extent that people anticipate an increase in their future tax burden due to unfunded government spending, they will increase their saving to offset public sector dissaving.
+
+The increased public sector debt associated with unfunded stimulus measures leads to the crowding-out of private capital.  This might not seem a major concern in the context of an economic downturn, when the private sector’s call on capital markets is reduced.  However, the enthusiasm of governments for fiscal stimulus in a downturn is never matched by their enthusiasm for fiscal consolidation when the economy improves.  Budget deficits persist well beyond the recovery and the legacy of public sector debt reduces the private capital accumulation and productivity that are the main drivers of economic growth in the long-run.
+
+Keynes never saw this as a problem, because his 1936 General Theory provided theoretical support for the ‘secular stagnation’ hypothesis that came to dominate macroeconomic thinking in the late 1930s.  This hypothesis maintained that the world’s advanced economies had already exhausted the investment opportunities available to them.  There was no point to further saving or capital accumulation, since the marginal efficiency of capital was bound to approach zero.  The General Theory thus looked forward to ‘the euthanasia of the cumulative oppressive power of the capitalist to exploit the scarcity-value of capital.’ 
+
+Far from providing a rationale for temporary, short-term fiscal stimulus, Keynes saw his ideas mandating permanent government intervention in the economy to maintain ‘full employment’ as a counter-weight to permanent stagnation.
+
+The ‘secular stagnation’ hypothesis became so influential, it was the basis for Alvin Hansen’s 1938 Presidential Address to the American Economic Association.  At the end of World War Two, it was widely assumed by Keynesian economists that Western economies would once again revert to their pre-war depressed state.  Even into the 1960s, Keynesian economists thought that economic growth in the Soviet Union would eventually see it overtake living standards in the West because of the superiority of central planning.
+
+In the event, the post-war expansion of the Western economies refuted the secular stagnation hypothesis and the Keynesian view that the productivity of capital could be exhausted.  The apparent empirical basis for the Keynesian theoretical edifice collapsed.  The vast improvements we have seen in global living standards since World War Two was a possibility Keynes could not even imagine, much less explain.
+
+The relevance of Keynes today is little changed from his relevance to the 1930s.  Keynes provided a fig-leaf of intellectual respectability for the bad policies governments have always been tempted to implement.  While politicians have never needed much encouragement to spend our money, there will always be a strong demand for pseudo-scientific doctrines to rationalise their actions.

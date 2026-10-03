@@ -1,0 +1,15 @@
+---
+title: "Cranking Up the Wayback Machine on Stephen Roach"
+date: "2006-06-18"
+categories: ["Economics", "Financial Markets"]
+---
+
+Stephen Roach accuses central banks of promoting ‘bubbles’ through excessively accommodative monetary policies.  So I thought I would dig up [what Roach had to say](http://www.morganstanley.com/GEFdata/digests/20030627-fri.html "what Roach had to say") at the time of the last Fed easing in 2003 (emphasis added):\
+
+> the key objective for the authorities is to get the US economy back to a sustainable 4% growth pace - and hold it there for several years.  That’s the only way the deflationary gap between aggregate supply and demand can be closed once and for all.  A temporary growth spurt won’t do the trick, and yet that’s a classic symptom of a **post-bubble economy**.  I continue to fear that a **post-bubble US economy plagued by a lack of policy traction** will be unable to complete the critical transition from subpar to rapid growth.  And that underscores the **ultimate risk: A persistence of subpar growth in the current climate could take the US economy further down the slippery slope toward outright deflation**.
+>
+> Once again, financial markets are telling me that I’m dead wrong.  The sharp run up in equities speaks of expectations of a sustained upturn in earnings that only a vigorous economy could deliver.  The recent sharp sell-off in Treasuries speaks of a bond market that now believes that the Fed has done enough to fight deflation and spark a snapback in the real economy.
+>
+> Yet, if I’m even close to being right on the economy, the markets could well be blindsided by the next in a long string of relapses.
+
+That’s the problem with Roach: you are either in a ‘bubble’ or a ‘post-bubble.’  The ‘bubble’ paradigm is an all-purpose analytical framework that explains everything and nothing.

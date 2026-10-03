@@ -1,0 +1,17 @@
+---
+title: "FIRB Transparency and the Colmer Doctrine Revisited"
+date: "2012-02-29"
+categories: ["Economics", "Financial Markets", "Foreign Investment"]
+---
+
+Nomura’s head of mergers and acquisitions, Grant Chamberlain, has called for greater transparency in the regulation of foreign direct investment, as reported in [The Australian](http://www.theaustralian.com.au/business/mergers-acquisitions/call-for-clarity-on-foreign-takeovers/story-fn91vdzj-1226284436715):
+
+> There were generally clear guidelines when it came to FIRB policy, but “but when it comes to SOEs, the picture changes”.
+>
+> He said the only public information recently had been the “Colmer doctrine”, comments made by then FIRB executive director Patrick Colmer at a conference on Australia-China investment in September 2009.
+>
+> Mr Colmer said the Australian government preferred that foreign investment by state-owned enterprises was kept to less than 50 per cent for greenfields projects and less than 15 per cent for major producers.
+>
+> Mr Chamberlain said that it was impossible to actually get a copy of Colmer’s comments and that there was confusion about what would be considered as a “major producer”.
+
+In fact, it is possible to get a copy of the speech [here](../../files/colmer.pdf), but only due to a Freedom of Information request I made of the FIRB. The saga behind the speech and my efforts to obtain a copy are detailed in this op-ed in [The Australian](http://www.theaustralian.com.au/news/opinion/more-inscrutable-than-the-chinese/story-e6frg6zo-1225831954203). Chamberlain’s speech proves the point I made in my original FOI application that releasing the speech was in the public interest.

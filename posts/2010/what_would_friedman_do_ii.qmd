@@ -1,0 +1,13 @@
+---
+title: "What Would Friedman Do II?"
+date: "2010-11-04"
+categories: ["Economics", "Financial Markets", "Monetary Policy"]
+---
+
+[Allan Meltzer](http://online.wsj.com/article/SB10001424052748704462704575590721000212144.html?mod=WSJ_Opinion_LEFTTopOpinion "Allan Meltzer") claims Friedman would not support QE, but undermines his argument when he says:
+
+> Friedman made an exception to his rule about steady-state monetary policy in case of deflation. When prices fell, as they had during the Great Depression or in Japan in the 1990s, he urged the central bank to increase money growth. I served as one of two honorary advisers to the Bank of Japan in the 1990s. With short-term rates close to zero, I gave the same advice, urging the bank several times to buy long-term bonds or foreign exchange to increase money growth until deflation ended.
+>
+> All this is not relevant now, since there is no sign of deflation in the United States. The Fed’s claim that there is a risk of deflation should embarrass it.
+
+That last paragraph is unavoidably a judgement call. Meltzer may be right in his judgement, but he has all but conceded the point that if deflation is a significant risk, then QE is the right response. [Here are my reasons for thinking that it is](http://www.smh.com.au/business/bond-market-vigilantes-should-weigh-risks-of-continued-inactivity-20100412-s43b.html "Here are my reasons for thinking that it is").

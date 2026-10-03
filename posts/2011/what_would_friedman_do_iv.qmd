@@ -1,0 +1,9 @@
+---
+title: "What Would Friedman Do IV?"
+date: "2011-05-30"
+categories: ["Economics", "Monetary Policy"]
+---
+
+Yes, Friedman would do QE. A new paper from [Ed Nelson](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1845619):
+
+> *This paper views the policy response to the recent financial crisis from the perspective of Milton Friedman’s monetary economics. Five major aspects of the policy response are: 1) discount window lending has been provided broadly to the financial system, at rates low relative to the market rates prevailing pre-crisis; 2) the Federal Reserve’s holdings of government securities have been adjusted with the aim of putting downward pressure on the path of several important interest rates relative to the path of short-term rates; 3) deposit insurance has been extended, helping to insulate the money stock from credit market disruption; 4) the commercial banking system has received assistance via a recapitalization program, while existing equity holders have borne losses; and 5) an interest-on-reserves system has been introduced. These five elements of the policy response are in keeping with those that would arise from Friedman’s framework, while a number of the five depart appreciably from other prominent benchmarks (such as the Bagehot-Thornton prescription for discount rate policy, and New Keynesian approaches to stabilization policy). One notable part of the policy response, the TALF initiative, draws largely on frameworks other than Friedman’s. But, in important respects, the overall monetary and financial policy response to the crisis can be viewed as Friedman’s monetary economics in practice.*

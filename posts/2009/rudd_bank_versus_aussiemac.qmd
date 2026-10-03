@@ -1,0 +1,13 @@
+---
+title: "Rudd Bank versus AussieMac"
+date: "2009-01-29"
+categories: ["Economics", "Financial Markets", "Fiscal Policy"]
+---
+
+A curious feature of the debate surrounding the so-called Rudd Bank (see [previous post](../2009/rudd_bank_puts_taxpayers_last.qmd "previous post")) and [AussieMac](http://www.cis.org.au/issue_analysis/IA99/ia99.pdf "AussieMac") is that the same people have taken different positions on the two interventions.  Opposition leader Malcolm Turnbull supported the government’s intervention in the RMBS market, but opposes Rudd Bank.  In *The Australian* today, [Christopher Joye](http://www.theaustralian.news.com.au/story/0,25197,24976807-7583,00.html "Christopher Joye") criticises Ian Harper for supporting Rudd Bank while opposing the RMBS intervention.  Joye supports the RMBS intervention and (at least on a relative basis) opposes Rudd Bank.
+
+In my [op-ed](../2009/rudd_bank_puts_taxpayers_last.qmd "op-ed") for the *AFR* on Rudd Bank yesterday, I deliberately linked the two interventions, because I see them as suffering from similar problems.  Both interventions implicate the government in favouring specific industries and firms, on the assumption that this will prevent wider adverse economic outcomes.  This overlooks the fact that those sectors deemed most worthy of assistance may also be those most in need of adjustment and may see low relative returns on government resources compared to alternative policies.  Both interventions rely on a rather stretched transmission mechanism from the government’s balance sheet, via the balance sheets of business, to the wider public.
+
+One of the advantages of generalised tax cuts as a stimulus measure is that they are relatively neutral from the standpoint of resource allocation.  Tax cuts may also have other supply-side benefits through easing distortions and disincentives flowing from the operation of the tax system.  From a demand management perspective, unfunded tax cuts are subject to the same Ricardian equivalence critique as unfunded spending measures, but from a supply-side perspective, they have a distinct advantage.
+
+From a political perspective, however, the advantage of Rudd Bank and the RMBS intervention is that they can be written up as loans and investments rather than outright spending.  The fiscal transfers involved are therefore much less transparent.  One could say the same of the provision of term funding to banks via the Future Fund, although at least this is at arms length from the government of the day and may not differ significantly from the market-based outcomes that would prevail if the Future Fund did not exist.

@@ -1,0 +1,7 @@
+---
+title: "Zero Bubble: A Theory of Asset Price Booms and Busts"
+date: "2011-11-02"
+categories: ["Economics", "Financial Markets"]
+---
+
+The Philly Fed’s [Business Review](http://www.philadelphiafed.org/research-and-data/publications/business-review/2011/q4/brq411_theory-of-asset-price-booms-and-busts.pdf) has a good article by Satyajit Chatterjee on why asset price booms and busts are a rational response to the uncertain return to innovation.

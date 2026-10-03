@@ -1,0 +1,9 @@
+---
+title: "More Housing ‘Bubble’ Scepticism"
+date: "2005-06-19"
+categories: ["Economics"]
+---
+
+In case you haven’t noticed, [James Hamilton](http://www.econbrowser.com/archives/2005/06/the_great_housi.html "James Hamilton") is now blogging.  He suggests some simple fundamentals underpinning gains in house prices:
+
+*This simple calculation helps us to understand that if a community experiences a change in its growth rate, property values can increase a great deal over a short time. For the above example, going from 2% to 3% growth would cause the property values to double overnight. It’s noteworthy that over the last 5 years, the three states with the highest population growth rates as reported by the Census Bureau—Nevada, Arizona, and Florida—have also been among the locations that saw the biggest increase in home prices. Forces such as these, rather than a random distribution of irrational exuberance, seem a more natural explanation for why some communities got bubbled and others didn’t.*

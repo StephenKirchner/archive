@@ -1,0 +1,21 @@
+---
+title: "Yet More Friends the ‘Austrian School’ Could Do Without"
+date: "2006-09-06"
+categories: ["Economics", "Financial Markets"]
+---
+
+We have [previously noted](../2006/friends_the_austrian_school_could_do_without.qmd "previously noted") the increased prominence that bowlderised versions of Austrian business cycle theory (ABCT) have assumed in popular discourse on macroeconomics and financial markets.  Much of the appeal in ABCT rests in its seeming ability to provide a causal mechanism for what many people like to label as ‘bubbles’ in financial markets.  Without this underlying causal mechanism, the notion of a ‘bubble’ is little more than a tautology invoked by people who can’t understand why economies and financial markets fail to adhere to their preconceived and often mistaken notions of appropriate behaviour
+
+An [article in the FT](http://www.ft.com/cms/s/430a18de-3c7a-11db-9c97-0000779e2340.html "article in the FT") provides further evidence of the growing reliance on ABCT as a device to make sense of the economy and financial markets:
+
+> The investment theme of the autumn will instead be the vindication of the Austrian economists and their theories about the nature of the business cycle…
+>
+> The aspect of Austrian economics that will be central to investment decision-making this autumn is the role of central banking in generating unsustainable investment booms and subsequent busts.
+
+Yet there is little evidence to support ABCT as even a stylised account of business cycle and financial market dynamics, at least under current central bank operating procedures in the major industrialised countries, which have been dominated by interest rate and inflation targeting for at least the last 10 years. 
+
+The Taylor rule and related literature shows that it is much easier to explain monetary policy with reference to the economy than it is to explain the economy with reference to monetary policy.  This is just another way of saying that monetary policy for the most part responds endogenously to economic developments and the exogenous component of monetary policy is very small.  Anyone who has tried to motivate a role for official interest rates in standard economic models (the sort of empirical work that few Austrians are prepared to undertake) knows what a problematic exercise this can be.
+
+This makes the claim that, but for the supposed monetary policy errors of central banks, the amplitude of business and asset price cycles would be greatly reduced extremely implausible, at least under contemporary interest rate/inflation targeting regimes.  Indeed, we know that under the gold standard, the preferred monetary regime for many Austrians, volatility was more pronounced, with inflexibility in prices and exchange rates simply forcing any adjustment on to the real side of the economy.
+
+The increased prominence of ABCT in popular discourse actually has profoundly anti-market implications, because it leads people to believe that there is something wrong with macroeconomic and financial market outcomes that are in fact largely market-determined and have very little to do with either monetary policy or ‘bubbles.’

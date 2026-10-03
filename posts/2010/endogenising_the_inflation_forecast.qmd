@@ -1,0 +1,17 @@
+---
+title: "Endogenising the Inflation Forecast"
+date: "2010-02-18"
+categories: ["Economics", "Financial Markets", "Monetary Policy"]
+---
+
+RBA Assistant Governor [Phil Lowe](http://www.rba.gov.au/speeches/2010/sp-ag-180210.html "Phil Lowe") highlights an important change in the RBA’s technical forecasting assumptions:
+
+> For some years, it had been our practice to produce forecasts assuming that the cash rate remained unchanged throughout the forecast horizon. This approach had the obvious advantage of simplicity, but when the cash rate is a long way from its normal level, it is not particularly realistic.
+>
+> So, in August last year we changed our approach. Since then, we have prepared our forecasts on the technical assumption that the cash rate returns towards a more normal setting over time. Our overall objective here is to provide the community with a general sense of how we think the economy is likely to evolve over the next few years and to do this we need to make realistic assumptions. Broadly speaking, the paths the staff have used have been similar to those implied by market interest rates at the time the forecasts were prepared. It is important to stress that this neither implies a commitment by the Board to the particular path used nor an endorsement by the Bank of the market pricing.
+
+This is a welcome change.  It makes more sense for an inflation targeting central bank to forecast its own policy rate or to incorporate a market forecast for the policy rate and then base the inflation forecast on this projection.  This makes it more explicit that inflation outcomes are not exogenous under an inflation targeting regime.
+
+There was also this endorsement of the macroeconomic benefits of increased labour market flexibility:
+
+> *The good news is that this flexibility in employment relationships worked in limiting job losses in the economy. This has had obvious social benefits as well as supporting overall confidence in the community. Without this flexibility, it is likely that the outcomes would not have been as favourable*.

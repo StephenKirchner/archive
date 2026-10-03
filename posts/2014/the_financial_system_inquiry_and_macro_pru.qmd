@@ -1,0 +1,13 @@
+---
+title: "The Financial System Inquiry and Macro-Pru"
+date: "2014-07-25"
+categories: ["Economics", "Financial Markets"]
+---
+
+I have an op-ed in [Business Spectator](http://www.businessspectator.com.au/article/2014/7/25/leadership/australia-mustnt-jump-gun-macro-prudential-policy) endorsing the sceptical approach to macro-prudential regulation taken in the Murray inquiry’s interim report:
+
+> Macro-prudential policies are seen as providing policymakers with a more targeted set of policy instruments that might complement or even substitute for changes in official interest rates. However, these instruments also implicate policymakers in making much finer judgements about risks to financial stability as well as the more traditional concern of monetary policy with price stability.
+>
+> A blunt instrument like monetary policy encourages caution in making such judgements. By contrast, more targeted counter-cyclical quantitative controls are a standing invitation to micro-manage credit allocation, but do not in themselves improve the ability of policymakers to make appropriate judgements about the implications of such policies. It can also create a false impression that a central bank’s price stability mandate has been subordinated to other objectives, such as house price inflation.
+>
+> Macro-prudential policies are also more politically fraught than traditional monetary policy. Quantitative controls designed to be selective in impact are more likely to provoke opposition. In Britain, macro-prudential policies are at cross-purposes with the government’s ‘Help to Buy’ mortgage guarantee scheme. Macro-prudential regulation is often a second-best approach to dealing with the inflationary implications of supply-side rigidities in housing markets. It may also push borrowing and lending activities outside the regulatory perimeter altogether.

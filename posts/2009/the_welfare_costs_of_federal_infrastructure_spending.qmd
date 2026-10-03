@@ -1,0 +1,11 @@
+---
+title: "The Welfare Costs of Federal Infrastructure Spending"
+date: "2009-09-02"
+categories: ["Economics", "Fiscal Policy"]
+---
+
+[Henry Ergas and Alex Robson](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1465226 "Henry Ergas and Alex Robson") highlight the welfare costs of federal infrastructure spending:
+
+> Australian Government spending on infrastructure projects has increased rapidly in recent years, and especially so over the course of 2009. In this paper, we examine the processes for project evaluation, in the light of the Government’s commitment, in the 2008-09 Budget, to “(infrastructure) decision making based on rigorous cost-benefit analysis to ensure the highest economic and social benefits to the nation over the long term .. (and to) transparency at all stages of the decision making process.” We find that contrary to this commitment, significant projects have been approved either with no cost-benefit analysis or with cost-benefit analysis that is clearly of poor quality. Moreover, despite the commitment to transparency, very little information has been disclosed as to how most projects were evaluated.
+>
+> To better assess the quality of project evaluation, we examine the largest single project the Commonwealth Government has committed to – the construction of a new National Broadband Network – and find that in present value terms, its costs exceed its benefits by somewhere between \$14 billion and \$20 billion dollars, depending on the discount rate used. We also find that it is inefficient to proceed with the project if its costs exceed \$17 billion, even if the alternative is a world in which the representative consumer cannot obtain service in excess of 20 Mbps and even if demand for high speed service is rising relatively quickly. This amount of \$17 billion is well below current estimates of the costs the NBN will involve, especially if (as the Government has pledged) the NBN is to serve non-metropolitan areas.

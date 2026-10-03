@@ -1,0 +1,13 @@
+---
+title: "NZ Labour Loses its Way on Inflation"
+date: "2009-11-23"
+categories: ["Economics", "Financial Markets", "Monetary Policy"]
+---
+
+The Wall Street Journal has been running a series of articles on the impact of US dollar weakness on Asia-Pacific economies.  In [today’s edition](http://online.wsj.com/article/SB10001424052748704888404574549461322387956.html "today’s edition"), I write about New Zealand Labour’s abandonment of the consensus on inflation targeting:
+
+> Mr. Goff’s criticism of this dynamic misses the important benefits inflation targeting and its effects on the exchange rate bring to New Zealand. The dollar’s fluctuations help insulate the economy from external shocks, not least during the recent global financial crisis. When demand weakens in the rest of the world, the New Zealand dollar depreciates, making New Zealand’s exports more competitive. When external demand is strong, the currency rises, moderating export prices in New Zealand-dollar terms and restraining import price inflation. New Zealand’s floating exchange rate thus smoothes external demand and economic activity, making the central bank’s job of controlling inflation much easier.
+>
+> Many exporters resent the role of the exchange rate in moderating New Zealand’s economic cycle, viewing their competitiveness as being sacrificed on the altar of inflation control. But the idea that New Zealand can ignore inflation and grow faster through easy money and a lower exchange rate is a short-sighted view, no matter how tempting. It ignores the fact that higher domestic prices resulting from inflation would ultimately undermine rather than promote international competitiveness. Economic growth and export success must ultimately be built on real factors such as productivity growth, not easy money and exchange rate depreciation.
+
+[Sinclair Davidson](http://online.wsj.com/article/SB10001424052748704591804574514682866872344.html "Sinclair Davidson") made similar arguments in relation to the Australian dollar in an earlier op-ed in the series.

@@ -1,0 +1,15 @@
+---
+title: "The Baltic Dry Index versus Kevin Rudd"
+date: "2007-10-22"
+categories: ["Economics", "Financial Markets"]
+---
+
+Capacity constraints are one of the issues in this year’s federal election in Australia, with the opposition Labor Party suggesting that the federal government has failed to ‘invest’ in capacity across a broad range of areas. 
+
+A less parochial perspective on the issue shows that governments and the private sector everywhere have been caught out by the strength in global demand.  As the [WSJ](http://online.wsj.com/article/SB119301028152866449.html?mod=hpp_us_whats_news "WSJ") notes, the Baltic Dry Index rose to a new record high last week and Australia is hardly alone in experiencing congested ports:
+
+> The Baltic Exchange Dry Index, the most important and widely used indicator of world-wide ocean freight rates for bulk commodities, hit a record Friday after rising 169% over the past year. And shippers, brokers and commodity merchants are braced for higher rates next year and possibly through 2009. By then enough new bulk freighters are expected to come on line to ease the shortage.
+>
+> “All of the ship owners are making a lot of money because these are numbers that the market has never seen,” said John P. Dragnis, commercial director of Athens-based Goldenport Inc., one of the largest providers of ships to commodity sellers.
+>
+> Even when ships are available to carry the cargo, inadequate port facilities can cause delays, driving up the cost of shipments. At Brazilian ports, ships often wait offshore for as long as two weeks for their turn to load or unload, like airplanes sitting on a runway waiting for a gate.

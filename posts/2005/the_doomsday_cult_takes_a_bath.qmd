@@ -1,0 +1,17 @@
+---
+title: "The Doomsday Cult Takes a Bath"
+date: "2005-10-04"
+categories: ["Economics"]
+---
+
+Market pricing has been particularly unkind in recent days to those who have participated in what [one fund manager](../2005/contrarian_optimism_versus_the_doomsday_cult_a_fund_managers_view.qmd "one fund manager") has called a ‘doomsday cult,’ the perverse tendency of many commentators to forecast a massive current account-related shake out in the USD and USD-denominated asset markets.  The cult has some surprising members, not least the [Chairman of the Australian Stock Exchange](http://www.asx.com.au/about/pdf/agm_2005_address.pdf "Chairman of the Australian Stock Exchange"), who at last week’s ASX shareholder AGM had this to say:
+
+*America has long been living on borrowed money and its economy is on borrowed time. Unprecedented fiscal and monetary stimulus has provided the sunshine, but all the while costs have been steadily mounting. The balance of payments deficits have been climbing and unsustainable budget deficits have been scarcely contained…In the process the United States has become the world’s largest deficit country and debtor.  We are in uncharted waters, so it is difficult to know how this situation will play out. However, at some time in the foreseeable future it would seem some form of global rebalancing is inevitable.*
+
+The Chairman is partly just talking his book, trying to promote Australian equities to investors, but his comments show how pervasive the cult has become. 
+
+What sets cult members apart is their conviction that this ‘rebalancing’ process must be disorderly rather than smooth.  Those who think this process must be disorderly face the burden of explaining why markets are not already adequately pricing these risks.  It is not enough simply to claim that markets are irrational.  Some account of market inefficiency is required to explain this mispricing, particularly if these risks are as obvious as many claim.
+
+Instead of relying on the standard cop out that markets are irrational, some cult members invoke the risk of an adverse shock that brings about a disorderly adjustment, including a flight of capital to countries with strong net international investment positions.  Such adverse shocks are always possible, but it seems strange to predicate a forecast on such an asymmetric view of the distribution of these shocks.  Positive shocks are just as likely, or at least, shocks that may be negative for *non*-USD asset markets.
+
+Perhaps the biggest assumption of cult members is that a significant rebalancing of international investment flows is even necessary.  RBA Governor Macfarlane’s recent speech on the subject (see below) poses some interesting challenges to that view.

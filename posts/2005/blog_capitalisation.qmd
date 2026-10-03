@@ -1,0 +1,17 @@
+---
+title: "Blog Capitalisation"
+date: "2005-10-27"
+categories: ["Economics"]
+---
+
+Who said blogging doesn’t pay?
+
+::: {style="border: 1px solid #cccccc; background-color: white; width: 115px; text-align: center; padding: 0 0 10px 0;"}
+![](http://static.flickr.com/23/25822676_789bf55448_t.jpg)\
+[My [blog](http://institutional-economics.com) is worth **\$28,227.00**.]{style="font-size: 11px;"}\
+[[How much is your blog worth?](http://www.business-opportunities.biz/projects/how-much-is-your-blog-worth/)]{style="font-size: 10px;"}
+
+[![](http://technorati.com/pix/tech-logo-embed.gif)](http://www.technorati.com/)
+:::
+
+(via [Barry Ritholtz](http://bigpicture.typepad.com/ "Barry Ritholtz"))

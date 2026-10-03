@@ -1,0 +1,13 @@
+---
+title: "What Ross Gittins Won’t Tell You (or Just Plain Doesn’t Know) About Cutting Taxes"
+date: "2006-06-15"
+categories: ["Economics"]
+---
+
+From [Alan Reynolds](http://www.cato.org/pub_display.php?pub_id=6432 "Alan Reynolds"):
+
+> More than a dozen highly regarded studies have shown that the amount of income reported by those facing the highest marginal tax rates is extremely sensitive to changes in those tax rates. This is measured by the “elasticity” (responsiveness) of taxable income…
+>
+> What all this means is that cutting the top tax rate in half has resulted in much more income being reported and taxed in every country that tried it—the United States, United Kingdom, New Zealand and India, for example. Some mistakenly imagined that proved the rich suddenly became richer when U.S. tax rates fell from 1986 to 1988. What it actually proved was that the rich reported more taxable income when tax rates on an extra dollar became more reasonable. These facts are not seriously in dispute regardless what portion of this widely observed “Laffer Curve” phenomenon was due to a change in actual income (a supply-side effect) or to a change in the proportion reported to tax collectors.
+>
+> In other words, supply-side economists were right all along. Their critics were wrong. Several Nobel Laureates in economics have now said as much. Get over it.

@@ -1,0 +1,13 @@
+---
+title: "Demographic Change and Asset Prices"
+date: "2006-07-25"
+categories: ["Economics", "Financial Markets"]
+---
+
+This year’s [RBA conference volume](http://www.rba.gov.au/PublicationsAndResearch/Conferences/2006/index.html "RBA conference volume") is up in draft form.  This year’s conference looked at:
+
+> *the impact of demographic trends on macroeconomic factors relevant to financial markets, particularly saving and investment, capital flows and asset prices, as well as on the structure and operation of financial markets. The participants also placed considerable focus on policy issues, identifying the nature and extent of possible market imperfections and impediments, and the scope for policy-makers to address these.*
+
+Robin Brooks’ paper on [Demographic Change and Asset Prices](http://www.rba.gov.au/PublicationsAndResearch/Conferences/2006/brooks.pdf "Demographic Change and Asset Prices"):
+
+> *finds little evidence to suggest that financial markets will suffer abrupt declines when the baby boomers retire. In fact, in countries where stock market participation is greatest, including Australia, Canada, New Zealand, the UK and the US, evidence suggests that real financial asset prices may continue to rise as populations age, consistent with survey evidence that households continue to accumulate financial wealth well into old age and do little to run down their savings in retirement.*

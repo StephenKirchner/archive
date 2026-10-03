@@ -1,0 +1,11 @@
+---
+title: "3.75 is the New 4.75"
+date: "2009-12-16"
+categories: ["Economics", "Financial Markets", "Monetary Policy"]
+---
+
+So says [Deputy Governor Ric Battellino](http://www.rba.gov.au/speeches/2009/sp-dg-161209.html "Deputy Governor Ric Battellino") of the RBA’s official cash rate.  Battellino’s speech once again highlights the fact that the RBA calibrates changes in the official cash rate to changes in actual borrowing rates.  Battellino also notes that:
+
+> *The margin on variable housing loans is much the same today as it was at the start of the crisis.*
+
+All this makes the whole political pantomime of bank-bashing rather pointless.  It is also the case that the RBA will probably discount the implications of tighter bank capital regulation for retail borrowing rates in its future setting of the official cash rate.  The equilibrium official cash rate may shift even lower as a result.

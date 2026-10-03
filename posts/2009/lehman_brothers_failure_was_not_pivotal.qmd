@@ -1,0 +1,11 @@
+---
+title: "Lehman Brothers’ Failure Was Not Pivotal"
+date: "2009-09-06"
+categories: ["Economics", "Financial Markets"]
+---
+
+Even [Steven Pearlstein](http://www.washingtonpost.com/wp-dyn/content/article/2009/09/03/AR2009090303584_pf.html "Steven Pearlstein") recognises that the failure to rescue Lehman Brothers was not the pivotal event of last year’s financial crisis:
+
+> subsequent events have only confirmed that, if Lehman had somehow been rescued, things would not have turned out a whole lot better for Citigroup, or Washington Mutual or Wachovia or Bank of America, or any of the institutions that eventually needed cash injections from the Treasury. And it certainly would have done nothing to save AIG or Merrill, whose rescues were set in motion during the same Lehman weekend. For the reality is that, underlying the liquidity crisis of last fall was a massive credit crisis—too many risky loans made on loose terms and based on overly optimistic assumptions. Lehman’s failure may have sped up the process by which all this lousy lending was revealed and the losses acknowledged, but the financial reckoning was inevitable.
+>
+> The final point is a political one. A year ago, in the wake of the Bear Stearns rescue, the public—left, right and center—was hopping mad about government bailouts of Wall Street. Paulson isn’t just kidding when he says that if he had used taxpayer money to save Lehman, impeachment proceedings would have begun against him the following day.

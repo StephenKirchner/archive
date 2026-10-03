@@ -1,0 +1,7 @@
+---
+title: "Blog Admin"
+date: "2006-04-03"
+categories: ["Misc"]
+---
+
+There will be no posts over the next three weeks while I take a break.  Comments will be closed and new member/comment registrations queued for approval at a later date.  I will not be responding to email.

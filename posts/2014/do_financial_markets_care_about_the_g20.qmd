@@ -1,0 +1,11 @@
+---
+title: "Do Financial Markets Care About the G20?"
+date: "2014-04-05"
+categories: ["Economics", "Financial Markets"]
+---
+
+An [ECB Working Paper](http://www.ecb.europa.eu/pub/pdf/scpwps/ecbwp1668.pdf) looks at the impact of G20 meetings on financial markets:
+
+> *In this paper we run an event study to test whether G20 meetings at ministerial and Leaders level have had an impact on global financial markets. We focus on the period from 2007 to 2013, looking at equity returns, bond yields and measures of market risk such as implied volatility, skewness and kurtosis. Our main finding is that G20 summits have not had a strong, consistent and durable effect on any of the markets that we consider, suggesting that the information and decision content of G20 summits is of limited relevance for market participants.*
+
+That won’t stop the Australian federal government spending \$500 million on a process markets have deemed an irrelevance.

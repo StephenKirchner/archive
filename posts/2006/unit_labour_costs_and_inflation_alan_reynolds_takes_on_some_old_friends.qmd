@@ -1,0 +1,17 @@
+---
+title: "Unit Labour Costs and Inflation: Alan Reynolds Takes on Some Old Friends"
+date: "2006-08-11"
+categories: ["Economics", "Financial Markets"]
+---
+
+[Alan Reynolds](http://www.townhall.com/columnists/column.aspx?UrlTitle=second-guessing_the_fed&ns=AlanReynolds&dt=08/10/2006&page=full&comments=true "Alan Reynolds") on that [recent WSJ editorial](../2006/bernanke_inflation.qmd "recent WSJ editorial"):
+
+> That editorial rebukes the Fed for drifting “back to the era of the Phillips Curve,” which blamed inflation on “wage push” resulting from low unemployment. Yet the same editorial enthusiastically embraced the Phillips Curve, fretting that “unit labor costs are now 3.2 percent higher than a year ago; that’s the fastest increase since 2000, when monetary policy was considerably tighter than it is now.”…
+>
+> The Phillips Curve notion that increases in unit labor costs predict or cause higher inflation was debunked in studies from the Federal Reserve Banks of Richmond (Yash Mehra), Dallas (Kenneth Emery and Chich-Ping Chang) and Cleveland. The latter paper, by Gregory Hess and Mark Schweitzer, found “little systematic evidence that ... unit labor costs are helpful for predicting inflation.”
+>
+> A March 2005 study for the Bureau of Labor Statistics by Anirvan Banerji found that “upturns in unit labor cost growth actually lag upturns in CPI inflation 80 percent of the time.”
+>
+> The Fed is right this time, for a change. I regret to say that their toughest critics, including many of my oldest and best friends, are wrong.
+
+The Reserve Bank of Australia’s model of inflation is a mark-up model based in part on unit labour costs.  The RBA are the first to concede that the data reject their model.  They impose it anyway and ask if it predicts inflation.  It does, which makes this approach defensible, but still not very satisfying.

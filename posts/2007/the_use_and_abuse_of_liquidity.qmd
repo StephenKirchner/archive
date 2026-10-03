@@ -1,0 +1,20 @@
+---
+title: "The Use and Abuse of ‘Liquidity’"
+date: "2007-08-29"
+categories: ["Culture & Society", "Financial Markets"]
+---
+
+The notion of ‘liquidity’ is routinely invoked as a driver of the business cycle and asset prices, yet few analysts bother to define what it is they mean by liquidity.  More often than not, ‘liquidity’ is discussed in a way that is simply synonymous with monetary policy.  To that extent, there is nothing remarkable about the idea that monetary policy might be important for business cycle and asset price dynamics.  Many of the analysts who invoke liquidity intend the term to mean something more than monetary policy, defined narrowly as changes in official interest rates.  In particular, the notion of liquidity is often employed to denote growth in monetary and credit aggregates, which may have only a tenuous relationship with monetary policy and may be dominated by private choice. 
+
+Then there are those who conflate liquidity with saving.  The idea of glut of global saving has led some to claim that the world is ‘awash in liquidity.’  But as [Alex Pollock](http://www.aei.org/publications/filter.all,pubID.26710/pub_detail.asp "Alex Pollock") notes ‘if liquidity were substantive, there could not have been plenty of it a few weeks ago and a shortage now.’  Pollock argues instead that:
+
+> “liquidity” is a figure of speech, describing the following situation:
+>
+> • A is ready and able to buy an asset from B on short notice\
+> • At a price B considers reasonable\
+> • Which usually means C has to be willing to lend money to A\
+> • Which means C believes A is solvent and the asset is good collateral\
+> • And if A is a dealer, A and C both have to believe that the asset could be readily sold to D\
+> • Which means they both have to believe that there is an E willing to lend money to D.
+>
+> In short, liquidity is about group belief in the solvency of counterparties and the reliability of prices, reminding us that “credit” and “credo” have the same root. When no one is sure who is broke, and there is high uncertainty about prices, we will discover that liquidity has vanished, however plentiful it may recently have seemed.

@@ -1,0 +1,21 @@
+---
+title: "What Every Hedge Fund Manager Would Like to Know About the RBNZ"
+date: "2007-07-30"
+categories: ["Economics", "Financial Markets"]
+---
+
+NZ Finance Minister Michael Cullen’s office [lets slip the RBNZ’s intervention limits](http://www.nzherald.co.nz/section/3/story.cfm?c_id=3&objectid=10454611 "lets slip the RBNZ’s intervention limits") via an OIA request:
+
+> Multiple investigations have started to find out how confidential information on the Reserve Bank’s limits for intervening in the currency market got past the Treasury, the Reserve Bank and advisers in the Minister of Finance’s office to a newspaper.
+>
+> The papers - compiled by the Treasury, double-checked by the Reserve Bank and sent to Michael Cullen’s office for final checking and approval - included two figures relating to the financial limits the Reserve Bank could go to when intervening in a high or low currency, and the limit on its foreign exchange position.
+>
+> The bank intervened in the currency last month, and the figures were included in a briefing to Dr Cullen about it which was given to the Sunday Star-Times under the Official Information Act.
+>
+> The figures were described in the report as “highly confidential” but were not picked up until the newspaper saw them.
+>
+> Dr Cullen’s office indicated yesterday that the blame would lie primarily with the Treasury…
+>
+> The Sunday Star-Times agreed not to publish the figures, saying it was not in the public interest.
+
+Since Cullen is the responsible minister, there is not much point in blaming Treasury.

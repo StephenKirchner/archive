@@ -1,0 +1,15 @@
+---
+title: "Fiscal Stimulus and Monetary Policy"
+date: "2009-10-16"
+categories: ["Economics", "Financial Markets", "Fiscal Policy", "Monetary Policy"]
+---
+
+[RBA Governor Glenn Stevens](http://rba.gov.au/Speeches/2009/sp-gov-151009.pdf "RBA Governor Glenn Stevens"), making the case for tightening monetary policy yesterday:
+
+> *If we were prepared to cut rates rapidly, to a very low level, in response to a threat but then were too timid to lessen that stimulus in a timely way when the threat had passed, we would have a bias in our monetary policy framework. Experience here and elsewhere counsels against that approach.*
+
+The same argument can be made in relation to fiscal policy, but not because it will make the RBA’s job any easier.  The main argument for winding back the fiscal stimulus at a faster pace is to avoid the long-run costs from crowding-out and resource misallocation rather to contribute to short-run demand management.  There is no necessary contradiction in arguing that fiscal stimulus has been ineffective and that it should now be wound back, as some have suggested. 
+
+Standard New Keynesian models would predict that fiscal stimulus in a small open economy will induce capital inflows, put upward pressure on the exchange rate and crowd-out net exports, rendering discretionary fiscal policy wholly ineffective in stimulating aggregate demand.  Treasury have argued that this does not apply in the context of a concerted global fiscal expansion.  The problem with the Treasury’s argument is that Australia’s fiscal stimulus is one of the world’s largest as a share of GDP and we now have the exchange rate appreciation to show for it. 
+
+Despite the downturn, underlying inflation as measured by the [RBA’s statistical core series](http://www.abs.gov.au/AUSSTATS/abs@.nsf/Latestproducts/6401.0Main%20Features5Jun%202009?opendocument&tabname=Summary&prodno=6401.0&issue=Jun%202009&num=&view= "RBA’s statistical core series") remains above the upper-bound of the RBA’s 2-3% medium-term target range.  The Bank’s forecast that underlying inflation will return to the middle of the target range by June 2010 is based on economic forecasts that look overly pessimistic.  Little wonder that the [inter-bank futures market](http://www.asx.com.au/data/trt/ib_expectation_curve_graph.pdf "inter-bank futures market") is pricing an aggressive tightening cycle, with a further 50 basis points of tightening more than fully priced before the end of the year.

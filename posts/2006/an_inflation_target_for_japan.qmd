@@ -1,0 +1,9 @@
+---
+title: "An Inflation Target for Japan?"
+date: "2006-01-19"
+categories: ["Economics"]
+---
+
+I have an article in [Business Week](http://www.businessweek.com/investor/content/jan2006/pi20060118_3975_pi001.htm "Business Week") arguing that 2006 may see the Bank of Japan drop its opposition to a formal inflation target:
+
+*With the termination of quantitative easing, the Bank of Japan will no longer have an inflation commitment guiding policy. This is an undesirable situation, since it leaves Japanese monetary policy without any formal policy guidance, and gives the market and the public nothing on which to condition expectations for the future path of interest rates, potentially impairing the effective transmission of monetary policy. Indeed, the lack of a nominal anchor for policy facilitated Japan’s slide into deflation from the mid-1990s.*

@@ -1,0 +1,11 @@
+---
+title: "Do Markets Care Who Chairs the Central Bank?"
+date: "2007-05-31"
+categories: ["Economics", "Financial Markets"]
+---
+
+According to this paper by [Kuttner and Posen](http://www.petersoninstitute.org/publications/wp/wp07-3.pdf "Kuttner and Posen"), they do.  Once again, the RBA, or more specifically, former Governor Bernie Fraser, serves as an influential observation in this study:
+
+> One puzzling result involving the bond yield is that there is a significant market reaction for the non-newsworthy subsample, which is meant to consist only of appointments that were widely anticipated ahead of time. At first glance, this seems to contradict the proposition that the market should respond only to new information. An inspection of the individual responses in table 2 reveals that this anomalous response can be traced to two observations: Australia’s 1989 appointment of Bernie Fraser and Norway’s 1996 appointment of Kjell Storvik. Both of these were classified as anticipated appointments, based on the press reports, and yet, both were associated with pronounced bond market responses.  **Yields rose 15 basis points (two standard deviations) on Fraser’s announcement** and fell 19 basis points (over four standard deviations) on Storvik’s.
+>
+> In Fraser’s case, the reason for the unusual reaction is relatively clear. The likely choice of Fraser, the sitting Secretary of the Treasury, had been criticized in the weeks prior to the announcement as an appointment that would predispose the Reserve Bank of Australia (RBA) to yield to political pressure for more accommodative monetary policy. And, while Fraser was widely viewed as the clear front-runner for the job, there was some speculation that Bob Hawke’s government would back away from its preferred candidate and appoint instead one of several viable candidates from within the RBA. Thus, the adverse market reaction provoked by the announcement suggests Fraser’s appointment was not thought to be entirely certain. Reclassifying the appointment as newsworthy along these lines would make the bond market’s reaction significant at the five percent level for newsworthy events and not significant for non-newsworthy events, thus eliminating one minor anomaly in the results.

@@ -1,0 +1,7 @@
+---
+title: "Friedman Was a Hedgehog"
+date: "2011-07-16"
+categories: ["Economics", "Financial Markets"]
+---
+
+[John Cochrane](http://www.cato-unbound.org/2011/07/15/john-h-cochrane/in-defense-of-the-hedgehogs/): ‘economic events should be unforecastable, and their unforecastability is a sign that the markets and our theories about them are working well.’

@@ -1,0 +1,15 @@
+---
+title: "Bob Shiller Still Can’t Define a ‘Bubble’"
+date: "2013-12-19"
+categories: ["Economics", "Financial Markets"]
+---
+
+[John Cochrane](http://johnhcochrane.blogspot.com.au/2013/12/three-nobel-lectures-and-rhetoric-of.html) reviews Bob Shiller’s Nobel lecture and notes that he still can’t define the idea for which he is most well known. Moreover:
+
+> *In an entire lecture, Bob did not give a single concrete example of how “listening to psychologists” produces one concrete positive step to understanding “bubbles.”*
+
+Cochrane then tries to rehabilitate Shiller by suggesting he is doing something terribly profound:
+
+> *I realized just how deep and audacious Bob’s project is. He is telling us to abandon the “scientific” pretense. He wants us to adopt a literary style, where we look at the world, are inspired by psychology, and write interpretive prose as he has done.  When he says that the definition of a a bubble is a fad, he isn’t being sneaky and avoiding the argument. He means exactly what he says and wants us to think and write this way too. A bubble, to Bob, is defined as any time a time that he, writing about it, informed by psychology, and reading newspapers, thinks a “fad” is going on. And he invites us to think and write like that too. A model is, to Bob, wrapped up in one person’s judgement and not an objective machine. If I complain that this is ex-post story telling, he might say sure, stop pretending to be physics, write ex-post stories. If I complain that there are no rules and that this is no better than “the gods are angry,” he might say, no, read psychology not ancient theology, and the rules are you have to couch your story telling in their terms. He does not want us to try to construct models, either psychological or rational, that make quantitative predictions.*
+
+This is consistent with my [observation](http://cis.org.au/publications/ideasthecentre/article/4966-efficient-markets-in-nobel-prizes) that much of Shiller’s work is simply assertion rather than science. It is audacious, but not in a good way. While Cochrane means to praise Shiller, I think he effectively buries him.

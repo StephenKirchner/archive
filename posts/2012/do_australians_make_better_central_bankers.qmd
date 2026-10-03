@@ -1,0 +1,15 @@
+---
+title: "Do Australians Make Better Central Bankers?"
+date: "2012-10-04"
+categories: ["Economics", "Monetary Policy"]
+---
+
+Does Glenn Stevens know something Ben Bernanke does not? [Matt Yglesias](http://www.slate.com/blogs/moneybox/2012/10/02/reserve_bank_of_australia_cuts_interest_rates_the_world_s_best_central_bank_shows_how_it_s_done_yet_again_.html) seems to think so:
+
+> *if it’s true that Australia has recession-proofed itself through sound monetary policy, there are lessons that larger countries could be learning here. Heck, we could even be hiring some Australian central bankers to ply their trade in England, Japan, the United States, or wherever.*
+
+It is of course very implausible that being Australian in itself makes one a better central banker or the RBA has hit upon a secret formula for conducting monetary policy unknown to the rest of the world (not least because Australian central bankers mostly trained in North America). It is equally implausible that foreign central banks are incapable of observing and learning from the Australian experience.
+
+Nor is that experience as good as Matt suggests. Australia went into the financial crisis with an inflation rate of 5%. In the absence of a severe global economic downturn, the RBA would have been forced to engineer a local one to have much hope of bringing inflation back down to the 2-3% target range. I argued [back in August 2008](http://www.theage.com.au/business/dont-count-ratecut-chickens-before-they-hatch--inflation-is-still-simmering-20080811-3to5.html?page=1#) that monetary policy had been too easy in previous years. The subsequent financial crisis does not change that judgement in any way if you accept that it was an event that could not be forecast.
+
+Glenn Stevens and Ben Bernanke both assumed their respective roles in 2006. Had they swapped roles, would monetary policy and macroeconomic outcomes have been any different in Australia or the US? I think not.

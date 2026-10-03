@@ -1,0 +1,11 @@
+---
+title: "In Defence of Hedge Funds"
+date: "2006-12-20"
+categories: ["Economics", "Financial Markets"]
+---
+
+[Sebastian Mallaby](http://www.foreignaffairs.org/20070101faessay86107-p0/sebastian-mallaby/hands-off-hedge-funds.html "Sebastian Mallaby") defends the role of hedge funds in the financial system:
+
+> *the fear of hedge funds is overblown, based more on ignorance or simplistic caricatures than on actual knowledge. Many of the proposals for new regulation are so vague as to be impossible to evaluate or are poorly suited to address the supposed problems at issue. And even the most serious cause for concern—that hedge-fund operations might generate a “systemic risk” for the financial system as a whole—is neither limited to the hedge-fund sector nor best addressed through regulation of it. Rather than seeing hedge funds as sources of dangerous financial fires, in fact, it is more accurate to see them as the financial system’s benevolent fire fighters—and to let them have the tools they need to do their jobs well.*
+
+The long-short equity arbitrage fund is arguably an [Australian invention](http://en.wikipedia.org/wiki/Alfred_Winslow_Jones "Australian invention").  Australia is notable for regulating hedge funds in the same manner as other managed funds, making them available to retail investors, in sharp contrast to the ludicrous restrictions on retail participation in hedge funds in the US.

@@ -1,0 +1,13 @@
+---
+title: "The Need for a More Timely CPI"
+date: "2008-03-03"
+categories: ["Economics", "Financial Markets"]
+---
+
+If you like your inflation with a ‘four’ in front, then the February TD-MI inflation gauge has good news for you.  Their proxy for CPI inflation was running at 4% y/y in February, matching the previous record high for this series in May 2006.  The trimmed mean, which proxies for the RBA’s preferred measure of underlying inflation, rose 0.3% m/m and 4.1% y/y, a new record high for this series.  The February inflation gauge points to an official Q1 headline CPI outcome of 1.3% q/q and 4.2% y/y compared to 3% y/y previously, well outside the RBA’s 2-3% medium-term target range.
+
+Australia shares with New Zealand an anomalous position among developed countries in publishing its official CPI at a quarterly rather than a monthly frequency.  The ABS has traditionally defended this practice on the grounds that the additional costs of publishing at a higher frequency outweighed the benefits.  One suspects that this assessment has more to do with the costs and benefits for the ABS, rather than society more generally.  If a higher frequency CPI reduces the risk of a macroeconomic policy error, then the benefits from a more timely CPI release could be very large indeed.
+
+It has been widely noted that most of the Reserve Bank’s increases in official interest rates this cycle have been announced at the Board meeting immediately following the release of the quarterly CPI.  This strongly suggests that the RBA Board is looking to these quarterly releases for confirmation of the direction of inflation before taking policy action.  This gives monetary policy a backward-looking bias, one that is exacerbated by a low frequency CPI. 
+
+Moving to a monthly CPI release has the potential to significantly change the dynamics of monetary policy decision-making.  Each monthly Board meeting would have the benefit of an updated reading on inflation, eliminating the current bias to take policy action at a quarterly frequency.  This could result in more timely monetary policy action than has been evident from the RBA this cycle, leading to better inflation outcomes.

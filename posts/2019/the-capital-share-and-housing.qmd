@@ -1,0 +1,7 @@
+---
+title: "The Capital Share and Housing"
+date: "2019-02-27"
+categories: ["Economics", "House Prices"]
+---
+
+I have an op-ed in the [AFR](https://www.afr.com/news/economy/there-are-surprising-answers-to-the-puzzle-of-stagnant-wages-20190226-h1bpz1) noting that the rise in the capital share of income in the US, other G7 economies and Australia, is largely attributable to an increased scarcity of housing driven by regulation.

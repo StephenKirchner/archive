@@ -1,0 +1,17 @@
+---
+title: "‘Really big, bad things tend to be surprises’"
+date: "2008-12-23"
+categories: ["Economics", "Financial Markets"]
+---
+
+An [article](http://www.boston.com/bostonglobe/ideas/articles/2008/12/21/paradigm_lost/?page=full "article") on how the economics profession is reflecting on the GFC:
+
+> Robert Lucas, an economist and Nobel laureate at the University of Chicago and a champion of the rationality of markets, doesn’t see much fundamental change coming out of the crisis, either. What it has reminded us of, he argues, is simply the impossibility of seeing these events in advance.
+>
+> “I don’t know anybody involved who thought he could predict these turning points. Do macroeconomists know as much as we thought we did?” he asks. “Of course not.”
+>
+> By this logic, the problem isn’t how economists see the world so much as it is what we expect of economics.
+>
+> Laurence Ball, an economist at Johns Hopkins, makes a similar point. “Nobody ever sees anything coming,” he says. “Nobody saw stagflation coming, nobody saw the Great Depression coming, nobody saw Pearl Harbor or 9/11 coming. Really big, bad things tend to be surprises.”
+
+Even [Monty Python](http://au.youtube.com/watch?v=gldlyTjXk9A "Monty Python") understood this basic rational expectations insight: ‘Nobody expects the Spanish Inquisition!’

@@ -1,0 +1,9 @@
+---
+title: "Consumers as Interest Rate Hawks"
+date: "2010-02-11"
+categories: ["Economics", "Financial Markets", "Monetary Policy"]
+---
+
+The [February Westpac-Melbourne Institute Consumer Sentiment](http://www.westpac.com.au/docs/pdf/aw/economics-research/er20100211BullConsumerIRExpectations.pdf "February Westpac-Melbourne Institute Consumer Sentiment") survey finds respondents expecting increases in mortgage interest rates in excess of 100 bp over the next 12 months.  While this is somewhat in excess of the tightening in official interest rates recently priced into the inter-bank futures strip, it is not necessarily inconsistent with market pricing.  Consumers are by now well aware that the official cash rate is not the only determinant of mortgage interest rates and that there is a trade-off between changes in mortgage interest rates and the official cash rate. 
+
+Treasurer Wayne Swan continues to maintain that there is ‘no excuse’ for interest rate movements in excess of movements in the official cash rate.  If lenders were to have followed this advice in the past, then none of the benefits of lower funding costs from mortgage securitisation would have been passed on to borrowers before the onset of the credit crisis.  Moreover, any future improvement in capital market conditions could not be passed on to consumers, but would instead be hoarded by lenders with the Treasurer’s implicit blessing.

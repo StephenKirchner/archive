@@ -1,0 +1,7 @@
+---
+title: "How Big Are Fiscal Multipliers?"
+date: "2011-03-17"
+categories: ["Economics", "Fiscal Policy"]
+---
+
+For an open economy with a flexible exchange rate, [zero to negative](http://www.nber.org/digest/mar11/w16479.html). (HT: [Scott Sumner](http://www.themoneyillusion.com/?p=9231)).

@@ -1,0 +1,17 @@
+---
+title: "Robert Shiller: The Ivy League’s Steve Keen"
+date: "2010-03-16"
+categories: ["Economics", "Financial Markets"]
+---
+
+Robert Shiller’s [stock market advice](http://www.investors.com/NewsAndAnalysis/Article.aspx?id=527187 "stock market advice") is as useful as Steve Keen’s real estate advice:
+
+> Following Bob Shiller’s “over 20” rule would have kept you out of the stock market every single month from December 1992 to September 2008. All that time Shiller was presumably scolding investors, warning that “sooner or later” there would be a market downturn…
+>
+> The permabears might make a plausible argument against buying stocks if they argued that a big spike in bond yields was imminent. But that would be inconsistent with their usual forecast of stagnation and deflation. So they’re still peddling the fallacy of “above average” multiples, as they were a year ago.
+>
+> For the press to still be recycling Robert Shiller’s stale arguments against buying stocks in March 2009, despite what happened since, is a remarkable example of the media’s inclination to favor downbeat theories over any actual good news.
+
+But as I note in my [review](../../files/ackerlofshillerreview.pdf "review") of two of Shiller’s books, Bob has trouble staying on message when it comes to long-term investment advice:
+
+> *Akerlof and Shiller…note in passing that ‘there has been one way, at least in the past, in which almost everyone could become at least moderately rich.  Save a lot of money.  Invest it for the long term in the stock market, where the rate of return after adjustment for inflation has been 7% per year’.  This is not what Shiller was telling people in 1996 when he said that ‘long run investors should stay out of the market for the next decade’.*

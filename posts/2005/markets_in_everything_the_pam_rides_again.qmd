@@ -1,0 +1,13 @@
+---
+title: "Markets in Everything: The PAM Rides Again"
+date: "2005-02-23"
+categories: ["Economics", "Economics/Financial Markets"]
+---
+
+Remember the Pentagon’s ill-fated Policy Analysis Market?  [Intrade](http://www.intrade.com/apply.jsp?heardFromPromotionDetail=s0545138709r "Intrade") is now offering a contract on the timing of US air strikes against states sponsoring terrorism:
+
+The contract will be expired at 100 if the USA officially launch and execute an overt Air Strike against land facilities in any of the listed countries on or before June 30, 2005.
+
+The countries involved and currently listed as States known to sponsor terrorism are: Cuba, Iran, Libya, North Korea, Sudan & Syria.  Only these six countries count for expiry purposes. An overt Air Strike against a land facility will be defined as an air attack officially announced by the Pentagon or the US Department of Defense. It will not include any covert operations, accidental border clash, etc. The contract will be paused and subsequently expired once such an attack has been reported to have taken place against a land facility in any of the named countries.
+
+The contract has yet to trade, but market depth is pointing to an implied probability in the low teens.  This contract would have been more informative if it were based on individual countries, rather than such a disparate group.

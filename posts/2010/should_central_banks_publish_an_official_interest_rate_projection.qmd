@@ -1,0 +1,7 @@
+---
+title: "Should Central Banks Publish an Official Interest Rate Projection?"
+date: "2010-12-10"
+categories: ["Economics", "Financial Markets", "Monetary Policy"]
+---
+
+[The case for and against](http://www.cdhowe.org/pdf/Backgrounder_134.pdf "The case for and against"). Since the RBA already produces economic forecasts endogenised to an assumption about the future path of monetary policy, it would make sense to publish the cash rate projection as well. Changes in the projection would heavily condition the expected real cash rate and could even reduce the need for changes in the actual cash rate.

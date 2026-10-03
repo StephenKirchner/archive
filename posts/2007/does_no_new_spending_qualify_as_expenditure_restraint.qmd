@@ -1,0 +1,21 @@
+---
+title: "Does No New Spending Qualify as Expenditure Restraint?"
+date: "2007-01-04"
+categories: ["Economics", "Financial Markets"]
+---
+
+We have [previously noted](../2006/tax_cuts_cause_higher_interest_rates_but_government_spending_doesnt.qmd "previously noted") that the federal government’s concern for the supposed impact of tax cuts on interest rates does not extend to new spending measures.  [Reports](http://www.theaustralian.news.com.au/story/0,20867,21008365-601,00.html "Reports") in the lead-up to the Expenditure Review Committee process now suggest that the government is ‘putting the squeeze on spending.’  But note that this does not refer to existing spending programs, only to ministers’ wish-lists for new spending:
+
+> BILLIONS of dollars in potential budget measures - including a costly schools and science package - have been dumped as the Howard Government puts the squeeze on spending…
+>
+> Mr Howard, the Treasurer, Deputy Prime Minister Mark Vaile and Finance Minister Nick Minchin have already scrubbed out **dozens of new initiatives** brought forward by ministers before Christmas…
+>
+> Decisions to curtail spending spread across health, welfare, indigenous policies, agriculture and industry.
+>
+> “This is a very, very tough budget,” said one senior government figure. “It’s very tight and there’s not much joy for **new (spending) initiatives**.”
+
+The linked article gives an interesting insight into the political economy of the ERC process when it says:
+
+> *\[Treasurer\] Costello has indicated that he does not want the 2007-08 surplus to drop below its projected level of \$9.7 billion, equivalent to 1 per cent of gross domestic product.  Any new spending would depend on the economy producing more revenue than expected, although Mr Costello is also committed to preventing any increase in the tax burden.*
+
+In other words, the government will spend whatever it can get its hands on, subject to revenue and the budget balance remaining steady as shares of GDP.  This hardly qualifies as expenditure ‘restraint,’ something the government has shown no interest in since its first budget.

@@ -1,0 +1,15 @@
+---
+title: "The International Beauty Contest Treasurer Costello Doesn’t Want to Know About"
+date: "2006-03-29"
+categories: ["Economics"]
+---
+
+While Peter Costello waits on the results of his [international tax beauty contest](../2006/peter_costellos_international_tax_beauty_contest.qmd "international tax beauty contest"), Andrew Ball in the FT (via [The Australian](http://www.theaustralian.news.com.au/common/story_page/0,5744,18636481%255E36375,00.html "The Australian")) notes a recent [paper](http://www.sciencedirect.com/science?_ob=MImg&_imagekey=B6V97-4HMNFRM-2-6&_cdi=5891&_user=10&_orig=browse&_coverDate=03%2F31%2F2006&_sk=999779998&view=c&wchp=dGLbVtb-zSkWb&md5=2eddd6e80240fc2e45faef677fee1ccf&ie=/sdarticle.pdf "paper") by Eijffinger and Geraats, which:
+
+*found that the Reserve Bank of New Zealand, the Swedish Riksbank and the Bank of England were the most transparent central banks. Next came the Bank of Canada, the European Central Bank and the Fed. Bringing up the rear were the Reserve Bank of Australia, the Bank of Japan and the Swiss National Bank.\*
+\
+The paper notes the RBA’s many shortcomings:
+
+*Although the Reserve Bank of Australia has adopted inflation targeting, it gets one of the lowest transparency scores (8, increasing to 9 in 2002) in our sample. Although the RBA gets the maximum score on political transparency, its openness on other aspects is much less. Economic transparency falls short because it does not publish quarterly data on capacity utilization and only provides rough short term forecasts for inflation (quarterly) and output (semiannually) without numerical details about the medium term. In addition, there was no explicit policy model until October 2001.  Procedural transparency is low as the RBA does not release minutes and voting records. There is also scope for greater policy transparency because of the lack of an explicit policy inclination and a prompt explanation of each policy decision. Regarding operational transparency, the RBA provides neither a discussion of past forecast errors, nor an evaluation of the policy outcome.  The Reserve Bank of Australia shows that inflation targeting by no means guarantees transparency in all respects.*
+
+The RBA’s published policy model (updated late last year) still carries the formal disclaimer that it does not represent the views of the RBA, so it is questionable whether it qualifies as an explicit policy model.

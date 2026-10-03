@@ -1,0 +1,11 @@
+---
+title: "US Equities to Outperform?"
+date: "2010-06-08"
+categories: ["Economics", "Financial Markets"]
+---
+
+[Bob Doll](http://online.wsj.com/article/SB10001424052748703561604575282893796461472.html?mod=WSJ_Opinion_LEADTop "Bob Doll") makes the case for the continued outperformance of US equity markets:
+
+> *U.S. equities arguably have been outperforming. In the first four months of 2010, U.S. markets were up roughly 6.5%, compared with 2.6% for global equities. Many European markets were in negative territory; only Japan was outpacing the U.S. When the sovereign-debt crisis escalated in May, European, Japanese and emerging markets stocks all fell more sharply than U.S. markets. The bottom line is that the U.S. has generally performed better on the upside this year and held its ground better on the downside.*
+
+While I would have once been sympathetic to this argument, the case for outperformance of US equities has been undermined by growing US convergence with European public policy outcomes. I’ve already indicated I’m on the side of John Quiggin in the [Quiggin-Caplan wager](../2009/the_quiggin-caplan_wager_im_with_quiggin.qmd "Quiggin-Caplan wager"), because the US is thinking more and more like Quiggin and less like Caplan.  Public policy in the EU is not appreciably worse than it has been in the past, but the rate of deterioration in the US implies that their respective structural unemployment rates should converge via a faster rate of deterioration in the US.  The capital allocation process in the US is now so compromised by political intervention that there is little reason to believe in the continued structural outperformance of the US economy.  Differences in labour market institutions won’t matter much in this context.  Caplan himself puts his chances of winning at only 60%.

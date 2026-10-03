@@ -1,0 +1,15 @@
+---
+title: "Another Small Catch from the FOI Desk at the Oz"
+date: "2010-11-22"
+categories: ["Economics", "House Prices", "Monetary Policy"]
+---
+
+Another fishing expedition from the FOI desk at The Australian turned up [this](http://www.theaustralian.com.au/business/property/rba-intervened-to-avert-housing-slump/story-e6frg9gx-1225958005881 "this"), with the following sub-editorial spin:
+
+> *THE Reserve Bank deliberately intervened in the political debate over the property boom to stop governments releasing more land.*
+
+While I’m certainly [not above using the FOI process to get a headline](http://www.theaustralian.com.au/news/opinion/more-inscrutable-than-the-chinese/story-e6frg6zo-1225831954203 "not above using the FOI process to get a headline"), a little more context would have been appropriate for this story. Luci Ellis wrote an [RBA RDP](http://www.rba.gov.au/publications/rdp/2006/2006-12.html "RBA RDP") in 2006 that argued that it was the combination of a demand-side shock from increased household sector leverage in a low inflation-low interest rate environment and an inflexible supply-side that gave rise to the early 2000s house price boom.
+
+I agree with [Chris Joye](http://christopherjoye.blogspot.com/2010/11/does-rba-want-to-elastify-housing.html "Chris Joye") that the RBA had it wrong in the early 2000s and has now changed its tune. The RBA’s fingering of negative gearing in its 2004 submission to the Productivity Commission inquiry was possibly an attempt to set the government up as a scapegoat in case the early 2000s housing boom had ended badly in the context of a monetary policy tightening cycle. The RBA’s then jaw-boning of a supposedly over-heated market now looks rather quaint.
+
+There has been a change in leadership at the RBA since then. Glenn Stevens’ more recent comments about ‘serious supply-side constraints’ in housing are pretty brave by the standards of an Australian central banker (imagine the reaction to Stevens making an even vaguely critical remark about the NBN and you will see what I mean). They are a damning criticism of policy at all levels of government. The only reason it hasn’t been written up that way is that many in the media simply don’t believe that housing affordability is a supply-side problem requiring supply-side solutions.

@@ -1,0 +1,11 @@
+---
+title: "MNI-Deutsche Börse Economic Forecasting Competition – Final Round"
+date: "2011-07-13"
+categories: ["Economics", "Financial Markets"]
+---
+
+Congratulations to Jos Theelen of the University of Amsterdam, who took out first prize in the [MNI-Deutsche Börse Economic Forecasting Competition](http://marketnews.deutsche-boerse.com/press/mnl-announces-best-overall-forecaster). Along with Daiwa Capital’s Mike Moran and myself, Jos was the only other person to place in two of the three forecasting rounds.
+
+This was my first foray back into forecasting since the financial crisis and it was interesting to see that many of the pre-crisis forecasting relationships still hold. The final June round was particularly brutal, however, given the bearish turn in the US data.
+
+Hopefully, MNI-DB will turn this into a regular event. There are too few independent, public tests of economic forecasting ability.

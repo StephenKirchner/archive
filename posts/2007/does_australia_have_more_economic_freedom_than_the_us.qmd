@@ -1,0 +1,15 @@
+---
+title: "Does Australia Have More Economic Freedom than the US?"
+date: "2007-01-18"
+categories: ["Economics"]
+---
+
+I attended a CIS function, at which the Heritage Foundation’s Tim Kane presented their [2007 Economic Freedom Index](http://www.heritage.org/research/features/index/index.cfm "2007 Economic Freedom Index").  The new methodology employed by Heritage is notable for ranking Australia third, ahead of the US, but behind Singapore and HK, in its overall score of economic freedom.  Australia does less well in alternative rankings produced by the [Cato/Fraser Institute](http://www.cato.org/pubs/efw/index.html "Cato/Fraser Institute").
+
+Former Treasury Secretary John Stone was quick to point out that the Heritage Foundation’s claim that overall tax revenue is 24.1% of GDP and that government spending is 35.3% of GDP implies a budget deficit of over 11% of GDP, which would not only come as a big surprise to the Treasury (Australia’s budget is officially in surplus), but would shame even Japan. Far from being a criticism of Heritage, this is perhaps more of a comment on the state of fiscal transparency in Australia.
+
+Australia gets a score of 84.8%, above the US score of 83.8%, for monetary freedom.  This seems to overlook the fact that Australia’s inflation target, at 2-3%, is above the 1-2% that seems to serve as an implicit inflation target in the US.  The RBA takes considerable pride in the fact that inflation has averaged almost exactly 2.5% since 1996, yet this would be considered uncomfortably high by the Fed and under some inflation targeting regimes.  For example, the RBNZ’s 1-3% range produces a lower mid-point than the RBA’s inflation target.
+
+Australia’s monetary freedom ranking is sure to slip as more recent inflation outcomes are incorporated into the index.  Australia’s rather loose approach to inflation targeting risks institutionalising a higher average rate of inflation in Australia than in the US.  This in turn has negative long-run implications for the exchange rate, assuming purchasing power parity holds.
+
+There are certainly dimensions along which Australia could genuinely make a claim to greater economic freedom than in the US, such as in the regulation of financial markets and financial institutions, although this would be hard to quantify.

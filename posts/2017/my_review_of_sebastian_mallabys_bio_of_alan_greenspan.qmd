@@ -1,0 +1,11 @@
+---
+title: "My Review of Sebastian Mallaby’s Bio of Alan Greenspan"
+date: "2017-03-29"
+categories: ["Economics", "Financial Markets"]
+---
+
+The latest issue of CIS [Policy](http://digitaledition.cis.org.au/#folio=58) includes my review of Sebastian Mallaby’s biography of Alan Greenspan. Here is a sample:
+
+> *Far from being a tragedy, Greenspan’s tenure at the Fed was a spectacular success, as Mallaby for the most part acknowledges. This is not to say that US monetary policy could not have been improved by a more rules-based and transparent approach. Mallaby briefly mentions nominal gross domestic product targeting as an alternative to inflation targeting, but does not elaborate on its significance. Greenspan could have moved the Fed in these directions at the expense of his own authority and influence. While one can fault Greenspan’s highly discretionary approach to monetary policy on procedural and other grounds, the results were far better than could reasonably be expected and this is in no small part due to Greenspan’s judgement, which was spectacularly right more often than not. Had Greenspan gone against his own free market instincts and sought to second-guess financial markets on asset prices, as Mallaby suggests, the results would almost certainly have been disastrous and his biography would relate a different type of tragedy. The counter-factual in which someone other than Greenspan was Fed Chair (and we largely know who the alternatives might have been) is one that is worth contemplating.*
+
+Full article [here](../../files/33-1-kirchner-stephen.pdf).

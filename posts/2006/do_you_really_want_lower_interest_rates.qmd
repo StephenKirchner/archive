@@ -1,0 +1,11 @@
+---
+title: "Do You Really Want Lower Interest Rates?"
+date: "2006-08-01"
+categories: ["Economics", "Financial Markets"]
+---
+
+The government’s claim that it can keep the level of interest rates lower than the opposition Labor Party may have been an effective line at the last federal election.  The downside is that it makes it harder for the government to then turn around and disassociate itself from interest rate outcomes in the midst of a tightening cycle.  In the short-run, interest rate determination has very little to do with anything the government does (within reasonable bounds) and the policy differences between the two major parties are certainly not large enough to have a significant influence on interest rate outcomes.
+
+Interest rates can be expected to cycle around their long-run equilibrium real rate.  This long-run real rate is determined by structural factors, such as productivity growth and the real rate of return on capital.  We are conditioned to think of higher real interest rates as being bad for economic growth, but this is true only in a narrow cyclical sense.  The long-run real rate is determined by the real rate of return on invested capital and we want this rate to be higher, not lower.  Countries like Australia and New Zealand have higher interest rates than found in many other industrialised countries in part because their growth prospects are relatively stronger (it is also why they have relatively large current account deficits).  High real interest rates and current account deficits are symptomatic of economic strength, not weakness. 
+
+The country that has been most successful in keeping interest rates low in recent years has been Japan, which achieved this dubious distinction by saving too much, over-capitalising its economy and trashing the real rate of return on invested capital.  Not coincidentally, Japan also runs a current account surplus.

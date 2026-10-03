@@ -1,0 +1,9 @@
+---
+title: "Productivity and House Prices"
+date: "2009-07-10"
+categories: ["Economics", "Financial Markets", "House Prices"]
+---
+
+In [Bubble Poppers](http://www.cis.org.au/policy_monographs/pm93.pdf "Bubble Poppers"), I followed Peter Garber in arguing that claims about ‘bubbles’ in asset prices are a substitute for fundamental analysis, a non-explanation for events that people are otherwise unable or too lazy to explain.  In contrast to the dominant non-explanation for innovations in house prices in the United States, [James Kahn](http://www.newyorkfed.org/research/current_issues/ci15-3.pdf "James Kahn") argues that there is a strong relationship between house prices and productivity growth that explains the recent US housing boom and bust:
+
+> *The housing boom and bust of the last decade, often attributed to “bubbles” and credit market irregularities, may owe much to shifts in economic fundamentals. A resurgence in productivity that began in the mid-1990s contributed to a sense of optimism about future income that likely encouraged many consumers to pay high prices for housing. The optimism continued until 2007, when accumulating evidence of a slowdown in productivity helped dash expectations of further income growth and stifle the boom in residential real estate.*

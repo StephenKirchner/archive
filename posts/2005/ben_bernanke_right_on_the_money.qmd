@@ -1,0 +1,17 @@
+---
+title: "Ben Bernanke Right on the Money"
+date: "2005-03-13"
+categories: ["Economics"]
+---
+
+I have long been a fan of FRB Governor Ben Bernanke.  In his [Sandridge Lecture](http://www.federalreserve.gov/boarddocs/speeches/2005/200503102/ "Sandridge Lecture"), he advances what he calls an ‘unconventional’ interpretation of the deterioration in the current account balances of the Anglo-American economies (as Bernanke reminds his American audience, this is not a phenomenon unique to the US).  Bernanke is probably being ironic, because there is nothing at all unconventional about his interpretation, except in the sense that it goes against a conventional wisdom that is thoroughly mistaken. 
+
+Despite underselling his case, he makes many good points, but most importantly, he firmly points the finger at the role of forced saving in East Asia as a contributing factor in global imbalances:
+
+current account surpluses have been an important source of reserve accumulation in East Asia.  Countries in the region that had escaped the worst effects of the crisis but remained concerned about future crises, notably China, also built up reserves. These “war chests” of foreign reserves have been used as a buffer against potential capital outflows. Additionally, reserves were accumulated in the context of foreign exchange interventions intended to promote export-led growth by preventing exchange-rate appreciation…
+
+In practice, these countries increased reserves through the expedient of issuing debt to their citizens, thereby mobilizing domestic saving, and then using the proceeds to buy U.S. Treasury securities and other assets. Effectively, governments have acted as financial intermediaries, channeling domestic saving away from local uses and into international capital markets.
+
+Highly recommended reading.
+
+[Deepak Lal](http://www.cato.org/pub_display.php?pub_id=3706 "Deepak Lal") suggests China could do something more useful with its foreign exchange reserves.

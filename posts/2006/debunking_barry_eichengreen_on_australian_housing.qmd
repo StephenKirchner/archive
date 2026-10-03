@@ -1,0 +1,21 @@
+---
+title: "Debunking Barry Eichengreen on Australian Housing"
+date: "2006-09-20"
+categories: ["Economics"]
+---
+
+[Felix Salmon](http://www.rgemonitor.com/blog/economonitor/146690 "Felix Salmon") points to an [article by Barry Eichengreen](http://www.emergingmarkets.org/article.asp?ArticleID=1079329&CategoryID=206 "article by Barry Eichengreen"), which argues that:
+
+> *Only the continued buoyancy of prices in Perth, in the far west of the country, has prevented prices nationwide from falling more dramatically. All this offers a hint of what the US has in store.*
+
+Unfortunately for Felix, this blog has [already dealt with this argument](../2006/the_house_price_bust_that_wasnt.qmd "already dealt with this argument"):
+
+> *The upswing in global commodity prices that began in 2002 explains much of this regional variation, adding to incomes in the resource-rich states and driving the inter-state migration flows that the RBA has identified as an important source of weakness in Sydney house prices, which have now largely converged back to the same ratio to other capital cities seen in the early 1990s.  While many people have argued that, but for the commodities boom, the rest of Australia would look like Sydney, it is more plausible to argue that Sydney is only as weak as it is because the commodities boom has drawn people away from Australia’s largest city.*
+
+Eichengreen also wants us to believe that only the commodity price boom saved the Australian economy from a housing-led downturn:
+
+> *So why is the Australian economy holding up so well? The answer comes in two parts. First, strong commodity prices are a boon for Australia. The country is a big producer of aluminium, copper, nickel, coal and iron ore, all of which are in strong demand globally, and especially in neighbouring \[sic\] China. To Australians it seems as if there is no end to China’s demand for these commodities.*
+
+While the boom in commodity prices has certainly been important to the Australian economy, it hasn’t done as much for measured GDP growth as many analysts would like to think.  Most people would be surprised to learn that mining output in Australia fell 8.3% in the year to June.  Net exports have made a flat or negative contribution to Australian GDP growth in every quarter since Q3 2001 (a fact that should not have escaped an ersatz doomsday cultist like Felix!)  As John Edwards likes to point out, Australian export volumes have even underperformed US export volumes.  The increased national purchasing power due to a rising terms of trade has resulted in the substitution of imports for domestic production, which subtract from GDP.  Where the commodity boom shows up is in growth in gross domestic income, which has held up significantly better than GDP growth.  However, given the high level of foreign ownership of the Australian resources sector, this partly benefits foreign equity owners (see Australia’s net income deficit, much maligned by Nouriel).  If Australia were anywhere near as reliant on commodities as many analysts seem to believe, then the Australian economy really would be in dire straits.
+
+While many pundits are desperate to believe that the US is destined for housing-led economic ruin, there is little support for this proposition in the experience of the other Anglo-American economies that have been front-running the US housing cycle.

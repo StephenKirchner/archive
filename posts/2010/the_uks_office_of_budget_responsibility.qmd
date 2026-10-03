@@ -1,0 +1,19 @@
+---
+title: "The UK’s Office of Budget Responsibility"
+date: "2010-05-24"
+categories: ["Economics", "Fiscal Policy"]
+---
+
+The new coalition government in the UK has handed responsibility for its economic and fiscal forecasts to an independent [Office of Budget Responsibility](http://www.telegraph.co.uk/news/newstopics/politics/conservative/georgeosborne/7734729/George-Osborne-sets-up-watchdog-to-stop-ministers-fiddling-figures.html "Office of Budget Responsibility"):
+
+> The Chancellor said the Office for Budget Responsibility (OBR) would give greater credibility to the figures that were unveiled on Budget day…
+>
+> Accusing the previous Labour government of consistently misleading the public, Mr Osborne said the OBR would be in charge of growth and borrowing forecasts.
+>
+> “Again and again, the temptation to fiddle the figures, to nudge up a growth forecast here or reduce a borrowing number there, to make the numbers add up has proved too great, and that is a significant part of the reason for our current problems,” he said.
+>
+> “I am the first Chancellor to remove the temptation to fiddle figures by giving up control of the economic and fiscal forecasts. I recognise that this will create a rod for my back down the line.
+>
+> “That is the whole point. We need to fix the Budget to fit the figures, not fix the figures to fit the Budget.”
+
+Robert Carling and I proposed a similar model for Australia in our CIS Policy Monograph, [Fiscal Rules for Limited Government](http://www.cis.org.au/policy_monographs/pm98.pdf "Fiscal Rules for Limited Government").

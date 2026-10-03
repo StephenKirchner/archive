@@ -1,0 +1,13 @@
+---
+title: "DIY CPI"
+date: "2007-10-31"
+categories: ["Economics", "Financial Markets"]
+---
+
+Australia and New Zealand are among the few developed countries not to publish a monthly CPI, producing a quarterly series instead.  In Australia, the ABS have always argued that a higher frequency CPI does not stack-up on a cost-benefit basis.  Yet it would seem most unlikely that the cost-benefit calculus in Australia and New Zealand would be substantially different from the many comparable countries that somehow manage to produce a monthly CPI. 
+
+In Australia, TD Securities and the Melbourne Institute have teamed-up to produce a monthly CPI, that has a low tracking error with the official series.
+
+The [National Bank in New Zealand](http://www.nationalbank.co.nz/economics/outlook/071031/default.aspx "National Bank in New Zealand") are now looking to do something similar and are calling for help from fellow kiwis:
+
+> *There seems little appetite across policy circles for producing a monthly CPI. So we are going to take it upon ourselves to fill the void. To do this we need your help. For simplicity we’re going to limit ourselves to a domestic or non-tradable inflation measure. The technological age means it is possible to capture many areas of domestic inflation via the internet, which we’ve already started doing. Alas we have gaps, and need your help. So if you’re engaged as a medical practitioner, dentist, mechanic, plumber, electrician, builder, vet, lawyer, accountant, real estate agent, property maintenance, gymnasium, early childhood centre, physiotherapist, or hairdresser (yes we know this is a long-shot), we’d love to have your input. Full confidentiality conditions would apply and we’ll use technology to make responding easy just like the Business Outlook. Just email cameron.bagrie at nbnz.co.nz if you are prepared to help the nation out!*

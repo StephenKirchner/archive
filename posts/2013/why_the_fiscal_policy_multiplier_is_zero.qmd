@@ -1,0 +1,13 @@
+---
+title: "Why the Fiscal Policy Multiplier is Zero"
+date: "2013-09-13"
+categories: ["Economics", "Financial Markets", "Fiscal Policy", "Monetary Policy"]
+---
+
+Scott Sumner has a new paper published by the Mercatus Centre, [Why the Fiscal Multiplier is Roughly Zero](http://mercatus.org/publication/why-fiscal-multiplier-roughly-zero-0). The argument will be familiar to regular readers of his blog, but the paper serves as a nice summary of what has become known as the Sumner critique. As Scott would be the first to concede, this is not a new or unconventional idea, but somehow the economics profession lost sight of this basic insight into monetary-fiscal interactions during the global financial crisis.
+
+The Sumner critique is particularly relevant to a small open economy like Australia, where the entire institutional framework for macroeconomic policy is arguably built around this insight. With a floating exchange rate and an inflation targeting monetary policy, the change in the budget balance as a share of GDP from one year to the next is a macroeconomic irrelevance by design. This allows fiscal policy to focus on microeconomic and supply-side issues.
+
+In testimony before various parliamentary committees, former Treasury Secretary Ken Henry and RBA Governor Glenn Stevens explicitly acknowledged monetary offset in the context of the 2008-09 fiscal ‘stimulus’, but resorted to the argument that it was better to rely on a mix of macroeconomic instruments rather than monetary policy alone, citing alleged adverse side-effects from very low interest rates. In the US context, Sumner notes the real reason for such arguments: politically, the monetary authority cannot be seen to be explicitly undermining the efforts of the fiscal authority.
+
+In Australia, it is often argued that the government should not cut government spending or return the budget to surplus because it would supposedly be contractionary for the economy. This not only ignores the role of fiscal policy within Australia’s macroeconomic policy framework. As Scott notes, the assumed underlying ‘estimates of fiscal multipliers become little more than forecasts of central bank incompetence.’

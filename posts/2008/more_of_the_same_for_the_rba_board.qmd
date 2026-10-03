@@ -1,0 +1,25 @@
+---
+title: "More of the Same for the RBA Board"
+date: "2008-07-09"
+categories: ["Economics", "Financial Markets"]
+---
+
+The new Labor government’s changes to the appointments process for the RBA Board are seen by the RBA and Treasury as preserving the status quo:
+
+> Documents obtained by [The Australian](http://www.theaustralian.news.com.au/story/0,25197,23991759-20142,00.html "The Australian") under Freedom of Information laws show Reserve Bank governor Glenn Stevens and Treasury secretary Ken Henry began discussing Labor’s promised register of nominees in early December last year.
+>
+> Mr Stevens had some names to suggest early on, as did Dr Henry, but did not regard Labor’s pledge as a bid for radical change.
+>
+> “I have already had a question on whether this process will result in more economists on the board, to which my answer was that as far as I knew, the idea wasn’t to change the nature of the board, simply to ensure that the best people could be approached,” Mr Stevens told Dr Henry on December 12.
+>
+> In reply, Dr Henry agreed “the intention is not to change the composition of the board”.
+
+As I predicted [here](http://www.cis.org.au/policy/autumn_08/Links/kirchner_autumn08.pdf "here"), the new arrangements serve primarily to entrench bureaucratic influence over monetary policy.
+
+In another triumph for transparency and accountability, the names on the register have been suppressed:
+
+> *The names on the register were deleted in the documents released by Treasury, with the decision-maker ruling their publication would undermine the appointment process.*
+
+The documents concede the argument I make in the linked article above, that the composition of the RBA Board ‘was unusual by international standards,’ but maintain that the existing arrangements ensure that Board members ‘operate in, and are seen as representatives of the broader national interest, rather than representing a specific section of the Australian economy.’
+
+Unfortunately, the RBA also argues that the only way in which external Board members can be expected to represent the national rather than their own sectional interests is if the contributions of individual members are suppressed from the minutes of Board meetings.  In any other context, the idea that a conflict of interest can be resolved through increased secrecy would be considered absurd.  The RBA’s defence of the existing Board arrangements shows they are incompatible with modern demands for central bank transparency and accountability.  It says a lot about the RBA that most of our insights into the official rationale for the current governance arrangements come via Freedom of Information requests.

@@ -1,0 +1,9 @@
+---
+title: "Fundamentals of House Price Inflation"
+date: "2006-12-15"
+categories: ["Economics"]
+---
+
+Another installment in our on-going series on the fundamentals of house price inflation.  The RBA has released a discussion paper,  [Housing and Housing Finance: The View from Australia and Beyond](http://www.rba.gov.au/PublicationsAndResearch/RDP/RDP2006-12.html "Housing and Housing Finance: The View from Australia and Beyond"):
+
+> *The general conclusion is that financial and macroeconomic developments have increased the demand for the stock of housing. Because the stock of housing is inherently slow to adjust, this has increased its relative price. Although this is a global trend, individual country institutions have affected outcomes, sometimes in ways that are not obvious. The resulting expansion in both sides of the household balance sheet is an important development for policy-makers to monitor, but it is probably not of itself a cause of financial instability.*

@@ -1,0 +1,15 @@
+---
+title: "A Forgotten Financial Failure"
+date: "2011-03-16"
+categories: ["Economics", "Financial Markets"]
+---
+
+I have an article in [Online Opinion](http://www.onlineopinion.com.au/view.asp?article=11755) questioning the dominant narrative of the recent financial crisis and its role in conditioning regulatory responses to the crisis:
+
+> Perhaps the most pernicious myth about the crisis is that it was the failure of the US government to rescue Lehman Brothers that precipitated these events. Indeed, it has become common practice to date the crisis from 15 September 2008 when Lehman Brothers was allowed to fail. Yet trouble had been brewing in credit markets for more than 12 months before.
+>
+> The failure of Lehman Brothers was a trivial event compared to a much bigger but largely ignored financial failure that took place one week before when the two US mortgage giants Freddie Mac and Fannie Mae were put into conservatorship by the US government. These Congressionally-mandated, government-sponsored enterprises (GSEs) either owned or guaranteed two-thirds of the bad mortgages in the US financial system. They were far more highly leveraged than the private US or European investment banks. They will also ultimately cost US taxpayers more than all the other bail-outs of private financial institutions combined…
+>
+> The failure of Lehman Brothers was merely a symptom rather than a cause of the crisis and the unwillingness of the US authorities to rescue Lehman was perhaps the one good US policy decision made through this episode. Federal Reserve Chairman Ben Bernanke conceded as much recently, when he tried to defend the decision as a necessary one, but then undercut his own argument by maintaining that the decision also had disastrous consequences. What Bernanke should have argued was that the winding up of Lehman Brothers was fairly orderly as far as these things go and not a source of major systemic problems in the financial system.
+
+Other contributions in this series can be found [here](http://onlineopinion.com.au/feature.asp?year=2011&month=2).

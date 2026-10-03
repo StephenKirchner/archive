@@ -1,0 +1,9 @@
+---
+title: "Greenspan was Right"
+date: "2008-10-28"
+categories: ["Economics", "Financial Markets"]
+---
+
+[Alan Greenspan](http://www.federalreserve.gov/boarddocs/testimony/2005/20050406/default.htm "Alan Greenspan") tries to educate a deaf and dumb US Congress, 6 April 2005:
+
+> *We at the Federal Reserve remain concerned about the growth and magnitude of the mortgage portfolios of the GSEs, which concentrate interest rate risk and prepayment risk at these two institutions and makes our financial system dependent on their ability to manage these risks. Although Fannie and Freddie have chosen not to expand their portfolios significantly this past year (presumably at least partly in light of their recent difficulties), the potential for rapid growth in the future is not constrained by the existing legislative and regulatory regime. It is a reasonable presumption that rapid growth is likely to resume once Fannie and Freddie believe they have resolved their current difficulties. Without changes in legislation, Fannie and Freddie will, at some point, again feel free to multiply profitability through the issuance of subsidized debt. To fend off possible future systemic difficulties, which we assess as likely if GSE expansion continues unabated, preventive actions are required sooner rather than later.*

@@ -1,0 +1,13 @@
+---
+title: "Ricardian Backlash to Fiscal Stimulus"
+date: "2009-02-20"
+categories: ["Economics", "Fiscal Policy"]
+---
+
+The government has hailed the latest data on retail trade volumes as evidence of the success of its fiscal stimulus packages.  As we have argued previously, much of this retail spending will leak into imports, which is one of the reasons stimulus is even less effective in a small open economy like Australia compared to a large and relatively closed economy like the US.  But the boost to retail spending is feeble relative to gains in household disposable income.  [Westpac](http://www.westpac.com.au/manage/wrap.nsf/vPdfUrls/A04BD1A4ADDC9CDECA25756100204017/$File/er20090218BullRetailQ408.pdf?OpenElement "Westpac") does the numbers:
+
+> *the Q4 retail figures suggest a muted initial response from consumers to what has been a significant policy injection to disposable incomes. We estimate that the Govt’s \$8.7bn in fiscal payments to households and the substantial easing in interest rates (275bps in Q4) effectively added over \$10bn to household disposable incomes in the last quarter of 2008. The Q4 increase in nominal retail sales amounted to just \$974mn.  While this is only a portion of total consumer spending, the result suggests households saved about 80% of the cash injection.  Clearly some of the stimulus cash will be spent in the months ahead – many recipients will no doubt have held off spending just to take advantage of post-Xmas sales. However, the general indication so far is of a decidedly underwhelming spending response.*
+
+Households are clearly trying to rebuild their net worth in response to declining asset prices through increased saving.  Public sector dissaving through unfunded fiscal stimulus packages simply adds to this saving task by increasing the future tax burden on households.  Fiscal stimulus is at war with itself.
+
+So what should households do with an \$8 witholding tax credit?  Ask 16 economists and you will get 16 [different answers](http://blogs.wsj.com/economics/2009/02/18/how-8-a-week-can-best-boost-the-economy/ "different answers").  I like Adam Posen’s suggestion of investing in your own human capital, although possibly for different reasons.  My reasons: human capital is mobile, hard for governments to directly tax and you only have yourself to blame if the investment goes south.

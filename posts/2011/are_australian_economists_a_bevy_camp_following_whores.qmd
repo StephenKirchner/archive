@@ -1,0 +1,15 @@
+---
+title: "Are Australian Economists a Bevy of Camp-Following Whores?"
+date: "2011-07-26"
+categories: ["Economics", "Politics"]
+---
+
+I have an article at [The Conversation](http://theconversation.edu.au/what-our-economists-really-think-about-politics-2378) on the results of a survey of the policy views of members of the Economic Society of Australia. Along with poorly worded questions, the survey suffers from a selection bias problem. The survey is arguably more representative of those ESA members interested in public policy than of economists more generally.
+
+[Judy Sloan](http://catallaxyfiles.com/2011/07/23/australian-economists-a-sloppy-lot/) beat me to the punch in commenting on the response to the minimum wage question. As Sloan quotes Jim Buchanan:
+
+> *no self-respecting economist would claim that increases in the minimum wage increase employment. Such a claim, if seriously advanced, becomes equivalent to a denial that there is even minimum scientific content in economics, and that, in consequence, economists can do nothing but write as advocates for ideological interests. Fortunately, only a handful of economists are willing to throw over the teaching of two centuries; we have not yet become a bevy of camp-following whores.*
+
+Except for the majority of ESA members, it seems.
+
+UPDATE: [John Tierney](http://www.nytimes.com/2011/07/24/education/edl-24notebook-t.htm) considers selection bias in the US academy.

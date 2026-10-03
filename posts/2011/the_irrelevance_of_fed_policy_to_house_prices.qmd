@@ -1,0 +1,11 @@
+---
+title: "The Irrelevance of Fed Policy to House Prices"
+date: "2011-03-02"
+categories: ["Economics", "Financial Markets", "House Prices", "Monetary Policy"]
+---
+
+In my CIS Policy Monograph [Bubble Poppers](http://www.cis.org.au/publications/policy-monographs/article/906-bubble-poppers-monetary-policy-and-the-myth-of-bubbles-in-asset-prices), I was dismissive of the notion that Fed policy had anything to do with the US house price boom and bust of last decade. The Reinharts take this Fed irrelevance proposition much further in a new [NBER Working Paper](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1770370##):
+
+> *We take a close look at the responses of asset markets to changes in the short-term policy interest rate since the founding of the Fed in 1914. Changes in the federal funds rate have no systematic effect on either long-term interest rates or housing prices over nearly a century. Indeed, since the mid-1990s the policy rate had a negative relationship with long-term interest rates. This is consistent with a global view of capital markets where massive cross-border flows shape the availability of domestic credit and asset prices. The evidence casts doubts on arguments that a moderately different monetary policy path might have mattered*.
+
+I tried telling the same story to John Taylor once, without much success. Maybe the Reinharts will be more convincing.

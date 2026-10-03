@@ -1,0 +1,37 @@
+---
+title: "The CPI and the RBA’s Backward-Looking Bias"
+date: "2010-03-01"
+categories: ["Economics", "Financial Markets", "Monetary Policy"]
+---
+
+I have an op-ed in today’s *Canberra Times* arguing for a monthly CPI for Australia (full text below the fold):
+
+> *This lack of timeliness in compiling and releasing inflation data gives monetary policy a backward-looking bias.  Around 45 per cent of the changes in the official interest rate since 1990 have been announced at the Board meeting immediately following the quarterly CPI release.  During the 2002-08 tightening episode, 67 per cent of rate hikes followed this pattern, including every one of the six tightenings between May 2006 and February 2008.*
+
+Today saw the release of the TD Securities-Melbourne Institute Monthly Inflation Gauge, which rose by 0.1% in February, following a 0.8% rise in January and a 0.3%  rise in December 2009. In the twelve months to February, the Inflation Gauge rose by 1.9%. The trimmed mean measure rose by 0.1%, to be 2.0% higher than a year ago.  The gauge points to a 1% rise in the March quarter CPI for an annual rate of 3%.
+
+As I note in the op-ed, the Melbourne Institute has stopped publishing the index numbers for the gauge, limiting its usefulness and going very much against the spirit of its creators and sponsors.  However, for those who need it, Annette Beacher advises the index number for February is 123.45.
+
+ 
+
+\* \* \*
+
+Timely information is crucial to the conduct of monetary policy.  Yet the single most important input into the decision-making process of the Reserve Bank Board, the consumer price index (CPI), is also one of the least timely by international standards.  Australia shares with New Zealand the distinction of being one of the few countries to release its inflation data at a quarterly rather than a monthly frequency.  Even New Zealand publishes a monthly food price index, a useful series for forecasting the quarterly CPI inflation rate.
+
+This lack of timeliness in compiling and releasing inflation data gives monetary policy a backward-looking bias.  Around 45 per cent of the changes in the official interest rate since 1990 have been announced at the Board meeting immediately following the quarterly CPI release.  During the 2002-08 tightening episode, 67 per cent of rate hikes followed this pattern, including every one of the six tightenings between May 2006 and February 2008.
+
+This suggests that the Reserve Bank may sometimes delay policy action by one or two months while it waits for the latest inflation data.  This goes against what the RBA tells us is good policy practice, which is to be pre-emptive and forward-looking.  It is also potentially confusing to the public, implying that the Reserve Bank is passively responding to past inflation outcomes rather than actively targeting the future path of inflation. 
+
+A monthly CPI release would ensure that each Reserve Bank Board meeting had the benefit of an update on the inflation rate, which also serves as the baseline for the Bank’s inflation forecast.  The RBA would no longer have a bias to changing interest rates in the wake of the quarterly CPI release.  The Bank and financial markets could more quickly identify potential turning points in the inflation rate and the economy more generally.
+
+It is considered desirable for central banks to smooth changes in interest rates over time, to minimise the risk of policy errors.  This argues for a gradualist approach to policy.  However, more timely policy action could facilitate this gradual approach by reducing the need for future changes in interest rates.  A monthly CPI that results in more timely policy action would not necessarily lead to an increase in policy activism whereby the Reserve Bank engages in unnecessary fine-tuning.
+
+While the Reserve Bank and financial markets would welcome a monthly CPI, the Australian Bureau of Statistics (ABS) has traditionally resisted the idea.  The ABS argues that the increased cost of collecting the data at a monthly frequency would outweigh any additional benefits to users.  But this is based on a very narrow reading of the benefits side of the equation.  If a higher frequency CPI leads to more timely monetary policy action, the economy-wide benefits could be very large.  Most other developed countries have apparently decided that a monthly CPI is worth the cost.  It would be surprising if the costs and benefits in Australia were substantially different.
+
+Funding has been an issue for the ABS in recent years.  This has seen the ABS implement saving measures that resulted in less reliable labour force and retail trade data, decisions that were subsequently reversed.  However, savings could potentially be made by reducing the frequency of other data, such as the monthly labour force release.  These data are very noisy at a monthly frequency.  They are good for generating newspaper headlines, but add relatively little new information at this frequency.  Monthly readings on the labour market can be left to private sector surveys, such as the ANZ job advertisements series.  Most analysts welcomed the demise of the volatile and revision-prone monthly current account data in 1997 in favour of a quarterly release.
+
+Stephen Koukoulas of TD Securities and Professor Don Harding, formerly at the Melbourne Institute and now at La Trobe University, teamed-up to create a monthly inflation gauge that has a low tracking error with the official CPI, showing what can be done with even limited resources.  Their inflation gauge has been a valuable source of more timely readings on the inflation rate, while also helping to better forecast the official data.  Unfortunately, the Melbourne Institute recently discontinued publishing the index numbers with the monthly release, which has reduced the usefulness of this series to analysts. 
+
+The ABS is currently conducting its five-yearly review of the CPI.  The review is canvassing options including the release of higher frequency data on consumer prices.  Public submissions can be made before 12 March, with the outcome of the review to be announced in December.  It is to be hoped that the review leads Australia to match its developed country peers in the frequency of its official data on consumer price inflation.
+
+Dr Stephen Kirchner is a Research Fellow at the Centre for Independent Studies.

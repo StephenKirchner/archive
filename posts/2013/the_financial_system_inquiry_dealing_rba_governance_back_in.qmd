@@ -1,0 +1,19 @@
+---
+title: "The Financial System Inquiry – Dealing RBA Governance Back In"
+date: "2013-12-04"
+categories: ["Economics", "Financial Markets"]
+---
+
+I participated in a roundtable discussion on the Financial System Inquiry’s [draft terms of reference](http://www.treasury.gov.au/ConsultationsandReviews/Consultations/2013/financial-system-inquiry-tor) organised by federal Treasury. Item 7 of the draft terms of reference states that:
+
+> *In reaching its conclusions, the Inquiry will take account of, but not make recommendations on the objectives and procedures of the Reserve Bank in its conduct of monetary policy.*
+
+This can be read a number of ways. I think the intent is to take RBA independence and inflation targeting off the table, but it can also be read as shutting down any consideration of RBA governance. The RBA is internationally anomalous in failing to separate monetary policy decision-making from the overall governance of the bank. This puts the board in the position of oversighting itself in the conduct of monetary policy, the bank’s most important function.
+
+As I argue in this [paper](../../files/ANewErafortheRBA.pdf), external board members are also conflicted in being notionally appointed to represent particular interests and perspectives, but their role as monetary policy decision-makers requires them to put aside these interests in favour of the public interest. This results in the contributions of individual board members to monetary policy deliberations being suppressed, reducing transparency and accountability in the conduct of monetary policy. The RBA is also exceptional in affording a government representative voting rights (as opposed to non-voting representation) in setting monetary policy.
+
+I also argued at the roundtable, consistent with my article in yesterday’s [AFR](http://www.institutional-economics.com/index.php/section/treasurer_joe_hockeys_capital_xenophobia), that the role of both the Foreign Acquisitions and Takeovers Act and the Foreign Investment Review Board needed to be explicitly included in the terms of reference because of their implications for the cost of capital and the financial system’s international integration with global capital markets. I briefly canvass reform options for the regulation of foreign direct investment in this article in the December issue of [Infinance](../../files/Infinance.pdf).
+
+My concern is that unless RBA governance, the role of FATA and the FIRB are explicitly raised in the final terms of reference, these issues will not be adequately examined by the Inquiry.
+
+Submissions on the draft terms of reference close Thursday 5 December. If you think these are important issues, it is not too late to put in a submission.

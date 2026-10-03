@@ -1,0 +1,9 @@
+---
+title: "Prediction Market in US Monthly Unemployment Rate"
+date: "2010-01-11"
+categories: ["Economics", "Financial Markets"]
+---
+
+Contracts on the monthly US unemployment rate make a [welcome return](http://www.intrade.com/news/mainpage.jsp?article=news_446.html "welcome return") at Intrade.  There was a time when Intrade offered contracts on all US economic data releases, including non-farm payrolls, but the market-makers gave up on these contracts due to an insufficient number of noise traders.  Economic derivatives markets have a poor track record of success in the US, with the CME [shutting down](http://blogs.wsj.com/economics/2007/06/29/economics-derivatives-market-shutters/ "shutting down") its economic derivatives in 2007.
+
+Perhaps the most successful economic derivatives market is [iPredict](https://www.ipredict.co.nz/ "iPredict") in New Zealand, which also offers contracts on Australian economic data and the RBA’s official cash rate.

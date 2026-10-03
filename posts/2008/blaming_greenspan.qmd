@@ -1,0 +1,13 @@
+---
+title: "Blaming Greenspan"
+date: "2008-10-24"
+categories: ["Economics", "Financial Markets"]
+---
+
+The WSJ is polling readers on the question ‘How much is Greenspan to blame, if at all, for the financial crisis?’  [Polling to date](http://forums.wsj.com/viewtopic.php?t=4346 "Polling to date") suggests that around 25% of readers think ‘He is more to blame than anyone else,’ while 40% maintain ‘He has significant blame.’  Only 10% say ‘he is not to blame.’
+
+The majority view implicitly places an enormous burden on monetary policy to manage, not just inflation outcomes, but a whole range of other policy issues as well, from housing to the regulation of financial markets.  The notion that monetary policy could somehow effectively deal with the multiple regulatory failures implicated in the credit crisis is absurd and goes against everything we have learned about how monetary policy should be conducted in recent decades.  Unfortunately, because monetary policy is seen to have a pervasive influence over the economy, Greenspan makes for an easy target and a simple monocausal narrative for all that went wrong.
+
+It is particularly irksome to see Greenspan having to defend himself against the [blame-shifting behaviour of the US Congress](http://online.wsj.com/article/SB122476545437862295.html#printMode "blame-shifting behaviour of the US Congress").  Afterall, the Federal Reserve operates under a Congressional mandate and is subject to Congressional oversight.  If there were problems at the Fed, then the buck stops with Congress. 
+
+This point about accountability goes well beyond the area of monetary policy.  Politicians and regulators write the rules of the game and are at least notionally accountable for the outcomes under these rules.  The ferocity of attacks by politicians on corporate executives, financial markets and capitalism in general is a transparent attempt to divert attention from their own failings and avoid accountability for their policies.

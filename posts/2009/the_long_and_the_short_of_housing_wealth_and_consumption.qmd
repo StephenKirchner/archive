@@ -1,0 +1,13 @@
+---
+title: "The Long and the Short of Housing Wealth and Consumption"
+date: "2009-06-23"
+categories: ["Economics", "Financial Markets", "House Prices"]
+---
+
+[Charles Calomiris, Stanley Longhofer and William Miles](http://blogs.wsj.com/economics/2009/06/22/guest-contribution-the-mythical-housing-wealth-effect/ "Charles Calomiris, Stanley Longhofer and William Miles"), on why there is no wealth effect on consumption from changes in house prices:
+
+> any decrease in house prices hurts only those who are net “long” in housing, that is, those who own more housing than they plan to consume. This might include, for instance, “empty-nesters” who are planning on selling their current houses and downsizing. On the other hand, the decline in home values helps those who are not yet homeowners but plan to buy. Most homeowners, however, are neither net long nor net short to any significant degree; they own roughly what they intend to consume in housing services. For these households, there should be no net wealth effect from house price change. And when one thinks about the economy as a whole (which is a combination of all three types of households) the aggregate change in net housing wealth in response to house price change should be nearly zero; changes in house prices should affect the distribution of net housing wealth, but have little effect on aggregate net housing wealth. Thus any effect from net housing wealth change on aggregate consumption spending should be similarly small.
+>
+> Put differently, an increase in house prices raises the value of the typical homeowner’s asset, but such a price increase is also an equivalent increase in the cost of providing oneself housing consumption. In the aggregate, changes in house prices will have offsetting effects on value gain and costs of housing services, and leave nothing left over to spend on non-housing consumption.
+
+The authors also debunk the work of Karl Case, John Quigley and Robert Shiller.

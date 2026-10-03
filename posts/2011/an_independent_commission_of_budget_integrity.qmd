@@ -1,0 +1,9 @@
+---
+title: "An Independent Commission of Budget Integrity"
+date: "2011-02-15"
+categories: ["Economics", "Fiscal Policy"]
+---
+
+The Business Council of Australia has included a report by Stephen Bartos making the case for an independent Commission of Budget Integrity in its [pre-Budget submission](http://www.bca.com.au/Content/101791.aspx) to the government. Bartos references a similar proposal by [Robert Carling and I](http://cis.org.au/publications/policy-monographs/article/902-fiscal-rules-for-limited-government-reforming-australias-fiscal-responsibility-legislation) on the subject, as well as earlier work by Nic Gruen, which drew on a 1996 proposal by Larry Ball when Larry was visiting the RBNZ.
+
+The report does something we did not do, which is to cost the proposal. Bartos puts a 30-40 member commission with two executives and a board at \$10m a year. To put this in perspective, it is less than the extra \$15m the ABS wants to increase the frequency of the CPI from a quarterly to monthly release.

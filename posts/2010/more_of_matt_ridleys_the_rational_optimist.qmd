@@ -1,0 +1,9 @@
+---
+title: "More of Matt Ridley’s The Rational Optimist"
+date: "2010-07-03"
+categories: ["Economics"]
+---
+
+From [Ode](http://news.yourolivebranch.org/2010/07/01/the-rational-optimist-by-matt-ridley-a-book-excerpt/ "Ode") magazine:
+
+> *In 2005, compared with 1955, the average human being on Planet Earth earned nearly three times as much money (corrected for inflation), ate one-third more calories of food, buried one-third as many of her children and could expect to live one-third longer. All this during a half-century when the world population has more than doubled, so that far from being rationed by population pressure, the goods and services available to the people of the world have expanded. It is, by any standard, an astonishing human achievement.*

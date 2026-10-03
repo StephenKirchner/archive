@@ -1,0 +1,7 @@
+---
+title: "I have a Substack"
+date: "2019-08-15"
+categories: ["Economics", "Financial Markets"]
+---
+
+I have a [Substack](https://stephenkirchner.substack.com/). Nothing you won’t find here or elsewhere, but available for those who like the medium.

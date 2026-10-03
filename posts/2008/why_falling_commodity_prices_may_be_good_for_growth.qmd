@@ -1,0 +1,11 @@
+---
+title: "Why Falling Commodity Prices May be Good for Growth"
+date: "2008-12-03"
+categories: ["Commodity Prices", "Economics"]
+---
+
+The Australian economy expanded 0.1% in the [September quarter](http://www.abs.gov.au/AUSSTATS/abs@.nsf/Lookup/5206.0Main+Features1Sep%202008?OpenDocument "September quarter"), which is dismal enough, but non-farm GDP contracted 0.3% over the quarter.  Farm output rose 14.9% over the quarter.  In current prices, the increase was only 7.5%, but the price deflator for farm GDP fell 6.5% over the quarter.
+
+This points to a little appreciated aspect of the relationship between commodity prices and the Australian economy.  High commodity prices are often the flip side of weak commodity production, which depresses real GDP growth.  To the extent that lower commodity prices reflect increased output, this is actually a positive for real GDP growth. 
+
+As I argue in a forthcoming article in *Policy*, commodity prices are far less important to economic growth in Australia than conventionally assumed.

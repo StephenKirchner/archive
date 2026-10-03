@@ -1,0 +1,13 @@
+---
+title: "No Free Lunch for Credit Conditions"
+date: "2010-02-02"
+categories: ["Economics", "Financial Markets", "Monetary Policy"]
+---
+
+The RBA has surprised the punditocracy by leaving the official cash rate [unchanged](http://www.rba.gov.au/media-releases/2010/mr-10-02.html "unchanged"), although financial markets had not fully priced a tightening.  The RBA’s decision is consistent with comments made by [Deputy Governor Ric Battellino](http://www.rba.gov.au/speeches/2009/sp-dg-161209.html "Deputy Governor Ric Battellino") late last year noting that credit conditions had tightened by 100 basis points relative to changes in the official cash rate over the last two years.  He also noted that the tightening in lending margins had largely been in the area of business lending, not housing.
+
+Today’s decision puts the bank-bashing by the government and others into proper perspective.  The RBA discounts lending margins in its setting of the official cash rate.  There are those who persist in believing that there is an interest rate free lunch to be had, if only the banking sector could be made more competitive.  Today’s decision shows that monetary policy is so carefully calibrated to prevailing credit conditions that any exogenous easing through increased bank competition would be quickly taken back via the official cash rate.  The RBA said so explicitly at the time of its [August 2006 interest rate decision](http://www.rba.gov.au/media-releases/2006/mr-06-05.html "August 2006 interest rate decision"):
+
+> *Compression of lending margins over recent years has contributed to a lowering of borrowing costs relative to the cash rate. This has meant that although the cash rate has recently been slightly above its average for the low-inflation period since 1993, interest rates paid by borrowers have remained below average*.
+
+Even [Peter Martin](http://petermartin.blogspot.com/2010/02/rates-steady-westpac-helped.html "Peter Martin") is giving Westpac some love, so the message must be slowly sinking in.

@@ -1,0 +1,13 @@
+---
+title: "House Price Inflation without the Froth"
+date: "2005-02-24"
+categories: ["Economics"]
+---
+
+When confronted with asset price inflation, many economists are all too ready to declare a ‘bubble,’ which saves them the bother of actually having to think seriously about the economics underlying asset prices.  Fortunately, the BoE MPC’s [Kate Barker](http://www.iea.org.uk/record.jsp?type=news&ID=237 "Kate Barker") is not one of these people.  In a speech to the IEA, she carefully examines the relevant fundamentals and puts them in a broader context, noting:
+
+*In previous speeches I and other MPC members have set out why it is generally undesirable to target asset prices when setting interest rates – particular reasons being the wide range of uncertainty around the equilibrium for any asset price, and the dangers to credibility of diverting policy from the goal of achieving the Government’s inflation target.*
+
+While RBA Governor Macfarlane has also highlighted the dangers of using monetary policy to target asset prices, the RBA’s public comments on house prices and private sector credit growth have diverted attention from its inflation target and confused the public and markets.  The RBA’s mistake was to express a strong (and arguably mistaken) view on house prices and private sector credit growth, but without being willing to actually take responsibility for outcomes in relation to these variables.  This was the right policy choice, but calls for a more agnostic public stance on these issues so as to keep the inflation target centre stage.
+
+(thanks to Mark Harrison for the pointer)

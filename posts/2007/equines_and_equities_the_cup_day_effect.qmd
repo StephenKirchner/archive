@@ -1,0 +1,15 @@
+---
+title: "Equines and Equities: The Cup Day Effect"
+date: "2007-11-06"
+categories: ["Economics", "Financial Markets"]
+---
+
+Alan Wood considers the [Melbourne Cup Day effect](http://www.theaustralian.news.com.au/story/0,25197,22707003-7583,00.html "Melbourne Cup Day effect"):
+
+> Worthington applies econometric techniques to isolate the impact of the Cup from the other stock market anomalies, such as the day-of-the-week effect, mentioned earlier. He studies closing prices on the
+>
+> Australian Stock Exchange over the 45 years from January 3, 1961 to December 30, 2005 - 11,327 trading days. And what does he find? Stock market returns on Melbourne Cup day are not only significantly higher than on any other Tuesday in November, but also higher than on any other Tuesday of the year.
+>
+> They are also higher than Monday, Wednesday, Thursday and Friday returns throughout the year, and less volatile.
+>
+> In short, the Melbourne Cup is associated with abnormally high returns on the Australian stock exchange. On Melbourne Cup day in 2005 alone, the Cup was associated with abnormal gains of more than \$2 billion.

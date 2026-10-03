@@ -1,0 +1,51 @@
+---
+title: "Too Much Finance?"
+date: "2016-01-11"
+categories: ["Economics", "Financial Markets"]
+---
+
+I have an op-ed in the [AFR](http://www.afr.com/opinion/economys-engine-room-right-size-for-job-20160110-gm2sol) looking at the long-run relationship between financial sector size and living standards that addresses the ‘too much finance’ critique. Full text below the fold.
+
+Economy’s engine room right size for job
+
+The government’s response to David Murray’s financial system inquiry has highlighted the centrality of the financial services sector to the national economy.
+
+The financial services sector is the largest industry in the Australian economy, with a share of gross domestic product about 10 per cent, narrowly edging out mining.
+
+In addition to its direct contribution to output, the financial sector plays an essential role in determining the quantity and quality of investment. This in turn is a driver of long-run growth in productivity and the living standards all Australians enjoy.
+
+The financial services share of the economy tends to increase along with incomes. As living standards rise, consumers and businesses demand more sophisticated financial services. The relative size of the financial sector and the depth of financial markets is a measure of economic development.
+
+The rising share of financial services in national income is a global phenomenon that is likely to continue as long as living standards continue to rise.
+
+While these relationships are well understood, some have questioned whether the financial sector can become too large.
+
+In particular, recent papers by the Bank for International Settlements and the International Monetary Fund say measures of financial depth such as the bank credit to gross domestic product ratio could reach levels at which they begin to subtract from economic growth.
+
+FALSELY BLAMED
+
+A difficulty in studying these relationships is that advanced economies like Australia experience slower growth rates as they approach the global frontier of productivity and living standards. Because measures of financial sector size and depth are positively correlated with living standards, this slowdown can be falsely blamed on financial sector growth.
+
+The Peterson Institute’s Bill Cline shows that the same statistical approach underpinning findings that the financial sector might become inefficiently large could also be applied to the number of doctors, fixed-line telephones, and research and development technicians. Of course, few would suggest that any of these are bad for economic growth.
+
+In the context of 2015’s financial system inquiry, some submissions argued that the Australian financial system had become less efficient at supporting capital formation.
+
+However, it is the quality and not the quantity of investment that matters most for productivity and economic growth. Indeed, an important function of financial markets is to generate the price signals that prevent over-investment.
+
+The investment share of the Australian economy has in recent years been very high by historical and international standards. While the mining boom played an important role in this outcome, there is little evidence to support the view that the financial system has inhibited capital formation.
+
+Another criticism of the financial system is that it facilitates turnover in existing assets at the expense of creating new ones. But these two functions are closely linked.
+
+LOWERS COST OF CAPITAL
+
+The ease of buying and selling assets in secondary markets and asset market turnover lowers the cost of capital and is positively correlated with investment, productivity, economic growth and equity market returns.
+
+Liquid asset markets tend to be less volatile and more efficient at price discovery, directing capital to more valuable uses.
+
+The growth of bank credit has also been singled out for facilitating turnover in established housing at the expense of new dwellings and other investment. But turnover in Australia’s housing stock is still inefficiently low because of the taxes imposed on real estate transactions, such as stamp duty and capital gains tax, that lock up supply.
+
+Also, the supply of residential land and new housing is largely determined by regulation, suggesting the prominence of established dwellings relative to new housing being financed is a sign of housing market inefficiency rather than an issue with financial intermediation.
+
+These misconceptions lead to the view that there is “too much finance” and cause some to advocate policies that would ultimately suppress the financial markets, such as financial transaction taxes. Such policies would serve only to damage the liquidity that is essential to well-functioning financial markets and the economic benefits they generate for all Australians.
+
+Dr Stephen Kirchner is an economist with the Australian Financial Markets Association

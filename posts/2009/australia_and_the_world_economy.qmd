@@ -1,0 +1,19 @@
+---
+title: "Australia and the World Economy"
+date: "2009-06-11"
+categories: ["Economics", "Financial Markets", "Fiscal Policy", "Monetary Policy"]
+---
+
+I have a column in the [Business Spectator](http://www.businessspectator.com.au/bs.nsf/Article/Cant-stop-the-music-pd20090610-SV9VU?OpenDocument "Business Spectator"), arguing that the transmission mechanism from the world to the Australian economy is mainly via financial markets rather than cross-border trade in goods and services:
+
+> While it may seem surprising that export volumes are holding up in the context of a global economic downturn, it highlights the fact that the transmission mechanism from the world to the Australian economy is somewhat different to the one many people assume.
+>
+> There has been a much closer relationship between the world and Australian economy since the early 1980s, as lower trade barriers have resulted in closer ties with world markets and a larger traded goods sector. However, it is difficult to account for the strength of this relationship based purely on trade linkages.
+>
+> A more important transmission mechanism from the world to the Australian economy comes from our increased integration with global financial markets following financial market liberalisation and deregulation in the early 1980s. Changes in global interest rates and other asset prices are transmitted directly to the Australian economy via global financial markets.
+>
+> This has a more powerful and immediate impact on the Australian economy than international trade in goods and services and has been particularly important in the context of the recent global financial crisis.
+>
+> It helps explain why domestic demand has contracted, even while external demand has proven resilient.
+
+As I note in the column, this has important implications for the effectiveness of domestic policy interventions.

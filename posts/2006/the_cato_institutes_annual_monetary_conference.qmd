@@ -1,0 +1,14 @@
+---
+title: "The Cato Institute’s Annual Monetary Conference"
+date: "2006-11-20"
+---
+
+The proceedings of the Cato Institute’s annual monetary policy conference are available [here](http://www.cato.org/events/monconf2006/program.html "here").  Best as I can tell, The Economist is no longer sponsoring this event.  Perhaps not coincidentally, there was one notable improvement in this year’s conference: no Nouriel Roubini. 
+
+I get a critical mention in a paper by [Larry White](http://www.cato.org/events/monconf2006/whiteinflationtargeting.pdf "Larry White"):
+
+> *Inflation targeting is not a market-based policy. Contrary to economist-blogger [Stephen Kirchner](../2006/is_bernanke_a_conservative.qmd "Stephen Kirchner") (2006), Ben Bernanke is not a prophet of “the view that markets and not monetary policy should determine growth rates in broad money, credit aggregates and asset prices.” In a fiat money regime, the central bank controls the monetary base, and broad money is geared to the base via the money multiplier, so monetary policy-makers and not markets determine growth rates in broad money. Under inflation targeting, the Fed would adjust the base and thereby broad money to support the targeted price level path. In that sense the quantity of money becomes endogenous. It’s not really helpful to call that “markets” determining money growth.*
+
+Needless to say, I think this view is wrong, for reasons outlined in [my critique](http://www.institutional-economics.com/index.php/section/comments/money_and_asset_prices_in_boom_and_bust_by_tim_congdon/ "my critique") of another economist with impeccable libertarian credentials, Tim Congdon.  Like Congdon, White believes we face a ‘central-bank-generated-asset-bubble problem.’  The only evidence White offers for this is some quotes from leading market ‘bubble’ drone, Stephen Roach, and some ritual quotes from Hayek.
+
+What this stylised Austrian theory of the business cycle and asset price determination lacks in empirical support, it more than makes up for in popular appeal, chiefly because of its simple mono-causality and because it gives people what they want most: an institution to blame when things go wrong.  It completely ignores the real dimension to asset price booms and busts, what [Jason Potts](http://www.cis.org.au/Policy/spring04/spring04-3.pdf "Jason Potts") calls ‘liberty bubbles,’ which are a necessary expression of the market discovery process.

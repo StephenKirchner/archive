@@ -1,0 +1,19 @@
+---
+title: "No Malcolm, Wayne Swan is Not Making this Up"
+date: "2008-02-11"
+categories: ["Economics", "Financial Markets", "Politics"]
+---
+
+One of the referees for an article I have forthcoming on Australian monetary policy queried my assertion that Australia’s inflation target is poorly defined, although subsequently came around to my view that the Statement on the Conduct of Monetary Policy makes this less than clear.  The Statement refers to ‘consumer price inflation,’ but is otherwise silent on which of many possible measures of consumer price inflation could be used in determining whether the inflation target has been met.
+
+The confusion this causes was nicely illustrated by Shadow Treasurer Malcolm Turnbull in an [interview](http://www.abc.net.au/insiders/content/2007/s2158805.htm "interview") over the weekend, in which he accused Treasurer Swan of making up the inflation figures:
+
+> BARRIE CASSIDY: But what was it in the December quarter though, what was the figure in the December quarter? The one that this Government inherited? 3.6 per cent. A 16-year high.
+>
+> MALCOLM TURNBULL: No it wasn’t. Ok, now that is a complete untruth. Now Wayne Swan keeps on saying that. I challenge you, invite all of your viewers to go to the Reserve Bank website. You’ll see there that the headline CPI (consumer price index) which is the one that is the inflation targeting is benchmarked against as recently - emphasised again - as recently as December 6 by Wayne Swan himself. That was 3 per cent. In fact, it was 2.96 per cent. The other measurers of inflation, so-called “underlying inflations”, which are statistical adjustments are ... none of them were 3.6 per cent, not one. So, where the 3.6 per cent comes from, I could make a guess but it is not one that was published by the RBA.
+
+The 3.6% figure is an average of the two statistical measures of underlying inflation, the weighted median and the trimmed mean, now published by the ABS rather than the RBA.  The RBA references this average in the underlying inflation forecasts contained in the quarterly Statements on Monetary Policy.  But unless you are an avid reader of the footnotes to these Statements, you could be forgiven for missing it.  The RBA uses this measure because it captures the persistent component of inflation that is of most concern for policy purposes.
+
+Turnbull’s comments reflect a larger problem, which is that this definition of underlying inflation has never been properly announced by the RBA or explicitly endorsed by the current government.  Those of us in financial markets first discovered the RBA was using it only by a process of educated guesswork.  The May 2006 increase in interest rates caught financial markets by surprise, because markets were then accustomed to looking at a different measure of underlying inflation.  It was only when the RBA characterised ‘underlying consumer price inflation’ as being ‘around 2¾ per cent’ in the statement accompanying the May 2006 increase in interest rates that it became apparent what measure the RBA was using, but even this inference was only possible by a process of elimination. 
+
+An inflation targeting regime works largely by conditioning inflation expectations.  But if even the Shadow Treasurer doesn’t know or doesn’t accept the RBA’s working definition of underlying inflation, we should not be surprised that we have an inflation problem.

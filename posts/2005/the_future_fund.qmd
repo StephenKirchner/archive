@@ -1,0 +1,13 @@
+---
+title: "The Future Fund"
+date: "2005-04-28"
+categories: ["Economics"]
+---
+
+The May Federal Budget should contain details of the government’s ‘Future Fund,’ which is meant to serve as a repository for the proceeds from the privatisation of the rest of Telstra and for the government’s budget surpluses, now that there is precious little Commonwealth government debt to retire.
+
+The government is rationalising the Fund in part by arguing that it needs to provide for currently unfunded liabilities in relation to public service superannuation.  If the government were serious about this logic, then it would start provisioning for all of its unfunded contingent liabilities.  New Zealand is also attempting something similar with its inter-generational fund, although this is more a reflection of the fact that NZ actually takes public sector accounting principles seriously.
+
+In reality, the Future Fund is just a form of revenue hoarding by a government that has more money than it knows what to do with.  [Alan Wood](http://www.theaustralian.news.com.au/common/story_page/0,5744,15095933%255E31478,00.html "Alan Wood") notes that the Prime Minister’s recent comments on the Fund suggest it will be little different in practice from consolidated revenue.  Even if the government had the right intentions now, the Fund would be subject to a time inconsistency problem, by which the temptation to abuse the fund would grow in line with its assets.
+
+If the government were serious about reducing future demands on Commonwealth government spending, it could simply take the proceeds from the privatisation of Telstra and its budget surpluses and make one-off contributions to the private superannuation accounts that every working Australian already owns, where these funds would steadily and safely compound until retirement.  By economically empowering individuals, we would reduce their future dependence on the state and protect these funds from abuse by the current or future governments.  This would also prevent the many problems that are bound to arise from the Commonwealth government managing a very large asset portfolio.

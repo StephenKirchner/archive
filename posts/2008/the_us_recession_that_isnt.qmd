@@ -1,0 +1,7 @@
+---
+title: "The US Recession that Isn’t"
+date: "2008-04-30"
+categories: ["Economics", "Financial Markets"]
+---
+
+US Q1 GDP is given a 69% chance of being positive, according to last trade prices on prediction market [Intrade](http://www.intrade.com/apply.jsp?heardFromPromotionDetail=s0545138709r "Intrade") (contract expiry is based on the final GDP release, not today’s advance release).  Intrade pricing suggests a better than even chance that US GDP growth will be positive for every quarter in 2008.  The chance of a recession in 2008 is put at 44.9%, with recession defined as two consecutive quarters of negative GDP growth for the purposes of contract expiry.  The absence of recession on this definition would not necessarily preclude a recession being declared based on the NBER Business Cycle Dating Committee’s methodology.

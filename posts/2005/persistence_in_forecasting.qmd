@@ -1,0 +1,13 @@
+---
+title: "Persistence in Forecasting"
+date: "2005-05-09"
+categories: ["Economics"]
+---
+
+The doom-mongers are [nothing if not persistent](http://www.nytimes.com/2005/05/08/weekinreview/08gross.html?pagewanted=1 "nothing if not persistent"):
+
+*A lot of it has to do with timing. While many economists are willing to imagine in detail what a perfect storm would look like, virtually none will forecast precisely when - or if - it will start. And so it remains a vague and distant possibility.  Besides, adds Jeffrey Frankel, “some of us have been warning of this hard-landing scenario for more than 20 years.”*
+
+And for the next 20 too, I suspect.  Steve Ellison at [Daily Speculations](http://www.dailyspeculations.com/ "Daily Speculations") has an amusing list giving reasons to be bearish for every year going back to 1934!
+
+(thanks to Jack S. for the NYT pointer).

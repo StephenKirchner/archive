@@ -1,0 +1,13 @@
+---
+title: "An Unlikely RBA Research Discussion Paper"
+date: "2010-07-21"
+categories: ["Economics", "Financial Markets", "Fiscal Policy", "Monetary Policy"]
+---
+
+Imagine if you will the RBA publishing a Research Discussion Paper that reached the following conclusions:
+
+> despite a relatively stable total fiscal impulse the effectiveness of spending shocks in stimulating economic activity has decreased over time. Short-run spending multipliers increased until the late 1980s when they reached values above unity, but they started to decline afterwards to values closer to 0.5 in the current decade. Long-term multipliers show a more than two-fold decline since the 1980s. These results suggest that other components of aggregate demand are increasingly being crowded out by spending based fiscal expansions. In particular, the response of private consumption to government spending shocks has become substantially weaker over time.
+>
+> rising government debt is the main reason for declining spending multipliers at longer horizons, and thus increasingly negative long-run consequences of fiscal expansions. We interpret this finding as an indication that further accumulating debt after a spending shock leads to rising concerns on the sustainability of public finances, such that agents may expect a larger fiscal consolidation in the future which depresses private demand and output. We also find that a stronger response of the short-term nominal interest rate goes along with declining spending multipliers. This result is consistent with an increasingly offsetting reaction of monetary policy to the expansionary fiscal shock.
+
+The extract is from a [European Central Bank Working Paper](http://www.ecb.int/pub/pdf/scpwps/ecbwp1219.pdf "European Central Bank Working Paper") and the conclusions reached are in relation to the euro area. Don’t hold your breath waiting for the RBA to publish a similar study of activist fiscal policy in Australia.

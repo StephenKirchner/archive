@@ -1,0 +1,17 @@
+---
+title: "More Underreported Good News"
+date: "2005-09-09"
+categories: ["Economics"]
+---
+
+The [August labour force figures](http://www.abs.gov.au/ausstats/abs@.nsf/5087e58f30c6bb25ca2568b60010b303/9ff2997ae0f762d2ca2568a90013934c!OpenDocument "August labour force figures"), like the Q2 national accounts, were underreported today, although I did like this headline:
+
+[‘Jobs boom defies doomsayers’](http://afr.com/articles/2005/09/08/1125772621064.html "Jobs boom defies doomsayers")
+
+No, I’m not moonlighting as a sub at the AFR.  A new record in the labour force participation rate, together with the maintenance of 30 year lows in the unemployment rate, is now apparently considered almost routine and not particularly newsworthy. 
+
+In policymaking circles, there have been some fairly heated exchanges about what is going on with the data, with the RBA in particular questioning why the strength in the labour force data does not square with some of the activity data.  This issue was partly resolved when the ABS found an error in its compilation of the retail trade data, but there is still an issue over the relationship between GDP and employment.
+
+The ABS addresses this issue in an [article](http://www.abs.gov.au/ausstats/abs@.nsf/Lookup/EBAC6C39579D0E81CA257074007A3530 "article") accompanying the Q2 national accounts release.  The ABS argues that the apparent lag between the slowdown in GDP growth and employment growth is not unusually long.  The implication is that we should expect some weakness in the employment data ahead.  There has also been some weakening in ANZ job ads, which is a good leading indicator of the labour market.
+
+Abstracting from the cyclical influences on the labour market, Australia has broken out of the old trend in which peaks and troughs in the unemployment rate were successively higher to a situation in which they now appear to be moving successively lower.  It is still a sorry performance compared to [New Zealand’s](http://www2.stats.govt.nz/domino/external/pasfull/pasfull.nsf/7cf46ae26dcb6800cc256a62000a2248/4c2567ef00247c6acc257059001475bf?OpenDocument "New Zealand’s") 3.7% unemployment rate and record 67.7% participation rate, but no less welcome for that.

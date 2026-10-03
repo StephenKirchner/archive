@@ -1,0 +1,15 @@
+---
+title: "Did Nudge Kill Keynes? Behavioural Economics and the Stimulus"
+date: "2011-11-13"
+categories: ["Economics", "Fiscal Policy"]
+---
+
+[Business Week](http://www.businessweek.com/printer/magazine/behavioral-economics-foils-an-obama-tax-cut-11102011.html) reports:
+
+> The design of Making Work Pay plays off of mental accounting. One of Thaler’s findings is that people are more likely to spend money that they have filed in their “current income” mental account rather than their “assets” mental account—in other words, they measure their spending against the size of their paycheck instead of the size of their bank account. A lump-sum tax rebate feels like an increase in wealth and is more likely to be saved. A series of slightly bigger paychecks feels like an increase in income and is more likely to be spent.
+>
+> That’s not what happened in practice, according to Sahm, Slemrod, and Shapiro. In a study of the 2009 stimulus, based on 500 telephone interviews, the authors found that only 13 percent of Making Work Pay recipients reported that the tax credit would lead them to increase spending. This was just half of the 25 percent spend rate the researchers found for the traditional lump-sum tax rebate in President Bush’s 2008 stimulus. Of course, 2009 was a worse economic climate than 2008, and that might have played a role in the change. To control for this, the researchers looked at one-time stimulus payments that went to retirees at the same time that Making Work Pay was going to working households. The retirees, too, reported much higher spending rates than the Making Work Pay households, who got their money in a steady drip.
+>
+> The authors can only guess at what’s behind their results.
+
+There are plenty of conventional and straightforward explanations for why MWP didn’t work that do not require any resort to behaviouralism. The problem with behavioural economics is that it is really anti-behavioural. Behaviouralists will resort to any ad hoc theory, except the one behavioural theory we already know that actually works: self-interested rational choice.

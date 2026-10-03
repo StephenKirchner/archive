@@ -1,0 +1,25 @@
+---
+title: "‘After the House Price Boom’"
+date: "2005-03-21"
+categories: ["Economics"]
+---
+
+Peter Saunders (the CIS one, not the hairy lefty) has an article in the latest issue of *Policy* on [‘After the House Price Boom.’](http://www.cis.org.au/policy/autumn05/polaut05-1.htm "‘After the House Price Boom.’")  Peter credits me with commenting on an earlier version of his paper, without implicating me in the argument.  Here I highlight some of my disagreements with the final version.
+
+One of Peter’s main concerns is the growing wealth difference between owners and renters of property supposedly attributable to the boom in house prices.  However, the issue here is not so much home ownership as saving, which is what separates these two types of household.  Home owners could have put their savings in alternative asset classes and achieved similar, if not better, results.  Home ownership is just a proxy for household saving behaviour, which is what is really driving the wealth gap between these two types of households (I take up the issue of the national household saving ratio below). 
+
+Peter argues that house price inflation gives rise to ‘booty capitalism:’
+
+*When passive ownership of a house delivers riches far beyond what most people could accumulate from many years of working and saving, traditional virtues emphasising hard work, saving, enterprise and deferred gratification are likely to get eroded, yet these are values on which capitalist liberal democracy ultimately depends.*
+
+To the contrary, I would argue that home ownership and buying-to-rent are both saving and investing and the rising value of housing equity is the return on that activity.  There is a popular prejudice against capital gains as unearned income, but this ignores the work and saving that had to take place to fund the acquisition of the asset that appreciates in price (which is just the capitalised value of future earnings on the asset).  This is why taxing capital gains is double-taxation, equivalent to taxing the return on any other type of saving that takes place out of after-tax income.
+
+Like many others, Peter singles out negative gearing as a culprit in house price inflation, noting that ‘this arrangement is unique to Australia.’  This is because taxing capital gains is (almost) unique to Australia, not negative gearing!  Australia’s tax treatment of capital gains is far from generous by international standards (which is not to say that it isn’t highly distortionary when combined with other features of the tax system).  In the US, for example, generous rollover relief is available to capital gains on owner-occupied housing, while mortgage interest payments are tax-deductible for owner-occupiers.  New Zealand has no general capital gains tax regime, so investment property is capital gains tax free.
+
+Peter argues that negative gearing causes taxpayers to ‘forfeit over \$1 billion of revenue every year to make houses more expensive than they would otherwise be.’  This ignores the very positive impact that negative gearing has on housing supply and rental affordability.  Given the long-run equilibrium relationship we would expect to see between rental yields and house prices, it should also contribute to more moderate long-run growth in house prices.  It should go without saying that the increased supply of rental property is valuable to low income earners.
+
+As I think Peter would agree, the problem is not that we tax capital gains concessionally, but that our punishingly high marginal rates of income tax encourage people to minimise their taxable income through negative gearing.  This is an argument for lowering income taxes to remove this distortion, not for increasing Australia’s already rather anomalous double taxation of capital gains.
+
+Peter highlights the fact that Australia’s household saving ratio has turned negative in recent years, but this is an artefact of the deduction the ABS makes for depreciation of the housing stock, which makes sense from a national accounting perspective, but is a very counter-intuitive way of looking at household saving behaviour.  This actually becomes more pronounced the more people invest in housing.  Without this deduction, Australia’s household saving ratio is still positive.  Moreover, the decline in the household saving ratio is a secular phenomenon over decades, not something driven by recent developments in house prices.  National saving as a share of GDP has not changed significantly in recent years.
+
+Peter makes some useful suggestions for policy changes that could benefit housing supply and potentially lower the rate of growth in house prices.  But there is potentially a conflict between Peter’s desire to increase rates of home ownership one the one hand, while maintaining housing affordability on the other.  Policies to increase rates of home ownership are likely to contribute positively to the capitalisation of the housing stock.  This is why supply-side solutions are so important if the goal is to maintain housing affordability and increase rates of home ownership.

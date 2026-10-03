@@ -1,0 +1,15 @@
+---
+title: "The SEC’s Long Bias"
+date: "2010-04-21"
+categories: ["Economics", "Financial Markets"]
+---
+
+[Holman Jenkins](http://online.wsj.com/article/SB10001424052748704448304575196211501637860.html?mod=WSJ_Opinion_BelowLEFTSecond "Holman Jenkins") on the SEC’s prosecution of those who shorted housing:
+
+> you can’t go wrong betting on the media’s unwillingness to unwrap itself from the errors of hindsight bias—that bet by the SEC has paid off. But there are bigger fish being fried. For more than a year, certain knowledgeable bloggers and investigative reporters have argued that such deals—Goldman’s was hardly unique—exacerbated the bubble, with special focus on the activities of a Chicago hedge fund called Magnetar.
+>
+> It’s true that such deals gave housing bulls an additional way to lose money. But to blame shorts for making the bubble worse comes close to saying salvation for the markets is to exclude participants who are bearish…
+>
+> The SEC certainly understands the need for a rapid route to rehabilitation for itself if it hopes for a share of the power and budget up for grabs in the Senate debate over financial reform. If you don’t think this played a role in the suit it sprang on Goldman last week, we have a CDO to sell you.
+>
+> Goldman will have to decide for itself if its business model can be defended in the court of public opinion. But let’s admit there’s an implicit long bias to the SEC’s case. Nobody would give a hoot if Mr. Paulson were the party who lost money. The SEC would never have gone on its hunt for something, anything, to hang a fraud case on.

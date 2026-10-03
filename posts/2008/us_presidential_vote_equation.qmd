@@ -1,0 +1,11 @@
+---
+title: "US Presidential Vote Equation"
+date: "2008-11-01"
+categories: ["Economics", "Financial Markets"]
+---
+
+[Ray Fair’s](http://fairmodel.econ.yale.edu/vote2008/vot1008.htm "Ray Fair's") final US Presidential election equation update:
+
+> The final economic values (‘final’ as of October 30, 2008) are 0.22 for GROWTH, 2.88 for INFLATION, and 3 for GOODNEWS. Given these values, the predicted Republican vote share (of the two-party vote) is 48.09 percent. So the prediction is 51.91 for the Democrats and 48.09 for the Republicans, for a spread of 3.82.
+>
+> The current situation is unusual in that the economy since the end of the third quarter appears to have gotten much worse. People may perceive the economy to be worse than the economic values through the third quarter indicate, which, other things being equal, suggests that the vote equation may overpredict the Republican share. But for what it is worth, the final vote prediction is 48.09 percent of the two-party vote for the Republicans. The Republican share of the two-party House vote is predicted to be 44.24 percent.

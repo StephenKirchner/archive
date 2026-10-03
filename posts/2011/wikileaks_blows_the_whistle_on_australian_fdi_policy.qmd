@@ -1,0 +1,19 @@
+---
+title: "WikiLeaks Blows the Whistle on Australian FDI Policy"
+date: "2011-03-03"
+categories: ["Economics", "Foreign Investment"]
+---
+
+[WikiLeaks](http://www.smh.com.au/business/laws-aimed-to-limit-chinese-investments-20110302-1bexm.html?from=smh_sb) confirms what many have long suspected. The Australian government runs a secretly discriminatory policy on foreign direct investment by China:
+
+> The Foreign Investment Review Board told US diplomats that new investment guidelines signalled “a stricter policy aimed squarely at China’s growing influence in Australia’s resources sector”.
+>
+> The anti-China rationale was set out in confidential discussions with US embassy officers in late September 2009 by the head of the Treasury Foreign Investment Division, Patrick Colmer, who is also an executive member of the Foreign Investment Review Board.
+>
+> The embassy report on MrColmer’s remarks, titled “New Foreign Investment guidelines target China” and classified “sensitive”, is among US embassy cables leaked to WikiLeaks and provided to the Herald.
+>
+> Based on Mr Colmer’s briefing, US diplomats reported that the Australian government privately wished to “pose new disincentives for larger-scale Chinese investments”.
+
+The documents also confirm that the recent liberalisation of FIRB review thresholds was designed to alleviate the administrative burden on an over-worked FIRB that has increasingly sought to micro-manage high-profile FDI transactions.
+
+My own whistle blowing efforts in relation to Australian FDI policy can be found [here](http://www.theaustralian.com.au/news/opinion/more-inscrutable-than-the-chinese/story-e6frg6zo-1225831954203), although I obtained the document legally through the Freedom of Information Act.

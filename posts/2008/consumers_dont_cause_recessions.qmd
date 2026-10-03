@@ -1,0 +1,9 @@
+---
+title: "Consumers Don’t Cause Recessions"
+date: "2008-02-21"
+categories: ["Economics", "Financial Markets"]
+---
+
+[Adam Posen](http://petersoninstitute.org/publications/opeds/oped.cfm?ResearchID=889 "Adam Posen"), on why consumers don’t cause recessions:
+
+> *When forecasting the US economy, what happens to the business sector and investment is far more salient than what happens to consumption. While private consumption makes up 70 percent of the economy, it fluctuates over a far smaller range than investment or net exports (which makes sense, since what households purchase does not vary all that much with the business cycle). A decline in consumption commensurate with the decline in housing prices, and thus households’ perceived wealth, would be on the order of 1.25 percent of GDP, based on how they increased spending as house prices went up. That estimate is essentially what the forecast slowdown in the US economy over the next couple of quarters amounts to—it is not in itself enough to cause a persistent recession. And since at least 1945, the United States has never had a consumer-driven recession, precisely because consumers behave this way.*

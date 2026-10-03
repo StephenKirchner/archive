@@ -1,0 +1,13 @@
+---
+title: "IMF Article IV Consultation with Australia"
+date: "2005-09-13"
+categories: ["Economics"]
+---
+
+The IMF has released its [Article IV consultation with Australia](http://www.imf.org/external/pubs/ft/scr/2005/cr05331.pdf "Article IV consultation with Australia").  IMF staff modelling confirms something that we have been arguing for some time:
+
+*Controlling for other variables, household equity withdrawals were found to have negligible effects on consumption. Disposable income, real interest rates, and net housing wealth are the key determinants of household consumption expenditure in Australia, with changes in net financial wealth having little effect. Overall, it appears that housing equity withdrawals are not a driving force for consumption in Australia, rather they are more a source of financing.*
+
+As the IMF notes, the RBA is to release the results of its research on this issue later this year.  Early indications are that this research will be a severe embarrassment to much of the conventional wisdom about the role of housing-related credit in the Australian economy.
+
+Meanwhile, the [World Bank](http://www.doingbusiness.org/EconomyRankings/Default.aspx?direction=asc&sort=1 "World Bank") ranks Australia sixth for ease of doing business.  New Zealand is number one, which might explain why it has the lowest unemployment rate in the OECD (thanks to [New Economist](http://neweconomist.blogs.com/new_economist "New Economist") for the pointer).

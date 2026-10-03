@@ -1,0 +1,15 @@
+---
+title: "Brad Setser (Almost) Gets It"
+date: "2005-10-19"
+categories: ["Economics"]
+---
+
+In the wake of the August TIC data showing strong net foreign inflows into US assets, [Brad Setser](http://www.rgemonitor.com/blog/setser/104967 "Brad Setser") shows signs of capitulating to the consenting adults view of current account deficits:
+
+*Why not run a bigger trade deficit?  After all, the market seems willing to finance one!*
+
+As we have argued previously, the financing of the US current account deficit is essentially pre-determined for given US and foreign saving-investment imbalances.  Only the asset composition of this financing and prices at which assets change hands is actually in question, yet many analysts persist in analysing this data as though it were some incredible surprise that foreigners are still buying US assets.  Setser nonetheless persists in his view that:
+
+*it would be a mistake, I think, to conclude from the TIC data that the US is no longer dependent on foreign central bank support.*
+
+As [this research](../2005/how_important_are_foreign_official_reserve_asset_purchases.qmd "this research") suggests, even in the very unlikely event that foreign official sector purchases disappeared entirely, the implications for US interest rates would be small.  In other words, there is no such US ‘dependence.’  Furthermore, as Setser notes, US accounts were net sellers of foreign assets, suggesting that there are not many net buyers of the [doomsday cult trade](../2005/contrarian_optimism_versus_the_doomsday_cult_a_fund_managers_view.qmd "doomsday cult trade").  With the USD index testing its highs for the year, those who ignored the purveyors of doomsday cultism have been appropriately rewarded.

@@ -1,0 +1,17 @@
+---
+title: "How Important Are Foreign Official Reserve Asset Purchases?"
+date: "2005-10-14"
+categories: ["Economics"]
+---
+
+[Federal Reserve Board](http://www.federalreserve.gov/pubs/ifdp/2005/840/ifdp840.pdf "Federal Reserve Board") research examines the implications of foreign purchases for yields on US debt securities:
+
+foreign official purchases of U.S. Treasury bonds skyrocketed in 2003 and 2004, but these were only a small subset of foreign flows into all types of U.S. bonds—Treasury, corporate, and agency bonds. At their peak in the summer of 2004, foreign official inflows amounted to 2.5 percent of GDP, far below the overall foreign purchases of U.S. bonds of 7 percent…
+
+if foreigners did not accumulate U.S. bonds over the twelve months ending May 2005, our model suggests that the 10-year Treasury yield would currently be 150 basis points higher.  But even if the United States experienced only average inflows of 2 percent of GDP, our point estimate suggests that U.S. rates would be 95 basis points higher… had foreign official flows been zero over the last twelve months, long rates would currently be 60 basis points higher.\
+\
+While 60 bps is not trivial, it is very small relative to the enormous importance many commentators have attached to foreign official sector asset purchases by East Asian central banks as drivers of US interest rates.  Since foreign official sector demand is largely determined by managed exchange rate regimes, this demand is not discretionary under current exchange rate regimes. 
+
+Even the 150 bps attributable to overall foreign purchases needs to be placed in context:
+
+*with U.S. bonds comprising roughly half the global bond market, other international investors—be they speculators or institutions such as pension funds—are not likely to completely abandon the U.S. market. Indeed, zero net inflows into U.S. bonds over a sustained period has not occurred in at least 20 years. Even during the 1990-1991 recession, when the U.S. current account was temporarily balanced (and thus net capital inflows were not required), annual foreign purchases of U.S. bonds still totaled about one percent of GDP (compared to the current record annual bond inflows of roughly 6 percent of GDP). This is not to say that a retreat could not occur, just that a complete and sustained retreat is unlikely.*

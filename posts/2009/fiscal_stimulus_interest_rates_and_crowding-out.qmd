@@ -1,0 +1,17 @@
+---
+title: "Fiscal Stimulus, Interest Rates and Crowding-Out"
+date: "2009-06-21"
+categories: ["Economics", "Fiscal Policy", "Monetary Policy"]
+---
+
+I have an article in the [Weekend Australian](http://www.theaustralian.news.com.au/story/0,25197,25661426-30538,00.html "Weekend Australian") arguing that the government’s discretionary fiscal stimulus measures will undermine Australia’s long-run growth prospects, citing the Australian edition of a widely used undergraduate textbook:
+
+> “When the government reduces national saving by running a budget deficit, the interest rate rises and investment falls. Because investment is important for long-run economic growth, government budget deficits reduce the economy’s growth rate.” So says Joshua Gans in his Principles of Macroeconomics text. Yet Gans was also one of the 21 economists who recently signed a letter defending the government’s deficit spending.
+>
+> An increase in the stock of government debt reduces the amount of capital available for private investment, although this crowding-out effect may be offset by increased private saving and foreign capital inflows. In a small and open economy such as Australia, crowding out occurs not so much because interest rates rise, but because it induces foreign capital inflows that put upward pressure on the exchange rate, lowering net exports and reducing aggregate demand, which offsets the increase in government spending.
+
+I also have an article in [Business Spectator](http://www.businessspectator.com.au/bs.nsf/Article/Dont-villify-the-banks-pd20090618-T59VF?OpenDocument&src=sph "Business Spectator"), noting that recent market-led increases in retail borrowing rates are just a taste of things to come:
+
+> *Whatever the cause of rising global bond yields, these increases in interest rates will inevitably be passed on to Australian borrowers. It would be a sign of political maturity if Australian politicians were to acknowledge this reality, rather than taking refuge in the shameless populism of bank-bashing.*
+
+**UPDATE:** [Joshua](http://economics.com.au/?p=3681 "Joshua") complains about ‘selective extracting’ and an ‘unwillingness to deal with economic complexity’ in my *Weekend Australian* piece.  The point of highlighting the very good discussion of these issues in Joshua’s textbook was precisely to show that the 21 economists were being selective and incomplete in their analysis, by not acknowledging the many arguments against discretionary fiscal stimulus.  I would certainly encourage people to read *Principles of Macroeconomics* in coming to a considered view of the merits of discretionary fiscal policy.

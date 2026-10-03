@@ -1,0 +1,11 @@
+---
+title: "The BoE’s MPC 10 Years On"
+date: "2007-09-18"
+categories: ["Economics", "Financial Markets"]
+---
+
+The UK parliament’s Treasury Select Committee has released its [report](http://www.publications.parliament.uk/pa/cm200607/cmselect/cmtreasy/299/29902.htm "report") on the Monetary Policy Committee of the Bank of England: 10 Years On.  Despite having one of the world’s best frameworks for monetary policy governance, the Committee does not believe the BoE should be resting on its laurels:
+
+> *We recommend changes to enhance the transparency of the MPC, including immediate publication of a record of the votes of each MPC member after MPC decisions are released, greater transparency of individual MPC members’ positions in the minutes of the MPC, and further work on improving the public’s understanding of monetary policy.*
+
+The contrast with the very low standards of transparency and public accountability demanded of the RBA by the Australian parliament could not be more stark.  On these issues, the Australian House of Representatives Standing Committee on Economics is at best indifferent.  It is to be hoped that an incoming Labor Government (not a federal election prediction) will conduct a similar review the operation of the current framework for monetary policy governance in Australia.  There is no reason why responsibility for Australian monetary policy should reside with the RBA Board.  The governance of the Bank as an institution should be separated from monetary policy making.

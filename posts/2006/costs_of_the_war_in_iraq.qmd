@@ -1,0 +1,9 @@
+---
+title: "Costs of the War in Iraq"
+date: "2006-03-16"
+categories: ["Economics"]
+---
+
+Most analyses of the cost of the war in Iraq fail to take adequate account of the relevant counter-factuals.  This [paper](http://gsbwww.uchicago.edu/fac/steven.davis/research/War%20in%20Iraq%20versus%20Containment%20%20(15%20February%202006).pdf "paper") by academics at the University of Chicago GSB is a notable exception.  They conclude that not only are the costs of intervention on a par with the pre-war containment strategy, but that the war will lead to large improvements in the welfare of the Iraqi people.
+
+(via [DBRB](http://www.bankresearch.org/economicpolicyblog/2006/03/chicago_economi.html "DBRB"))

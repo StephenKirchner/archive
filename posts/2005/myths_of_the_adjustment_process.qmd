@@ -1,0 +1,24 @@
+---
+title: "Myths of the Adjustment Process"
+date: "2005-11-26"
+categories: ["Economics"]
+---
+
+Woody Brock’s February 2004 [paper](http://www.sedinc.com/PDFs/Interest%20Rates%20vs%20Dollar.pdf "paper") on the relationship between US interest rates and the big dollar is a neat debunking of much of the conventional wisdom on this subject:
+
+•  If foreigners become disenchanted with US assets, and demand higher yields, can they get them? \[No, other things being equal.\]
+
+• Can foreigners as a whole “pull out” their money from the US, thus driving up US real rates? \[No.\]
+
+• Can foreigners as a whole refuse to acquire more US assets in the future (in order to finance future US trade deficits) thus driving up US interest rates? \[No.\]
+
+• As the dollar falls, will the US experience a dose of “imported inflation”, thus driving up nominal interest rates? \[Yes, but less than ever before due to structural changes in the global economy.\]
+
+• Can Asian central banks stop acquiring US IOUs? \[Yes.\] And if so, would this development send US interest rates soaring as the consensus expects? \[No, the value of the dollar would take the hit much more than US yields.\]
+
+• How much more will the dollar fall before a new and more stable equilibrium can be achieved - an equilibrium including a balanced US trade account? \[Much more than it has - largely because the value of the dollar has not been the cause of today’s trade imbalances.\]
+
+Woody greatly overstates the likely exchange rate adjustment in my view (eg, AUD-USD above parity,\* a 300% revaluation in the yuan), but his analysis of the irrelevance of this process to the determination of US interest rates is essentially correct.
+
+\
+\*  Afterall, Australia has its own record current account deficit, for which a similar adjustment process is required.

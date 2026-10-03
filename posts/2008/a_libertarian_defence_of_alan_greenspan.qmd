@@ -1,0 +1,15 @@
+---
+title: "A Libertarian Defence of Alan Greenspan"
+date: "2008-11-10"
+categories: ["Economics", "Financial Markets"]
+---
+
+The scapegoating of Alan Greenspan across the political spectrum has been shameful and shameless.  It is therefore pleasing to see that the Cato Institute has published a timely defence of Greenspan by [David Henderson and Jeff Rogers Hummel](http://www.cato.org/pubs/bp/bp109.pdf "David Henderson and Jeff Rogers Hummel").  Henderson and Hummel argue that:
+
+> Alan Greenspan stands out as the most competent—and arguably the only competent—helmsman of United States monetary policy since the creation of the Federal Reserve System…
+>
+> his policy may have ended up slightly too discretionary.  But that possibility hardly justifies the “asset bubble” hubris of those economic prognosticators who, only well after the fact, declaim with absolutely certainty and scant attention to the monetary measures, how the Fed could have pricked or prevented such bubbles…
+>
+> Rather than demonstrating that monetarist rules are obsolete and free banking unnecessary, Greenspan’s policies suggest that the more thoroughly either of those two objectives is implemented, the greater the macroeconomic stability our economy will enjoy.
+
+I made a similar argument [here](../2005/more_on_pop_austrianism_and_the_business_cycle.qmd "here") about how contemporary central banking closely approximates the free banking ideal of a market-determined monetary order.

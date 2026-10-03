@@ -1,0 +1,13 @@
+---
+title: "Has the RBA Given the ‘Green Light’ to ‘Bubble’ Popping?"
+date: "2008-11-20"
+categories: ["Economics", "Financial Markets"]
+---
+
+RBA Governor Glenn Stevens’ [speech](http://rba.gov.au/Speeches/2008/sp_gov_191108.html "speech") to CEDA last night has been [widely interpreted](http://www.theaustralian.news.com.au/business/story/0,28124,24678469-643,00.html "widely interpreted") as giving a ‘green light’ to deficit spending, as if politicians ever needed permission or encouragement from the Reserve Bank to ramp-up spending.  The really significant part of Stevens’ speech went largely unnoticed:
+
+> *in addition to the many useful steps being planned by regulators, perhaps we could pay more attention to the low-frequency swings in asset prices and leverage (even if that means less attempt to fine-tune short-period swings in the real economy); we could have a more conservative attitude to debt build-up; and we could exhibit a little more scepticism about the trade-off between risks and rewards in rapid financial innovation. This would constitute a useful mindset for us all to take from this episode.*
+
+The fudge word here, of course, is ‘more.’ More could simply mean giving greater weight to the implications of developments in asset prices for inflation and the overall economy.  However, it could potentially extend much further, to an attempt by central bankers to actively manage asset prices at the expense, as Stevens suggests, of shorter-run demand management.  As I argue [here](../2008/when_bubble_poppers_attack.qmd "here"), the historical precedents for this are far from encouraging.
+
+A more recent example of a central bank conditioning monetary policy on asset prices was the Reserve Bank of New Zealand’s use of the trade-weighted exchange rate as part of a composite operating target between 1996 and 1999, known as the monetary conditions index.  This practice was abandoned, because the well-known volatility of exchange rates and their very loose relationship with economic fundamentals made it a very poor basis for conducting monetary policy.  The weaker the connection between asset prices and economic fundamentals, the stronger the argument against using asset prices as either targets or conditioning variables for monetary policy.

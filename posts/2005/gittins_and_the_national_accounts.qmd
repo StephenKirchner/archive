@@ -1,0 +1,13 @@
+---
+title: "Gittins and the National Accounts"
+date: "2005-09-10"
+categories: ["Economics"]
+---
+
+[Ross Gittins](http://www.smh.com.au/news/business/taking-the-medicine-for-a-mild-hangover/2005/09/09/1125772689513.html "Ross Gittins") is again in wowser mode, talking down the Q2 national accounts and the growth outlook.  Like many economists, he takes the view that because consumption accounts for 60% of GDP:
+
+*where consumption goes, the economy follows.*
+
+If anything, the relationship is the other way around.  The standard approach to modelling consumption is to include national income as an explanatory variable, implying causality runs from income to consumption.  What people consume out of is in fact expected income.  To say that consumption accounts for 60% of GDP is just an artefact of classifying GDP on an expenditure basis.  We could equally define it on an income or production basis, with no reference to consumption at all. 
+
+The view that consumption drives the economy leads many analysts astray, not least in grossly exaggerating the wealth effects from changes in house prices.  As we have argued previously, the fact that consumption and national saving have remained remarkably steady as shares of GDP in recent years makes a nonsense of claims that the Australian economy depends on house price driven consumption spending.

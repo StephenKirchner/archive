@@ -1,0 +1,15 @@
+---
+title: "PIMCO’s McCulley: Gimme that Old Time Regulation"
+date: "2006-02-28"
+categories: ["Economics"]
+---
+
+The always bizarre [PIMCO crew](http://australia.pimco.com/LeftNav/Late+Breaking+Commentary/FF/2005/FF+November+05.htm "PIMCO crew") hark for the good old days of regulation:
+
+*This transformation of the central banking game has been evolutionary over the last twenty-five years, starting with the repeal of Regulation Q in 1980. \
+\
+Prior to that, central banking really was child’s play, as monetary policy worked its magic through a highly regulated, bank- and thrift-centric, essentially-closed domestic financial system. Regulation Q capped the interest rate that banks could pay on deposits, while capping the interest rate that thrifts could pay one-quarter percentage point higher. In return for that un-level playing field,  thrifts were required to deploy the lion’s share of their deposits into long-term, fixed rate mortgages.\
+\
+It was an ideal world for banks and thrifts, as well as the Federal Reserve. It was a world of regulated competition, with the Fed having colossal power to impact the pricing, availability and terms of credit creation. The set up was particularly well suited to the Fed counter cyclically fine tuning the housing cycle (and, thus, the business cycle!).*
+
+And what a bang-up job they did of counter-cyclical fine-tuning in the 1970s!  In fact, the 1980s and the 1990s have seen a secular decline in the volatility of real GDP growth, inflation and interest rates that owes an enormous debt to the financial de-regulation of the early 1980s, as does PIMCO itself.

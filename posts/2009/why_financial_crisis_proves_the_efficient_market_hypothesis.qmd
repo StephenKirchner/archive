@@ -1,0 +1,9 @@
+---
+title: "Why the Financial Crisis Proves the Efficient Market Hypothesis"
+date: "2009-10-28"
+categories: ["Economics", "Financial Markets"]
+---
+
+[Jeremy Siegel](http://online.wsj.com/article/SB10001424052748703573604574491261905165886.html "Jeremy Siegel") on why the financial crisis proves rather than disproves the efficient market hypothesis:
+
+> *is the Efficient Market Hypothesis (EMH) really responsible for the current crisis? The answer is no. The EMH, originally put forth by Eugene Fama of the University of Chicago in the 1960s, states that the prices of securities reflect all known information that impacts their value. The hypothesis does not claim that the market price is always right. On the contrary, it implies that the prices in the market are mostly wrong, but at any given moment it is not at all easy to say whether they are too high or too low. The fact that the best and brightest on Wall Street made so many mistakes shows how hard it is to beat the market.*

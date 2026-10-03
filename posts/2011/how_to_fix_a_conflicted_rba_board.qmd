@@ -1,0 +1,44 @@
+---
+title: "How to Fix a Conflicted RBA Board"
+date: "2011-09-07"
+categories: ["Economics", "Financial Markets", "Monetary Policy"]
+---
+
+I have an op-ed in today’s AFR arguing for monetary policy decision-making to separated from the Reserve Bank Board. Full text below the fold (may differ slightly from edited AFR text).
+
+If some members of the trade union movement are to be believed, the Reserve Bank Board is hostage to the ‘big end of town.’ They apparently want the Board stacked with those who will support an easier monetary policy stance.
+
+Yet it is far from obvious that the external Board members are biased in favour of an overly restrictive policy. The business people on the Board could more plausibly be accused of erring on the side of keeping policy too easy.
+
+Inflation outcomes are the only relevant test of the past stance of monetary policy. With inflation running at an above-target 3.6%, it is difficult to argue that monetary policy has been too tight over the last 12 to 18 months.
+
+The criticism directed at the external Board members points to the contradiction at the heart of the governance arrangements for monetary policy in Australia. The external Board members are notionally appointed to be representative of the views of specific sectors of the economy. Yet their role as monetary policy decision-makers requires them to put aside their sectional interests in favour of the public interest.
+
+The Reserve Bank has all but conceded that the external Board members are conflicted in their role as monetary policy decision-makers by suppressing the contributions of individual Board members when it releases the minutes of its meetings.
+
+The rationale for this secrecy is to prevent the external Board members from being subject to external pressure from sectional interests. This fundamental conflict has long been an obstacle to greater transparency and accountability in Australian monetary policy.
+
+Before Glenn Stevens became governor, the Reserve Bank resisted attempts to open up the Board to greater scrutiny. In 2004, when News Limited sought access to the minutes of Board meetings under Freedom of Information legislation, the Bank went to considerable expense to block their release in the Administrative Appeals Tribunal.
+
+In an affidavit before the AAT, former Board member Dick Warburton argued that\
+releasing the minutes would expose external board members to ‘undue criticism and pressure from the sectorial groups they nominally represent.’
+
+The FoI process was eventually brought to an end via the government’s secrecy trump card, the conclusive certificate.
+
+Governor Stevens has since presided over a new era of openness at the Bank. However, there has been little change to the statutory arrangements for monetary policy governance since the 1959 Reserve Bank Act.
+
+These arrangements were in turn little changed on those of the former Commonwealth Bank, which had their roots in the class warfare of the 1930s.
+
+The fundamental problem with these arrangements is the failure to separate monetary policy decision-making from the overall governance of the Bank. These arrangements are an international anomaly and highlight the extent to which the Reserve Bank was left behind by the revolution in central bank governance that swept the world in the 1990s.
+
+In the US, monetary policy is the responsibility of the Federal Open Market Committee (FOMC) rather than the Federal Reserve board of governors, although they have overlapping membership. Indeed, there is no formal requirement for the chair of the Federal Reserve board to also chair the FOMC, although in practice both bodies have had the same chair.
+
+The Bank of England’s Monetary Policy Committee is made up of ﬁve senior ofﬁcers from within the Bank, but also four external, mostly part-time, members without executive responsibilities, who are appointed for their academic or other expertise in monetary policy.
+
+Remarkably, the UK government has been enlightened enough to appoint an American academic economist, Adam Posen, to the Committee. A foreigner with monetary policy expertise would be less conflicted than the existing part-time members of the RBA Board, although such an appointment would no doubt occasion a backlash from Australia’s parochial media and commentariat.
+
+The Reserve Bank Board is also exceptional in giving a government representative in the form of the Treasury Secretary voting representation. Former Governor Ian Macfarlane said that ‘no one has ever understood whether the Treasury Secretary speaks for Treasury or the Treasurer and I still don’t know the answer to that … The only time the question has been put to the test it was clear that the Secretary was representing the views of the Treasury and not the Treasurer.’
+
+The Bank defends the existing arrangements on the grounds that the external Board members and the Treasury Secretary lend valuable perspective. But the Bank already conducts extensive business and industry liaison and the Reserve Bank Act explicitly mandates cooperation with the Treasury Secretary, so their presence on the Board does not add anything to the decision-making process apart from the potential for commercial and political conflicts of interest.
+
+The Reserve Bank Act should be reformed to separate monetary policy decision-making from the Board. This will allow for more independent and expert input into monetary policy decision-making and minimise the commercial, political and other conflicts that big business, the unions and the Treasury Secretary bring to the existing governance arrangements for monetary policy.

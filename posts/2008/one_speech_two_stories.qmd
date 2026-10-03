@@ -1,0 +1,15 @@
+---
+title: "One Speech, Two Stories"
+date: "2008-12-10"
+categories: ["Economics", "Financial Markets", "Monetary Policy"]
+---
+
+[The Australian](http://www.theaustralian.news.com.au/business/story/0,28124,24778072-643,00.html "The Australian"):
+
+> *RESERVE Bank governor Glenn Stevens last night flagged further interest rate cuts to help shore up the economy.*
+
+The *AFR*:
+
+> *Reserve Bank Governor Glenn Stevens has signalled the bank’s unprecedented series of deep interest rate cuts may have come to an end.*
+
+Both papers fell victim to the view that every time the Governor speaks, he must be sending a signal on interest rates and if there is no explicit signal, then there must be an implied one.  In fact, the RBA very rarely signals its policy intentions, not least because its view on the future direction of policy is not very strongly held.  Unlike the rest of us, the RBA doesn’t need to anticipate its own actions, putting more value on policy flexibility than policy predictability.

@@ -1,0 +1,11 @@
+---
+title: "Why We Should Welcome the Relative Decline of Manufacturing"
+date: "2012-01-17"
+categories: ["Economics", "Free Trade & Protectionism"]
+---
+
+I have a piece in [The Conversation](http://theconversation.edu.au/a-country-that-makes-things-theres-more-to-australia-than-manufacturing-4937) arguing that the relative decline of manufacturing is a sign of economic progress:
+
+> The manufacturing share of developed economies has been in decline for decades. But that does not mean that manufacturing output has been declining in an absolute sense. Far from it. In the United States and the United Kingdom, manufacturing output was at record levels prior to the onset of the financial crisis. Manufacturing employment has fared less well, but this is symptomatic of substantial long-term productivity gains in this sector, not declining absolute levels of output.
+>
+> Manufacturing has also been declining steadily as a share of world GDP. This should not be surprising. It is driven by much the same process that saw a decline in the agricultural share of GDP during the 19th and 20th centuries with the onset of industrialisation. As incomes grew, the share of food and other agricultural goods in consumption and production declined. The same is now happening with manufactured goods, as a greater of share of rising incomes is allocated to services.

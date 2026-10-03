@@ -1,0 +1,17 @@
+---
+title: "Capital Gains Tax Myths and Realities"
+date: "2009-11-12"
+categories: ["Economics", "Financial Markets", "Fiscal Policy", "House Prices"]
+---
+
+The CIS have released my Policy Monograph on [Reforming Capital Gains Tax: The Myths and Realities Behind Australia’s Most Misunderstood Tax](http://www.cis.org.au/policy_monographs/pm103.pdf "Reforming Capital Gains Tax: The Myths and Realities Behind Australia’s Most Misunderstood Tax").  There is an op-ed version in today’s [Australian](http://www.theaustralian.com.au/news/opinion/more-housesnot-taxes/story-e6frg6zo-1225796669608 "Australian").
+
+> The 2004 Productivity Commission inquiry into first home ownership noted that ‘changes to the capital gains tax regime coupled with longstanding negative-gearing arrangements were seen to have contributed to higher prices through encouraging greater investment in housing’, but the commission did not model the effects of the tax changes. If increased investment is putting upward pressure on prices, this is an argument for easing supply-side constraints, not for discouraging investment with a CGT. CGT is a tax on transactions that would reduce turnover in owner-occupied housing and lead to a less efficient allocation of that stock.
+>
+> Some mistakenly see a CGT on the family home as a way of soaking the rich. Yet a CGT on owner-occupied housing would most likely be accompanied by tax deductibility for mortgage interest payments, as in the US, offsetting any increase in revenue from a CGT.
+>
+> In conjunction with negative gearing, the Ralph reforms were blamed for the housing boom in Australia in the early part of this decade. In reality, the boom was caused by the inability of housing supply to respond flexibly to the increased debt-servicing capacity of households in a low inflation, low interest rate environment.
+>
+> The boom in house prices also occurred in the context of a bear market in equities between 2001 and 2003. It is not surprising demand for housing increased when prices of a competing asset class were declining. House price inflation was a global phenomenon, arguing against country-specific factors as the main cause.
+>
+> Rather than increasing the tax burden on housing, policymakers need to tackle the impediments to new housing supply to improve affordability.

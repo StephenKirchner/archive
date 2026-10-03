@@ -1,0 +1,11 @@
+---
+title: "How to be a ‘Fiscal Conservative,’ Without Really Trying"
+date: "2008-01-21"
+categories: ["Economics", "Financial Markets", "Politics"]
+---
+
+Prime Minister Kevin Rudd is [promising](http://www.businessspectator.com.au/bs.nsf/Article/Rudd-plans-18bn-surplus-to-fight-inflation-B33WC?OpenDocument "promising") budget surpluses of 1.5% of GDP, as part of the government’s ‘war on inflation.’  Relative to the forward estimates contained in the previous government’s Mid-Year Economic and Fiscal Outlook, this represents a fiscal contraction of a mere 0.2% of GDP.
+
+Contrary to popular perception, Commonwealth fiscal policy is already the tightest it’s been in two decades.  Looking at actual budget outcomes, as opposed to the forward estimates or the arbitrary counterfactuals the commentariat love to play with, the fiscal impulse (ie, the change in the budget balance as a share of GDP) has been either neutral or contractionary for the entire period since 2001-02.  The underlying cash surplus has ranged between 1.5-1.6% of GDP since 2004-05, a GDP share not seen since the peak of the last cycle in the late 1980s.  The automatic stabilisers would probably cough-up another surplus of 1.5% of GDP anyway, regardless of any contribution from discretionary policy actions.
+
+The fiscal impulse has been largely irrelevant to inflation and interest rate outcomes in recent years.  Today’s announcement suggests that is not about to change.

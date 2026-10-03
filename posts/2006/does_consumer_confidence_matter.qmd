@@ -1,0 +1,15 @@
+---
+title: "Does Consumer Confidence Matter?"
+date: "2006-08-17"
+categories: ["Economics"]
+---
+
+The most recent increase in official interest rates had a predictably negative impact on consumer confidence, as measured by the [Westpac-Melbourne Institute survey](http://melbourneinstitute.com/research/macro/csi.html "Westpac-Melbourne Institute survey").  There was a similarly large fall after the March 2005 rate hike. 
+
+RBA [research](http://www.rba.gov.au/PublicationsAndResearch/RDP/RDP2001-09.html "research") suggests that the consumer confidence survey in question tells us very little that we don’t already know from contemporaneous activity data.  In other words, it is economic activity that drives sentiment, not the other way around.
+
+Interestingly enough, the break-down by respondent shows that the fall in confidence in August was more pronounced on the part of people who own their homes outright, as opposed to those who are mortgagees.  This suggests that there was more to the fall in confidence than just interest rates. 
+
+Another possible explanation for this is that those with mortgages are in fact better placed to smooth their consumption over time than those without them.  Mortgage products have become more flexible in recent years, adding much greater flexibility to overall household balance sheets.  High levels of household sector gearing may well result in smoother rather than more volatile consumption patterns, by easing liquidity constraints.
+
+Prior to the mid-1990s, the household sector in Australia was a net lender rather than borrower, but this was probably a sub-optimal situation driven by a lack of financial innovation in retail lending.  The shift to a net debtor position on the part of the household sector in recent years is probably a more accurate reflection of household balance sheet preferences.

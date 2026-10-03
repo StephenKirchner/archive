@@ -1,0 +1,17 @@
+---
+title: "‘Irrational Exuberance’ 10 Years On: History Exonerates Greenspan"
+date: "2006-12-06"
+categories: ["Economics", "Financial Markets"]
+---
+
+[Jeremy Siegel](http://online.wsj.com/article/SB116537283751041900.html?mod=opinion_main_commentaries "Jeremy Siegel") considers Alan Greenspan’s ‘irrational exuberance’ speech 10 years on:
+
+> Now that we have 10 years of economic and financial data, we can now accurately determine whether the market was indeed “irrationally exuberant” in December 1996. The answer is decidedly no. Had the market been overvalued, it would have shown poor return in the following decade. But it did not.
+>
+> The compound rate of return from Mr. Greenspan’s speech through the end of November 2006 on the broadest index of U.S. stocks, the Dow Jones Wilshire 5000 Index, was 8.2% per year, while the return on the Dow industrials was even higher. International stock returns have been almost as good, with the Morgan Stanley EAFE index of international stocks returning 7.6% per year. All these returns include the bear market of 2001-2002 and were far greater than what was available on government bonds or cash over the last 10 years. Even taking inflation into account, these rates of return were very close to that achieved in long-term equity studies. There is no evidence that the market was overvalued at the time of Mr. Greenspan’s speech…
+>
+> Looking back in August 2002, Mr. Greenspan was perfectly right when he said, at the annual Kansas City Fed economic conference in Jackson Hole, that “Historical data suggest that nothing short of a sharp increase in short-term rates that engenders a significant economic retrenchment is sufficient to check a nascent bubble. The notion that a well-timed incremental tightening could have been calibrated to prevent the late 1990s bubble is almost surely an illusion.” Had the Fed tightened further in late 1999 or early 2000, there would be little doubt that “brick and mortar” firms, as the non-tech stocks were called, would have borne the brunt of the tightening and pushed their valuations even lower. The subsequent recession when the tech bubble finally burst would have been far worse.
+>
+> History has exonerated Alan Greenspan’s policy during the late 1990s. There is no good evidence that the market was in a bubble when he uttered his famous line 10 years ago, and he was wise in stepping back from it. Irrational exuberance finally did hit the stock market, but not at the time or in the scope envisioned by his critics.
+
+For my own defence of Greenspan, see [here](http://www.institutional-economics.com/index.php/section/comments/bubble_man_alan_greenspan_the_missing_7_trillion_dollars_by_peter_hartcher/ "here").

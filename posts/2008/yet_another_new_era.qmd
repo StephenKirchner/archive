@@ -1,0 +1,17 @@
+---
+title: "Yet Another ‘New Era’?"
+date: "2008-01-16"
+categories: ["Economics", "Financial Markets", "Politics"]
+---
+
+Having promised a ‘new era’ of Reserve Bank independence, the government is now [promising the Reserve Bank](http://www.theaustralian.news.com.au/story/0,25197,23059464-5013871,00.html "promising the Reserve Bank") a ‘new era of fiscal discipline’:
+
+> KEVIN Rudd and Wayne Swan have personally told the Reserve Bank of their determination to cut budget spending to reduce the need for further interest rate rises.
+>
+> Following their meeting at the Reserve Bank’s Sydney headquarters with deputy governor Ric Battellino and Treasury secretary Ken Henry, Mr Swan said they had “flagged a new era of fiscal discipline”.
+>
+> “It’s critical we demonstrate restraint as we frame our first budget, because that sends a clear message to the Reserve Bank,” Mr Swan said.
+
+For reasons argued [here](http://www.cis.org.au/policy/Spring_07/links/spring07_kirchner.html "here"), demand management is the wrong focus for fiscal policy and is not likely to have much impact on interest rates in any event.  Rising interest rates are in fact symptomatic of economic strength, not weakness.  What the government should fear most is that the RBA should start cutting interest rates, since that will be one of the first signs that the Australian economy has succumbed to the deteriorating global growth outlook.  Rising interest rates should be the least of the government’s worries.
+
+This is not to deny that Australia has an inflation problem, but all the finger-pointing between the government and the opposition misses the point that there is only one public institution in Australia with an explicit mandate to control the cyclical component of inflation, and that’s the Reserve Bank.  Next week’s Q4 CPI release will likely show underlying inflation running above the RBA’s 2-3% medium-term target range.  Given the lags between changes in official interest rates and inflation outcomes, this tells us that the RBA was not doing its job properly 12-18 months ago.  The newly elected Labor government has inherited an inflation problem from the Reserve Bank, not the former Coalition government.

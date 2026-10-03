@@ -1,0 +1,9 @@
+---
+title: "The Credit Crunch that Wasn’t"
+date: "2007-09-28"
+categories: ["Economics", "Financial Markets"]
+---
+
+If Australia is suffering a tightening in credit market conditions, it was far from apparent in the [financial aggregates](http://www.rba.gov.au/Statistics/financial_aggregates.html "financial aggregates") for August released today.  Private sector credit rose 1.5% m/m and 16.2% y/y, the strongest growth since September 1989.  Housing credit, including securitisations, rose 0.9% m/m and 12.4% y/y.  Business credit rose a stunning 2.7% m/m and 22.4% y/y, the strongest annual rate since January 1989.  M3 rose 17.9% y/y, while broad money expanded 16.6% y/y, growth rates also not seen since the end of 1989. 
+
+These data are all the more remarkable considering that the late 1980s were an era of much higher rates of inflation.  While growth in credit aggregates have explanatory power for the business cycle, it should be recalled that credit has also been growing as a share of GDP, as financial deregulation and innovations gradually release the household and business sectors from the borrowing constraints of the past.  As RBA Deputy Governor Ric Battellino indicated in a [speech](http://www.rba.gov.au/Speeches/2007/sp_ag_280907.html "speech") this week, there is no reason to believe that household sector debt will not continue to rise as a share of GDP, as the benefits of financial innovation are diffused to a broader range of households.  Given the growing likelihood that the current positive terms of trade shock is going to be permanent, it also makes sense for the household and business sectors to start borrowing against this permanent increase in national income.

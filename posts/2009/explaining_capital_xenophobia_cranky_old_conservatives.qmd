@@ -1,0 +1,13 @@
+---
+title: "Explaining Capital Xenophobia: Cranky Old Conservatives?"
+date: "2009-04-08"
+categories: ["Economics", "Financial Markets", "Foreign Investment"]
+---
+
+The latest [Newspoll](http://www.theaustralian.news.com.au/files/7apr-newspoll.html "Newspoll") asks whether foreign companies should be allowed to acquire shareholdings in Australian mining companies.  A separate question asks whether Chinalco should be allowed to increase its stake in Rio.  52% of respondents are opposed to the former and 59% to the latter.  Opposition is stronger among Coalition voters than Labor voters, which may reflect National rather than Liberal Party voters.  Opposition also increases with age.  While it would be tempting to conclude that capital xenophobia is mainly attributable to cranky old conservatives, there is still more opposition than support even in the 18-34 age group.
+
+Taken literally, the question on foreign shareholdings in mining companies implies that Australians are opposed not just to foreign direct investment, but to foreign portfolio investment as well (a 10% equity stake is enough to qualify as FDI according to the ABS; the threshold for FIRB scrutiny is generally 15%).  In any event, this and other opinion poll data (see [Andrew Norton’s round-up](http://andrewnorton.info/2009/04/capital-xenophobes/ "Andrew Norton’s round-up")) render Australia’s FDI controls readily explicable in political terms. 
+
+Opposition Treasury spokesman Joe Hockey has even sought to raise concerns about foreign (ie, Chinese) portfolio investment in Australian debt markets, arguing that this might give the Chinese leverage over Canberra.  Like US debt markets, Australian markets are deep and liquid enough that the Chinese are unlikely ever to be effective price-makers.  Chinese threats to sell-off Australian dollar denominated debt would just provide a buying opportunity for other investors, to the detriment of their own portfolio.  But excluding all foreigners from participating in Australian debt markets would of course lead to a massive increase in domestic interest rates, something voters wouldn’t be too thankful for.
+
+The irony is that at the same time the government is setting up Rudd bank to offset the implications of potential foreign capital flight for the commercial property sector, and politicians complain about the failure of banks to pass on reductions in official interest rates, neither the government or opposition are putting out the welcome mat to foreign capital.

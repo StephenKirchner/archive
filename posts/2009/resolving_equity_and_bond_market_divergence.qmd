@@ -1,0 +1,23 @@
+---
+title: "Resolving Equity and Bond Market Divergence"
+date: "2009-09-01"
+categories: ["Economics", "Financial Markets", "Fiscal Policy", "Monetary Policy"]
+---
+
+[Richard Cookson](http://www.ft.com/cms/s/0/0453a232-963a-11de-84d1-00144feabdc0.html "Richard Cookson") suggests two scenarios for the resolution of the current episode of equity and bond market divergence:
+
+> The benign argument for bond yields (and equities) revolves around supply.  Many pundits and investors have been in a lather about the vast quantities of debt that governments have to issue. But if an unexpected mountain of supply raises the risk premium that investors demand for holding longer dated paper, the opposite is also true: supply that becomes less Everest-like than feared would reduce it.
+>
+> So the benign explanation for why bond yields have been falling even as equity markets have been rallying is that worries about the surge in government bond issuance are lessening as signs of recovery mount.
+>
+> That in turn should lead to a fall in government issuance and thus long-term yields, especially since inflationary pressures (apart perhaps from the UK) are so muted and yield curves so steep by historical standards.
+>
+> And if that’s right, lower government bond yields would increase the appeal of riskier assets, equities included.
+>
+> Effectively, the ex ante equity-risk premium would be driven higher because the long-term risk-free rate, but not the growth rate, would be lower.
+>
+> Sadly, there’s also an altogether more malign explanation. Much as was the case in Japan in the 1990s, it could be that low government bond yields are telling you that this recovery is unsustainable once the monetary and fiscal medicine wears off.
+>
+> It could be saying that, thanks to the required private sector deleveraging, especially in the US and UK, the long-term potential growth rate of the developed world is much lower than it was. That would lead to a sharply lower ex ante equity risk premium and thus  potentially dreadful returns from equities.
+
+Unfortunately, another lesson from Japan in the 1990s is that the world’s lowest bond yields can co-exist with the world’s worst fiscal policy outcomes.  This makes the first of Cookson’s scenarios less plausible.  We are more likely to end up with whatever is behind door number two.

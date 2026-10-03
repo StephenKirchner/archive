@@ -1,0 +1,15 @@
+---
+title: "Rust or Bust?  The ‘Bubble’ Brigade Tire of Eating Crushed Glass"
+date: "2005-03-01"
+categories: ["Economics"]
+---
+
+If they removed the word ‘bubble’ from the English language, Morgan Stanley’s Stephen Roach and Andy Xie would be left with nothing but sycophantic Sinophilia to irk us with. Fortunately, their colleague [Richard Berner](http://www.morganstanley.com/GEFdata/digests/latest-digest.html "Richard Berner") is much more level headed and has produced a thoughtful discussion of the outlook for US housing and house prices:
+
+Most macro forecasters — crystal ball gazers all — have eaten a lot of ground glass trying to call a top in housing activity in the past two years, including yours truly.  Likewise, home prices have defied all calls, including mine, for a peak in appreciation, not to mention the bears’ forecasts of a sharp decline…
+
+Importantly, however, a precipitous decline is unlikely: Stronger job and income growth should underpin new and replacement demand…And home prices?  I stick to my view that prices henceforth are likely to rust, not bust.
+
+…neither the pace nor the level of prices is prima facie evidence of a bubble.  As I see it, nationwide housing ‘valuations’ are only back to neutral from being undervalued, consistent with my thesis that home prices will rust, not bust, for the next few years.
+
+I make a similar argument about Australian house prices [here](../2005/myth_busting_the_house_price_bubble.qmd "here").

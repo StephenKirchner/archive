@@ -1,0 +1,9 @@
+---
+title: "‘Unrepentant’"
+date: "2008-02-01"
+categories: ["Culture & Society", "Economics", "Financial Markets", "Foreign Affairs & Defence", "Higher Education", "Misc", "Politics"]
+---
+
+::: {align="center"}
+![](../../files/paddy_m.jpg)
+:::

@@ -1,0 +1,9 @@
+---
+title: "Interpreting Prediction Market Prices"
+date: "2006-11-28"
+categories: ["Economics", "Financial Markets"]
+---
+
+[William Wilson and Philip Wallach](http://www.aei.org/publications/filter.all,pubID.25193/pub_detail.asp "William Wilson and Philip Wallach") argue that prediction market prices are often misinterpreted:
+
+> *the prices do not represent the binary “win or lose” probabilities of a Clinton return to 1600 Pennsylvania. The clearing price for Clinton commodity speculation was \$2.20; with two years until the election, as many people as not believe that at any future time the universe of TS bettors will pay more than \$2.20 for her stock. Sure, some of these Clinton speculators may believe that her chances of winning the ‘08 election are better than 22%, but many of them may have also believed that near-term news cycles would be more favorable to her than not, or that the Democratic swell on November 7 would raise all Democrats’ chances relative to Republican ones. And for every one of those traders, a paired trader has speculated the opposite to an inversely proportional degree (i.e., someone was also willing to pay \$7.80 to make \$10 for the proposition that Hillary would not become President in ‘08). The beauty of Tradesports—what differentiates it from a simple sportsbook—is that it allows such speculation; no one must hold a contract until expiration. The “odds-speak” shorthand conveys the right price, but shouldn’t suggest an inappropriately probabilistic explanation of January 20, 2009.*

@@ -1,0 +1,11 @@
+---
+title: "Twenty Quid of Adam Smith"
+date: "2006-10-30"
+categories: ["Economics"]
+---
+
+Bank of England Governor Mervyn King uses the occasion of the [Adam Smith Lecture](http://www.bankofengland.co.uk/publications/speeches/2006/speech288.pdf "Adam Smith Lecture") to announce that Adam Smith will feature on the BoE’s new twenty pound note:
+
+> From the division of labour in the pin factory to the need for our mutual “sympathy” to be embodied in carefully designed institutions, Smith’s writing is remarkable by its comprehensive and eclectic examination of ideas and facts. So it is appropriate that tonight here in Kirkcaldy, where Adam Smith found contentment in study and reflection, I can announce that tomorrow the Bank of England will reveal its new £20 note. And the figure celebrated on the new note will, of course, be Adam Smith - the first economist and the first Scotsman to appear on a Bank of England note.
+>
+> From next spring, when visitors to our country look carefully at their new £20 notes, they will be able to see an engraving showing the division of labour in pin manufacturing with the words “and the great increase in the quantity of work that results”. I hope they will absorb the lesson that specialisation in production and trade across the world are the way to improve living standards in all countries – rich and poor alike. And perhaps when they return home they will press their own politicians to support the opening up of trade which has been at the heart of the British Government’s efforts to reform the world economy.

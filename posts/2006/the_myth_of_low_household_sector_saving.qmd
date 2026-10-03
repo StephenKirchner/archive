@@ -1,0 +1,23 @@
+---
+title: "The Myth of Low Household Sector Saving"
+date: "2006-08-22"
+categories: ["Economics"]
+---
+
+RBA Assistant Governor Ric Battellino tackles some of the myths around household sector saving in a speech on [Developments in Australian Retail Finance](http://www.rba.gov.au/Speeches/2006/sp_ag_220806.html "Developments in Australian Retail Finance"):
+
+> the popular representation of Australian household finances is that they are in poor shape. In particular, three facts are usually put forward:
+>
+> • household debt levels are rising relative to household incomes;\
+> • household debt servicing costs, relative to incomes, are at record levels; and\
+> • the household saving rate is low, and in fact negative of late.
+>
+> There are, however, grounds for believing that household finances are in better shape than suggested by this depiction.
+>
+> First, rising ratios of debt to income are not necessarily a sign that something is amiss. The evidence I showed earlier suggested that it is quite normal in a growing economy for the level of debt outstanding to rise relative to income. Financial variables typically rise faster than GDP…
+>
+> households’ financial assets have increased by substantially more than their debt. There has been only one year during the past decade when they have not done so. As a result, even though household debt has increased, the net financial position of households has improved noticeably….
+>
+> The often-stated fact that Australian households have now become net payers of interest is only true because households have shifted their financial assets from bank deposits (on which they earned interest) to equities and superannuation where returns accrue largely in non-interest forms. Taking account of interest, dividends and capital gains, the net investment returns of households, though variable from year to year, on average have remained strong…
+>
+> The key point is that conventional measures of saving do not take into account capital gains. This has a particular bearing on Australian households because, as noted, they now hold a high proportion of their financial assets in investments such as shares and superannuation on which a significant part of the return is in the form of capital gains. In the May 2006 Statement on Monetary Policy, we showed that once allowance is made for capital gains, the saving rate of Australian households (broadly defined) is neither low nor falling.

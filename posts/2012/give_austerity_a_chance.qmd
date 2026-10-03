@@ -1,0 +1,13 @@
+---
+title: "Give Austerity a Chance"
+date: "2012-02-08"
+categories: ["Economics", "Fiscal Policy", "Monetary Policy"]
+---
+
+Robert Carling and I have an op-ed in today’s [AFR](http://cis.org.au/media-information/opinion-pieces/article/3931-give-austerity-a-chance) making the case for fiscal austerity. Drawing on the work of Alberto Alesina and his co-authors, we note that austerity may work politically as well as economically:
+
+> Interestingly enough, Alesina and his co-authors also show that fiscal consolidations do not generally reduce the popularity of governments or make it more likely they will lose elections.
+>
+> Indeed, they go so far as to say that “it is impossible to find systematic evidence of predictable political losses following fiscal adjustments”.
+>
+> This is entirely consistent with their finding that fiscal consolidations need not have adverse implications for economic growth and may even support growth. Electorates seem to recognise this, even if politicians do not.

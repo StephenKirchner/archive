@@ -1,0 +1,13 @@
+---
+title: "The US Current Account, Private Saving and Future Income Growth"
+date: "2005-11-15"
+categories: ["Economics"]
+---
+
+An RBA Discussion Paper by [Charles Engel](http://www.rba.gov.au/PublicationsAndResearch/RDP/RDP2005-09.html "Charles Engel"), which looks at the sustainability of the US current account deficit in the context of future income growth, with some implications for USD bears:
+
+In this paper we explore the role of one other factor that also has been mentioned prominently: private saving in the US is low because income growth is expected to be strong.
+
+We rework the standard neoclassical two-country model to show how a country will be a net borrower when its future share of world GDP is expected to increase above its current share.
+
+Our research ultimately is motivated by the question of whether the US current account is ‘sustainable’. The way we approach the question is to see whether the high level of US spending currently is compatible with an optimal path of borrowing. In particular, what assumptions about expected future growth of the US’s share of world output could justify its current account deficit? We show that if the deficit can be explained by higher future income shares, then the size of the real depreciation, that may otherwise be required to reduce the deficit, may be quite small.

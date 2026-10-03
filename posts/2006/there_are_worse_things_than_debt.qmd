@@ -1,0 +1,13 @@
+---
+title: "There Are Worse Things than Debt"
+date: "2006-02-01"
+categories: ["Economics"]
+---
+
+The [AEI’s John Makin](http://www.aei.org/publications/filter.all,pubID.23794/pub_detail.asp "AEI’s John Makin") has an interesting discussion of low bond yields that attempts to put the ‘condundrum’ in a structural setting.  His discussion of the relevant fundamentals argues against any ‘bubble’ characterisation, but Makin can’t help throwing this non-explanation into the mix as well, ‘bubbles’ being an all-purpose theory of everything and nothing in relation to asset prices.
+
+Makin argues that bond yields are now so low, that governments should start looking to debt financed tax cuts, on the grounds that the welfare costs of current marginal rates are so high as to make debt finance look cheap by comparison:
+
+*Imaginative treasury secretaries and finance ministers should take note of another opportunity offered by the extraordinarily low borrowing cost that can be obtained by issuing long-maturity inflation-indexed debt. Governments should consider a debt-financed investment in a transition to lower and more uniform marginal tax rates that many studies have shown would result in an increase in long-term growth rates of up to one half of 1 percent. For a \$12 trillion economy like the United States, one half of 1 percent is \$60 billion a year, measured in current dollars. The present value, again measured in current dollars, of \$60 billion per year given a 2 percent real interest rate used as a discount rate, is \$3 trillion. Therefore, even if a move to lower and more uniform marginal tax rates entailed transitional costs of several hundred billion dollars, it could still constitute a good investment for most governments.*
+
+This does not account for any negative wealth effect associated with a higher future tax burden, which is why I think it is preferable to finance tax cuts out of current government spending.  But Makin’s suggestion highlights the extent to which conservative and libertarian think-tanks have changed their tune in recent years.  In the 1970s and 1980s, these think-tanks spent much of their time criticising lax fiscal and monetary policy.  These days, the same think-tanks are much more forgiving.  Although Makin seems to have difficulty deciding whether he is a monetary policy hawk or dove from one month to the next, it is now commonplace for those at conservative and libertarian think-tanks to fret over the possibility that the Fed is overdoing its tightening effort.  It shows what a different world Greenspan leaves behind compared to the one he started with.

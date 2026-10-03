@@ -1,0 +1,11 @@
+---
+title: "The Underrated Inflation Hedge"
+date: "2010-01-27"
+categories: ["Economics", "Financial Markets"]
+---
+
+[Fama and French](http://www.dimensional.com/famafrench/2010/01/qa-seeking-the-best-inflation-hedge.html "Fama and French") discuss the relative merits of TIPS versus cash as inflation hedges.  Cash is an effective inflation hedge because short-term interest rates offer compensation for actual and expected inflation, with very low risk.  As French notes:
+
+> *Because the one-month T-bill rate changes to accommodate changes in expected inflation, unexpected inflation does not have the compounding effect that it has with longer-term bonds.*
+
+Of course, this assumes that short-term interest rates remain market-determined rather than set by regulation.

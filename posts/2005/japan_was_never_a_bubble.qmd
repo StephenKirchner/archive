@@ -1,0 +1,13 @@
+---
+title: "Japan Was Never a ‘Bubble’"
+date: "2005-12-07"
+categories: ["Economics"]
+---
+
+Japan’s asset price inflation and deflation of the 1980s and 1990s is often held up as the paradigmatic example of the dangers of asset price ‘bubbles.’  This view has been challenged by real business cycle theorists like Prescott and Hayashi, who note that Japan’s experience is readily explicable in terms of neo-classical growth theory and the standard decomposition of economic growth into labour and capital inputs and productivity.
+
+In a remarkable paper, Fed Board economist [Robert Martin](http://www.federalreserve.gov/pubs/ifdp/2005/847/ifdp847.pdf "Robert Martin") explains real house prices and interest rates in terms of the demographics associated with the baby boom generation and applies it to a number of countries, including the US and Japan.  The model very accurately predicts the decline in Japanese real house prices since the early 1990s:
+
+*Since 1990, real house prices have fallen around 34 percent. The sharp increase in real estate prices in the 1980s followed by a fifteen-plus year fall in prices has led many to refer to 1980s Japan as the original bubble economy. This simple model, using Japanese demographic data, successfully predicts the 1974 and the 1990 house price peaks. Strikingly, the model also predicts a 30 percent decline in real house prices over the fifteen years following the 1990 peak.*
+
+Apart from giving us something else to blame on the boomers, the model generates some interesting long-term predictions for real house prices and interest rates in a number of countries, including the US.

@@ -1,0 +1,15 @@
+---
+title: "Australia: Developed Country Institutions, Emerging Market Growth Rates"
+date: "2009-08-18"
+categories: ["Economics", "Foreign Investment"]
+---
+
+[Treasury Secretary Ken Henry](http://www.treasury.gov.au/documents/1598/HTML/docshell.asp?URL=Australian_Industry_Group_National_Forum.htm "Treasury Secretary Ken Henry") suggests that Australia remains an attractive proposition to foreign investors:
+
+> it seems quite likely — to me at least — that the Australian economy might attract an even greater share of global capital flows, and quite possibly even larger capital flows in aggregate.
+>
+> This fifth observation might surprise you. My thinking is simply that, in a world that pays more attention to fundamentals than herd-driven investor psychology, the Australian economy will be seen as possessing the best of the qualities — of governance and flexibility — of the developed world while also offering an abundance of real investment opportunities usually found only in the developing world. That is to say, the Australian economy may be seen as offering the best of both worlds.
+>
+> It follows from what I have just said that I do not think it likely that, relative to earlier growth periods, the future expansion of the Australian economy will be constrained by a reduced capacity to attract foreign capital.
+
+Henry failed to mention that the main constraints on Australia attracting foreign capital are imposed internally, not externally: relatively high rates of tax on capital and a Whitlam-era, Chinese-style regulatory regime for foreign direct investment.  We will find out at the end of the year what Henry proposes to do about the former.  The government’s [modest tinkering](../2009/fdi_liberalisation_falls_short.qmd "modest tinkering") with the latter suggests that Australia will continue to underperform its potential in attracting FDI.

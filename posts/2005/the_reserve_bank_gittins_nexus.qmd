@@ -1,0 +1,15 @@
+---
+title: "The Reserve Bank-Ross Gittins Nexus"
+date: "2005-03-08"
+categories: ["Economics"]
+---
+
+[‘Ernie Economist’](http://www.henrythornton.com/article.asp?article_id=3152 "‘Ernie Economist’") attributes the [Treasurer’s ban on Gittins](../2005/ross_gittins_off_treasurers_guest_list.qmd "Treasurer’s ban on Gittins") to his role as unofficial front man for the Reserve Bank:
+
+What you have to understand about SMH Economics Editor Ross Gittins is his own undeclared role as a virtual media liason officer for the Reserve Bank. Because of the lack of transparency from our central bank (it does not release minutes of its meetings, does not hold media conferences and its governors do not grant interviews), it manages its public image through a couple of well chosen media pundits - Gittins being one of them.
+
+But in return for this privileged access to our most important economic policy-making institution, Gittins tends to represent the bank’s views to the wider public. This role is critical at a times, such as now, when the bank is at odds with the government and the economic commentariat. And that is exactly what Gittins is up to now - doing the bank’s bidding by justifying an increase in interest rates that the government and a lot of independent commentators have good reason to believe is a high risk gamble.\
+\
+The point here is that if Mr Gittins is going to use his columns to depict himself as some of kind of cleanskin (and there’s no denying a lot of points he makes are on the money), he should really front up about his ‘insider’ arrangement with the RBA. And the bank itself should clean up its own act and face its critics directly, rather than hide behind newspaper columnists.
+
+I highlight some of the problems with RBA governance and transparency [here](http://www.cis.org.au/policy/spring04/spring04-9.pdf "here").

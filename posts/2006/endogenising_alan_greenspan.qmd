@@ -1,0 +1,19 @@
+---
+title: "Endogenising Alan Greenspan"
+date: "2006-01-31"
+categories: ["Economics"]
+---
+
+With Alan Greenspan presiding over his final FOMC meeting today, [John Berry](http://quote.bloomberg.com/apps/news?pid=10000039&refer=columnist_berry&sid=avQm1LXcBQCI "John Berry") defends his legacy against the self-indulgent puffery of [The Economist](../2006/greenspans_legacy1.qmd "The Economist"):
+
+Suppose the Fed, with an eye on the stock market, had raised rates instead. What would have happened? No one knows, of course. When one is constructing what economists call a counter-factual - - that is, an alterative scenario to what actually happened—such questions have to be addressed, and few if any of the Greenspan critics have bothered to do so.
+
+Similarly, in 1999 the stock market was mesmerized by the prospective profitability of high-tech companies tied to the massive investment being made to get computer systems ready for the century date-change problem. That surge in investment and the big decline that followed in 2000 played at least as great a role in the investment-led recession that developed in 2001 as did the bursting of the stock market bubble.
+
+In any event, the Fed did begin raising rates in mid-1999 because officials were concerned the economy was about to overheat. The stock market paid no attention and some 60 percent of the high-tech bubble developed after rates began to rise. The Fed would have had to crunch the economy to stop it.
+
+The critics nevertheless assume that minor rate increases would have done the trick.
+
+This is a key problem confronting Greenspan’s many critics.  It is the average level of real interest rates relative to a notional equilibrium rate over many months, if not years, that determines the effective stance of money policy.  It would have taken a very different path for the Fed funds rate to make a material difference to macroeconomic outcomes.
+
+The Fed makes only marginal changes in interest rates, not because given 25 basis point moves are particularly important, but as a hedge against being wrong.  Unfortunately, these incremental moves lead many people to greatly exaggerate the importance of monetary policy.  It is also much easier for people to get their head around the idea of the economy responding to single influence, especially one seemingly subject to human control.  In reality, monetary policy is as much an endogenous response to prevailing economic conditions as a determinant of them.

@@ -1,0 +1,11 @@
+---
+title: "The Australian Origin of Hedge Funds"
+date: "2010-06-13"
+categories: ["Economics", "Financial Markets"]
+---
+
+[Sebastian Mallaby](http://online.wsj.com/article/SB10001424052748703302604575294983666012928.html?mod=WSJ_hpp_MIDDLTopStories "Sebastian Mallaby") profiles Arthur Winslow Jones, the Australian-born pioneer of hedge funds:
+
+> he studied at the Marxist Workers School in Berlin, ran secret missions for a clandestine anti-Nazi group called the Leninist Organization and reported on the civil war in Spain, where he hitch-hiked to the front lines in the company of Dorothy Parker…
+>
+> Mr. Jones’s second distinguishing feature was a conscious avoidance of regulation. In his previous life as an anti-Nazi agent, Mr. Jones had kept a low profile. As a hedge-fund manager, likewise, Mr. Jones escaped the attention of regulators by never advertizing his fund; he raised capital by word of mouth, which sometimes meant a word between mouthfuls at his dinner table. Unhindered by the government, Mr. Jones expected no help from it either. The Jones men knew that if they mismanaged their risks, their fund would blow up—and nobody would save them.

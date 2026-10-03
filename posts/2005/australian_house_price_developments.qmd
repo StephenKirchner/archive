@@ -1,0 +1,11 @@
+---
+title: "Australian House Price Developments"
+date: "2005-08-08"
+categories: ["Economics"]
+---
+
+The RBA’s quarterly [Statement on Monetary Policy](http://www.rba.gov.au/PublicationsAndResearch/StatementsOnMonetaryPolicy/statement_on_monetary_0805.html "Statement on Monetary Policy") includes a useful discussion of recent house price developments.  One of the major problems with existing house price data is that the majority of the measured variation is attributable to compositional distortions, so the RBA has developed an index which adjusts for these shifts, giving a more reliable and less volatile series for house prices.
+
+The RBA seems to have come around to a rather benign view of the role of recent house price developments in the economy, consistent with the view I have been arguing for some time:
+
+*The correction in the housing market appears so far to have proceeded reasonably smoothly, and the prospect of an excessive and unwelcome slowing in domestic demand has been reduced by the boost to national incomes coming from the favourable terms of trade.*

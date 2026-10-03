@@ -1,0 +1,11 @@
+---
+title: "Gold Price a Stock Rather than a Flow Equilibrium"
+date: "2009-11-17"
+categories: ["Economics", "Financial Markets", "Gold"]
+---
+
+With the nominal US dollar gold price posting record highs, I have an op-ed in today’s [Age](http://www.theage.com.au/business/end-of-trend-is-nigh-for-central-bank-sales-of-gold-20091116-iidb.html "Age") discussing the role of central banks and exchange rates in the determination of the gold price.  Gold is a stock rather than a flow equilibrium and central banks command a large share of global stocks.  However, exchange rates also have a large influence on the local currency returns to gold:
+
+> US dollar weakness has a positive valuation effect on the US dollar gold price, in the same way that it makes oil more expensive in US dollar terms. While a rising US dollar gold price is seen as symptomatic of a declining US dollar, this is true of US dollar commodity prices more generally.
+>
+> Like other commodities, gold’s gains look less impressive in terms of currencies other than the US dollar. The Australian dollar exchange rate is positively correlated with the US dollar gold price, so that gains in US dollar terms are usually offset by Australian dollar appreciation. For an Australian investor, gold may be a good hedge against Australian dollar weakness, but actually increases exposure to US dollar weakness.

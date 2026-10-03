@@ -1,0 +1,9 @@
+---
+title: "The Bond Yield ‘Conundrum’ and Excess Saving"
+date: "2005-04-12"
+categories: ["Economics"]
+---
+
+Bernanke’s global saving glut explains Greenspan’s bond yield ‘conundrum,’ according to [Richard Clarida](http://online.wsj.com/article/0,,SB111318380010303154,00.html?mod=opinion%5Fmain%5Fcommentaries "Richard Clarida"):
+
+*in a world of excess saving relative to investment, not only will real interest rates be driven down, but some country or group of countries must run current-account deficits to absorb the excess saving. Because of the role of the dollar in international finance and the success of U.S. monetary policy at producing low and stable inflation, the U.S. capital markets are absorbing a great deal of this excess global saving via the current-account deficit. Were this deficit to fall in half overnight, the world saving-investment imbalance would worsen, and larger current-account deficits would be shifted elsewhere and/or a contraction in global growth would result. Mr. Greenspan’s conundrum and the current-account deficit are really two sides of the same coin.*

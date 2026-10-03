@@ -1,0 +1,9 @@
+---
+title: "Core Inflation"
+date: "2010-01-25"
+categories: ["CPI", "Economics", "Financial Markets", "Monetary Policy"]
+---
+
+The December quarter CPI to be released on Wednesday is seen at 0.4% q/q and 2% y/y, according to Friday’s Reuters poll.  This is somewhat higher than the 0.1% q/q and 1.7% y/y implied by the TD-MI inflation gauge. 
+
+The trimmed mean is seen at 0.6% q/q and a steady 3.2% y/y.  The weighted median is seen at 0.6% q/q and 3.5% y/y, down from 3.8% y/y in the previous quarter.  It is noteworthy that despite a near two percentage point increase in the unemployment rate, core inflation was not reduced to an annual rate consistent with the RBA’s 2-3% target range during the recent economic downturn.

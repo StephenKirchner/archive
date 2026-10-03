@@ -1,0 +1,13 @@
+---
+title: "Who’s to Blame for Higher Interest Rates?"
+date: "2007-11-06"
+categories: ["Economics", "Financial Markets", "Politics"]
+---
+
+[Andrew Norton](http://andrewnorton.info/blog/2007/11/05/who-is-blame-for-interest-rate-increases/ "Andrew Norton") notes a Gallaxy poll on interest rates:
+
+> ‘If interest rates rise again in the near future, which of the following do you believe is mainly to blame?’
+>
+> The political answer, John Howard, received blame from only 12% of respondents - 17% of Labor voters and 3% of Coalition voters. The other responses were ‘international factors’ (37%), the Australian economy (30%), and the Reserve Bank (14%).
+
+‘International factors’ and the ‘Australian economy’ happen to be the most correct answers.  It suggests that the electorate are actually much less parochial than the commentariat and also understand the endogeneity of interest rates to economic conditions.  If the electorate can grasp these basics, what’s the commentariat’s excuse?

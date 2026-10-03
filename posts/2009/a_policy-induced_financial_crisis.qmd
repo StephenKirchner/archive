@@ -1,0 +1,17 @@
+---
+title: "A Policy-Induced Financial Crisis"
+date: "2009-09-15"
+categories: ["Economics", "Financial Markets"]
+---
+
+[John Cochrane and Luigi Zingales](http://online.wsj.com/article/SB10001424052970203440104574403144004792338.html#mod=WSJ_hpp_sections_opinion "John Cochrane and Luigi Zingales"), on how policymakers induced a financial crisis a year ago today:
+
+> the main risk indicators only took off after Treasury Secretary Henry Paulson and Fed Chairman Ben Bernanke’s TARP speeches to Congress on Sept. 23 and 24—not after the Lehman failure.
+>
+> The risk of Citibank failure (the Citi-CDS spread) and the cost of interbank lending (the Libor-OIS spread) rose dramatically after Ben Bernanke and Hank Paulson spoke to Congress.  On Sept. 22, bank credit-default swap (CDS) spreads were at the same level as on Sept. 12. On Sept. 19, the S&P 500 closed above its Sept. 12 level. The Libor-OIS spread—which captures the perceived riskiness of short-term interbank lending—rose only 18 points the day of Lehman’s collapse, while it shot up more than 60 points from Sept. 23 to Sept. 25, after the TARP testimony.
+>
+> Why? In effect, these speeches amounted to “The financial system is about to collapse. We can’t tell you why. We need \$700 billion. We can’t tell you what we’re going to do with it.” That’s a pretty good way to start a financial crisis.
+
+See also [Cochrane on Krugman](http://faculty.chicagobooth.edu/john.cochrane/research/Papers/krugman_response.htm "Cochrane on Krugman"):
+
+> *Krugman’s article is supposedly about how the crash and recession changed our thinking, and what economics has to say about it. The most amazing news in the whole article is that Paul Krugman has absolutely no idea about what caused the crash, what policies might have prevented it, and what policies we should adopt going forward. He seems completely unaware of the large body of work by economists who actually do know something about the banking and financial system, and have been thinking about it productively for a generation.*

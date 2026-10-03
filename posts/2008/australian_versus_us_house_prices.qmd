@@ -1,0 +1,13 @@
+---
+title: "Australian versus US House Prices"
+date: "2008-02-04"
+categories: ["Economics", "Financial Markets"]
+---
+
+The December quarter [ABS established house price index](http://www.abs.gov.au/AUSSTATS/abs@.nsf/Lookup/6416.0Main+Features1Dec%202007?OpenDocument# "ABS established house price index") saw the weighted average for capital cities rise 3.2% q/q and 12.3% y/y.  Perth once again underperformed the other capital cities, with growth of 0.9% q/q and 1.1% y/y, coming down off the massive near 50% y/y growth rate seen for the year-ended in September 2006.  Sydney rose 2.4% q/q and 8% y/y, giving a very respectable 5% y/y real return after headline inflation.  All the other capitals recorded double-digit annual percentage gains in house prices, with house price growth in Melbourne, Brisbane and Adelaide standing around 20% annually.
+
+For all the talk of a house price bust in Australia a few years ago, Sydney was the only state capital to record an outright decline in house prices at an annual rate, although Melbourne got close with a modest 0.4% y/y rate in the year to December 2004.  Many of Australia’s capital cities did, however, experience house price *dis*inflations that were far more dramatic than anything experienced in the US as part of its so-called housing ‘bubble.’
+
+This raises the obvious question as to why house price swings in the US that are relatively modest by Australian standards have had much more adverse macroeconomic consequences in the US.  The answer most probably lies in the distinctive features of the US mortgage market.  The Australian market is much better conditioned to pronounced cycles in house prices, inflation and interest rates.  The lesson is that dramatic house price disinflations or deflations in themselves need not be a serious macroeconomic problem.  The more important issue is how these swings interact with, and get propagated through, the financial system.
+
+Australia is a price-taker in global capital markets.  The US is an effective price-maker, which means it has the capacity to export financial shocks that have their origins in the non-traded goods sector of the US economy.  There has been some pass through of this shock to Australian retail lending rates, as Australian borrowers compete with the rest of the world for scarce liquidity.  But this shock to retail lending rates can be traded-off against changes in official interest rates.  It has long been argued that Australia’s negative net international investment position left it vulnerable to negative external financial shocks, but the current episode suggests that Australia’s vulnerability to international credit shocks has been greatly exaggerated.

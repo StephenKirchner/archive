@@ -1,0 +1,13 @@
+---
+title: "Fundamentals of House Price Inflation"
+date: "2005-09-19"
+categories: ["Economics"]
+---
+
+An [op-ed in the WSJ](http://online.wsj.com/article/0,,SB112708454245544394,00.html?mod=opinion%5Fmain%5Fcommentaries "op-ed in the WSJ") previews a forthcoming article in the *Journal of Economic Perspectives* that distinguishes between house prices and the cost of owning:
+
+We, along with Charles Himmelberg, a research economist at the Federal Reserve Bank of New York, computed annual housing costs for 46 housing markets from 1980 to 2004 in a study due to be published this fall in the Journal of Economic Perspectives. Our findings are striking. In none of the hottest housing markets did the ratio of the cost of owning to rent in 2004 exceed the average over the sample period in their own market by more than 13%. The highest was in Portland, Ore. Miami’s ratio was 12% above average. But the ratios in the other oft-cited “bubble” cities such as Boston, L.A., New York and San Francisco were no more than 3% above their long-run averages…
+
+The number one reason the current cost of owning differs so much from the price of a house is the historically low level of real, long-term interest rates. Low rates reduce the yearly cost of financing and lessen the cost of tying up capital in the house. At a lower cost-per-dollar of housing, families are willing to spend more for a house, bidding up prices.
+
+**UPDATE:**  Full paper [here](http://www.newyorkfed.org/research/staff_reports/sr218.pdf "here").

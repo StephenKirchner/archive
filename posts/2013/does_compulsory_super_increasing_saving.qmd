@@ -1,0 +1,15 @@
+---
+title: "Does Compulsory Super Increasing Saving?"
+date: "2013-09-25"
+categories: ["Economics", "Financial Markets"]
+---
+
+I have an op-ed in the [Business Spectator](http://www.businessspectator.com.au/article/2013/9/25/industries/dollar-super-not-dollar-saved) discussing a recent CPA Australia [report](http://www.cpaaustralia.com.au/~/media/Corporate/AllFiles/Document/about/twenty-years-superannuation-guarantee.pdf) and its claim that “nothing has been saved during the 20 years of compulsory superannuation contributions”:
+
+> The CPA report argues that households anticipate the tax-free benefit they will receive from their superannuation account balance on retirement by increasing their current levels of borrowing and consumption. This increased borrowing is claimed to have fully offset the increased saving via compulsory superannuation contributions. Hence the report’s conclusion that “superannuation savings minus household debt effectively equals zero”.
+>
+> This surprising result reflects a questionable feature of the report’s methodology. The report counts borrowing for housing on the liabilities side of household balance sheets, but does not count housing equity on the assets side. The report defines household saving as household financial wealth less debt, including housing debt.
+>
+> The report defends this approach on the basis that few retirees access housing equity to fund their retirement, whether through reverse mortgages, downsizing or relocating the family home. As the report notes, the means test for the age pension encourages the movement of financial assets into the home rather than taking equity out of the home. Stamp duty on property transactions is another factor discouraging the realisation of housing equity.  Whereas mortgage debt in retirement needs to be serviced, the value of the family home does not directly affect the cost of living in retirement.
+>
+> In fact, it is always possible to change the incentives that currently discourage households from realising housing equity for the purposes of funding retirement.  In principle at least, housing equity is available to fund retirement, even if this is not a popular choice. We should not completely discount the role of housing equity as a source of retirement saving when it is such an important part of household net worth.

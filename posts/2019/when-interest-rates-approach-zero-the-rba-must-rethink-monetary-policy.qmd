@@ -1,0 +1,7 @@
+---
+title: "When interest rates approach zero, the RBA must rethink monetary policy"
+date: "2019-10-08"
+categories: ["Economics", "Monetary Policy"]
+---
+
+My [explainer](https://www.abc.net.au/news/2019-10-07/rba-interest-rates-approach-zero-quantitative-easing/11574590) for the ABC Online on the RBA’s policy options as interest rates approach zero.

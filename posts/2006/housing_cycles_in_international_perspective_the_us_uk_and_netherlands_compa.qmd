@@ -1,0 +1,13 @@
+---
+title: "Housing Cycles in International Perspective: The US, UK and Netherlands Compared"
+date: "2006-10-14"
+categories: ["Economics"]
+---
+
+The Australian Treasury’s [David Gruen and Steven Kennedy](http://www.treasury.gov.au/documents/1172/PDF/Gruen_david.pdf "David Gruen and Steven Kennedy") have prepared a useful comparison of housing cycles in Australia, the UK, the Netherlands and the US.  Gruen and Kennedy make the simple point that the US housing cycle has been relatively muted compared to the experience of other countries.  It follows that the broader macro implications of the US housing downturn should also be more muted than in these broadly comparable countries. 
+
+Gruen and Kennedy conclude:
+
+> Somewhat like the UK, US consumption growth rose only modestly above its longer run average during the housing price upswing. This again suggests that the US consumption slowdown might also be relatively modest…
+>
+> it seems reasonable to expect a sharp cooling in the US housing market to generate a noticeable slowing in US economic growth over the next year or so.  But it is hard to imagine a cooling in the US housing market, on its own, generating a US recession. For such an outcome to eventuate would, it seems to me, require some significant other adverse shocks – of the kind that hit the Netherlands economy at roughly the same time that its housing market was unwinding.

@@ -1,0 +1,11 @@
+---
+title: "Housing Equity and Consumption: Myth Busted"
+date: "2005-10-21"
+categories: ["Economics"]
+---
+
+The RBA has released the results of its [survey on housing equity withdrawal](http://www.rba.gov.au/PublicationsAndResearch/Bulletin/bu_oct05/survey_housing.html "survey on housing equity withdrawal").  As we predicted when the survey was first announced, the results effectively demolish one of the most pernicious myths about the Australian economy in recent years: that strong economic growth was largely driven by a housing equity fuelled consumption boom:
+
+Around two-thirds of equity withdrawn in 2004 was invested in other assets or used to pay down other loans. In contrast, only a relatively small proportion of equity withdrawn was used to fund consumption. This implies that swings in housing equity withdrawal in recent years are likely to have had a smaller impact on aggregate household consumption than the raw figures on aggregate net household equity withdrawal would suggest…
+
+the results suggest that swings in recent years in the amount of equity withdrawn or injected by the household sector probably did not result in swings of a corresponding magnitude in consumption growth. To a significant extent, the changes in the amounts withdrawn or injected are likely to have been the result of changes in turnover in the property market and the longer-term growth in prices. The results of the survey indicate that withdrawals of equity through transactions were not typically used for consumption but were instead used to accumulate other assets.\

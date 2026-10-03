@@ -1,0 +1,21 @@
+---
+title: "‘Bubble’ Revisionism"
+date: "2006-11-09"
+categories: ["Economics", "Financial Markets"]
+---
+
+The [WSJ](http://online.wsj.com/article/SB116294042194116133.html?mod=hps_us_editors_picks "WSJ") previews forthcoming research re-evaluating the so-called tech bubble of the 1990s:
+
+> The traditional history of the dot-com bubble has been told many times: Too many companies rushed into the market in defiance of all known business fundamentals, and when the crash came, all but a tiny fraction of them just as quickly imploded and went away.
+>
+> That received wisdom, though, is now getting a going-over by economists, business historians and others, some of whom are coming to new conclusions about what precisely went wrong during the bubble years, normally dated from the Netscape IPO in August 1995 to March 2000, when Nasdaq peaked at above 5100.
+>
+> A recent paper suggests that rather than having too many entrants, the period of the Web bubble may have had too few; at least, too few of the right kind.
+>
+> And while most people recall the colossal flops of the period (Webvan, pets.com, etoys and the rest) the survival rates of the era’s companies turns out to be on a par, if not slightly higher, than those in several other major industries in their formative years.
+>
+> The paper is being published in a coming issue of the Journal of Financial Economics. As noteworthy as the findings are, even more interesting is the process that led to them. The work is an outgrowth of the Business Plan Archive at the University of Maryland. Its goal is to become a kind of Smithsonian Institution of the Internet bubble, saving for posterity every business plan, PowerPoint presentation and venture-capital term sheet—the more frothy and half-baked, the better—that it can get its hands on….
+>
+> The study suggests, though, that the dimensions of that crash might be misunderstood. Nearly half of the companies they studied were still in business in 2004. Prof. Kirsch says that most people believe just a few percent made it through.
+>
+> The study found that the attrition rate for dot-com companies was roughly 20% a year, which is no different from what occurred during many other industries, such as automobiles, during their early boom periods.

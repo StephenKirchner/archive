@@ -1,0 +1,15 @@
+---
+title: "Steve Keen’s Accidental Demonstration of the Efficient Market Hypothesis"
+date: "2009-11-03"
+categories: ["Economics", "Financial Markets", "House Prices"]
+---
+
+Following the release of the [ABS house price data for the September quarter](http://www.abs.gov.au/AUSSTATS/abs@.nsf/ProductsbyReleaseDate/A50B6B8CF85F0474CA25722900179E3F?OpenDocument "ABS house price data for the September quarter"), Steve Keen [concedes defeat](http://www.bloomberg.com/apps/news?pid=20601081&sid=aJua.fRYs1KQ "concedes defeat") in his bet with Rory Robertson and will be hiking from Canberra to the top of Australia’s highest mountain wearing a teeshirt that reads ‘I was hopelessly wrong on house prices, ask me how.’  Keen’s answer is to blame the gub’nent:
+
+> *“I didn’t know the government was going to be stupid enough to bring in the first home buyer’s boost”.*
+
+While I would agree that the increased first home-owners grant has inflated house prices, transferring wealth from taxpayers to incumbent property owners, it would be an exaggeration to say that this prevented a decline in house prices of the magnitude Keen has been predicting.  Moreover, any forecast needs to discount the likely actions of policymakers.
+
+Steve Keen has inadvertently supplied yet another observation in favour of the efficient market hypothesis, much like Robert Shiller’s suggestion in 1996 that investors should stay out of the stock market for the following decade.  The EMH maintains only that we cannot predict future innovations in asset prices.  It is ironic that both Keen and Shiller have demonstrated the truth of this proposition in the course of trying to refute it.
+
+Perhaps the teeshirt should read, ‘The EMH was right on asset prices, just don’t ask me how’.

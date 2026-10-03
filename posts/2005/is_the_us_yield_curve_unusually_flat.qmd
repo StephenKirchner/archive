@@ -1,0 +1,11 @@
+---
+title: "Is the US Yield Curve Unusually Flat?"
+date: "2005-09-13"
+categories: ["Economics"]
+---
+
+Not according to [Action Economics](http://www.actioneconomics.com/reports/actionreport.php?id=11104 "Action Economics") chief economist Mike Englund:
+
+The average spread in the second half of expansions is only 17 basis points. And, not only is the average low, but note that the yield curve is notable flat largely throughout the second half of every expansion. The pattern reflects a strong cyclical tendency for the Fed to bring the Fed funds rate roughly in line with Treasury yields in the second half of each growth period, and not to some point well short of the 10-year yield. As we and others frequently note, yield curve inversions are a powerful predictor of business cycle downturns, but even then the usual lead time is a hefty 9-20 months. This means that an inversion today would only signal a recession before May of 2007…
+
+Now, with little more than a narrowing of the spread toward the usual “second half” gap, we can only guess that the expansion is approaching the mid-point.

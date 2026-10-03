@@ -1,0 +1,17 @@
+---
+title: "US Housing, Confidence and Consumer Spending"
+date: "2006-09-27"
+categories: ["Economics"]
+---
+
+The missing link in the recession scenario of [Dr Strangelove](http://www.rgemonitor.com/blog/roubini "Dr Strangelove") and others is the transmission mechanism from weakness in US housing to the broader economy.  There are two candidates in this regard: the direct contribution to growth from dwelling investment; and the impact of house prices on household net worth and consumption. 
+
+In relation to the first channel, the growth subtraction from dwelling investment is unlikely in itself to tip the US into recession, even allowing for some spillover into other demand components.  Most doomsday scenarios rely more heavily on the second channel.  Estimates of the elasticity of consumption with respect to house prices vary, but again do not suggest that a downturn in house prices is in itself sufficient to trigger recession.  This is especially the case when we consider the potentially offsetting contribution to household net worth from gains in equity markets and the high levels of direct and indirect ownership of equities by the US household sector. 
+
+As my associates at [Action Economics](http://www.actioneconomics.com "Action Economics") note, consumer confidence is proving resilient to the recent downturn in the housing sector:
+
+> Today’s consumer confidence data from the Conference Board round out a unanimous mix of confidence measures showing increases in September.  We expect these gains to carry into October, given that the litany of positive influences on the indexes from energy prices, stock prices, bond yields, and news headline effects seem to be approaching the new month with encouraging trajectories.
+>
+> Though today’s reported confidence bounce was hardly a surprise, it adds to the evidence that housing sector weakness is at least thus far still contained to this narrow sector. If the drop in real estate market prospects is to have a psychological impact on consumer spending, then presumably it should similarly impact confidence.  As we noted in our commentary last week, it is unlikely that we will see a direct “wealth effect” of the housing market correction as long as rising stock prices leave a solid trajectory for household net worth overall.
+
+It is often said that a downturn in house prices will lead people to ‘stop consuming.’  This is partly just sloppy language, yet few people seem to give much thought to how implausible this really is.  The consumption share of GDP is typically fairly stable, not least because a large component of consumption expenditure is non-discretionary.  While changes in consumption can certainly make a large contribution to (or subtraction from) growth in a given quarter, consumption is typically the demand component about which we should be least worried.

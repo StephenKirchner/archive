@@ -1,0 +1,7 @@
+---
+title: "‘American housing finance is the envy of the world’"
+date: "2010-10-20"
+categories: ["Economics"]
+---
+
+[Not anymore](http://www.aei.org/docLib/Future-Housing-Finance-Pollock-101910.pdf "Not anymore").

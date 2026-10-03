@@ -1,0 +1,19 @@
+---
+title: "Stimulus Skeptics"
+date: "2009-08-19"
+categories: ["Economics", "Financial Markets", "Fiscal Policy"]
+---
+
+I’m quoted in a story in [The Australian](http://www.theaustralian.news.com.au/story/0,25197,25950462-601,00.html "The Australian") today on the effectiveness of fiscal stimulus.  As I noted in [this post](../2009/monetary_versus_fiscal_stimulus.qmd "this post"), if we are to accept the proposition that fiscal stimulus has been effective in supporting demand, then this implies that monetary policy has had less work to do and that interest rates have been higher than they otherwise would have been.  To be clear, that is not my view, but it is where the logic of the pro-stimulus camp must lead.  In that case, all fiscal stimulus has done is trade-off monetary for fiscal easing.
+
+[Kevin Hassett](http://www.aei.org/article/100901 "Kevin Hassett") has noted the same inconsistencies in the discussion of fiscal policy in the US:
+
+> Democrats opposed the Bush tax cuts from the beginning not because lower marginal tax rates are bad, but rather, because they believed they would lift deficits and interest rates.
+>
+> The interest-rate effect is so large, goes this line of reasoning propounded by disciples of the “Rubin school,” that the net effect of tax cuts would be harmful.
+>
+> But now we hear that we can adopt the Obama health-care plan, increase an already massive deficit, and it will be no problem. But if raising taxes can reduce deficits and spur the economy, then cutting spending should do that too. So why are we increasing spending yet again? Democrats have no answer…
+>
+> The fact is, deficits are a problem precisely because politicians can get away with running them with near impunity. If interest rates did soar in the face of deficits, it would provide a constraint on the growth of big government.
+>
+> Sadly, there will be no such constraint.

@@ -1,0 +1,15 @@
+---
+title: "Losing Money with Steve Hanke"
+date: "2007-04-03"
+categories: ["Economics", "Financial Markets"]
+---
+
+Steve Hanke may have a fetish for fixed exchange rate regimes, but he is not averse to offering [Forbes](http://www.cato.org/pub_display.php?pub_id=8166 "Forbes") readers free advice on playing foreign exchange markets.  Hanke’s fundamental analysis seems to consist of little more than ritual incantations of Austrian business cycle theory, coupled with the traditional promise of the hell-fire preacher that the day of reckoning is nigh.
+
+More specifically, Hanke recommends betting on an unwinding of yen carry trades:
+
+> In preparing for a coming storm investors should anticipate further unwinding of yen carry trades and a significant appreciation of the yen. One way to play this is to purchase out-of-the-money call options on the yen traded on the Chicago Mercantile Exchange. I recommend a December call at a strike price of 90.
+>
+> Anticipating an eventual reversal of Swiss franc carry trades, and a sharp appreciation of the Swissie, I recommended (Sept. 4, 2006) selling a Euro/Swiss futures contract. At present the position is losing 2%. Relax and continue to hold it.
+
+Since the ECB and SNB have been moving interest rates more or less in lock-step since the end of 2005, EUR-CHF is a strange choice to trade the carry trade in either direction, even if one thinks CHF is undervalued.  But putting that aside, the preoccupation with the potential for an unwinding of carry trades ignores the fact that these trades have a firm basis in fundamentals, namely real interest rate differentials.  Betting on a carry trade unwind is a bet against the fundamentals that drive it.  While de-leveraging could give rise to a larger carry trade unwind that would be warranted by changed fundamentals, the extent of the carry trade has been greatly overstated relative to total market turnover.  Even if one believes in a ‘coming storm’ for the US economy, betting on a rise in the yen is an odd way to play it, unless you think the US can have a recession, without taking the rest of the world with it.

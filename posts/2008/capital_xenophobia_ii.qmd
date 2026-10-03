@@ -1,0 +1,57 @@
+---
+title: "Capital Xenophobia II"
+date: "2008-11-27"
+categories: ["Economics", "Financial Markets"]
+---
+
+The Centre for Independent Studies has released my Policy Monograph [Capital Xenophobia II: Foreign Direct Investment in Australia, Sovereign Wealth Funds and the Rise of State Capitalism](http://www.cis.org.au/policy_monographs/pm88.pdf "Capital Xenophobia II: Foreign Direct Investment in Australia, Sovereign Wealth Funds and the Rise of State Capitalism").
+
+The monograph revisits the subject of Wolfgang Kasper’s original 1984 *Capital Xenophobia* monograph.  Wolfgang was kind enough to write the foreword to this update of his earlier work on the subject.
+
+There is an op-ed version in today’s *AFR* for those who have access, reproduced below the fold for those who don’t (text may differ slightly from the edited *AFR* version).
+
+The latest World Investment Report from the UN Conference on Trade and Development confirms a disturbing trend.  Australia is missing out on its share of global cross-border direct investment. 
+
+The Report calculates a foreign direct investment (FDI) performance index, which measures Australia’s share of global FDI flows relative to its share of global GDP.  On this measure, Australia has slipped from around 2.6 in the late 1980s to as little as 0.19 more recently.  The index has mostly been below one since the mid-1990s, indicating that Australia is underperforming in attracting FDI. 
+
+Australia’s rank relative to other countries on this index has slipped from around 15th in the late 1980s to 131st most recently. 
+
+Australia’s declining share of global FDI flows relative to GDP is in sharp contrast to its attractiveness as an investment destination, measured by the Report’s FDI potential index, which consistently ranks Australia in the top 20 countries. 
+
+What explains this disconnect between Australia’s FDI potential and performance? 
+
+Australia has well-developed capital markets, which allows some substitution of portfolio for direct investment in total foreign investment.  Portfolio investment is a valuable source of capital inflow, but this may come at the expense of the economic benefits that uniquely attach to FDI.
+
+Comparable developed countries rank more highly than Australia in attracting their share of cross-border direct investment.  Both New Zealand and Canada have shares of global FDI that are greater than their share of global GDP.  This is despite New Zealand ranking below Australia in terms of its attractiveness as a destination for FDI. 
+
+An obvious explanation for Australia’s underperformance in attracting foreign direct investment is its relatively restrictive regulatory regime for FDI.  On the OECD’s measure, Australia has the fifth most restrictive regime among 29 OECD and 13 non-OECD countries, behind only China, India, Russia and Iceland.  Australia’s FDI regime is more restrictive than the average of both OECD and non-OECD countries.
+
+It is no coincidence that Australia shares its high level of FDI restrictiveness with countries where the rule of law is weak.  Australia’s Whitlam-era legislative framework for the regulation of FDI is built around ministerial discretion rather than the rule of law.  In addition to specific statutory restrictions on foreign ownership, this framework gives the Treasurer power to block investment proposals ‘contrary to the national interest.’  Since the ‘national interest’ is left undefined, the Treasurer enjoys sweeping discretion over FDI.
+
+The value of FDI proposals formally rejected under this regulatory framework is typically small, although many are subject to some form of conditionality.  The real cost of Australia’s FDI regime lies in those proposals that are never submitted for approval.
+
+According to one OECD study, Australia could increase its stock of inward FDI by around 45 percent by lowering FDI restrictions to the level of the UK.
+
+High profile cases like the Howard government’s rejection of the \$10 billion bid by Royal Dutch Shell for Woodside Petroleum in 2001 send a powerful message to foreign investors that investment proposals that do not conform with the prejudices of politicians are at risk of rejection.
+
+The Rudd government sought to clarify Australian government policy on foreign direct investment in response to an upsurge in interest in Australian mining assets on the part of state-owned Chinese firms. 
+
+In February, the Treasurer announced a set of Principles Guiding Consideration of Foreign Government Related Investment in Australia.  However, as the Treasurer himself readily conceded, ‘these guidelines were those used by the previous government; they are what we use too.  They are not new.’
+
+These principles were intended to codify existing practice, but served only to underscore the sweeping discretion the Treasurer continues to enjoy over FDI.  The principles if anything expanded rather than circumscribed the scope of that discretion.  In the end, the Rudd government created more confusion than certainty. 
+
+The growing role of state-sponsored entities in the intermediation of cross-border capital flows has raised new concerns about foreign direct investment, both in Australia and abroad.  In particular, concerns have been raised that sovereign wealth funds and state-owned enterprises may pursue political or strategic rather than purely commercial objectives. 
+
+These concerns need to be put in perspective.  Foreign-owned businesses are subject to the same laws as their domestically-owned counterparts and so cannot engage in behavior that is not also open to other firms. 
+
+The Australian government retains significant powers under both competition and tax law to address many of these concerns, without having to control investment at the border.
+
+Investments by foreign-owned firms are vulnerable to expropriation or nationalisation by host country governments, so the strategic and political risks associated with foreign direct investment by state-sponsored entities run in both directions. 
+
+Australia’s regulatory regime for FDI needs a complete overhaul.  This should include easing existing statutory restrictions on foreign ownership. 
+
+There are two options for reforming the FDI approval process.  One option is to extend ‘national treatment’ to foreign investors, regulating them in the same way as domestic investment.  Foreign-owned business in Australia would then be subject to the same laws as any other business operating in Australia.
+
+The second option would be to continue regulating FDI at the border, but replace the existing open-ended ‘national interest’ test with well-defined national economic welfare and national security tests.  These tests should be administered by an independent Foreign Investment Review Board, with its recommendations made binding on the Treasurer to remove ministerial discretion from the approval process.
+
+These reforms would better position Australia to capture a greater share of global cross-border investment.

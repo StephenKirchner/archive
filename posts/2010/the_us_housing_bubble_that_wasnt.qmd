@@ -1,0 +1,9 @@
+---
+title: "The US Housing ‘Bubble’ that Wasn’t"
+date: "2010-05-07"
+categories: ["Economics", "House Prices"]
+---
+
+Some refreshing ‘bubble’ scepticism from [Casey Mulligan](http://economix.blogs.nytimes.com/2010/05/05/what-it-really-a-bubble/?ref=business "Casey Mulligan"):
+
+> *Adjusted for inflation, residential property values were still higher at the end of 2009 than 10 years ago.  This fact raises the possibility that at least part of the housing boom was an efficient response to market fundamentals.*

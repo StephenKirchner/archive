@@ -1,0 +1,11 @@
+---
+title: "The Real Costs of Taxation"
+date: "2005-05-19"
+categories: ["Economics"]
+---
+
+[Ross Gittins](http://www.smh.com.au/news/Opinion/Treasurers-tax-cut-justification-a-bit-rich/2005/05/17/1116095962368.html "Ross Gittins") is criticising the budget tax cuts by appealing to the seemingly common sense notion that the rich do not need an incentive to work.  Yet high marginal tax rates do not need to have a negative effect on labour supply to be costly.  The welfare costs associated with high marginal rates have more to do with distortions to decision-making.  These distortions can be costly simply by changing the way in which labour is supplied, they do not need to have a negative impact on supply per se.  This applies not just to decisions about labour supply, but also saving and investment, tax avoidance and evasion.
+
+Gittins contradicts himself in making this argument, since he has been at the forefront of those arguing that the concessional treatment of capital gains has been a major culprit in the investment property boom and house price inflation.  Of course, Gittins sees this as an argument against the concessional treatment of capital gains, rather than one in favour of lowering high marginal rates, but he readily accepts the notion that taxes can have a significant distortionary impact on decision-making when it suits him.
+
+The [literature](http://www.nber.org/bookstoc/pote04-1.html "literature") suggests that behavioural responses to changes in marginal tax rates are concentrated at the top end of the income scale, where most revenue is collected, which is why the welfare costs of taxation are so high (see [Alex Robson](http://www.theaustralian.news.com.au/common/story_page/0,5744,15320850%255E7583,00.html "Alex Robson") for some US estimates in this regard).

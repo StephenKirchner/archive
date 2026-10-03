@@ -1,0 +1,9 @@
+---
+title: "Housing and the National Accounts"
+date: "2005-06-02"
+categories: ["Economics"]
+---
+
+The Q1 headline GDP outcome of 0.7% q/q sparked none of the hysteria attaching to the Q4 result (now revised up to 0.3% q/q).  Yet domestic final demand contributed nothing to headline growth in Q1.  Consumption and investment were a wash, leaving a large run-up in inventories to fully account for the growth in gross national expenditure, before the subtraction from net exports.
+
+Another little remarked upon feature of the national accounts was that ownership transfer costs, a reasonable proxy for turnover in the established housing market, did not subtract from growth for the first time since Q4 03 (rounding to a tenth of one percentage point).  One of the reasons I have been so dismissive of the gloom and doom scenarios in relation to house prices is that weakness in the housing market is seen on volumes as much as prices.  Ownership transfer costs in chain volume terms have fallen by 17.1% over the year to March, but the decline has moderated every quarter since March last year.  While weakness in house prices still has further to run (see this Friday’s release of the ABS series), the worst of the decline in transaction volumes would appear to be behind us based on past cyclical experience with this series.  The stylised Australian house price cycle of recent decades would point to a bottoming of house prices relative to trend by the end of 2006.

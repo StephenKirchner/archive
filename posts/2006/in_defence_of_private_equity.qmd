@@ -1,0 +1,11 @@
+---
+title: "In Defence of Private Equity"
+date: "2006-11-30"
+categories: ["Economics", "Financial Markets"]
+---
+
+[John Chapman](http://www.aei.org/publications/filter.all,pubID.25203/pub_detail.asp "John Chapman") argues for the importance of private equity:
+
+> a dynamic market for corporate control is a key driver of economic growth. In fact, along with strong property rights and limited government, a stable monetary regime, low taxes on capital and income, free and open trade, and a culture conducive to entrepreneurship, vibrant M&A activity within dynamic capital markets is fundamental to maximizing growth in an economy. Further, superior M&A and private equity investing institutions in the U.S.—which are crucially supportive of entrepreneurial pursuits—are a major reason our economy is healthier than the capitalist economies of Europe or Asia, where these are less developed features of their financial markets…
+>
+> M&A deals may or may not work out in any one case. But a dynamic market for corporate control, which the private equity sector has only served to make more broadly efficient and liquid, ensures that capital is quickly displaced from entrepreneurial errors and redeployed to higher-earning uses; thus, there has always been a strong correlation between M&A activity and macro-economic growth. Along with the other institutions of the market economy mentioned above, mergers and private equity serve to optimize the productivity of capital in an economy, which is its ultimate source of wealth.

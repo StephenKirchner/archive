@@ -1,0 +1,9 @@
+---
+title: "Steve Keen, They Hardly Knew You"
+date: "2009-10-21"
+categories: ["Economics", "House Prices"]
+---
+
+The latest 12-month consumer house price expectations from [Westpac-Melbourne Institute](http://www.westpac.com.au/manage/wrap.nsf/vPdfUrls/E02CE219346C388ACA25765400753FCA/$File/er20091020BullAusConsumHouseprice.pdf?OpenElement "Westpac-Melbourne Institute"):
+
+> *Some 73% of respondents expect prices to increase over the next 12 months with 15.9% expecting no change and 9.9% expecting a decline. The proportion expecting an increase compares with 53% in July and 32% – a minority – in May.*

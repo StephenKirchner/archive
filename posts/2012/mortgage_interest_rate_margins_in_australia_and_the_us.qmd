@@ -1,0 +1,11 @@
+---
+title: "Mortgage Interest Rate Margins in Australia and the US"
+date: "2012-02-22"
+categories: ["Economics", "Financial Markets"]
+---
+
+A story in the [WSJ](http://online.wsj.com/article/SB10001424052970204131004577237550558739754.html) about mortgage interest rate spreads in the United States perfectly parallels the debate in Australia. The story notes that:
+
+> Analysts stress it is difficult to disentangle how much of the spread is due to pricing power from banks with more control of the market, and how much might represent structurally higher costs of doing business in the U.S. mortgage market reshaped by the crisis.
+
+However, the fact that the US and Australia are experiencing essentially the same phenomenon argues against country-specific factors as the explanation. Capital markets are global and Australia is necessarily a price-taker in these global markets, a point forever lost on our parochial media and politicians.

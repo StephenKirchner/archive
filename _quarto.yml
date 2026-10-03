@@ -1,0 +1,49 @@
+project:
+  type: website
+  resources:
+    - files/
+
+website:
+  title: "Stephen Kirchner: Blog archive"
+  site-url: "https://stephenkirchner.github.io/archive"
+  description: "Posts from the Institutional Economics blog, 2003–2024."
+  navbar:
+    title: false
+    left:
+      - text: "Stephen Kirchner"
+        href: https://stephenkirchner.github.io/
+      - text: "Articles"
+        href: https://stephenkirchner.github.io/articles.html
+      - text: "Monographs"
+        href: https://stephenkirchner.github.io/monographs.html
+      - text: "Reviews"
+        href: https://stephenkirchner.github.io/reviews.html
+      - text: "Blog"
+        href: https://stephenkirchner.github.io/blog.html
+      - text: "Archive"
+        href: index.qmd
+  sidebar:
+    style: floating
+    contents:
+      - text: "Newsletter"
+        icon: envelope
+        href: https://stephenkirchner.substack.com
+      - text: "Twitter"
+        icon: twitter-x
+        href: https://x.com/insteconomics
+      - text: "Bluesky"
+        icon: bluesky
+        href: https://bsky.app/profile/insteconomics.bsky.social
+      - text: "LinkedIn"
+        icon: linkedin
+        href: https://www.linkedin.com/in/stephen-kirchner-6533994a
+      - text: "RSS"
+        icon: rss
+        href: https://stephenkirchner.github.io/blog.xml
+
+format:
+  html:
+    theme:
+      light: cosmo
+      dark: darkly
+    toc: false

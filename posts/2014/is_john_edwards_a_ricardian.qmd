@@ -1,0 +1,29 @@
+---
+title: "Is John Edwards a Ricardian?"
+date: "2014-07-03"
+categories: ["Economics", "Monetary Policy"]
+---
+
+John Edwards’ ‘[Beyond the Boom](http://www.lowyinstitute.org/publications/beyond-the-boom)’ is a welcome follow-up to his 2006 ‘Quiet Boom’, which I [reviewed](http://cis.org.au/images/stories/policy-magazine/2007-winter/2007-23-2-stephen-kirchner.pdf) at the time in conjunction with Ian Macfarlane’s Boyer Lectures.
+
+I agree with the argument that economic reform should not be sold on the basis of a faux crisis or economic failure narrative. If proposed reforms are worth doing they are worth doing regardless of where we sit in relation to the business cycle or the budget outlook.
+
+John notes that households saved the Howard government’s tax cuts and that household saving would have been lower in their absence. This is an important observation, because it demonstrates the private saving offset to changes in public saving. Possibly to spare his readers the jargon, John didn’t mention this as an example of Ricardian equivalence, but it is clearly relevant here. I made much the same [argument](http://cis.org.au/images/stories/policy-magazine/2007-spring/2007-23-3-stephen-kirchner.pdf) at the time.
+
+It is perhaps worth noting that John was rather more sympathetic to tax cuts in ‘Quiet Boom,’ where he says that:
+
+> *It may well be worthwhile to reduce the top marginal income tax rate, or to encourage more workforce participation by older Australians or to increase the incentives to move from social security support to paid employment.*
+
+Those arguments remain valid, regardless of the state of the budget. While balancing the budget over time is important, this should not come at the cost of reducing incentives for labour market participation.
+
+John also notes that during the financial crisis, the increase in private sector saving more than offset the decrease in public sector saving from the fiscal stimulus. He doesn’t mention that this is at odds with the dominant narrative around the stimulus, which is that it worked because we ‘went early, went large and went households.’ If the stimulus worked, John’s analysis implies that it was not through household consumption spending. I would like to have seen John spell out these implications in more detail (my take is [here](http://www.cis.org.au/media-information/opinion-pieces/article/5019-we-are-still-stuck-in-the-pre-1983-era-on-fiscal-policy)).
+
+John maintains we should limit the current account deficit to 3.3% of GDP to contain growth in external liabilities. This is close to the average since 1960 and so is certainly achievable based on historical experience. However, in ‘Quiet Boom’ John shows how conditioning macro policy on a view about the appropriate size of the current account deficit got us into a lot of trouble. Tim Geithner’s attempt to get the G20 to sign up to a 4% of GDP limit on current account imbalances was similarly mistaken in my view. We cannot know in advance the appropriate rates of saving and investment, from which it follows that the appropriate current account deficit is also unknown.
+
+John maintains that the government has a revenue rather than a spending problem, but this is necessarily a joint problem. The normative issue is to define what government should be doing and raise revenue accordingly.  In that sense, the expenditure side is analytically prior to the revenue side, regardless of what is driving changes in the budget balance over any given period. The test both revenue and expenditure measures need to pass is whether they improve incentives to work, save and invest. Higher average tax rates do not pass that test and would be at odds with the aims of the tax reform process and raising labour force participation. Balancing the budget is important, but should not come at the expense of microeconomic incentives. Balancing the budget and stabilising net debt as a share of GDP will be a somewhat hollow achievement if it comes at the expense of a smaller economy that yields less revenue for government in absolute terms.
+
+John is spot on in arguing that Australia’s economic future lies in integration with Asia through trade in services. I would add that there are even larger gains to be had through increased trade in capital and labour. Regional free trade agreements will be important in defining the parameters of our engagement and deserve close attention from policymakers. The G20 would do well to focus on the successful conclusion of regional and multilateral trade deals.
+
+[Alex Tabarrok](http://www.lowyinterpreter.org/post/2014/06/27/Australias-economy-Luck-prepared.aspx) says the Reserve Bank deserves a lot of credit, but I do not think we can attribute Australia’s relative economic outperformance to the conduct of monetary policy. Australia adopted inflation targeting along with the rest of the world. Australia’s senior central bankers largely trained in north America and think much like Ben Bernanke. It cannot be said Australia followed a different intellectual approach or that we know something foreign central bankers do not.
+
+At the onset of the crisis, CPI inflation was running at an annual rate of 5%, nominal GDP at 11% and inflation expectations were coming unhinged. In the absence of a global downturn, the RBA would probably have needed to engineer a severe domestic slowdown to bring inflation back to target. In that sense, the downturn in the world economy did the RBA a favour. Monetary policy is neutral in the long-run, so I don’t think we can give the central bank too much credit for a 23 year expansion.

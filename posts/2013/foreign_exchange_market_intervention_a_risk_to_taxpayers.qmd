@@ -1,0 +1,17 @@
+---
+title: "Foreign Exchange Market Intervention a Risk to Taxpayers"
+date: "2013-04-18"
+categories: ["Economics", "Financial Markets", "Foreign Investment", "Monetary Policy"]
+---
+
+I have an op-ed in the [Business Spectator](http://www.businessspectator.com.au/article/2013/4/18/currency/why-forex-foray-could-burn-reserve) arguing that foreign exchange market intervention is a risk to taxpayers who would be better served if the RBA matched its foreign currency assets and liabilities. I also debunk the notion that Australia is a victim of a ‘currency war’:
+
+> It has been argued that Australia is somehow a victim of a ‘currency war’ being waged between foreign central banks engaged in quantitative easing. Yet there is nothing unusual about the effects of quantitative easing on exchange rates.
+>
+> Quantitative easing is simply a change in the operating instrument of the central bank, from a price variable (the official interest rate) to a quantity variable (base money).
+>
+> In itself, quantitative easing tell us nothing about whether central bank policy is easy or tight. Low inflation and low interest rates in countries like Japan and the United States imply policy settings are if anything too tight, not too easy.
+>
+> The exchange rate is just one of the channels through which a change in monetary policy is transmitted to the rest of the economy and quantitative easing does not fundamentally alter this transmission mechanism.
+>
+> In previous decades, Australians worried about a low exchange rate and capital flight. In the current international environment, foreign capital inflows are an affirmation of our relatively sound economic fundamentals and not a bad problem to have.

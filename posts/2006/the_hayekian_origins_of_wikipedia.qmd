@@ -1,0 +1,9 @@
+---
+title: "The Hayekian Origins of Wikipedia"
+date: "2006-07-27"
+categories: ["Economics"]
+---
+
+The [New Yorker](http://www.newyorker.com/fact/content/articles/060731fa_fact "New Yorker") on Wikipedia founder Jimmy Wales:
+
+> *As an undergraduate, he had read Friedrich Hayek’s 1945 free-market manifesto, “The Use of Knowledge in Society,” which argues that a person’s knowledge is by definition partial, and that truth is established only when people pool their wisdom. Wales thought of the essay again in the nineteen-nineties, when he began reading about the open-source movement, a group of programmers who believed that software should be free and distributed in such a way that anyone could modify the code.*

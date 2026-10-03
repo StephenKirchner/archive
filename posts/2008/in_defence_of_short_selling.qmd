@@ -1,0 +1,52 @@
+---
+title: "In Defence of Short Selling"
+date: "2008-09-23"
+categories: ["Economics", "Financial Markets"]
+---
+
+I have an op-ed in today’s *AFR* arguing against the ban on short selling, which is reproduced over the fold (text may differ slightly from the edited *AFR* version). 
+
+Richard Heaney from RMIT provides the other side of the argument on the same page.  Heaney concedes that banning short selling makes no sense if the market is behaving rationally, but questions ‘whether the equity market is behaving rationally at present.’  I would argue that you need to be consistent in your choice of behavioural model.  It makes no sense to argue that the same investors who were rational one day are suddenly irrational the next.
+
+[Macro Man](http://macro-man.blogspot.com/2008/09/weekend-special-financial-poetry-by.html "Macro Man"), channeling A E Houseman, puts the case against short selling restrictions more poetically:
+
+> Smart lad, to turn the other cheek\
+> And hide as regulators seek,\
+> A culprit for the tempest’s wind\
+> And those that profited and sinned
+>
+> By selling as the tide went out,\
+> Revealing who was left with nowt.\
+> No more, your selling of the banks\
+> Neither the Brits’, nor else the Yanks’:
+>
+> Now you will not swell the rout\
+> Of long investors getting out.\
+> The emperor’s new clothes can stand\
+> Unmolested by your hand.
+
+Authorities in the US and the UK have placed temporary restrictions on short selling financial stocks in response to recent market volatility.  In Australia, regulators have gone even further, banning short selling in all stocks for 30 days to insulate the Australian market from becoming an outlet for frustrated short selling interest in overseas markets.
+
+Few people complain when speculative buying drives up the price of their stock.  Rising share prices are seen as the reward for astute investing and good management.  But when prices are falling, existing stock holders and management seek scapegoats.  Nobody likes being told they are wrong, which is why short selling has never won any popularity contests. 
+
+Blaming speculative short selling for price declines is a simple case of shooting the messenger.  Short selling performs a valuable function in helping expose flawed business models, excessive leverage and bad management. 
+
+Short sellers generally exert a stabilising rather a destabilising influence on financial markets, because they only profit by becoming buyers after prices have fallen.  As Milton Friedman once observed ‘people who argue that speculation is generally destabilising seldom realise that this is largely equivalent to saying that speculators lose money, since speculation can be destabilising in general only if speculators on the average sell when the (security) is low in price and buy when it is high.’
+
+Short sellers sell high and buy low, exerting a stabilising influence on markets and helping prices find their equilibrium value. 
+
+Authorities have generally drawn a distinction between covered short selling with borrowed stock and uncovered (or naked) short selling, where stocks are sold without first being borrowed. Regulators have typically taken a tougher regulatory approach to naked short selling, mainly due to increased settlement risk.
+
+Naked short selling differs from covered short selling only in relation to the party lending the security.  In the case of an uncovered short sale, the buyer also becomes the effective lender of the security.  Naked short selling increases competition in the market for lending securities, providing buying and selling opportunities that would not otherwise exist, adding to market liquidity.
+
+While some have argued that naked short selling is a fraud on the buyer, a naked short is no different from the buying and selling of a good or service that is not yet produced at the time its purchase price is agreed to.
+
+Short sellers are often accused of manipulating stock prices, but opportunities for manipulation also exist on the long side of a market (for example, the so-called ‘pump and dump’).  There are ample regulatory responses available to deal with market manipulation, such as increased disclosure requirements, which do not require a ban on short selling. 
+
+It has also been suggested that fund managers who facilitate short selling by lending their securities are acting against the interests of their investors.  Since fund managers attract and retain customers by maximising returns, it seems implausible they would knowingly facilitate transactions that reduce overall returns. 
+
+While short selling is often employed by speculators, it is also widely used as a hedging tool, protecting investors against downside risk.  Restrictions on short selling could have the perverse effect of forcing fund managers to liquidate long positions in other stocks they can no longer hedge through short selling, adding to downside market volatility.  Restrictions on short selling may disrupt derivatives markets, which are also used for hedging purposes.  It could also undermine some hedge funds, particularly long-short equity arbitrage funds, potentially adding a whole new dimension to the credit crisis.
+
+The Australian Securities and Investment Commission argues that overseas authorities have effectively forced their hand.  It is not clear to what extent Australian markets might have become a proxy for offshore selling interest, but Australian regulators were not about to find out.  The Australian ban goes further because of fears of selling interest spilling over into related stocks, but this only highlights the difficultly of trying to ring fence a single market or class of securities.
+
+Restrictions on short selling add a new element of uncertainty for investors.  While the restrictions are meant to be temporary, investors now have to second-guess the actions of the authorities in deciding what exposures they are willing to take in financial markets.

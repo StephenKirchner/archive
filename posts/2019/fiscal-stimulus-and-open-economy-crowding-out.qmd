@@ -1,0 +1,9 @@
+---
+title: "Fiscal stimulus and open economy crowding-out"
+date: "2019-10-12"
+categories: ["Fiscal Policy", "Monetary Policy"]
+---
+
+I’m quoted in this [AFR](https://www.afr.com/politics/federal/global-rule-makers-don-t-always-get-it-right-20191010-p52zcf#logout) story on the open economy crowing-out effects via the exchange rate and net exports that could be expected from a discretionary fiscal stimulus.
+
+I make the case in more detail in this 2013 [op-ed](https://www.afr.com/policy/we-are-still-stuck-in-the-pre-1983-era-on-fiscal-policy-20131209-iyp26) marking the 30th anniversary of the float Australian dollar.

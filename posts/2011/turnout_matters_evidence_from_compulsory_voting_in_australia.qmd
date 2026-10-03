@@ -1,0 +1,11 @@
+---
+title: "Turnout Matters: Evidence from Compulsory Voting in Australia"
+date: "2011-05-10"
+categories: ["Economics", "Politics"]
+---
+
+A [paper](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1816649) suggesting that compulsory voting in Australia has increased Labor’s vote share and spending on pensions (although the latter result is heavily qualified):
+
+> *Despite extensive research on voting behavior, there is little evidence connecting turnout to tangible outcomes. Would election results and public policy be different if everyone voted? The adoption of compulsory voting in Australia provides a rare opportunity to address this question. The Commonwealth enacted compulsory voting for federal elections in 1924 and each state enacted similar policies at different times between 1914 and 1941. Within each state, the timing of compulsory voting was exogenous to other political events. Exploiting this variation, I estimate that compulsory voting increased voter turnout by 24% which in turn increased the vote shares and seat shares of the Labor Party by 7-9%. Then, employing synthetic control methods, I find that pension spending in Australia increased significantly after the adoption of compulsory voting. Results suggest that increased voter turnout can dramatically influence election outcomes and the resulting public policies.*
+
+Needless to say, we should not make a case for or against compulsory voting based simply on whether we like or dislike the political and distributional outcomes it supposedly produces, not least because these outcomes are unpredictable and could well change over time. The conservative politicians who originally backed the introduction of compulsory voting in Australia did so in part because they thought the labour movement was better at mobilising voters. Now the labour movement has the coercive power of the state to do it for them.

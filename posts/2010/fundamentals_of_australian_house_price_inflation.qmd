@@ -1,0 +1,11 @@
+---
+title: "Fundamentals of Australian House Price Inflation"
+date: "2010-09-02"
+categories: ["Economics", "Financial Markets", "House Prices"]
+---
+
+There is a lot of ill-informed offshore commentary about Australian house price inflation, with anecdotal reports suggesting that some hedge funds are putting on trades designed to capitalise on what they see as an inevitable Australian house price bust.
+
+We have heard all this before from a local debate about house prices that goes back to at least 2003 and substantially predates international interest in this issue since 2007. In 2005, [Robert Shiller](http://online.wsj.com/article/0,,SB111766233843548579,00.html?mod=opinion_main_commentaries "Robert Shiller") declared that Australia had suffered a burst housing bubble the previous year, a proposition that has become even more laughable with the passage of time.
+
+Chris Joye reviews the latest data in his [presentation for offshore investors](http://www.rismark.com.au/pdf/Macsec_5.pdf "presentation for offshore investors").

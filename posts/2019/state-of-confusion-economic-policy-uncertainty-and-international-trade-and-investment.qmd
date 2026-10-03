@@ -1,0 +1,9 @@
+---
+title: "State of Confusion: Economic Policy Uncertainty and International Trade and Investment"
+date: "2019-03-27"
+categories: ["Economics", "Foreign Investment"]
+---
+
+I have an article in the latest Australian Economic Review, [State of Confusion: Economic Policy Uncertainty and International Trade and Investment](https://rdcu.be/bs8ek).
+
+The article quantifies the effect of global economic policy uncertainty on global industrial production and trade volumes. It also quantifies the effect of Australian and US economic policy uncertainty on cross-border trade and investment.

@@ -1,0 +1,11 @@
+---
+title: "A Daily CPI"
+date: "2010-11-11"
+categories: ["Economics", "Financial Markets", "Monetary Policy"]
+---
+
+Never mind a [monthly CPI](../../files/ctoped1mar10.pdf "monthly CPI"). How about a [daily one](http://online.wsj.com/article/SB10001424052748704804504575606801972873866.html?mod=WSJ_hp_LEFTWhatsNewsCollection "daily one"):
+
+> Economists Roberto Rigobon and Alberto Cavallo at the Massachusetts Institute of Technology’s Sloan School of Management have come up with a method to scour the Internet for online prices on millions of items and then use them to calculate inflation statistics for a dozen countries on a daily basis. The two have been collecting data for the project for more than three years, but only made their results public this week…
+>
+> Two days after the September 2008 collapse of Lehman Brothers, for example, the economists’ price index for the U.S. started to fall, and by the end of the month it was down a full percentage point, as desperate companies slashed prices amid slowing sales. It wasn’t until mid-November—when the Labor Department released its average monthly consumer price figures for October—that government data began to catch up.

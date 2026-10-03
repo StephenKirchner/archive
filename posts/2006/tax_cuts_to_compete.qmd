@@ -1,0 +1,9 @@
+---
+title: "Tax Cuts to Compete"
+date: "2006-10-12"
+categories: ["Economics"]
+---
+
+A CEDA Information Paper by [Nic Gruen](http://ceda.com.au/public/publications/info_paper/ip_85.html "Nic Gruen") argues for a reduction in the company tax rate, to be funded by the abolition of dividend imputation.  Gruen makes the point that the focus on aligning the company and personal tax rates has little support in economic theory and has led to an excessive focus on personal income tax cuts at the expense of reducing taxes on capital.  I would make a similar argument in relation to capital gains tax, although Gruen’s paper does not address the issue and his evidence does not necessarily generalise to the case of CGT.  For a good paper arguing in favour of the reduction in CGT in the Australian context, see [Alan Reynolds’ 1999 report](http://www.asx.com.au/about/shareholder/media_releases/MR160799_AS3.htm "Alan Reynolds’ 1999 report") for the ASX, which examines the dubious intellectual foundations of the idea that we should tax capital gains.
+
+Gruen argues for caution in interpreting some of the work coming out of the AEI on company tax, on the grounds that it might reflect their ‘free market ideology.’  [As I have had occasion to point out previously](../2005/more_rubbish_from_the_aei.qmd "As I have had occasion to point out previously"), the economists at AEI are well to the left of Australian social democrats on some issues and to the left of some notionally ‘liberal’ (in the US sense of the term) US think-tanks like the Institute for International Economics.  Even the Cato Institute has had some notable lapses, such as inviting Nouriel Roubini to its monetary policy conference last year.  Some of the work coming out of the AEI should indeed be approached with caution, but not for the reasons suggested by Gruen!

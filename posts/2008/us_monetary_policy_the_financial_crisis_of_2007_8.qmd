@@ -1,0 +1,9 @@
+---
+title: "US Monetary Policy & the Financial Crisis of 2007-8"
+date: "2008-04-24"
+categories: ["Economics", "Financial Markets"]
+---
+
+A useful primer on the financial crisis and the US monetary policy response, from [Stephen Cecchetti](http://www.cepr.org/pubs/PolicyInsights/PolicyInsight21.pdf "Stephen Cecchetti") and the Centre for Economic Policy Research.  As Cecchetti notes:
+
+> *By lending both cash and securities, based on collateral of questionable value, the Fed has tried to bring some order back to the market. And the amounts are massive. By the end of March 2008, the Fed had committed more than half of their nearly \$1 trillion balance sheet to these new programs.*

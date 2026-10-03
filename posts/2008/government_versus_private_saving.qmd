@@ -1,0 +1,19 @@
+---
+title: "Government versus Private Saving"
+date: "2008-05-12"
+categories: ["Economics", "Financial Markets"]
+---
+
+[David Uren](http://www.theaustralian.news.com.au/story/0,25197,23680967-643,00.html "David Uren") highlights the private sector offset to increased public sector saving:
+
+> there is a good body of academic research showing that savings decisions by government and individuals are inversely related—that increases in government surpluses are financed, at least in part, by consumers running down their savings.
+>
+> The superannuation industry, which has doubled its contribution to tax revenue to \$10 billion in the past five years, has always argued that the Government’s surpluses are based upon sequestering the savings of households.
+>
+> Research conducted by the OECD shows that for Australia, every additional dollar saved by the public sector results in a fall in private savings of about 50c. This is in line with the international average.
+>
+> The OECD study looked at the savings performance of government and individuals in 21 countries, including Australia, over a 30-year period.
+>
+> It suggested that the trade-off between individual and public sector saving would be greatest at times when public sector debt was low and private sector debt was high, as is the case now in Australia.
+
+I review similar evidence [here](http://www.cis.org.au/policy/Spring_07/links/spring07_kirchner.html "here").  This is just one of the reasons why budget surpluses don’t put downward pressure on interest rates, because dissaving by the private sector offsets the government contribution to national saving.  In any event, the domestic saving-investment balance does not determine domestic interest rates given an open capital account.

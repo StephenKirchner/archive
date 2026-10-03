@@ -1,0 +1,7 @@
+---
+title: "Another RBA Non-Statement on Monetary Policy"
+date: "2006-11-13"
+categories: ["Economics"]
+---
+
+The RBA’s November [Statement on Monetary Policy](http://www.rba.gov.au/PublicationsAndResearch/StatementsOnMonetaryPolicy/statement_on_monetary_1106.html "Statement on Monetary Policy") continued the recent pattern of leaving the inflation forecast unchanged, largely because of an intervening policy move that had effectively pre-empted what might otherwise have been a change in the inflation forecast.  With the RBA’s inflation forecast already at the top of the target range, any upward revision to the inflation forecast demands prompt policy action.  While the RBA’s inflation forecast is made on a ‘no policy change’ basis, for the purposes of the quarterly Statements, it has effectively become endogenous.  The Statements are timed for release after the Board meeting following each quarterly CPI release.  They thus become vehicles for ex post rationalisation of existing policy moves, while studiously avoiding explicit discussion of the policy outlook.  It is very difficult for a change in the inflation forecast to make it into the quarterly Statements, without being pre-empted by actual policy action. It is unlikely that the RBA would forecast underlying inflation outside the target range in the context of a quarterly Statement, since this would beg the question as to why policy action had not already been taken to pre-empt it.  The Bank would essentially be admitting that it was in the process of making a policy error.

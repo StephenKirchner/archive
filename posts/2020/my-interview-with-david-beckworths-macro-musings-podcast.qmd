@@ -1,0 +1,7 @@
+---
+title: "My interview with David Beckworth’s Macro Musings podcast"
+date: "2020-06-30"
+categories: ["Monetary Policy"]
+---
+
+My interview with David Beckworth’s [Macro Musings podcast](https://macromusings.libsyn.com/stephen-kirchner-on-australian-monetary-policy-in-the-wake-of-the-great-recession) is now available. We talk inflation vs NGDP targeting, Australia’s recent macroeconomic history and what they put in the water at the BIS.

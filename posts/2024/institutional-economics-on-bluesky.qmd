@@ -1,0 +1,7 @@
+---
+title: "Institutional Economics on Bluesky"
+date: "2024-11-28"
+categories: ["Misc"]
+---
+
+I have a [Bluesky account](https://bsky.app/profile/insteconomics.bsky.social) you may wish to follow. Also a reminder to subscribe to my [Substack newsletter](https://stephenkirchner.substack.com/) if you have not already done so. The back-end of this website has been updated. This post is partly to test everything is working, including the RSS feeds.

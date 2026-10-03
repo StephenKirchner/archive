@@ -1,0 +1,13 @@
+---
+title: "Yes, We Have No Bananas: Anatomy of an Inflation Shock"
+date: "2006-07-26"
+categories: ["Economics", "Financial Markets"]
+---
+
+The 1.6% quarterly and 4% through the year increase in the CPI in the June quarter will be seen cementing the case for an interest rate increase from the RBA next week.
+
+In reality, the headline June quarter inflation number will have little to do with the reason the RBA is likely to raise interest rates.  Petrol and fruit prices together contributed one percentage point to the headline increase over the quarter, with a 250% Cyclone Larry-induced increase in banana prices the main culprit in higher fruit prices.  Strip out volatile and non-market determined prices and the CPI rose a more subdued 0.6% q/q and 2% y/y. 
+
+What is likely to concern the RBA is the firming trend in the various measures of underlying inflation, at a time when its medium-term inflation forecast is already near the top of its 2-3% target range.  The continued run of strong activity data, including the probability the unemployment rate will post new near 30 year lows in the months ahead suggests further upside risks to the RBA’s inflation forecast.
+
+What should concern the RBA even more is that its inflation target appears to have lost credibility with the bond market.  Yields on inflation-linked Treasury bonds have implied an inflation rate above 3% since December 2005, with the implied 10 year inflation rate having risen steadily from 1.9% back in June 2003 amid the global deflation scare of that year.  With the exception of the uncertainties surrounding the introduction of the GST in 2000, this is the first time the implied inflation rate has been above the inflation target range since 1997.

@@ -1,0 +1,15 @@
+---
+title: "The Economics of On-Line Dating"
+date: "2005-07-05"
+categories: ["Economics"]
+---
+
+[Hal Varian](http://www.nytimes.com/2005/06/30/technology/30scene.html? "Hal Varian") reports on some research into on-line dating in the US, including an interesting application of the Gale-Shapley algorithm:
+
+There was a strong Lake Wobegon effect in the data, with only 1 percent of the population admitting to having “less than average” looks. Even so, only a third actually posted a photo. The reported weights of the women were substantially less than national averages and about 30 percent were blonde. The reported weights of the men were consistent with national averages and only about 12 percent were blond…
+
+Having a lot of money is good for attracting e-mail messages, at least for men. Those men reporting incomes in excess of \$250,000 received 156 percent more e-mail messages than those with incomes below \$50,000…
+
+I would guess that none of these findings are terribly surprising. Everyone knows you can’t be too rich or too thin.
+
+Call me romantic, but I suspect these results grossly overstate the importance of money.  Income probably proxies for a broad range of other characteristics that are desirable in their own right, not least the ability to write a literate and appealing profile, something which might not otherwise be captured in the data.

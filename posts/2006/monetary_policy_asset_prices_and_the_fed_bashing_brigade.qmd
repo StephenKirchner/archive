@@ -1,0 +1,11 @@
+---
+title: "Monetary Policy, Asset Prices and the Fed-Bashing Brigade"
+date: "2006-05-26"
+categories: ["Economics"]
+---
+
+The Fed-bashing brigade often claim that the Fed is out of step with other central banks in not targeting asset prices, with the BoE and RBA in particular said to be more sympathetic to the idea.  This is a misreading of the way in which these central banks think about asset prices, as this speech from the [BoE MPC’s Paul Tucker](http://www.bankofengland.co.uk/publications/news/2006/059.htm "BoE MPC’s Paul Tucker") suggests:
+
+we just do not know enough about the determination of asset prices – especially of risk premia – to have much of an idea about what price to target. Big moves in asset prices do occasionally occur because of changes in the underlying economic fundamentals. We could not be relied upon to distinguish between those benign changes and bubbles. But even if we could, I don’t see how in practice we could use our single instrument (the overnight interest rate) to target both consumer price inflation and asset prices – especially when one remembers that there are lots of different asset prices and that questions of disequilibria about them may run in different directions.
+
+In 2002-03, some of us on the MPC voted to maintain an unchanged policy rate rather than cut partly on the grounds that, by stoking the embers under household debt and house prices, too great a risk would be taken with future output and, most important, inflation variability. Speaking for myself, that was directed at avoiding policy settings that, on balance, could have increased uncertainty about demand conditions and inflation in the future, and complicated the operation of policy down the road, not on some spurious aspiration of steering asset prices along some (unknowable) equilibrium path.

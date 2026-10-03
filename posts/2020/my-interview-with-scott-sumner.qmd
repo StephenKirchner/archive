@@ -1,0 +1,7 @@
+---
+title: "My interview with Scott Sumner"
+date: "2020-04-14"
+categories: ["Economics"]
+---
+
+My [interview](https://youtu.be/6t3F7RBK0Pg) with Scott Sumner from the Mercatus Center at George Mason University on monetary and fiscal policy responses to the pandemic, the future of globalisation and his forthcoming book on market monetarism.

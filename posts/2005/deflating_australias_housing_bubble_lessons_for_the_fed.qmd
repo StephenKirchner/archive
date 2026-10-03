@@ -1,0 +1,15 @@
+---
+title: "Deflating Australia’s Housing ‘Bubble:’  Lessons for the Fed"
+date: "2005-08-18"
+categories: ["Economics"]
+---
+
+Another article in the global press noting Australia’s experience with house price inflation, this time by [Bloomberg columnist William Pesek in the IHT](http://www.iht.com/articles/2005/08/17/bloomberg/sxpesek.php "Bloomberg columnist William Pesek in the IHT"), who credits Australia’s ‘soft landing’ with deft monetary policy action by the RBA.  The emerging conventional wisdom is that the RBA has successfully deflated a housing ‘bubble’ through some well timed increases in interest rates.  The current tightening cycle, which began back in mid-2002, has in fact been remarkably restrained compared to previous cycles, leaving the official cash rate 75 bps below its previous cycle peak and not far from what is widely regarded as a neutral setting for the official cash rate.  So policy settings remain accommodative relative to the standards of previous cycles in Australia, partly because the increase in the net debtor status of the household sector has made monetary policy more potent relative to previous cycles.
+
+What is not widely appreciated is that the RBA has generally disavowed the practice of directly targeting asset prices with monetary policy.  For example, this is what [RBA Governor Macfarlane](http://www.rba.gov.au/Speeches/2004/sp_gov_161104.html "RBA Governor Macfarlane") had to say last year in relation to housing-related credit growth:
+
+In essence, monetary policy has one instrument – it can set the path of short-term interest rates. Over the past dozen years or so, it has set a path which has achieved the outcomes for inflation, growth and employment which I have just outlined.
+
+What would have happened if, instead, we had aimed our monetary policy at one of the other objectives put forward, say a substantially lower growth of credit. I am not sure whether we would have been able to achieve this, but I do know that the attempt to do so would have required setting a path of interest rates which was significantly higher than the one we did. This, in turn, would have meant that the outcomes for inflation and economic growth would have been lower than we actually achieved. I do not think this would have been a good economic result, and it certainly would have violated the letter and the spirit of our agreement on accountability. As I said earlier, a central bank cannot be accountable for everything, and our monetary regime recognises this, while at the same time choosing the right objective to be accountable for.
+
+While the RBA deserves considerable credit for its handling of monetary policy, it has conducted interest rate policy in an entirely conventional way.  The lesson from Australia’s experience is not that monetary policy should target house prices (which as Macfarlane notes, would not be consistent with its mandate), but that a well formulated inflation targeting regime is a good general framework for policy.  This is the lesson the Fed should take away from Australia’s experience.

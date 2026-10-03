@@ -1,0 +1,13 @@
+---
+title: "Wireless Broadband in Sydney"
+date: "2005-04-15"
+categories: ["Misc"]
+---
+
+A temporary lapse into tech blogging.  I recently decided to try wireless broadband with [Unwired](http://www.unwired.com.au "Unwired"), mainly because I want to encourage the process of disintermediating traditional telcos from broadband distribution.  I can’t say I have been overly impressed.  The problem is not necessarily that the signal is weak, but highly variable, even though I am well within the notional coverage area and in a reasonably elevated position.  Using Unwired’s own diagnostics, the signal strength bounces around anywhere from 1-6 out of 10 from the best location in the house.  Drop outs are frequent enough to be annoying, and even though only very brief, they can be enough to require a manual refresh of the connection and generally slow things down to a crawl.
+
+Unwired are not lying when they say that the best place for the modem is parallel to a window.  I find the modem will only work reliably right up against the window.  A few centimetres inside and signal strength deteriorates rapidly.  The best place for the modem is actually outside.  This is obviously a widespread problem, because I have found [one Sydney company](http://www.tcom.com.au/solutions_antennas.php "one Sydney company") that already produces dedicated kits to house the Unwired modem externally.
+
+Unwired offer only a very narrow 14 day window in which to trial the service.  Unless you are getting a very reliable signal in the first few days, my suggestion would be to cancel the service immediately.
+
+The university’s wireless broadband service is also flaky, from my very limited experience of it, but then again so is mobile reception (I had to get a CDMA mobile to get a signal at my UNSW office).  Perhaps it is due to Sydney’s undulating topography.  In any event, it’s back to ADSL for me.

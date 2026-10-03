@@ -1,0 +1,17 @@
+---
+title: "Greenspan versus Taylor"
+date: "2009-03-12"
+categories: ["Economics", "Financial Markets", "Monetary Policy"]
+---
+
+Former Federal Reserve Chairman [Alan Greenspan](http://online.wsj.com/article/SB123672965066989281.html "Alan Greenspan") defends the Fed’s record against criticism from John Taylor:
+
+> However, starting in mid-2007, history began to be rewritten, in large part by my good friend and former colleague, Stanford University Professor John Taylor, with whom I have rarely disagreed. Yet writing in these pages last month, Mr. Taylor unequivocally claimed that had the Federal Reserve from 2003-2005 kept short-term interest rates at the levels implied by his “Taylor Rule,” “it would have prevented this housing boom and bust. “This notion has been cited and repeated so often that it has taken on the aura of conventional wisdom.
+>
+> Aside from the inappropriate use of short-term rates to explain the value of long-term assets, his statistical indictment of Federal Reserve policy in the period 2003-2005 fails to address the aforementioned extraordinary structural developments in the global economy. His statistical analysis carries empirical relationships of earlier decades into the most recent period where they no longer apply.
+>
+> Moreover, while I believe the “Taylor Rule” is a useful first approximation to the path of monetary policy, its parameters and predictions derive from model structures that have been consistently unable to anticipate the onset of recessions or financial crises. Counterfactuals from such flawed structures cannot form the sole basis for successful policy analysis or advice, with or without the benefit of hindsight.
+>
+> Given the decoupling of monetary policy from long-term mortgage rates, accelerating the path of monetary tightening that the Fed pursued in 2004-2005 could not have “prevented” the housing bubble. All things considered, I personally prefer Milton Friedman’s performance appraisal of the Federal Reserve. In evaluating the period of 1987 to 2005, he wrote on this page in early 2006: “There is no other period of comparable length in which the Federal Reserve System has performed so well. It is more than a difference of degree; it approaches a difference of kind.”
+
+Proving that great minds think alike, I will shortly be releasing a CIS policy monograph making much the same argument in the context of a broader discussion of the relationship between monetary policy and asset prices. I discussed the issue with John Taylor at the New York MPS meeting, but could not bring him around to my point of view.

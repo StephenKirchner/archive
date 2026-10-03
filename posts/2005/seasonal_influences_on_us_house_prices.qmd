@@ -1,0 +1,13 @@
+---
+title: "Seasonal Influences on US House Prices"
+date: "2005-11-09"
+categories: ["Economics"]
+---
+
+Before getting too excited about the reported moderation in US house prices, it is worth considering what [Action Economics](http://www.actioneconomics.com "Action Economics") chief economist Mike Englund has to say about seasonal influences on US house prices:
+
+U.S. housing industry reports of moderating prices imply little about annual trends. Prices decline sharply in nearly every Q4 in this highly seasonal industry, and declines are particularly big in years with large Q2 and Q3 gains…
+
+to those that believe they take these seasonal patterns into account by using y/y growth rates to effectively “cancel out” existing seasonal patterns, note the exacerbating trend in seasonal patterns through the thirty-six year existing home sales dataset for prices. Price data for Q4 and Q1 are becoming weaker with time relative to trend, while price data for Q2 and Q3 are becoming stronger with time, hence allowing the data to increasingly “beat the seasonals” with swings that impact y/y calculations with seasonal effects…
+
+the declines thus far are small compared to the out-sized advances reported in the first three quarters of the year, and seem to be paralleling the powerful and widening seasonal swings that are typical for the industry. It is hardly clear that recent reported price drops are significant in the context of seasonal patterns. The jury will remain out for this sector until we enter the next big “price discovery” session for this sector—in Q2 of 2006.\

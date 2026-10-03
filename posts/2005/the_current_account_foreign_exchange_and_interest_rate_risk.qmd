@@ -1,0 +1,17 @@
+---
+title: "The Current Account, Foreign Exchange and Interest Rate Risk"
+date: "2005-06-18"
+categories: ["Economics"]
+---
+
+[Alan Wood](http://www.theaustralian.news.com.au/common/story_page/0,5744,15646739%255E31478,00.html "Alan Wood") highlights some widely underappreciated facts about Australia’s lack of exposure to foreign exchange and interest rate risk in relation to its foreign borrowings:
+
+In 2001 \[the RBA\] asked the Australian Bureau of Statistics to do a survey on the issue. It found that once the banks’ off balance sheet activities in derivatives were taken into account, their foreign exchange exposure was negligible - their borrowings were all effectively in Australian dollars.
+
+This is still the case, so a fall in the dollar won’t lead to a banking crisis. And it is not just the banking system. The ABS found that Australia as a whole was long on foreign currencies - assets exceeded liabilities.
+
+This means that Australia as a whole is not vulnerable to changes in currency valuations caused by even large falls in the exchange rate. A fall in the dollar would actually be a financial gain, not a loss. This is also still true.
+
+And then there is refunding risk. What if foreign investors become worried about our current account deficits and high debt levels? They will push down the exchange rate and push up interest rates, making it too expensive for banks to go on funding offshore.
+
+When they come back onshore to borrow it will push up interest rates, won’t it? Only marginally, according to the RBA. Banks borrow mainly at the short end of the yield curve, where it sets the rates, and it is not going to respond to a fall in the dollar by pushing up official rates.

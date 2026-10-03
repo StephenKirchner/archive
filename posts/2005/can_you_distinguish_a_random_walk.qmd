@@ -1,0 +1,11 @@
+---
+title: "Can You Distinguish a Random Walk?"
+date: "2005-12-13"
+categories: ["Economics"]
+---
+
+Test your ability to distinguish between a [real stock price and a random walk](http://pascalpensa.com/survey/index.php "real stock price and a random walk"), along with your forecasting ability.  Most financial time series satisfy statistical tests for a random walk, so the two data generating processes should be very similar.  The efficient markets hypothesis and technical analysts or chartists both make the assumption that price discounts everything, but techies claim the ability to make forecasts based on historical dependencies in market prices.  The test includes trading volume, which techies would claim is useful additional information.
+
+The students involved are also collecting some basic data on the people doing the test, so it should be interesting to see if any group manages to outperform.
+
+(via [Mahalanobis](http://mahalanobis.twoday.net/stories/1263085/ "Mahalanobis"))

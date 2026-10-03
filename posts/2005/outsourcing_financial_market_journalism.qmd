@@ -1,0 +1,15 @@
+---
+title: "Outsourcing Financial Market Journalism"
+date: "2005-04-11"
+categories: ["Economics"]
+---
+
+Reuters has notoriously been shifting financial market journalism jobs to Bangalore at the expense of other centres, which says a lot about the commodification of financial market reporting.  For example, its Australian economic consensus forecasts are now compiled by its Bangalore Polling Unit. 
+
+While I am all in favour of outsouring, basic knowledge of local conditions can sometimes be important, [as Bloomberg found last week](http://www.theaustralian.news.com.au/common/story_page/0,5744,12813899%255E643,00.html "as Bloomberg found last week"):
+
+Just one of the many things that could have gone wrong and did was the Bloomberg newswire flash at 8.30am last Wednesday stating that the RBA had held interest rates steady at 5.5 per cent.
+
+The bank was not due to announce its decision for another hour. Had Bloomberg got hold of a leak?
+
+As traders reached for their phones, it emerged that the Bloomberg update was managed from South Korea, where an operator had failed to take account of the end of daylight saving, and gone to the RBA website where the old rate was still posted.

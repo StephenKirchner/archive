@@ -1,0 +1,19 @@
+---
+title: "Hockey’s Hindsight Heroes"
+date: "2009-07-01"
+categories: ["Economics", "Fiscal Policy"]
+---
+
+Opposition Treasurer [Joe Hockey](http://www.theaustralian.news.com.au/story/0,25197,25716304-601,00.html "Joe Hockey") has problems staying on message:
+
+> Mr Hockey’s most controversial remarks were suggesting that the Rudd government would have been justified in cancelling this year’s tax cuts.
+>
+> “The honest answer is there would have been a legitimate justification for the government to say our debt, our recovery, our economic recovery will be slower if we are running a big deficit and I think it should’ve been considered as part of the mix.”
+>
+> Mr Hockey noted that it would have been hard for the Liberal Party to support the removal of the tax cuts. Earlier this year, Mr Hockey had argued for the government to bring forward tax cuts.
+
+There is, of course, a case for not proceeding with the tax cuts.  Because they are unfunded, the tax cuts are equivalent to a future tax increase and subject to the same Ricardian equivalence critique as discretionary government spending.  However, one suspects that this is not the case Hockey has in mind.  Instead, Hockey is an unreconstructed, Costello-style [revenue-hoarder](http://www.cis.org.au/policy/spring_06/PDF%27s/spring_06_kirchner.pdf "revenue-hoarder"):
+
+> *Mr Hockey said that, if he had his time again, he would have better explained the Future Fund, which Mr Costello regarded as one of his crowning achievements. “I would have set up the other funds earlier: the higher education funds for infrastructure and the health and hospitals fund,” he said.*
+
+Like Costello, Hockey does not seem to understand that these funds are simply deferred government spending.

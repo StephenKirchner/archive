@@ -1,0 +1,9 @@
+---
+title: "My Guest Apperance on the BIP Show"
+date: "2020-07-24"
+categories: ["Economics"]
+---
+
+My guest apperance on the [BIP Show](https://shows.acast.com/the-bip-show/episodes/stephen-kirchner-budget-central-banks-mmt-us-election) podcast. We talk the US economy, election, MMT and more.
+
+![](../../files/bip.jpg)

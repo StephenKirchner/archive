@@ -1,0 +1,15 @@
+---
+title: "China’s Monetary and Exchange Rate Policy"
+date: "2007-05-22"
+categories: ["Economics", "Financial Markets"]
+---
+
+Ahead of the US-China Strategic Economic Dialogue, [Matthew Slaughter](http://online.wsj.com/article/SB117980288989610442.html?mod=opinion_main_commentaries "Matthew Slaughter") explains why the preoccupation with China’s managed exchange rate regime is misplaced:
+
+> Economic theory and data are very clear here on two critical points. Controlling a nominal exchange rate is a form of sovereign monetary policy. And monetary policy, in turn, has no long-run effect on real economic outcomes such as output and trade flows.
+>
+> Like all other central banks, the People’s Bank of China uses its monopoly power over minting its money to control one nominal price. Since 1994 the PBOC has chosen to closely target the dollar-yuan price. In recent times, maintaining this target has required the PBOC to print yuan to buy dollars and thereby accumulate dollar-denominated assets on its balance sheet…
+>
+> In a counter-factual world where over the past decade China allowed the yuan to float against the dollar, the U.S. would still have run a large and growing trade deficit with China. The real economic forces of comparative advantage that drive trade flows operate regardless of which nominal prices central banks choose to fix.
+
+As this [paper from the Bank of Japan](http://www.boj.or.jp/en/type/ronbun/ron/wps/data/wp07e13.pdf "paper from the Bank of Japan") explains in detail, China’s money market operations are largely subordinate to the requirements of its managed exchange rate regime.

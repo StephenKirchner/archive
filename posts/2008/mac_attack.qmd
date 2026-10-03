@@ -1,0 +1,17 @@
+---
+title: "Mac Attack"
+date: "2008-09-07"
+categories: ["Economics", "Financial Markets"]
+---
+
+CIS has released my paper on [Government Intervention in Mortgage Finance: The Case Against ‘AussieMac.’](http://www.cis.org.au/issue_analysis/IA99/ia99.pdf "Government Intervention in Mortgage Finance: The Case Against ‘AussieMac.’")  Coincidentally, the US government is in the process of announcing a [rescue plan](http://online.wsj.com/article/SB122073255846107191.html?mod=hps_us_whats_news "rescue plan") for Freddie Mac and Fannie Mae, a timely reminder of the dangers associated with government-sponsored housing finance institutions.
+
+Joshua Gans has actually been using the problems with Freddie and Fannie as an argument in favour of AussieMac.  Following Robert Shiller, [he suggests](http://economics.com.au/?p=1736#more-1736 "he suggests") that:
+
+> *the privatised Fannie and Freddie cannot do the job of ensuring liquidity in home mortgage markets and a new government owned and operated entity is required. Thus, despite all that has happened in the US this past year, it looks like they might need an AussieMac too.*
+
+The issue is not whether Freddie and Fannie should be privately or publicly-owned.  Their implied government guarantee meant that Freddie and Fannie were always effectively part of the balance sheet of the US government.
+
+The problem with the two US GSEs has been that their formerly implicit, and now explicit, government guarantee blurred the lines between private and public risk-taking. Their enormous profits earned at the expense of consumers may have accrued to private shareholders, but it was always understood by those who invested in Freddie and Fannie’s debt and equity that taxpayers were backstopping the two GSEs.  This created incentives for excessive risk-taking, which is what ultimately brought them unstuck. 
+
+Joye and Gans have set up a [web site](http://aussiemac.org/AussieMac/Home.html "web site") devoted to debating their AussieMac proposal, where you can find their original and follow-up papers.

@@ -1,0 +1,15 @@
+---
+title: "The ALP, Interest Rates and Truth in Advertising"
+date: "2007-10-03"
+categories: ["Economics", "Financial Markets", "Politics"]
+---
+
+The Labor Party has [pulled](http://www.news.com.au/dailytelegraph/story/0,22049,22520547-5001021,00.html "pulled") the on-line advertisement we [highlighted](../2007/force_interest_rates_down.qmd "highlighted") late last week:
+
+> LABOR has had to withdraw an online advertisement which said a Kevin Rudd government would cut interest rates.
+>
+> The ad was a tougher version of ALP policy, which is to keep “downward pressure” on interest rates.
+>
+> A party spokesman said the ad was not properly authorised.
+>
+> Labor’s Google advertisement headed “Interest Rates in 2007” read: “Families today are carrying record debt. Labor will force rates down.”

@@ -1,0 +1,31 @@
+---
+title: "A Simple Test for the Effectiveness of Macro Policy Stimulus in Australia"
+date: "2009-06-02"
+categories: ["Economics", "Financial Markets", "Fiscal Policy", "Monetary Policy"]
+---
+
+A simple test for the effectiveness of macro policy stimulus in Australia is to model quarterly Australian GDP growth as a function of contemporaneous and lagged US GDP growth and a constant.  The model makes the reasonable assumption that causality runs from US growth to Australian growth, since Australia is too small to influence the US economy.  US stimulus measures could benefit Australian GDP based on this model, but Australian policy stimulus should not influence US GDP growth (even allowing for those stimulus cheques to ex-pats).  Domestic policy is historically correlated with US GDP growth, but presumably works in a counter-cyclical direction.  The estimated relationship implies that domestic policy can do only so much to offset the influence of US or world growth on domestic activity.
+
+The model’s static forecast for Australian March quarter GDP is -0.8% q/q, with a standard error of 0.6, so we would expect March quarter GDP growth to lie in the range of -0.2% q/q to -1.4% q/q.  The median forecast of market economists is -0.2% q/q, based on Friday’s Reuters poll\*, implying that the Australian economy is modestly outperforming what we might expect based solely on US growth.  Both domestic monetary and fiscal policy could thus be given some credit in offsetting the effect of the decline in world growth.  But even if we generously assume that discretionary fiscal policy measures account for most of this outperformance, it is a very small return on [what has been called](http://www.theaustralian.news.com.au/business/story/0,28124,25565725-36418,00.html "what has been called") ‘the greatest mobilisation of resources in Australia’s peacetime history.’  The lesson is that for a small open economy like Australia, there is only so much domestic policy can do when confronted with a global economic downturn.
+
+Model details over the fold.
+
+\* **Update:** Latest Reuters poll median is +0.2% q/q, following Tuesday’s release of net exports for the March quarter.
+
+Dependent Variable: DLOG(GDP)\*100\
+Method: Least Squares\
+Sample: 1984Q1 2008Q4 (ie, post-float of Australian dollar)\
+Included observations: 100\
+Newey-West HAC Standard Errors\
+\
+Constant 0.296035 (0.0697)\
+DLOG(USGDP)\*100 0.486006 (0.0001)\
+DLOG(USGDP(-1))\*100 0.243997 (0.0386)
+
+p-values in brackets.\
+\
+R-squared 0.245360  \
+Mean dependent var 0.832406\
+Adjusted R-squared 0.229800\
+S.D. dependent var 0.676470\
+S.E. of regression 0.593677

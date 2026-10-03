@@ -1,0 +1,11 @@
+---
+title: "Is Bernanke a Conservative?"
+date: "2006-01-20"
+categories: ["Economics"]
+---
+
+Forbes columnist [Hunter Lewis](http://www.forbes.com/2006/01/18/bernanke-fed-politics-cx_hl_0118bernanke.html "Hunter Lewis") poses the question ‘Is Ben Bernanke a Conservative?’  As Lewis himself indicates, this question is poorly defined, since not only is there no single conservative position on macroeconomics and monetary policy, there are in fact furious debates on these subjects within the conservative and libertarian tradition. 
+
+Having read much of Bernanke’s academic work, I would argue that Bernanke, like any good economist, is first and foremost an empiricist.  He takes the positions he does because the evidence points him in that direction.  Consequently, he is difficult to typecast.  For example, Bernanke is perhaps best known for his work on exogenous credit crunches as a source of economic downturns.  This work is somewhat at odds with the monetarist view that credit crunches are an induced or endogenous response to monetary contraction.  At the same time, Bernanke and other researchers at the Federal Reserve Board have recently presented empirical research that supports quantitative approaches to monetary policy transmission in the context of the zero bound problem for nominal interest rates.  This was the origin of the criticisms of Bernanke as ‘printing press Ben,’ yet these views would find few objections from those in the classical monetarist tradition, such as Milton Friedman and Allan Meltzer.  This eclectic approach explains why many of his academic colleagues had no inkling of his Republican leanings prior to his appointment as a White House economic advisor.
+
+Bernanke was appointed to run a fiat money regime, so criticising him for failing to uphold various hard money doctrines is beside the point.  Such criticism fails to distinguish between intra and inter-regime choice.  Much of this criticism naively assumes that the Fed is the source of every economic fluctuation and that the adoption of some pet hard money scheme would cause the business cycle to go away.  It is ironic that in recent years it has been central bankers like Greenspan and Bernanke who have upheld the view that markets and not monetary policy should determine growth rates in broad money, credit aggregates and asset prices.

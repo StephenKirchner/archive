@@ -1,0 +1,15 @@
+---
+title: "Another Shadow RBA Board"
+date: "2012-10-02"
+categories: ["Economics", "Financial Markets", "Monetary Policy"]
+---
+
+[Jessica Irvine](http://www.news.com.au/money/shadow-rba-gives-its-verdict-on-rates/story-e6frfmci-1226486022251) has rounded-up another Shadow RBA Board, including yours truly. Like the overlapping [ANU Shadow Board](http://cama.crawford.anu.edu.au/pro-pol/outcome-september2012/), the News Ltd version makes normative rather than positive predictions, ie, what the RBA ‘should’ do rather than what it ‘will’ do.
+
+This distinction probably isn’t very meaningful if the starting point for each month’s normative forecast is the existing cash rate. If the starting point re-sets every month, the Shadow rate track cannot deviate far enough or long enough from the actual rate to be economically significant. A Shadow Board needs to take its previous decisions as the starting point and develop an independent interest rate path. Even then, the difference between the Shadow and actual rate tracks may not amount to very much.
+
+The US Shadow Open Market Committee and the UK’s Shadow Monetary Policy Committee were established specifically to critique current policy from a monetarist perspective, as well as advocating reform of existing monetary institutions. This has not prevented significant differences of opinion on these bodies. For example, the Shadow MPC includes supporters and opponents of QE for the UK. As I have argued here previously, QE is an entirely orthodox monetarist policy prescription. It represents no more than a change in operating instrument and QE in itself does not indicate whether policy is easy or tight. Monetary conditions could still be too tight even in the presence of large scale outright bond purchases by the central bank if money demand is strong enough.
+
+We were also asked where we would like to see the official cash rate in 12 months time. My expectation is 100 bp lower than the current rate, but I do not think this will be a particularly easy monetary policy stance. There is a good case to be made that that the world equilibrium real interest rate and potential output have declined as a result of the bad public policy decisions taken globally during and after the financial crisis and now reflected in record low bond yields. How much of this is cyclical and how much becomes permanent depends on where public policy goes from here.
+
+Monetary policy will need to reflect this, but will not do much to address what are ultimately supply-side problems.

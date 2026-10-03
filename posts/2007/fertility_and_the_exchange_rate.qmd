@@ -1,0 +1,11 @@
+---
+title: "Fertility and the Exchange Rate"
+date: "2007-06-13"
+categories: ["Economics", "Financial Markets"]
+---
+
+Fertility has been a long-standing preoccupation of the authorities in Singapore, so it is perhaps not surprising that the Monetary Authority of Singapore should [examine the links between fertility and the exchange rate](http://www.mas.gov.sg/publications/staff_papers/MAS_Staff_Paper_No_46_Jun_2007.html "examine the links between fertility and the exchange rate"):
+
+> *We use a quinquennial data set covering 87 countries between 1975 and 2005 to investigate the relationship between fertility and the real effective exchange rate.  Theoretically a country experiencing a decline in its fertility rate can be expected to have higher savings, lower investment, a current account surplus, and accordingly a real depreciation.  We test and confirm this hypothesis, controlling for a host of potential determinants such as PPP deviations and the Balassa-Samuelson effect.  We find a statistically significant and robust link between fertility and the exchange rate.  Our point-estimate is that a decline in the fertility rate of one child per woman is associated with a depreciation of approximately .15% in the real effective exchange rate.*
+
+The number of births in Australia in the year-ended December 2006 was the highest in 35 years, while the real effective exchange rate in Q4 2006 was the highest since Q1 1985.

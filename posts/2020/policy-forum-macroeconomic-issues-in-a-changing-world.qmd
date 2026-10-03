@@ -1,0 +1,11 @@
+---
+title: "Policy Forum: Macroeconomic Issues in a Changing World"
+date: "2020-02-28"
+categories: ["Monetary Policy"]
+---
+
+The March 2020 issue of the Australian Economic Review is out, with a Policy Forum including my article on [The Effect of Changes in Monetary Policy on Consumer and Business Confidence](https://onlinelibrary.wiley.com/doi/10.1111/1467-8462.12365). Be sure to also read Bruce Preston’s article in the same issue on [The Case for Reform of the Reserve Bank of Australia Policy and Communication Strategy](https://onlinelibrary.wiley.com/doi/10.1111/1467-8462.12366). There is a [CAMA Working Paper](https://cama.crawford.anu.edu.au/sites/default/files/publication/cama_crawford_anu_edu_au/2020-01/3_2020_preston.pdf) version of Bruce’s article for those without access to the journal.
+
+I’m pleased my paper contributed to the RBA walking back the contention in the November Board minutes that rate cuts hurt confidence. The draft paper was circulated within the Bank by John Simon, which was fitting given that it was essentially an update of his 2001 RBA RDP on the determinants of sentiment. John’s 2001 results hold-up quite well. Bruce’s paper also discusses why the contention in the November Board minutes is incoherent from a strategy and comms perspective.
+
+The final capitulation came when Governor Lowe explicitly rejected the idea that rate cuts hurt confidence in [testimony](https://parlinfo.aph.gov.au/parlInfo/download/committees/commrep/cd2f4ebe-8e89-48fc-9d73-511ad37ff580/toc_pdf/Standing%20Committee%20on%20Economics_2020_02_07_7481.pdf) before the House Economics Committee, responding to some very effective questioning by Andrew Leigh.

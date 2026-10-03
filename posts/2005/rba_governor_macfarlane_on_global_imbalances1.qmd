@@ -1,0 +1,11 @@
+---
+title: "RBA Governor Macfarlane on Global Imbalances"
+date: "2005-09-28"
+categories: ["Economics"]
+---
+
+The 34th Conference of Economists in Melbourne was one of the better ones held in recent years.  It was great to meet some IE readers for the first time, as well as catching up with some old friends.  RBA Governor Macfarlane gave another [great speech on global imbalances](http://www.rba.gov.au/Speeches/2005/sp_gov_280905.html "great speech on global imbalances") at one of the satellite business symposia, which neatly debunks much of the popular commentary on this subject:
+
+My view is only that we should not start our analysis with the US current account, or look to its remediation as the key to unwinding the imbalances. For example, the most commonly heard prescription is for the United States to reduce its call on world savings by reducing its fiscal deficit. However, if my analysis is correct, a reduction in the US fiscal deficit by itself would be unlikely to have a major impact on international imbalances. In the absence of policy changes in Asia, the Asian countries would be likely to continue running surpluses, and so a fiscal contraction in the United States would only add a contractionary influence to a global economy already characterised by surplus saving and unusually low interest rates.
+
+Another view that has recently been put is that it was excessively loose monetary policy rather than saving/investment imbalances that was at the heart of the problem. This view is generally bolstered by some reference to excessive liquidity, although the concept is left undefined. I do not find this argument at all convincing. There is no doubt that world interest rates have been exceptionally low, but does that of itself mean that monetary policy has been exceptionally loose? To maintain this view, you would have to believe, for example, that monetary policy in Japan and Europe , where there has been weak demand growth and negligible inflation for a number of years, should have been tightened, i.e. European and Japanese interest rates should have been raised. This would make no sense. The low level of interest rates in most developed countries is not the first cause of the global imbalances, it is the result of them.\

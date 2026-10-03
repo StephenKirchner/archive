@@ -1,0 +1,7 @@
+---
+title: "The Market Believes the RBA is Targeting House Prices"
+date: "2010-05-03"
+categories: ["Economics", "Financial Markets", "House Prices", "Monetary Policy"]
+---
+
+The weighted average of capital city established [house prices](http://www.abs.gov.au/AUSSTATS/abs@.nsf/ProductsbyReleaseDate/A50B6B8CF85F0474CA25722900179E3F?OpenDocument "house prices") rose a Steve Keen-busting 4.8% q/q and 20% y/y for the March quarter, with gains in Sydney and Melbourne in excess of 20% y/y. This saw three-year bond futures savaged by around 7 basis points and the implied probability of a 25 basis points tightening from the RBA tomorrow surge from around 50% to around 65% on [iPredict](https://www.ipredict.co.nz/app.php?do=contract_detail&contract=RBA.25.4MAY10 "iPredict"). The ugly 3.4% annualised result for the trimmed mean of the TD-MI inflation gauge released an hour earlier should be more important for the RBA’s deliberations, but it is house prices that are grabbing the market’s attention.

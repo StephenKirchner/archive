@@ -1,0 +1,13 @@
+---
+title: "The US Consumer: Not Dead Yet"
+date: "2006-10-09"
+categories: ["Economics", "Financial Markets"]
+---
+
+[Jim Cramer](http://online.wsj.com/article/SB116034765732786264.html?mod=opinion_main_commentaries "Jim Cramer") notes that reports of the death of the US consumer are greatly (and frequently) exaggerated:
+
+> As a former obituary writer, I know that you must call the funeral parlor to make sure a person’s dead before you pronounce him so in the newspaper. So would it be too much to ask if economists, analysts and hedge-fund managers did the same before pronouncing the American consumer dead? In 25 years of trading stocks, I’ve read the consumer’s obituary more times than I care to imagine; each time the facts have proven the obit premature. For the last year, though, the negative-pundit nexus has unleashed a fusillade of consumer death notices…
+>
+> It’s time for these permanently pessimistic pundits to accept the market’s judgment. If I’d ever written a premature obituary, I’d have been fired before the delivery boy could toss the papers from his bike. But these saturnine soothsayers just get to repronounce a new slaying on the next piece of data that hits the wires. Perhaps, at last, after these sparkling reports right on the heels of a year’s worth of death notices, we should at last recognize who’s worth listening to—and, especially, who’s worth ignoring.
+
+Speaking of permanently pessimistic pundits, only [Nouriel Roubini](http://www.rgemonitor.com/blog/roubini "Nouriel Roubini") could attempt to put a bearish spin on the [September non-farm payrolls release](http://www.bls.gov/news.release/pdf/empsit.pdf "September non-farm payrolls release"), which was better than expected in level terms and foreshadowed a massive 810k upward benchmark revision to the level of employment.

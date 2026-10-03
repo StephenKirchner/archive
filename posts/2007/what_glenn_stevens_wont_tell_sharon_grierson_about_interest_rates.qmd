@@ -1,0 +1,15 @@
+---
+title: "What Glenn Stevens Won’t Tell Sharon Grierson About Interest Rates"
+date: "2007-02-28"
+categories: ["Economics", "Financial Markets"]
+---
+
+In [comments on an earlier post](../2007/i_am_not_proposing_that_money_be_free_but.qmd "comments on an earlier post"), the Labor Party’s Sharon Grierson says that:
+
+> *Our very capable Governor seized on \[my\] “slip of the memory” but was slightly defensive, even evasive, about the comparative level of our interest rates. Interestingly, so was the PM when the same question was asked of him today in Question Time by Kevin Rudd. The question though remains one that many Australians from all economic interests seek an answer to, and no doubt is one that Australian PMs and Treasurers also reflect upon when considering the movement of inflation rates and the impact of higher interest rates on the wider electorate.*
+
+There are several reasons why interest rates in Australia might be higher than in other countries. One reason is that Australia’s rate of potential economic growth is higher than that of other countries with lower interest rates and so our equilibrium real (or ‘neutral’) interest rate is higher.  It is no coincidence that the Australian and NZ economies generally outperform those with lower interest rates.  The real interest rate is ultimately determined by real factors like the rate of return on capital and we want this to be higher, not lower.
+
+Another reason why Australian nominal interest rates might be higher is they incorporate a higher inflation or other risk premia.  To the extent that inflation in Australia is on average higher than in other countries, nominal interest rates should also be higher.  One could lower this inflation premium by adopting a tougher inflation target.  Paradoxically, however, this might require a period of even higher interest rates and reduced economic growth while the RBA established credibility for the new, lower target range.  This would be a much tougher inflation target than the one currently favoured by the RBA and both major political parties.
+
+Most of the short-term movement in official interest rates is due to cyclical rather than structural factors such as those referenced above.  As we have noted [previously](../2006/who_do_you_trust_to_keep_the_unemployment_rate_low.qmd "previously"), you are not going to get ‘low’ interest rates in an environment in which the unemployment rate is making 32-year lows.  The government’s politicisation of interest rates at the last federal election ultimately back-fired, because it put the government on the defensive in relation to interest rates, while diverting attention from the good economic news associated with rising interest rates.

@@ -1,0 +1,21 @@
+---
+title: "A Sovereign Wealth Fund is Not the Same as Fiscal Responsibility"
+date: "2012-03-08"
+categories: ["Economics", "Financial Markets", "Fiscal Policy"]
+---
+
+Treasury Secretary Martin Parkinson addressed the issue of a sovereign wealth fund in a [speech](http://www.treasury.gov.au/contentitem.asp?NavId=008&ContentID=2340) to the Australia-Israel Chamber of Commerce. Parkinson said that ‘Treasury is often characterised as being opposed to an SWF – yet our comments are neither supportive nor critical.’ In fact, Treasury and the RBA are just as often characterised as supportive of a SWF when they have been studiously equivocal. Whether Australia chooses to make greater use of a SWF is ultimately a decision for politicians. It is appropriate for Treasury and the RBA to discuss the implications of this policy choice, but we should not expect them to come down explicitly in favour of one side of the argument.
+
+Parkinson’s speech makes clear that greater use of a SWF is not the same thing as more responsible fiscal policy:
+
+> the creation of an SWF per se does nothing to address either Australia’s net debt position or, more broadly, the level of government or national savings over time.
+>
+> If the Australian Government had financial liabilities of \$10 billion and runs a \$1 billion surplus, it can reduce gross liabilities to \$9 billion, or it can maintain them at \$10 billion and buy \$1 billion of financial assets to be held in an SWF – in both cases, net financial liabilities are \$9 billion.
+>
+> The only way the creation of a Sovereign Wealth Fund delivers a faster improvement in net debt is if it is used to justify a tightening of fiscal policy that would not otherwise be achieved.
+>
+> As such, if we are to have a sensible discussion about the merits of an SWF, the proponents of such Funds, whether at the national or sub-national level, need to be clearer about precisely what they have in mind. Absent tough fiscal decisions, an SWF does not constitute a contribution to future fiscal sustainability.
+
+Robert Carling and I make this point in our CIS Policy Monograph, [Future Funds or Future Eaters?](http://www.cis.org.au/publications/policy-monographs/article/3969-future-funds-or-future-eaters-the-case-against-a-sovereign-wealth-fund-for-australia)  If contributions to a SWF, like the budget surplus itself, are no more than a residual after the government is done spending and taxing, then there is no reason to believe that a SWF changes government behaviour. A SWF, like a budget surplus, is a consequence not a cause of fiscal policy decisions. The IMF found there was little impact on government spending in its study of countries making use of SWFs.
+
+Unless a SWF is embedded in a broader framework of binding and enforceable fiscal policy rules, there is no reason to believe a SWF will induce greater fiscal responsibility. If a politician supports a SWF but does not support fiscal policy rules, you know they cannot be trusted with a SWF.

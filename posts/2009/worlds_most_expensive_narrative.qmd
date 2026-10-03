@@ -1,0 +1,11 @@
+---
+title: "World’s Most Expensive Narrative"
+date: "2009-06-03"
+categories: ["Economics", "Financial Markets"]
+---
+
+[Vince Reinhart](http://www.american.com/archive/2009/june/the-high-cost-of-getting-the-story-wrong/article_print "Vince Reinhart"), on the high cost of bad narratives:
+
+> The most expensive stage of a financial crisis is not the initiating economic loss—in our case, an unsustainable boom in residential construction that left too many houses and a mountain of debt. Nor are the largest losses racked up as investors withdraw from risk, markets freeze, and balance sheets implode. Policy missteps, including the continuing confusion of solvency problems for liquidity ones, no doubt add to the tab. These costs, while they may be big, pale to insignificance compared to what follows.
+>
+> The most expensive stage of a financial crisis occurs when society tries to explain to itself what just happened. The resulting narrative is not the product of one person or institution. Rather, it gets written in the tell-all “tick-tocks” of major newspapers, the inside accounts in bestsellers, the speeches of leading officials, and the punch lines of late-night comedians. The narrative determines our attitudes toward the actors and events of the crisis. It also identifies the structural problems thought suitable for legislative and regulatory remedy.

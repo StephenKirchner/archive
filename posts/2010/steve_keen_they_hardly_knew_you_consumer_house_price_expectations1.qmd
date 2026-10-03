@@ -1,0 +1,7 @@
+---
+title: "Steve Keen They Hardly Knew You: Consumer House Price Expectations"
+date: "2010-01-23"
+categories: ["Economics", "House Prices"]
+---
+
+The January [Westpac-Melbourne Institute Consumer Sentiment survey](http://www.westpac.com.au/docs/pdf/aw/economics-research/er20100122BullConsumerHousePriceExpectations.pdf "Westpac-Melbourne Institute Consumer Sentiment survey") finds that 84% expect house prices to increase over the next 12 months, with 21% expecting gains of over 10%.

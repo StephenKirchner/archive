@@ -1,0 +1,43 @@
+---
+title: "De-Risking the RBA"
+date: "2014-01-13"
+categories: ["Economics", "Financial Markets", "Monetary Policy"]
+---
+
+I had an op-ed in the [AFR](http://www.afr.com/p/opinion/playing_the_currencies_game_is_fraught_nC50fQJVWncPkENQ8ikM8I) over the break on the federal government’s injection of funds into the RBA’s Reserve Fund. The article notes that the public policy issue is not the subtraction from the budget bottom line from the injection, but whether the benefits of holding foreign exchange reserves are worth the risk of potential valuation losses and forgone income on higher yielding domestic assets. Foreign exchange reserves are not necessary for the effective conduct of monetary and exchange rate policy in Australia. An alternative policy approach is to hold smaller reserves. Full text below the fold (may differ slightly from published AFR text).
+
+Hockey Loads the RBA’s Guns
+
+When Treasurer Joe Hockey announced an \$8.8 billion injection of funds into the Reserve Bank’s Reserve Fund, he said that the RBA needed ‘all the ammunition in the guns for what’s before us.’ The purpose of the Reserve Fund is to cover potential valuation losses on the RBA’s \$46 billion in foreign exchange reserves. Yet Hockey’s language could also be interpreted as priming the Reserve Bank for possible future intervention in foreign exchange markets to influence the value of the Australian dollar.
+
+The government’s Mid-Year Economic and Fiscal Outlook stated that the injection ‘will enhance the Reserve Bank’s capacity to conduct its monetary policy and foreign exchange operations.’
+
+The public policy issue is not the subtraction from the budget bottom line. The Reserve Bank is part of the public sector and pays dividends to the government based on its underlying earnings and realised gains or losses on its portfolio of assets, less its expenses.
+
+The Reserve Bank’s conduct of monetary policy and portfolio management have implications for the size of the RBA dividend from one year to the next, but these are very much secondary to the objectives of monetary policy and the Reserve Bank’s other functions.
+
+The issue for public policy is the extent to which the risks associated with holding foreign exchange reserves are necessary for the effective conduct of monetary and exchange rate policy.
+
+An alternative policy approach to dealing with potential valuation losses arising from swings in the value of foreign exchange reserves is to de-risk the RBA’s balance sheet by holding smaller reserves.
+
+A central bank’s solvency is not generally an issue, not least because its balance sheet is denominated in its own (ultimately irredeemable) monetary liabilities and taxpayers stand behind any losses.
+
+The balance sheet is not a constraint on its ability to conduct monetary policy. Indeed, central bank balance sheet expansion has been a vital tool underpinning the ability of monetary policy in other countries to respond to the deflationary shock emanating from the global financial crisis.
+
+While excessive balance sheet expansion could be inflationary, the bigger problem in the context of the global financial crisis has been the reluctance of foreign central banks to make even greater use of the quantitative policy instruments available to them.
+
+Although a severe global deflation was averted, inflation in the advanced economies generally remains very low in the wake of the crisis. This implies that monetary policy has not been especially expansionary, either in Australia or abroad, despite frequent commentary to the contrary.
+
+The RBA’s foreign exchange reserves are a constraint on its ability to hold the exchange rate above its market-clearing value, but this is not a problem for a country with a floating exchange rate. While the RBA occasionally intervenes to support the Australian dollar, it would not do so in the expectation of being able to hold the exchange rate significantly above it market-clearing level for any length of time. This would be an open invitation for a speculative attack on the RBA’s finite foreign exchange reserves. The most the RBA could hope for is to temporarily introduce two-way risk into the market when it might otherwise be absent.
+
+By contrast, there is no in-principle limit on the ability of a central bank to weaken the exchange rate, although it needs to be mindful of the inflationary implications. Foreign exchange reserves are not necessary to weaken the exchange rate, although the accumulation of these reserves may be a by-product of such a policy.
+
+The question for taxpayers is whether the capacity to intervene in foreign exchange markets is worth the risks associated with taking on significant exposures to foreign currency assets. Apart from potential valuation losses on these assets, the Reserve Bank forgoes the higher rate of return generally available on Australian dollar-denominated assets. Foreign exchange reserves are effectively a loan to foreign governments.
+
+Reserve Bank Governor Glenn Stevens has recently argued that the costs of intervention to weaken the Australia dollar are greater than the potential benefits. By all accounts, the effects of intervention are modest and not very persistent because foreign exchange reserves are small relative to the depth and liquidity of foreign exchange markets.
+
+By contrast, the Reserve Bank’s official cash rate remains a relatively powerful instrument that works in part by changing the appeal of Australian dollar-denominated assets to foreign investors. While not the only factor influencing the exchange rate, the intense focus on monetary policy decisions by foreign exchange traders shows that it is an important one.
+
+Before Treasurer Hockey next considers loading the RBA’s guns, he might also consider whether there are cheaper and less risky weapons at the Bank’s disposal for managing monetary and exchange rate policy.
+
+Dr Stephen Kirchner is a Research Fellow at the Centre for Independent Studies.

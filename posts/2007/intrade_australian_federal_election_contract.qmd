@@ -1,0 +1,7 @@
+---
+title: "Intrade Australian Federal Election Contract"
+date: "2007-03-15"
+categories: ["Financial Markets", "Politics"]
+---
+
+[Intrade](http://www.intrade.com/apply.jsp?heardFromPromotionDetail=s0545138709r "Intrade") is offering a contract on the outcome of the Australian federal election due later this year.  Only one contract done so far, with Labor bid at 55.  This should make an interesting complement to the local bookmakers, assuming Intrade can attract enough liquidity to the contract.

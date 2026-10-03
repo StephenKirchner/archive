@@ -1,0 +1,11 @@
+---
+title: "‘Why I’m Not an Austrian Economist’"
+date: "2005-10-03"
+categories: ["Economics"]
+---
+
+I sometimes get [labelled](http://www.nbr.co.nz/home/column_article.asp?id=12257&cid=14&cname=Editor's%20insight "labelled") an Austrian School economist, but regular readers will be aware that I’m also very critical of ham-fisted attempts at applying Austrian theories of the business cycle to current economic and financial conditions, not least because they ignore important facts about central bank operating procedures.  Surprisingly, a lot of economic commentary is explicitly organised around a very similar interpretation of the business cycle as being driven by some vaguely defined notion of liquidity that is assumed to be an entirely exogenous function of monetary policy decisions, rather than an endogenous and largely market-driven response to economic conditions.
+
+The main contribution of Austrian economics is in understanding the role and functioning of markets, something that mainstream economics and finance has lost sight of.  Important as these insights are, they only get you so far.  Jack Strocchi has pointed me in the direction of [Bryan Caplan’s](http://www.gmu.edu/departments/economics/bcaplan/whyaust.htm "Bryan Caplan’s") ‘Why I’m Not an Austrian Economist,’ which neatly summarises some of my reservations about Austrian economics in practice[.](http://www.hathayoga.com.au/ ".")  Caplan hits the nail on the head when he notes:
+
+*Yet all too large a fraction of Austrian research has not been in economics at all, but rather in meta-economics: philosophy, methodology, and history of thought…Neoclassical economists go too far by purging meta-economics almost entirely, but there is certainly a reason to be suspicious of scholars who talk about economics without ever doing it.*

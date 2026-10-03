@@ -1,0 +1,25 @@
+---
+title: "Market Power is Bad, Except When it’s Our Market Power:  Harry Clarke versus the ACCC"
+date: "2009-02-19"
+categories: ["Economics", "Foreign Investment"]
+---
+
+[Harry Clarke](http://kalimna.blogspot.com/2009/02/costello-is-right-on-rio.html "Harry Clarke") offers a ‘market power’-based defense of restrictions on Chinese ownership of equity capital in the Australian mining industry.  Harry prefers a Rio-BHP merger over selling assets to Chinalco, saying that ‘BHP-Billiton would have enjoyed unparalleled and enhanced monopoly power were it to consumate \[sic\] a marriage with Rio.’  However, this was not the conclusion the [ACCC](http://www.accc.gov.au/content/index.phtml/itemId/844627 "ACCC") reached when it approved the proposed merger between BHP and Rio:
+
+> “The merged firm would be a significant global supplier of a range of commodities, including iron ore, coal, bauxite, alumina, copper and uranium. In particular, the proposed acquisition would combine two of the three major global suppliers of iron ore,” Mr Samuel said. “While significant concerns were raised by interested parties in Australia and overseas, the ACCC found that the proposed acquisition would not be likely to substantially lessen competition in any relevant market.”…
+>
+> “The proposed acquisition would combine two of the three major global seaborne suppliers of iron ore lump and iron ore fines. While barriers to market entry are high, involving significant sunk costs, market inquiries indicated there has recently been significant new entry and expansion in response to high demand for iron ore,” Mr Samuel said. “This increase in supply, which has included new large scale Australian operations with associated infrastructure, has frequently been supported by commitments or investments by steel makers.
+>
+> “The ACCC considered whether the availability of alternative suppliers and the ability of steel makers to facilitate capacity expansions would be likely to undermine any incentive the merged firm may have to seek to influence the global supply and demand balance of iron ore in the future.
+>
+> “The ACCC’s inquiries indicated that the merged firm would be unlikely to limit its supply of iron ore given the uncertainty it would face in relation to the profitability of this strategy and the risk that limiting supply would encourage expansions by existing and new suppliers as well sponsorship of alternative suppliers by steel makers.
+>
+> “In relation to the supply of iron ore in Australia, market inquiries indicated that steel makers in Australia are unlikely to face higher iron ore lump and iron ore fines prices, based on a move from export parity pricing to import parity pricing. The ACCC found that alternative suppliers are likely to be available to Australian steel makers, including alternative suppliers with established rail and port infrastructure in Australia.”
+
+Based on the ACCC’s analysis, Chinese interest in Australian commodity assets can be viewed as pro- rather than anti-competitive, not just in terms of the market for ownership and control of equity capital, which is important in itself, but also in terms of the relevant commodity markets.
+
+But Harry argues this is a bad thing, because it undermines whatever market power Australian producers might have.  The logic of Harry’s argument is that Australia should use foreign investment controls to further the cartelisation of commodity markets to extract higher rents from Australian commodity output.  OPEC tried to do the same in the oil market, but only succeeded in demonstrating how difficult it is to effectively corner commodity markets.
+
+Harry’s concern is with who captures whatever rents are associated with Australian mining output.  Chinese interests might sell Australian mining output to related entities at below market prices, but this would simply be a transfer of profits between these entities.  Australia might capture these rents more fully by nationalising domestic commodity production, a strategy followed by oil producing socialist states like Venezuela.  I’m pretty sure this is not what Harry wants, but that is where the logic of his position leads.  The globalisation of investment necessarily entails the globalisation of profits.  Using foreign investment controls for the purposes of cartelisation and rent extraction is beggar-thy-neighbour protectionism.
+
+Harry is [not alone](http://www.theaustralian.news.com.au/story/0,25197,25074800-5013894,00.html "not alone") in thinking that the sale of assets to Chinalco is a bad deal for Rio shareholders.  But it is not the role of government to protect businesses from making bad decisions.

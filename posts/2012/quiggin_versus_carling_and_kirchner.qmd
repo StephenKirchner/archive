@@ -1,0 +1,11 @@
+---
+title: "Quiggin versus Carling and Kirchner"
+date: "2012-02-10"
+categories: ["Economics", "Fiscal Policy"]
+---
+
+[John Quiggin](http://johnquiggin.com/2012/02/09/the-zombie-economics-of-austerity-in-australia/) accuses [Robert Carling and I](http://cis.org.au/media-information/opinion-pieces/article/3931-give-austerity-a-chance) of ‘an appalling breach of elementary standards of research’ for not acknowledging that Alberto Alesina’s work on the effectiveness of fiscal stimulus and consolidations is ‘highly controversial.’ In fact, we referenced Alesina’s work precisely because it has featured so prominently in public debate, including in the pages of The Economist magazine. We also referenced Alesina for the comprehensiveness of his research. His papers include balanced summaries of the relevant literature. Alesina has [responded](http://www.economics.harvard.edu/faculty/alesina/Alesina) to the criticisms of his work.
+
+Even the most casual reader could not be unaware that this is a controversial topic, not least among academic economists. The op-ed was entirely premised on the existence of this controversy. We could have cited other literature on this question on both sides of the debate, but an op-ed is not the place for a literature review ([Sinclair Davidson](http://catallaxyfiles.com/2012/02/09/fact-checking/) addresses the issue of peer review here). Alesina’s work and the debate around it is simply the most accessible, as John demonstrates.
+
+It should be no surprise that there is conflicting evidence and debate on this question, something Alesina and we are happy to acknowledge even if we come down on one side of the debate. In the absence of some definitive natural experiment or methodological breakthrough, this is a controversy that will be with us for some time yet, despite John’s determination to see this and so many other controversies dead and buried in his favour.

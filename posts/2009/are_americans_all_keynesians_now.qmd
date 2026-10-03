@@ -1,0 +1,9 @@
+---
+title: "Are Americans All Keynesians Now?"
+date: "2009-06-25"
+categories: ["Economics", "Fiscal Policy"]
+---
+
+While policymakers around the world may be sold on the effectiveness of discretionary fiscal stimulus, the public remain more skeptical.  The disconnect between official and public sentiment is important, because confidence is meant to be one of the channels through which stimulus spending works to support economic activity.  We have [previously pointed](../2009/government_policy_the_business_cycle_consumer_confidence.qmd "previously pointed") to US survey data on consumers’ evaluation of macroeconomic policy, which calls into question the effectiveness of fiscal stimulus efforts. 
+
+A [WaPo-ABC News poll](http://www.washingtonpost.com/wp-srv/politics/polls/postpoll_062209.html "WaPo-ABC News poll") directly asks whether economic stimulus has or will help the economy.  A net 52% see stimulus as helpful to the economy, while 46% view stimulus as not helping, either currently or prospectively.  At the same time, 87% of respondents were ‘very’ or ‘somewhat concerned’ about the federal budget deficit.  A majority (54%) also favour ‘smaller government, fewer services’ to ‘larger government, more services.’  The majority view expressed in these polls is consistent with a Ricardian interpretation of the effectiveness of fiscal policy.  The poll also sheds light on why President Obama remains popular.  Most respondents still see Obama as ‘a new-style Democrat who will be careful with the public’s money’ rather than ‘an old-style, tax-and-spend Democrat.’

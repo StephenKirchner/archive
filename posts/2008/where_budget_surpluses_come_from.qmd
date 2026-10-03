@@ -1,0 +1,13 @@
+---
+title: "Where Budget Surpluses Come From"
+date: "2008-05-20"
+categories: ["Economics", "Financial Markets"]
+---
+
+Treasury Secretary [Ken Henry](http://www.treasury.gov.au/documents/1378/HTML/docshell.asp?URL=ABE%202008.htm "Ken Henry"), in his traditional post-Budget address to ABE, points to the correct interpretation of the role of the budget in demand management:
+
+> activist counter-cyclical fiscal policy might be frustrated by lags of recognition, implementation and transmission. And its effectiveness might be compromised by Ricardian equivalence, the permanent income hypothesis or import leakages. I noted that these lags and questions of effectiveness pose real challenges for the use of counter-cyclical fiscal policy. But I also noted that they do not rule out such use.
+>
+> And, obviously, they do not rule out allowing the so-called automatic stabilisers to work. That’s probably how the fiscal stance contained in this budget should be interpreted. With respect to the current year, 2007-08, the Pre-Election Economic and Fiscal Outlook (PEFO) published in the November 2007 election period estimated an underlying cash surplus of 1.3 per cent of GDP. Last week’s budget reveals parameter and other variations since PEFO that would have added \$5.2 billion, or about 0.5 per cent of GDP, to the underlying cash balance. Of this, more than 0.3 per cent of GDP is additional tax revenue. Most of that upward revision to tax revenue has been ‘saved’, to achieve a 2007-08 surplus estimated now to be 1.5 per cent of GDP. For the budget year, 2008-09, the government has targeted an underlying cash balance excluding tax revenue revisions of the same proportion of GDP – that is, 1.5 per cent. Adding the revisions to tax revenue since PEFO, the estimated surplus for 2008-09 is 1.8 per cent of GDP.
+
+See the end of Henry’s remarks for a swipe at opposition Senators.

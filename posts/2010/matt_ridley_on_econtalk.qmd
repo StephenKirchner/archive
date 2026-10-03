@@ -1,0 +1,11 @@
+---
+title: "Matt Ridley on Econtalk"
+date: "2010-10-19"
+categories: ["Economics"]
+---
+
+[Russ Roberts interviews Matt Ridley](http://www.econtalk.org/archives/2010/10/ridley_on_trade.html "Russ Roberts interviews Matt Ridley") about his book *The Rational Optimist*. Last time I looked, the book was still available for free on Amazon’s (US) Kindle. Here is Ridley on what might be called ‘peak wheat’:
+
+> In 1898, the centenary of Malthus’s pessimistic prognostication, the eminent British chemist Sir William Crookes gave a similar jeremiad in his presidential address to the British Association entitled ‘The Wheat Problem’. He argued that, given the growing population and the lack of suitable new acres to plough in the Americas, ‘all civilisations stand in deadly peril of not having enough to eat,’ and unless nitrogen could be chemically ‘fixed’ from the air by some scientific process, ‘the great Caucasian race will cease to be foremost in the world, and will be squeezed out of existence by races to whom wheaten bread is not the staff of life.’ Within fifteen years his challenge had been met. Fritz Haber and Carl Bosch invented a way of making large quantities of inorganic nitrogen fertiliser from steam, methane and air…
+>
+> So thanks to tractors, fertilisers and new varieties, by 1931, the year in which Crookes had chosen to place his potential future famine, the supply of wheat had so far exceeded the demand that the price of wheat had plummeted and wheat land was being turned over to pasture all over Europe.

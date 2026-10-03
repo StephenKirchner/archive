@@ -1,0 +1,17 @@
+---
+title: "Crowding-Out Gets Crowded-Out"
+date: "2009-05-22"
+categories: ["Economics", "Financial Markets", "Fiscal Policy"]
+---
+
+I have an op-ed in today’s [Age](http://business.theage.com.au/business/the-madding-crowding-out-20090521-bh5z.html?page=-1 "Age"), noting that it is the crowding-out effect and not the short-run multipliers that will determine the long-run economic effects of the government’s discretionary fiscal policy actions:
+
+> In the 366 pages of Budget Paper No. 1, where the Government outlines its fiscal strategy, crowding out isn’t mentioned once.
+>
+> It wasn’t always this way. The budget papers released in the second half of the 1990s were full of references to the contribution federal budget surpluses were making to national saving and investment. One of the advantages of budget surpluses, Treasury informed us, was that the government would no longer make a net call on capital markets. Instead of crowding out private capital and investment spending, budget surpluses would crowd them back in.
+>
+> All this was said when the economy was still well short of full employment.
+>
+> Treasury Secretary Ken Henry’s “secret” speech to Treasury officers in March 2007 drew heavily on the idea of crowding out to explain why government intervention in an economy at full employment was counter-productive, resulting in a misallocation of resources and reduced output. Only by augmenting the supply side of the economy, he noted, could Australia increase national income.
+>
+> When the public sector saves less, all else being equal, national saving is also reduced, reducing future growth in national income. This crowding-out effect can occur even if there is no change in interest rates and the economy is below its full employment level of output.

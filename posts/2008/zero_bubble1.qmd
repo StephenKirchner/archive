@@ -1,0 +1,13 @@
+---
+title: "Zero ‘Bubble’"
+date: "2008-02-14"
+categories: ["Economics", "Financial Markets"]
+---
+
+Some refreshing ‘bubble’ skepticism from [Alex Tabarrok](http://www.marginalrevolution.com/marginalrevolution/2008/02/was-there-a-hou.html "Alex Tabarrok"):
+
+> So if the massive run-up in house prices since 1997 was a bubble and if the bubble has now been popped we should see a massive drop in prices.
+>
+> But what has actually happened?  House prices have certainly stopped increasing and they have dropped but they have not dropped to anywhere near the historic average (see chart in the extension).
+>
+> In the shift to the new equilibrium there was some mild overshooting, especially due to the subprime over expansion, but fundamentally there was no housing bubble.

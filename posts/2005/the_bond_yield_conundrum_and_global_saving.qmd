@@ -1,0 +1,23 @@
+---
+title: "The Bond Yield ‘Conundrum’ and Global Saving"
+date: "2005-04-25"
+categories: ["Economics"]
+---
+
+[John Quiggin](http://johnquiggin.com/ "John Quiggin") sent the following comment, which is relevant to several of my previous posts on this topic:
+
+A general comment on why so few economists trust the market on bubbles. It’s obvious that low interest rates are crucial, and that your whole argument makes sense if and only if sustained low interest rates are a market-driven response to changes in the real economy.
+
+But in an environment with near-zero savings in the English-speaking countries, and large unfunded state obligations in the rest of the developed world, interest rates should be high, not low.
+
+The proximate cause of low interest rates is the willingness of Asian countries to run large current account surpluses (that is, capital account deficits), but there is no convincing micro story as to why people in poor countries should want to save massive amounts to lend to fund consumption in rich countries.
+
+The leading optimist on all this is Bernanke, but he sees the surpluses as the product of macro policy, governments building up reserves in reaction to the crises of the 1990s. This source of surpluses presumably won’t be sustained, since the countries concerned are incurring huge unrealised losses on their US dollar holdings. So the ‘global savings glut’ is a temporary one, and is being squandered by borrower nations in high levels of consumption.
+
+I do not buy the argument that the interest rates currently observed in the US are due to purchases of US Treasuries by Asian central banks, for the simple reason that the flow of such purchases is small relative to the total market turnover in these instruments.  Foreign exchange market interventions by central banks are usually ineffective except in the very short-term for the same reason: they are simply swamped by the multi-trillion dollar turnover we see daily in these markets.  Needless to say, I don’t think the US dollar depends much on these purchases either.
+
+I agree with John that it is perverse that we should see developing countries saving to fund investment in rich countries, but this is due to forced saving via managed exchange rate regimes.  It is indeed ridiculous that China is issuing domestic debt to fund purchases of US debt instruments, as Deepak Lal has noted, but symptomatic of its mercantilist development strategy.  I agree that this will not be sustained because fixed exchange rate regimes always come unstuck, but I see this as being more of an issue for China than for the US or Australia.  The subsidy to US and Australian consumption from China’s fixed exchange rate regime is too small relative to the overall contribution that the emergence of China is making to the expansion of our consumption possibilities.
+
+I agree that low bond yields in the face of massive unfunded contingent liabilities associated with unsustainable welfare-statism is something of a puzzle, but this is not new.  There is not a strong cross-country empirical relationship between government budget deficits and interest rates, as many were keen to point out during the last Australian federal election campaign.  Japan has the most serious fiscal problems of the developed countries and yet also the lowest bond yields.  My view is that Japan’s low bond yields reflect the overcapitalisation of its economy due to excess saving in previous years, a legacy of its own mercantilist development strategy which has landed it with excess industrial capacity.  China risks the same fate. 
+
+Asset prices do not follow neat linear relationships with a few simple fundamentals.  If they did, we would not need markets to tell us what prices these assets should trade at.  When market pricing disagrees with our view of fundamentals, it is tempting to assume a ‘bubble,’ but then one must come up with a persuasive case for market failure.  I am willing to concede that there are some relevant market distortions in this case, but they do not constitute a ‘bubble.’  They are instead an alternative fundamental story that needs to be taken seriously.

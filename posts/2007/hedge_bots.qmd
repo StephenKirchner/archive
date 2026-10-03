@@ -1,0 +1,11 @@
+---
+title: "Hedge-bots"
+date: "2007-07-03"
+categories: ["Economics", "Financial Markets"]
+---
+
+[John Cassidy](http://www.newyorker.com/reporting/2007/07/02/070702fa_fact_cassidy?currentPage=1 "John Cassidy") of The New Yorker profiles Harry Kat, who maintains:
+
+> *It is possible to design mechanical futures-trading strategies which generate returns with the same, and often better, risk-return properties as hedge funds.*
+
+The trading strategies employed by some hedge funds are based on little more than glorified technical analysis within the framework of an overall capital management strategy.  To that extent, Kat’s results should not be entirely surprising.

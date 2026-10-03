@@ -1,0 +1,13 @@
+---
+title: "Two New Australian Academic Economist Blogs"
+date: "2006-02-21"
+categories: ["Economics"]
+---
+
+I have been remiss in not linking earlier to two new blogs by Australian academic economists: [Joshua Gans](http://coreecon.blogspot.com/ "Joshua Gans") and [Harry Clarke](http://kalimna.blogspot.com/ "Harry Clarke").  You can still count on one hand the number of Australian academic economists who blog (I would even exclude myself from the list, since I do not hold a full-time academic position).  This is in sharp contrast to the [economics faculty at George Mason University](http://www.gmu.edu/departments/economics/ "economics faculty at George Mason University"), most of whom seemingly engage in blogging in one form or another.  This is indicative of the fact that the GMU faculty are among the world’s most interesting academic economists. 
+
+[Gans](http://coreecon.blogspot.com/2006/02/itunes-index-for-exchange-rates.html "Gans") constructs a purchasing power parity index based on iTunes prices, which confirms what many Australian iTunes users probably already suspect:
+
+*apart from Canada, iTunes songs are priced at a premium in other music stores. This echoes my observations about the Australian iTunes music store in The Age (4th November, 2005) where I noted the substantially higher prices for all iTunes products (if they were available) in Australia as compared with the US.*
+
+It is amazing that for all the talk about globalisation, such price discrimination remains viable, exploiting simple things like the lack of effective cross-border markets in retail financial services.  Many of the things that are commonly assumed to be thoroughly globalised are anything but.

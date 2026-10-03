@@ -1,0 +1,15 @@
+---
+title: "Institutional Origins of Global Imbalances: Don’t Dump on the Anglo-American Model"
+date: "2005-05-02"
+categories: ["Economics"]
+---
+
+The argument that global imbalances are attributable to excess consumption in the Anglo-American economies is increasingly being discredited in US policy circles.  Ben Bernanke has already identified the role of forced saving in East Asia as a major driver of these imbalances.  [Glenn Hubbard](http://online.wsj.com/article/0,,SB111499906165721868,00.html?mod=opinion%5Fmain%5Fcommentaries "Glenn Hubbard") (free version [here](http://www.aei.org/publications/filter.all,pubID.22429/pub_detail.asp "here")) extends Bernanke’s global saving glut thesis, by considering the role of dysfunctional capital market institutions in the emerging economies as a key driver of forced saving:
+
+Key emerging-market economies like China need to absorb more of their domestic savings. Arithmetic makes a powerful case here. Last year, if reserves-rich emerging-market economies had run current account deficits equal to their inflows of foreign direct investment, the aggregate swing in their current account position would have eliminated much of the U.S. current account deficit. And given the spotlight now being cast on China, it is worth noting that such a shift for China alone would have offset about one-sixth of the U.S. current account deficits.
+
+But economics is more than arithmetic. To increase domestic spending in a way consistent with long-term growth, domestic financial systems must be able to allocate capital to its most valued use, improving consumers’ ability to borrow and the efficiency of business investment. Such capital-market efficiency cannot be taken for granted. Consider Japan’s decade-long struggle with nonperforming loans and its current battle over cross-border M&A and the privatization of the slumbering Japan Post. More to the present situation, consider China’s massive and mounting nonperforming loan problem, as state-owned enterprises devour credit better used by entrepreneurs.
+
+Herein lies a clue to the puzzle. If capital markets around the world matched the effectiveness of those in the U.S., one would expect capital to flow on balance from the U.S. and Europe to emerging economies like China. That flow, of course, is not materializing. In a recent economic study, Charles Himmelberg, Inessa Love and I found that weak institutions and capital-market imperfections in emerging economies can lead to very high costs of capital for productive investment at home. In this context, using American leadership to focus on exchange rates alone misses a bigger opportunity—to tackle the much larger need for financial reform that will permit imbalances to ease.
+
+Those who blame global imbalances on Anglo-American consumption are implicitly punishing a successful economic model and endorsing failed institutional arrangements in other parts of the world.  It is a sad fact that a large part of economics-oriented blogosphere is now heavily invested in this bankrupt view of the world.

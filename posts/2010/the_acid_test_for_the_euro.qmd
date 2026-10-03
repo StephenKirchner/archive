@@ -1,0 +1,11 @@
+---
+title: "The Acid Test for the Euro"
+date: "2010-05-18"
+categories: ["Economics", "Financial Markets", "Fiscal Policy"]
+---
+
+[John Cochrane](http://online.wsj.com/article/SB10001424052748703745904575248661121721980.html "John Cochrane") explains why the Greek bail-out tells you everything you need to know about the euro:
+
+> Greek bondholders are not being asked to miss a single interest payment, reschedule a cent of debt, suffer any write-down, take a forced rollover or conversion of short to long-term debt, or any of the other messy ways insolvent sovereigns deal with empty coffers. Those who bought credit default swaps lose once again…
+>
+> The only way to solve the underlying euro-zone fiscal mess (and our own) is to slash government spending and to focus on growth. Countries only pay off debts by growing out of them. And no, growth does not come from spending, especially on generous pensions and padded government payrolls. Greece’s spending over 50% of GDP did not result in robust growth and full coffers. At least the looming worldwide sovereign debt crisis is heaving “fiscal stimulus” on the ash heap of bad ideas.

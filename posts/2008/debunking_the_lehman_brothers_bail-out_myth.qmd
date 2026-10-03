@@ -1,0 +1,17 @@
+---
+title: "Debunking the Lehman Brothers Bailout Myth"
+date: "2008-12-15"
+categories: ["Economics", "Financial Markets"]
+---
+
+[John Taylor](http://www.stanford.edu/~johntayl/FCPR.pdf "John Taylor") debunks the myth that failing to bailout Lehman Brothers was responsible for the subsequent intensification of the global financial crisis:
+
+> Many commentators have argued that the reason for the worsening of the crisis was the decision by the U.S. government (more specifically the Treasury and the Federal Reserve) not to intervene to prevent the bankruptcy of Lehman Brothers over the weekend of September 13 and 14.
+>
+> The \[LIBOR-OIS\] spread moved a bit on September 15th, which is the Monday after the weekend decisions not to intervene in Lehman Brothers. It then bounced back down a little bit on September 16 around the time of the AIG intervention. While the spread did rise during the week following the Lehman Brothers decision, it was not far out of line with the events of the previous year.
+>
+> On Friday of that week the Treasury announced that it was going to propose a large rescue package, though the size and details weren’t there yet. Over the weekend the package was put together and on Tuesday September 23, Federal Reserve Board Chairman Ben Bernanke and Treasury Secretary Henry Paulson testified at the Senate Banking Committee about the TARP, saying that it would be \$700 billion in size. They provided a 2-1/2 page draft of legislation with no mention of oversight and few restrictions on the use. They were questioned intensely in this testimony and the reaction was quite negative, judging by the large volume of critical mail received by many members of the United States Congress. It was following this testimony that one really begins to see the crises deepening, as measured by the relentless upward movement in Libor-OIS spread for the next three weeks. Things steadily deteriorated and the spread went through the roof to 3.5 per cent.
+>
+> …identifying the decisions over the weekend of Sept 13 and 14 as the cause of the increased severity of the crisis is questionable. It was not until more than a week later that conditions deteriorated. Moreover, it is plausible that events around September 23 actually drove the market, including the realization by the public that the intervention plan had not been fully thought through and that conditions were much worse than many had been led to believe. At a minimum a great deal of uncertainty about what the government would do to aid financial institutions, and under what circumstances, was revealed and thereby added to business and investment decisions at that time. Such uncertainty would have driven up risk spreads in the interbank market and elsewhere.
+
+Taylor doesn’t say it, but his event study is also consistent with the view that it was irresponsible scare-mongering by the US authorities in support of the TARP legislation that was responsible for the subsequent blow-out in the LIBOR-OIS spread.

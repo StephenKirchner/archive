@@ -1,0 +1,17 @@
+---
+title: "The RBA Did Not Prick a ‘Housing Bubble’"
+date: "2010-09-24"
+categories: ["Economics", "House Prices", "Monetary Policy"]
+---
+
+The Reserve Bank of Australia has released a [research discussion paper](http://www.rba.gov.au/publications/rdp/2010/2010-06.html "research discussion paper") that is aimed at ‘describing the Australian experience of a cycle in house prices and credit from 2002 to 2004 and discussing the role played by various policies during this episode.’ This period is widely misunderstood and the RBA seeks to set the record straight by noting that:
+
+> *During the period, monetary policy continued to be set on the basis of medium-term prospects for inflation and output and the Bank was not targeting housing prices or credit growth.*
+
+Not that this will stop numerous observers, particularly from offshore, from continuing to maintain the contrary. The RBA’s approach during this episode is often used as a foil to support Fed-bashing of one kind or another. The fact is that the RBA’s approach was textbook inflation targeting, but one augmented by open mouth operations aimed at moderating growth in housing and credit markets, which the RBA then deemed to be experiencing speculative excess.
+
+Of course, the RBA has been understandably reluctant to offer too much by way of objection to the suggestion that Australia’s economic outperformance in recent years has been due to the deft handling of monetary and other policy instruments. The authors of the paper no doubt see the Australian experience as a successful episode of managing an asset price cycle and at least one of the authors, Chris Kent, has been a long-standing advocate of a more activist approach to managing innovations in asset prices.
+
+However, the paper’s review of the RBA’s past statements on housing and credit growth undermines the case for a more activist approach to asset prices. Any prospective home buyer or investor with a time horizon of more than a few years who actually heeded the RBA’s warnings would have almost certainly been left worse off in view of subsequent developments in the housing market. The RBA’s warnings about ‘overheating’ in the housing market during 2002-04 now look quaint in view of the chronic undersupply that has emerged in recent years. Indeed, it is frightening to contemplate what the current supply situation would look like in the absence of the boom in housing investment during this period. To the extent that the RBA successfully deterred housing investment during 2002-2004, it may have even contributed to the subsequent supply problems that have put upward pressure on rents, CPI inflation and house prices. The RBA can’t have it both ways. To complain about ‘overheating’ in 2002-2004 and then ‘serious supply-side constraints’ in 2009 suggests that the RBA’s jaw-boning efforts may well have been pro-cyclical.
+
+Milton Friedman showed the disastrous consequences of a central bank becoming an ‘arbiter of security speculation and value’. The RBA’s review of its own record suggests that it is no better at calling future developments in the housing market than anyone else. Statements such as ‘the very prominent role of investors in the housing market also suggested a strong speculative element’ (p. 24 of the RDP) belong in the mouths of politicians and taxi drivers and not central bankers.

@@ -1,0 +1,15 @@
+---
+title: "The RBA’s Inflation Forecast"
+date: "2007-02-12"
+categories: ["Economics", "Financial Markets"]
+---
+
+The RBA’s Statements on Monetary Policy have frequently been criticised on this blog, because up until now they have fallen well short of the detail that has come to be expected from inflation targeting central banks, not least the Bank of England and the RBNZ.  However, the RBA’s [February Statement](http://www.rba.gov.au/PublicationsAndResearch/StatementsOnMonetaryPolicy/statement_on_monetary_0207.html "February Statement") incorporates a significant improvement in the RBA’s presentation of its inflation forecast.
+
+Until now, the RBA has presented its inflation forecast in a very informal way.  For example, the RBA’s November Statement said little more than that ‘underlying inflation will remain at around 3% over the next year.’  By contrast, the February Statement now includes a table with point forecasts for both headline and underlying inflation for the years ended in June and December 2007, as well as an expected range for the years to June and December 2008.  The RBA has also defined what it means by underlying inflation: the average of RBA’s the trimmed mean and weighted median measures of the central tendency of inflation.
+
+This is a significant improvement in transparency on the part of the Bank.  The forecasts for inflation still suffer from not being fully endogenous.  It makes more sense for an inflation targeting central bank to forecast its own policy rate or to incorporate a market forecast for the policy rate and then base the inflation forecast on this projection.  Instead, the RBA still makes its inflation forecast on a ‘no policy change’ basis.  There are arguments for and against endogenising the inflation forecast, but the main argument for is that it makes it more explicit that inflation outcomes are not exogenous under an inflation targeting regime.  But at least now we have a much better insight into how the RBA’s thinking about inflation informs policy outcomes.
+
+Interbank futures are now giving no chance to an RBA tightening in March, although this probability rises to around 36% by August of this year.
+
+![](../../files/dailyratesChart-03.gif)

@@ -1,0 +1,11 @@
+---
+title: "Efficient Markets"
+date: "2007-04-28"
+categories: ["Economics", "Financial Markets"]
+---
+
+[James Hamilton’s](http://www.econbrowser.com/archives/2007/04/recession_proba_1.html "James Hamilton's") recession probability index: 16.9%.
+
+[Intrade’s](http://www.intrade.com/apply.jsp?heardFromPromotionDetail=s0545138709r "Intrade's") US 2007 recession contract implied probability: 15%.
+
+Who said prediction markets don’t reflect fundamentals?

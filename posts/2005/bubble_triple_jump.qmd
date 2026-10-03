@@ -1,0 +1,11 @@
+---
+title: "Bubble Triple Jump"
+date: "2005-08-11"
+categories: ["Economics"]
+---
+
+[Glenn Rudebusch](http://www.frbsf.org/publications/economics/letter/2005/el2005-18.html "Glenn Rudebusch") suggests a few hurdles that need to be satisfied before monetary policy responds to ‘bubbles:’
+
+The decision tree for choosing a Bubble Policy poses a daunting triple jump. For example, consider the run-up in the stock market in 1999 and 2000, when there was widespread suspicion that an equity price bubble existed and people worried that it could result in capital misallocation and financial instability. Still, those worries did not spur a Bubble Policy, in large part because it appeared unlikely that monetary policy could have deflated the equity price bubble without substantial costs to the economy. After the fact, of course, the macroeconomic consequences from the apparent boom and bust in equity prices arguably have been manageable.
+
+However, the decision tree does not provide a blanket prohibition on bubble reduction, and as yet, there is no bottom line on the appropriate policy response to asset price bubbles. Those who oppose a Bubble Policy stress the steep informational prerequisites for success, while those who favor it note that policymakers often must act on the basis of incomplete knowledge.\

@@ -1,0 +1,15 @@
+---
+title: "20 Million Future Funds"
+date: "2011-05-04"
+categories: ["Economics", "Financial Markets", "Fiscal Policy", "Politics"]
+---
+
+I think it was my colleague [Peter Saunders who first coined the phrase 20 million Future Funds](http://www.cis.org.au/publications/issue-analysis/article/832-twenty-million-future-funds) in arguing that the Howard government should make one off contributions to individuals’ superannuation accounts rather than hoard revenue in the Future Fund.
+
+The government has adopted the same tag line in arguing for an increase in the rate of compulsory superannuation contributions, although these contributions necessarily come at the expense of the supposed beneficiaries through lower take-home wages, fewer hours worked and reduced employment. Compulsory super promotes dissaving through other saving vehicles and only succeeds in raising net household wealth to the extent that some households are liquidity constrained and cannot dissave through other mechanisms to offset the compulsory contributions.
+
+[Bill Shorten](http://www.theaustralian.com.au/national-affairs/commentary/superannuation-is-our-sovereign-wealth-fund/story-e6frgd0x-1226049423098) is suggesting there is some kind of trade-off between an increase in the compulsory super contribution rate and a sovereign wealth fund. While this is absurd, it does provide Shorten with an opportunity to highlight the philosophical weakness of the federal opposition:
+
+> *Turnbull’s sovereign wealth fund advocacy is inconsistent with his free market philosophy. A sovereign wealth fund would see the state play a role that Labor now sees being performed by the private sector. The importance of our superannuation savings during the GFC was evidence of how it acts as a bulwark. Since the last election, however, we have seen the Liberals move further away from their free-market credentials. It was evident in Joe Hockey’s overly regulatory approach to mortgage lending rates. And it’s evident in Tony Abbott’s Soviet style centrally controlled \$10bn direct action policy on climate change. The philosophical contractions colliding within the Liberals may seem soft now, but watch it grow in the months ahead. Meanwhile, I’d rather trust thousands of trustees across thousands of super funds to invest and manage billions of dollars rather than government insiders in Canberra picking winners.*
+
+In this context, it is worth noting that the [Future Fund](http://www.bloomberg.com/news/2011-05-02/australia-wealth-fund-dumps-cluster-bomb-mine-makers-on-treaty.html) has divested itself of two of its three biggest defence holdings, Lockheed Martin Corp. (LMT) and General Dynamics Corp. (GD) because they are supposedly engaged in mines and cluster munitions, even though Australia has yet to ratify the relevant convention and the Fund is notionally free from political direction from Canberra. Clearly the Fund is looking over its shoulder at what politicians are doing in making investment decisions.

@@ -1,0 +1,23 @@
+---
+title: "Robert Shiller on Australia’s House Price ‘Bubble’"
+date: "2005-06-03"
+categories: ["Economics"]
+---
+
+[Robert Shiller](http://online.wsj.com/article/0,,SB111766233843548579,00.html?mod=opinion%5Fmain%5Fcommentaries "Robert Shiller") has an op-ed in the *WSJ* that attempts to use Sydney as an example of a house price ‘bubble’ gone bust:
+
+*Real home prices in Sydney, Australia, rose 12.8% in 2003 and then dropped 2.5% in 2004, a pretty sharp bursting of their bubble.*
+
+The Q1 data released today actually show an even larger fall in real terms of 5.8% y/y (-3.4% y/y in nominal terms).  But if a 2.5% fall in real terms following double-digit growth rates is enough to satisfy the definition of a ‘burst bubble,’ then this is in fact a fairly routine occurrence for Sydney.  This is just another way of saying that real house prices cycle and any given boom needs to be interpreted with reference to the cycle as a whole, not taken out of context.  Much of the run-up in Sydney house prices in recent years is arguably compensation for previous cyclical weakness, in which house price growth was well below trend.  Since Shiller’s [Irrational Exuberance](http://www.institutional-economics.com/index.php/section/irrational_exuberance_by_robert_shiller/ "Irrational Exuberance") was little more than an argument in favour of mean reversion in stock prices, none of this should be surprising to him. 
+
+Shiller is nonetheless right to suggest that Sydney provides an example of how house price inflation might end: benignly.  None of the doomsday scenarios based on an end to house price inflation have been realised (many of these forecasts were just publicity seeking exercises by economic consultancies).  Sure, the economy has slowed on some measures, but there is an important issue of causality here.  As I have [argued previously](../2005/myth_busting_the_house_price_bubble.qmd "argued previously"), Sydney real house prices have at best a contemporaneous and often a lagging relationship with economic activity. 
+
+As always, ‘bubble’ talk is just a distraction from fundamentals.  If Shiller had done a search for stories about fundamentals rather than bubbles, he would have come up with no end of stories like [this](http://www.smh.com.au/news/National/The-flats-that-cannot-be-stopped/2005/06/02/1117568321768.html "this"):
+
+*Sydney will need to squeeze in 7000 extra apartment blocks to house the million-plus new people expected by 2030…*
+
+**UPDATE:** Alan Wood is also unimpressed by the claim that a 2.5% decline in real terms constitutes a burst bubble (no link):
+
+*Really?  Australia’s house prices more than doubled in real terms, and a fall back of 2.5% isn’t that nasty, although it may be having some effect on household spending.*
+
+There have in fact been no less than 10 quarters since Q2 1987 in which Sydney house prices fell by more than 2.5% y/y in real terms, although this probably says as much about consumer price inflation as it does about house prices.

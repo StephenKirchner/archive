@@ -1,0 +1,13 @@
+---
+title: "Australian Investment Aboard and the Current Account"
+date: "2006-05-01"
+categories: ["Economics"]
+---
+
+An article in the most recent [RBA Bulletin](http://www.rba.gov.au/PublicationsAndResearch/Bulletin/bu_apr06/growth_aus_foreign_assets_liabilities.html "RBA Bulletin") discusses the implications of a trend we have highlighted on this blog many times before: the growing stock of Australian investment abroad, particularly direct investment capital.  Australia’s stock of foreign assets is growing faster than its stock of foreign liabilities.  As the article notes:
+
+Australia’s external assets are relatively skewed towards equities while liabilities are more skewed towards debt. As such, the valuation gains on assets in absolute terms on average exceed those on liabilities. One corollary of this is that the official measure of the current account deficit probably overstates the true ‘economic’ deficit, since the valuation gains are part of the overall return on foreign assets, but are not measured in the current account which includes only income flows…
+
+In Australia’s case, if we were to treat the net valuation gains on foreign assets as all being part of the ‘income’ from these investments and include them in the current account, the current account deficit would have been on average about 0.3 percentage points of GDP per year lower than was actually recorded over the 15-year period.
+
+The article also examines the implications of hedging for the change in Australia’s net foreign liabilities as a result of an exchange rate depreciation.  The results make a nonsense of [Nouriel Roubini’s](http://www.rgemonitor.com/blog/roubini/122420 "Nouriel Roubini’s") recent forecast of a currency and financial crisis in the dollar bloc periphery.

@@ -1,0 +1,21 @@
+---
+title: "When a Nork Missile Launch is Not a Nork Missile Launch"
+date: "2006-07-10"
+categories: ["Economics", "Financial Markets"]
+---
+
+Can a prediction market fail to predict even the past?  One of the more vexed issues for prediction markets is defining the terms of their contracts.  Intrade’s North Korean missile launch contract has continued to trade, because the US DoD has not officially confirmed that the missiles left North Korean airspace (12 nautical miles from the coast), as per the terms of the contract.  [NorCom](http://www.northcom.mil/newsroom/news_release/2006/070506.htm "NorCom") will only say the missiles landed in the Sea of Japan.
+
+In absence of such confirmation, Intrade will expire the contract at zero, even if more missiles are launched.  The price action in the contract thus probably tells us more about the confusion over the terms of the contract and the willingness of the DoD to divulge additional information than it does about the prospects for missile launches.  It also provides a nice illustration of the role of asymmetrical information in markets, given the willingness of some to short the contract in the immediate aftermath of the missile launches, with volume exceeding what would be expected from the squaring up of long positions placed in advance of the launches.  See the discussion at the [TEN Forum](http://forum.tradesports.com/eve/forums/a/tpc/f/859603632/m/4591099271 "TEN Forum") (via [Chris Masse](http://www.chrisfmasse.com/3/3/news/2006/07/#North_Korea_missile_launch:_TradeSports "Chris Masse")).
+
+**UPDATE (17 July):**  More on the North Korean missile launch that wasn’t, from [Intrade](http://www.intrade.com/apply.jsp?heardFromPromotionDetail=s0545138709r "Intrade"):
+
+> Dublin, July 17, 2006: North Korea Missile Test Exchange News Update
+>
+> The Exchange confirms that it has sought direct confirmation from the US Department of Defense regarding the above contract.
+>
+> As of today’s date no such confirmation has been received.
+>
+> As is standard operating procedure to ensure orderly operation and expiry of all markets, the Exchange is and will remain proactive in looking for verifiable settlement related information from the relevant authority.
+>
+> The Exchange will not use third party non-verifiable confirmations for settlement of any contract.

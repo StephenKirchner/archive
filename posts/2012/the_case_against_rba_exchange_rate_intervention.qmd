@@ -1,0 +1,35 @@
+---
+title: "The Case Against RBA Exchange Rate Intervention"
+date: "2012-08-13"
+categories: ["Economics", "Financial Markets"]
+---
+
+I have an op-ed in today’s [Business Spectator](http://www.businessspectator.com.au/bs.nsf/Article/australian-dollar-rba-interest-rates-monetary-poli-pd20120810-X27G6) making the case against RBA intervention in the foreign exchange market. Text below the fold for those who are not registered.
+
+There have been calls for the Reserve Bank to intervene in the foreign exchange market to counter an appreciation in the Australian dollar thought to be driven by safe-haven and foreign central bank buying. Yet it is far from clear that this has led to a misalignment in Australia’s exchange rate.  Intervention is also unlikely to be effective unless backed by changes in monetary policy.
+
+The Reserve Bank has long argued that it does not intervene in the foreign exchange market to influence the level of the exchange rate. Intervention is reserved for those occasions when the market is seen to be temporarily one-sided and ‘disorderly.’
+
+There is debate about the effectiveness of central bank intervention in foreign exchange markets under an otherwise floating exchange rate regime. The Reserve Bank’s own research suggests intervention of the order of \$A100 million can shift the exchange rate by a little over one percent against the US dollar in the very short-run, but the persistence of this effect is harder to determine.
+
+An obvious problem is that turnover in the foreign exchange market is very large relative to central bank reserves and intervention operations. Daily turnover in the spot market against the Australian dollar is around \$A21 billion and several times that in derivative and other markets.
+
+If we have reason to question whether central bank intervention has persistent effects on the exchange rate, then we also have reason to question whether foreign central bank portfolio purchases also have persistent effects.
+
+The Australian dollar has also benefited from ‘safe-haven’ buying from non-official sources. But this is arguably an affirmation of our economic fundamentals rather than giving rise to a currency misalignment.\
+\
+Until recently, the Australian dollar was unfairly perceived as a ‘risky’ currency due to our relatively large current account deficit, net international investment position and exposure to commodity prices.
+
+However, the current account deficit is arguably a symptom of economic strength, not weakness. Australia has investment and growth opportunities that exceed domestic saving, leading to capital inflows.  The Australian government also has a relatively sound fiscal position, even if this has more to do with fiscal irresponsibility abroad than responsibility at home.
+
+In most contexts, it would be seen as a good thing for the economy that our fundamentals are now better appreciated by international investors.
+
+It is widely acknowledged that the persistent effect from intervention in the foreign exchange market comes through signalling the central bank’s current and future monetary policy stance. Intervention operations to smooth the exchange rate are usually conducted independently of monetary policy. But if the aim is to shift the exchange rate on a more lasting basis, intervention needs to work with monetary policy, not against it.
+
+The RBA’s recent statements suggest that it is satisfied with the current stance of monetary policy and has an open-mind on future changes in the official cash rate. Intervention in the foreign exchange market to sell the Australian dollar would get little support from monetary policy while this remains the case.
+
+The Swiss National Bank has intervened heavily to curb appreciation in its currency, but this is best viewed as a continuation of monetary policy by other means in an environment in which nominal interest rates are near zero.
+
+In 2007, the Reserve Bank of New Zealand tried to sell the New Zealand dollar at the same time it was tightening monetary policy, taking its official cash rate above 8%. Walter Bagehot said in relation to capital inflows that ‘eight percent will bring gold from the moon.’ Exchange rate policy was working at cross-purposes with monetary policy. The RBNZ Governor was trying to talk down the New Zealand dollar one the one hand, while adding to capital inflows on the other. Rather than simplifying the task of setting the official cash rate, foreign exchange market intervention rendered central bank policy incoherent.
+
+The Reserve Bank of Australia already takes the economic implications of the exchange rate into account when setting the official cash rate. A higher exchange rate should allow for a lower official cash rate, all else being equal. The official cash rate is the more appropriate instrument to address concerns about a high Australian dollar leading to excessively tight monetary conditions.

@@ -1,0 +1,17 @@
+---
+title: "RBNZ Monetary Policy Now Formally at War with Itself"
+date: "2007-06-11"
+categories: ["Economics", "Financial Markets"]
+---
+
+The Reserve Bank of New Zealand today went from the sublime to the ridiculous, [intervening in foreign exchange markets](http://www.rbnz.govt.nz/news/2007/3036605.html "intervening in foreign exchange markets") to sell the NZ dollar.  On Friday, NZD-USD reached its highest level since May 1982 at 0.7640, following last week’s decision by the RBNZ to raise official interest rates to 8.00%. RBNZ Governor Bollard said that:
+
+> *As stated in our June Monetary Policy Statement, we regard current levels of the exchange rate as exceptional and unjustified in terms of the economic fundamentals.  This action does not prejudge the future direction of monetary policy, which as always will remain dependent on emerging economic trends.  The action is consistent with clause 4(b) of the Policy Targets Agreement, which requires monetary policy to avoid unnecessary instability in the exchange rate.*
+
+The claim that the NZD is over-valued in the current environment only makes sense if one believes that there is a much broader misalignment in multilateral exchange rates.  The NZD’s dollar bloc peers, the Australian and Canadian dollars, are also making 18 and 30-year highs respectively.  The NZD is in fact responding to fundamentals largely of the RBNZ’s own making.  The exchange rate is “exceptional by historical standards” because the RBNZ’s official cash rate is also at record highs and threatens to go higher. 
+
+RBNZ monetary and exchange rate policy are now formally working at cross-purposes, with the RBNZ raising interest rates on the one hand, while seeking to offset the implications of higher interest rates through intervention in foreign exchange markets on the other. 
+
+The RBNZ has historically taken a laissez-faire approach to the exchange rate.  But after Bollard became Governor, he sought a re-capitalisation of the Bank to facilitate intervention in foreign exchange markets.  So far, the intervention has been a failure, with NZD-USD still holding above levels that prevailed before last week’s tightening.  This is despite the intervention being timed to capitalise on thin market conditions brought about by a public holiday in Australia.  While there is no technical limit on the ability of a central bank to weaken its own currency, this is only possible when monetary and exchange rate policy work together.  When monetary and exchange rate policy are at cross-purposes, it is monetary policy that invariably wins. 
+
+Far from reducing volatility in the exchange rate, RBNZ intervention in the foreign exchange market will only serve to increase it.  In recent years, NZ monetary policy has become increasingly incoherent.  The RBNZ’s Statements on Monetary Policy, once a model for central banks around the world, increasingly have an Alice in Wonderland quality, with the RBNZ making key operating assumptions about the exchange rate and its relationship with monetary policy that simply have no credibility.

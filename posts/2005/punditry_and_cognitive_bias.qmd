@@ -1,0 +1,11 @@
+---
+title: "Punditry and Cognitive Bias"
+date: "2005-12-11"
+categories: ["Economics"]
+---
+
+A [review](http://www.newyorker.com/critics/books/articles/051205crbo_books1 "review") of Philip Tetlock’s [Expert Political Judgment : How Good is It? How Can We Know?](http://www.amazon.com/gp/product/0691123020/ref=ase_institutional-20/103-9088557-6962240?s=books&v=glance&n=283155&tagActionCode=institutional-20 "Expert Political Judgment : How Good is It? How Can We Know?")
+
+people who appear as experts on television, get quoted in newspaper articles, advise governments and businesses, and participate in punditry roundtables—are no better than the rest of us. When they’re wrong, they’re rarely held accountable, and they rarely admit it, either…They have the same repertoire of self-justifications that everyone has, and are no more inclined than anyone else to revise their beliefs about the way the world works, or ought to work, just because they made a mistake…
+
+the better known and more frequently quoted they are, the less reliable their guesses about the future are likely to be. The accuracy of an expert’s predictions actually has an inverse relationship to his or her self-confidence, renown, and, beyond a certain point, depth of knowledge. People who follow current events by reading the papers and newsmagazines regularly can guess what is likely to happen about as accurately as the specialists whom the papers quote. Our system of expertise is completely inside out: it rewards bad judgments over good ones.

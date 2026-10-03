@@ -1,0 +1,13 @@
+---
+title: "Greg Mankiw versus Ken Henry on the Role of Economists in Public Policy"
+date: "2010-07-24"
+categories: ["Economics", "Fiscal Policy"]
+---
+
+The following observation by [Greg Mankiw](http://nationalaffairs.com/publications/detail/crisis-economics "Greg Mankiw") could have been written in response to [Ken Henry’s](../2010/the_economic_consensus_we_could_do_without.qmd "Ken Henry’s") recent lament about the role of economists in public policy:
+
+> economists are social scientists, not politicians. And whether they work for the government or have the luxury of merely observing the scene from an ivory tower, the integrity of the profession and the importance of the work involved demand that they be subjected to critical judgment; they must be compelled always to submit their assumptions, data, models, and conclusions to careful scrutiny. The foremost job of economists is not to make the lives of politicians easier, but to think through problems, to examine all the available information about the problems’ causes and potential treatments, and to propose the solutions most likely to work.
+>
+> This is a simple point, but one that is easy to forget. As Milton Friedman once put it: “The role of the economist in discussions of public policy seems to me to be to prescribe what should be done in light of what can be done, politics aside, and not to predict what is ‘politically feasible’ and then to recommend it.”
+>
+> In a time of economic uncertainty and political turmoil, we economists — both in and out of government — could hardly do better than to follow Friedman’s sage advice.

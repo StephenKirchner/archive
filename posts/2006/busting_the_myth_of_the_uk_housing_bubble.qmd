@@ -1,0 +1,15 @@
+---
+title: "Busting the Myth of the UK Housing ‘Bubble’"
+date: "2006-03-07"
+categories: ["Economics"]
+---
+
+A reader has pointed me in the direction of this speech by the BoE MPC’s [Stephen Nickell](http://www.bankofengland.co.uk/publications/speeches/2005/speech255.pdf "Stephen Nickell"), which is a thorough de-bunking of the myths in relation to the role of housing and household debt in the UK economy.  This piece is remarkable because of its very close fit with the arguments I have been running on the same issues in the Australian context.  Nickell summarises his argument as follows:
+
+*there has not been a spending boom, the non-spending boom was not credit-fuelled and there has probably not been a house price bubble…what we have seen is first, the average quarterly growth rate of real consumption over the period 2000-2003 has been almost exactly equal to the average growth rate over the last twenty five years, so there was no consumption boom.  Second, from 1998 to 2003 the proportion of their post-tax income which has been consumed by households has been stable, despite the fact that mortgage equity withdrawal plus unsecured credit has grown from 2 per cent of post-tax income to nearly 10 per cent of post-tax income over the same period. Third, these two apparently inconsistent facts are reconciled by the fact that since 1998, the increasing rate of accumulation of debt by households has been closely matched by the increasing rate of accumulation of financial assets. Furthermore, this is not an accident. There are good reasons why aggregate secured debt accumulation and aggregate financial asset accumulation might be related, particularly in a period of rapidly rising house prices. Finally, therefore, there is no strong relationship between aggregate consumption growth and aggregate debt accumulation.*
+
+Nickell also presents an inventory of busted house price predictions for the UK.  The point of this is not to make fun of other people’s failed forecasts (as I am sometimes accused of doing). As Nickell notes, the serious point is that:
+
+*commentators (either implicitly or explicitly) disagreed significantly on the long-run equilibrium level of house prices, on where house prices were heading and on the extent to which there was a misalignment or bubble.*
+
+In other words, the ‘bubble’ identification problem is so serious as to render the notion of a ‘bubble’ useless as a framework for analysis.

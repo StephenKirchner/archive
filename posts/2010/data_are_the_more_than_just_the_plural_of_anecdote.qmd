@@ -1,0 +1,29 @@
+---
+title: "Data are the More than Just the Plural of Anecdote"
+date: "2010-04-12"
+categories: ["Economics", "Foreign Investment", "House Prices"]
+---
+
+The debate over foreign investment in Australian property is being fuelled by anecdote rather than data, largely because the available data on the subject is so limited.  In today’s Australian, [Natasha Bita](http://www.theaustralian.com.au/news/features/foreign-men-of-property-move-in/story-e6frg6z6-1225852467604 "Natasha Bita") reports her experiences trying to extract information from the FIRB (an all too [familiar story](http://www.theaustralian.com.au/news/opinion/more-inscrutable-than-the-chinese/story-e6frg6zo-1225831954203 "familiar story")):
+
+> The Australian provided the FIRB with a list of questions, including whether it is monitoring the impact on the property market of its relaxed rules, which richocheted for three days between FIRB and the Treasury.
+>
+> Eventually, a spokesman for Sherry failed to say if, or how, the impact was being monitored.
+>
+> A request for a copy of FIRB’s advice to Treasury to change the foreign investment rules also was ignored.
+>
+> Asked to provide up-to-date data on the sale of residential property to foreigners and temporary residents, the minister’s spokesman replied: “FIRB approvals for temporary residents to buy established houses as a percentage of the total number of transfers of established housing that occurred in the eight capital cities were at a level of approximately between 1.5 per cent and 2 per cent in recent times. Data are not available after 31 March 2009 given that temporary residents were exempted from FIRB notification requirements.”
+>
+> Even the Reserve Bank, which claims to be monitoring the situation, is having trouble getting any meaningful data from FIRB.
+>
+> Its only analysis is a two-page internal briefing note, based on statistics from FIRB’s 2007-08 annual report and temporary resident numbers.
+>
+> “For analysis you would try to get hard data on this but there is in fact no hard data,” the Reserve Bank’s head of domestic markets, John Broadbent, says.
+>
+> “The Treasury were the ones who decided to cease collecting some of the data sets on the basis they were looking to reduce the administrative burden.”
+>
+> Broadbent says an analysis of “older data” from the FIRB shows the share of foreign buyers of residential properties has risen from 0.4 per cent of properties in the late 90s to 1 per cent in 2008.
+
+This is a very good illustration of how the FIRB’s lack of transparency undermines support for foreign investment in Australia.  The publication of more detailed and timely data on the subject would go a long way to dispelling popular fears about foreign investment.  That said, I also have some sympathy for the Treasury position.  It is unrealistic to expect FIRB to monitor and enforce compliance with the rules in relation to thousands of property transactions.  Indeed, it is doubtful whether FIRB even has the resources to monitor compliance with the many conditions it has been piling on to some of the more high profile cross-border M&A transactions.  The government’s appetite for regulation in this area greatly exceeds its administrative capacity.  Much of the liberalisation of foreign investment rules undertaken by the Rudd government has been an attempt to ease the administrative burden on the FIRB.
+
+If the anecdotes are to be believed, then the liberalisation of foreign investment rules in relation to property has been a success.  If there is a policy failure, it is in the inability of the supply-side of the market to respond flexibly to both foreign and domestic demand.  The danger now is that the government implements another of its short-term political fixes ahead of this year’s federal election and re-tightens the rules rather than addressing the supply-side constraints besetting Australian residential property.

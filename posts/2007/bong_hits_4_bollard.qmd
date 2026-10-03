@@ -1,0 +1,21 @@
+---
+title: "Bong Hits 4 Bollard"
+date: "2007-06-27"
+categories: ["Economics", "Financial Markets"]
+---
+
+The RBNZ has issued an [op-ed style article](http://www.rbnz.govt.nz/speeches/3049397.html "op-ed style article") designed to explain its intervention in foreign exchange markets.  The article signals a departure from the RBNZ’s usual standards of openness and transparency, stating that:
+
+> *Foreign exchange intervention is an ongoing process and the Bank will not be commenting publicly on its specific intervention activities.*
+
+Instead, analysts will have to rely on the RBNZ’s financial accounts to infer the scale of intervention.  This lack of transparency from the RBNZ is counter-productive, since the Bank is denying itself the benefit of an announcement effect when it intervenes.  Since the first intervention on June 11, market participants have only been guessing at whether the RBNZ is in the market.  For example, the RBNZ was rumoured to be selling in New York trade last Friday, although you would be hard pressed to discern this from the price action in NZD.
+
+The statement argues that:
+
+> *Intervention operates at the margin, affecting the balance of demand and supply for the New Zealand dollar. It can have an immediate downward impact on the exchange rate as it did on 11 June. That can help to moderate the ‘peaks’ in the exchange and the length of time we spend at peak levels. It does not attempt to defend a particular level of the exchange rate. Rather it sends a signal that, in the Bank’s view, the exchange rate is out of alignment with the economic fundamentals. Those speculating in the New Zealand dollar need to be aware that the exchange rate is not a one-way bet; they need to be cautious.*
+
+The statement neglects to mention that both NZD-USD and the NZD TWI are now significantly higher than they were when the RBNZ first intervened on June 11.  The ‘immediate downside impact’ is proving very short-lived.  Adding another seller to what is a reasonably deep and liquid market does not significantly change the price dynamics for the NZD.  Most traders see RBNZ intervention as an opportunity to get set at better levels rather than a significant downside risk to the currency.
+
+The RBNZ is correct in noting that RBNZ intervention is not constrained by its ability to supply New Zealand dollars, contrary to media reports that erroneously suggested that the RBNZ’s foreign exchange reserves are a constraint.  But RBNZ intervention is effectively constrained by the current stance of monetary policy.  The RBNZ has sought to argue that intervention is both independent from, but complementary with, monetary policy.  But it should be obvious that the RBNZ’s intervention to sell the NZD is at cross purposes with the current stance of monetary policy.
+
+Walter Bagehot once said in relation to capital inflows that ‘eight percent will bring gold from the moon.’  With an official cash rate of 8.00% and threatening to go higher, the RBNZ will face an uphill battle containing further NZD appreciation through intervention.
